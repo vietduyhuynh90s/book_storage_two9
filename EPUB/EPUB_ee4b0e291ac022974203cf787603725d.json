@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nha-vang-ngoi-bac_20134.html",
+    "title" : "Nhà Vàng Ngói Bạc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Văn Phú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 9387,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ee4b0e291ac022974203cf787603725d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ee4b0e291ac022974203cf787603725d.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1620,
+    "title" : "NHA VANG NGOI BAC 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1842,
+    "title" : "NHA VANG NGOI BAC 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "NHA VANG NGOI BAC 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2023,
+    "title" : "NHA VANG NGOI BAC 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1572,
+    "title" : "NHA VANG NGOI BAC 05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_01.mp3",
+    "title" : "NHA VANG NGOI BAC 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_02.mp3",
+    "title" : "NHA VANG NGOI BAC 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_03.mp3",
+    "title" : "NHA VANG NGOI BAC 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_04.mp3",
+    "title" : "NHA VANG NGOI BAC 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-vang-ngoi-bac.sna/NHA_VANG_NGOI_BAC_05.mp3",
+    "title" : "NHA VANG NGOI BAC 05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

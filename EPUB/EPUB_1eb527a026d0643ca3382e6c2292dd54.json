@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhat-ky-cuoi-cung_20119.html",
+    "title" : "Nhật Ký Cuối Cùng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jiddu Krishnamurti",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 20853,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1eb527a026d0643ca3382e6c2292dd54.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1eb527a026d0643ca3382e6c2292dd54.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2190,
+    "title" : "nhat-ky- 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2400,
+    "title" : "nhat-ky- 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1440,
+    "title" : "nhat-ky- 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1500,
+    "title" : "nhat-ky- 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "nhat-ky- 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1707,
+    "title" : "nhat-ky- 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "nhat-ky- 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2106,
+    "title" : "nhat-ky- 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "nhat-ky- 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1980,
+    "title" : "nhat-ky- 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1980,
+    "title" : "nhat-ky- 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%201.mp3",
+    "title" : "nhat-ky- 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%2010.mp3",
+    "title" : "nhat-ky- 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%2011.mp3",
+    "title" : "nhat-ky- 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%202.mp3",
+    "title" : "nhat-ky- 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%203.mp3",
+    "title" : "nhat-ky- 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%204.mp3",
+    "title" : "nhat-ky- 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%205.mp3",
+    "title" : "nhat-ky- 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%206.mp3",
+    "title" : "nhat-ky- 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%207.mp3",
+    "title" : "nhat-ky- 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%208.mp3",
+    "title" : "nhat-ky- 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-10/nhat-ky-%209.mp3",
+    "title" : "nhat-ky- 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
