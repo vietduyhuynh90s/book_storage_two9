@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-ma-cam-tap-1-ma-khoc-duoi-ho-tien-don-thien-ha-ba-xuong-kinh-di_3474.html",
+    "title" : "Ma Câm tập 1: Ma khóc dưới hồ Tiên Đôn - Thiên Hạ Bá Xướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 49964,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_945362b46cc9a32248526e7173962e59.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_945362b46cc9a32248526e7173962e59.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2072,
+    "title" : "Ma khóc dưới hồ Tiên đôn #1: Chuyện kể về chợ Âm Phủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "Ma khóc dưới hồ Tiên đôn #10: Bức tượng phật thần bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2087,
+    "title" : "Ma khóc dưới hồ Tiên đôn #11: Cá khổng lồ trong lòng đất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3374,
+    "title" : "Ma khóc dưới hồ Tiên đôn #12: Thành cổ dưới đáy hồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2465,
+    "title" : "Ma khóc dưới hồ Tiên đôn #13: Chuyện Ma trong núi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2479,
+    "title" : "Ma khóc dưới hồ Tiên đôn #14: Bảo điện dưới âm ti",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "Ma khóc dưới hồ Tiên đôn #15: Quan ngọc tượng vàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "Ma khóc dưới hồ Tiên đôn #16: Hồn ma trong chiếc gương đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "Ma khóc dưới hồ Tiên đôn #17: Tầm Na chí dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "Ma khóc dưới hồ Tiên đôn #18: Chiếc đèn lồng đầu người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2322,
+    "title" : "Ma khóc dưới hồ Tiên đôn #19: Thần sống chuyển thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "Ma khóc dưới hồ Tiên đôn #2: Bức bì họa ăn thịt người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "Ma khóc dưới hồ Tiên đôn #20 - Kết: Mở ra thế giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 808,
+    "title" : "Ma khóc dưới hồ Tiên đôn #3: Ác mộng ngàn năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1233,
+    "title" : "Ma khóc dưới hồ Tiên đôn #4: Thông thiên Hoàng tuyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "Ma khóc dưới hồ Tiên đôn #5: Cuộc kỳ ngộ ở Ô Thử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "Ma khóc dưới hồ Tiên đôn #6: Thiên ngoại phi tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "Ma khóc dưới hồ Tiên đôn #7: Rồng đất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "Ma khóc dưới hồ Tiên đôn #8: Mộ cổ thành Lạc Dương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4400,
+    "title" : "Ma khóc dưới hồ Tiên đôn #9: Thủy Quái Sông Hoàng Hà",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/1.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #1: Chuyện kể về chợ Âm Phủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/10.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #10: Bức tượng phật thần bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/11.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #11: Cá khổng lồ trong lòng đất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/12.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #12: Thành cổ dưới đáy hồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/13.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #13: Chuyện Ma trong núi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/14.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #14: Bảo điện dưới âm ti",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/15.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #15: Quan ngọc tượng vàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/16.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #16: Hồn ma trong chiếc gương đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/17.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #17: Tầm Na chí dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/18.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #18: Chiếc đèn lồng đầu người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/19.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #19: Thần sống chuyển thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/2.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #2: Bức bì họa ăn thịt người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/20.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #20 - Kết: Mở ra thế giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/3.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #3: Ác mộng ngàn năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/4.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #4: Thông thiên Hoàng tuyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/5.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #5: Cuộc kỳ ngộ ở Ô Thử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/6.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #6: Thiên ngoại phi tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/7.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #7: Rồng đất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/8.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #8: Mộ cổ thành Lạc Dương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma_khoc_duoi_ho_tien_don/9.mp3",
+    "title" : "Ma khóc dưới hồ Tiên đôn #9: Thủy Quái Sông Hoàng Hà",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

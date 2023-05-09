@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hai-thuong-phon-hoa-phi-nga-tu-ton_10005.html",
+    "title" : "Hải Thượng Phồn Hoa - Phỉ Ngã Tư Tồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phỉ Ngã Tư Tồn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38721,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_fa92ff8182ef774f9fc357fd0c2c7da1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_fa92ff8182ef774f9fc357fd0c2c7da1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 173,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình ngược",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4730,
+    "title" : "Phỉ Ngã Tư Tồn - Ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình ngược",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình hiện đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4105,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4162,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3694,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3513,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình đô thị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3774,
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình ngược",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3862,
+    "title" : "Phỉ Ngã Tư Tồn - Ngôn tình, đô thị",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/1.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình ngược",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/10.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/11.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/2.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình ngược",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/3.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình hiện đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/4.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/5.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/6.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/7.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình đô thị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/8.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Audio ngôn tình ngược",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_htph/9.mp3",
+    "title" : "Phỉ Ngã Tư Tồn - Ngôn tình, đô thị",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuop-lay-ban-tay-vang-cua-vai-chinh_15275.html",
+    "title" : "Cướp Lấy Bàn Tay Vàng Của Vai Chính",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Bì",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22472,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_781732ea94e6b81ab3529f500b9c4f68.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_781732ea94e6b81ab3529f500b9c4f68.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4666,
+    "title" : "Xuyên nhanh| Vượt qua nữ chính, cướp lấy bàn tay vàng|Truyện ngôn tình xuyên không hệ thống siêu hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4001,
+    "title" : "[P2] Vượt qua nữ chính, cướp lấy bàn tay vàng|Truyện ngôn tình xuyên không, xuyên nhanh hệ thống hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4339,
+    "title" : "[P3] Vượt qua nữ chính, cướp lấy bàn tay vàng| Truyện ngôn tình xuyên không, trọng sinh hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4517,
+    "title" : "[P4] Xuyên vào không gian, luyện công pháp thần cấp|Truyện ngôn tình xuyên nhanh, trọng sinh cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4949,
+    "title" : "TẬP CUỐI CỰC HAY| VƯỢT QUA NỮ CHÍNH CƯỚP LẤY BÀN TAY VÀNG| TRUYỆN NGÔN TÌNH XUYÊN KHÔNG CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/1.mp3",
+    "title" : "Xuyên nhanh| Vượt qua nữ chính, cướp lấy bàn tay vàng|Truyện ngôn tình xuyên không hệ thống siêu hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/2.mp3",
+    "title" : "[P2] Vượt qua nữ chính, cướp lấy bàn tay vàng|Truyện ngôn tình xuyên không, xuyên nhanh hệ thống hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/3.mp3",
+    "title" : "[P3] Vượt qua nữ chính, cướp lấy bàn tay vàng| Truyện ngôn tình xuyên không, trọng sinh hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/4.mp3",
+    "title" : "[P4] Xuyên vào không gian, luyện công pháp thần cấp|Truyện ngôn tình xuyên nhanh, trọng sinh cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuop-lay-ban-tay-vang-cua-vai-chinh/5.mp3",
+    "title" : "TẬP CUỐI CỰC HAY| VƯỢT QUA NỮ CHÍNH CƯỚP LẤY BÀN TAY VÀNG| TRUYỆN NGÔN TÌNH XUYÊN KHÔNG CỰC HAY",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/boc-me-nhung-cai-co-cua-dan-ong_14850.html",
+    "title" : "Bóc Mẽ Những Cái Cớ Của Đàn Ông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Liz Tuccillo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16749,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7311a4b5209e3896f4b5a51b9660a6fd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7311a4b5209e3896f4b5a51b9660a6fd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bmncccdo/B%C3%B3c%20m%E1%BA%BD%20nh%E1%BB%AFng%20c%C3%A1i%20c%E1%BB%9B%20c%E1%BB%A7a%20%C4%91%C3%A0n%20%C3%B4ng%20-%20Grey%20Behrendt%20%26%20Liz%20Tuccillo%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16749,
+    "title" : "Bóc mẽ những cái cớ của đàn ông - Grey Behrendt & Liz Tuccillo (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bmncccdo/B%C3%B3c%20m%E1%BA%BD%20nh%E1%BB%AFng%20c%C3%A1i%20c%E1%BB%9B%20c%E1%BB%A7a%20%C4%91%C3%A0n%20%C3%B4ng%20-%20Grey%20Behrendt%20%26%20Liz%20Tuccillo%20%28128kbit_AAC%29.mp3",
+    "title" : "Bóc mẽ những cái cớ của đàn ông - Grey Behrendt & Liz Tuccillo (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

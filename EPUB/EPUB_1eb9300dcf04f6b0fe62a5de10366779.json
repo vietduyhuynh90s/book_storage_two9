@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/voi-tay-bat-lay-vi-sao_14950.html",
+    "title" : "Với Tay Bắt Lấy Vì Sao",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đại Giang Lưu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 43404,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1eb9300dcf04f6b0fe62a5de10366779.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1eb9300dcf04f6b0fe62a5de10366779.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "Tập 1: Biến Cố Của Cuộc Đời l Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2969,
+    "title" : "Tay Không Hái Sao Trời [Tập 10] Ly Hôn Đi | Top Truyện Hay | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3118,
+    "title" : "MC Trần Vân & Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3358,
+    "title" : "Tập 12: Phiên Tòa Xét Xử | Top Truyện Hay | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "Tay Không Hái Sao Trời [Tập 13] Phán Quyết Cuối | Top Truyện Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1956,
+    "title" : "Tay Không Hái Sao Trời | Truyện Ngôn Tình - Mc Trần Vân & Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "Tay Không Hái Sao Trời [Tập 2] Chia Tay ll Truyện Ngôn Tình Hiện Đại Thực Tế Mới Nhất ll Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3997,
+    "title" : "Tay Không Hái Sao Trời [Tập 3] Hy Vọng Lóe Sáng ll Truyện TLXH Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "Tay Không Hái Sao Trời [Tập 4] Truyện Hay Với Thông Điệp Ý Nghĩa: Nữ Giới Hãy Tự bảo Vệ Mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3957,
+    "title" : "Truyện Quá Sức Hay Do Mc Trần Vân diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "Tay Không Hái Sao Trời [Tập 6] Giở Trò Bỉ Ổi ll Trời Ơi Truyện Gì Mà Hay Quá Trời Quá Đất Vậy Nè",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2369,
+    "title" : "Tay Không Hái Sao Trời [Tập 7] Nhân Chứng ll Ngôn Tình Thực Tế Siêu Hay ll Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2350,
+    "title" : "Tay Không Hái Sao Trời [Tập 8] Truyện Ngôn Tình TLXH Thực Tế Hay Nhất Hiện Nay | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2520,
+    "title" : "Tập 9 - Truyện Ngôn Tình Mc Trần Vân & Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/1.mp3",
+    "title" : "Tập 1: Biến Cố Của Cuộc Đời l Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/10.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 10] Ly Hôn Đi | Top Truyện Hay | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/11.mp3",
+    "title" : "MC Trần Vân & Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/12.mp3",
+    "title" : "Tập 12: Phiên Tòa Xét Xử | Top Truyện Hay | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/13.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 13] Phán Quyết Cuối | Top Truyện Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/14.mp3",
+    "title" : "Tay Không Hái Sao Trời | Truyện Ngôn Tình - Mc Trần Vân & Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/2.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 2] Chia Tay ll Truyện Ngôn Tình Hiện Đại Thực Tế Mới Nhất ll Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/3.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 3] Hy Vọng Lóe Sáng ll Truyện TLXH Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/4.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 4] Truyện Hay Với Thông Điệp Ý Nghĩa: Nữ Giới Hãy Tự bảo Vệ Mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/5.mp3",
+    "title" : "Truyện Quá Sức Hay Do Mc Trần Vân diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/6.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 6] Giở Trò Bỉ Ổi ll Trời Ơi Truyện Gì Mà Hay Quá Trời Quá Đất Vậy Nè",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/7.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 7] Nhân Chứng ll Ngôn Tình Thực Tế Siêu Hay ll Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/8.mp3",
+    "title" : "Tay Không Hái Sao Trời [Tập 8] Truyện Ngôn Tình TLXH Thực Tế Hay Nhất Hiện Nay | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-tay-bat-lay-vi-sao/9.mp3",
+    "title" : "Tập 9 - Truyện Ngôn Tình Mc Trần Vân & Vị Hy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

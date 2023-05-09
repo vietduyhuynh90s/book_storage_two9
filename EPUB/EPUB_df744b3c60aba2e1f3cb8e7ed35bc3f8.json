@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truy-tim-ky-uc-dinh-mac_10157.html",
+    "title" : "Truy Tìm Ký Ức - Đinh Mặc.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đinh Mặc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 121876,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_df744b3c60aba2e1f3cb8e7ed35bc3f8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_df744b3c60aba2e1f3cb8e7ed35bc3f8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truytimkyuc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3980,
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P1 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4151,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P10 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P11 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4923,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P12 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4222,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức p13 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P14 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5691,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P15 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4412,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P16 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P17 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4870,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P19 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P2 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4657,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P20 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3544,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P21 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4550,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P22 - MC Hông Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4615,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P23 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức p24 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3883,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P25 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3827,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P26 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P27 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4928,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P28 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4023,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P29 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3682,
+    "title" : "Truyện tâm lý xã hội - Truy tìm ký ức P3 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3416,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P30 (hết) - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3759,
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P4 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3551,
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P5 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4681,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truye tìm ký ức p6 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3644,
+    "title" : "Truyện tinh thám, tâm lí xã hội - Truy tìm ký ức p7 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P8 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P9 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truytimkyuc/1.mp3",
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P1 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/10.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P10 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/11.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P11 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/12.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P12 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/13.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức p13 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/14.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P14 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/15.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P15 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/16.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P16 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/17.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P17 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/18.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/19.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P19 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/2.mp3",
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P2 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/20.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P20 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/21.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P21 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/22.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P22 - MC Hông Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/23.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P23 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/24.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức p24 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/25.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P25 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/26.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P26 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/27.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P27 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/28.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P28 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/29.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P29 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/3.mp3",
+    "title" : "Truyện tâm lý xã hội - Truy tìm ký ức P3 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/30.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P30 (hết) - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/4.mp3",
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P4 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/5.mp3",
+    "title" : "Truyện tâm lí xã hội - Truy tìm ký ức P5 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/6.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truye tìm ký ức p6 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/7.mp3",
+    "title" : "Truyện tinh thám, tâm lí xã hội - Truy tìm ký ức p7 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/8.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P8 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truytimkyuc/9.mp3",
+    "title" : "Truyện trinh thám, tâm lí xã hội - Truy tìm ký ức P9 - MC Hồng Nhung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

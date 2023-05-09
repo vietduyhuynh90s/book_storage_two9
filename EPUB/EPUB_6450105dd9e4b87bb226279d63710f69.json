@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-nga-vo-uu-thien-quan-ve-phat-giao_19150.html",
+    "title" : "Vô Ngã Vô Ưu - Thiền Quán Về Phật Giáo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ayya Khema",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 28791,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6450105dd9e4b87bb226279d63710f69.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6450105dd9e4b87bb226279d63710f69.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "vo-nga-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "vo-nga-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "vo-nga-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "vo-nga-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "vo-nga-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "vo-nga-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "vo-nga-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "vo-nga-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-1.mp3",
+    "title" : "vo-nga-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-2.mp3",
+    "title" : "vo-nga-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-3.mp3",
+    "title" : "vo-nga-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-4.mp3",
+    "title" : "vo-nga-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-5.mp3",
+    "title" : "vo-nga-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-6.mp3",
+    "title" : "vo-nga-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-7.mp3",
+    "title" : "vo-nga-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-nga-1/vo-nga-8.mp3",
+    "title" : "vo-nga-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,653 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-trinh-mai-mai-mot-tinh-yeu-lam-lam_10460.html",
+    "title" : "Song Trình - Mãi Mãi Một Tình Yêu - Lam Lâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lam Lâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 43438,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1f304c0fac132c3e79b4f696e69c039b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1f304c0fac132c3e79b4f696e69c039b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 608,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 1 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 440,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 10- MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 720,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 11 + 12 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 836,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 13 + 14 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 637,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 15 + 16 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 790,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 17 + 18 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 19 + 20 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 731,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 21 + 22 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 762,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 23 + 24 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 495,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 25 + 26 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 694,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 27 + 28 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 636,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 2 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 726,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 29 + 30 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 706,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 31 + 32 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 754,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 33 + 34 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 573,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 35 + 36 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 671,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 37 + 38 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 639,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 39 + 40 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 893,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 41 + 42 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 689,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 43 + 44 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 822,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 45 + 46 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 810,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 47 + 48 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 536,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 3 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 764,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 49 + 50 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 847,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 51 + 52 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 919,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 53 + 54 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1007,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 55 + 56 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 650,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 57 + 58 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 59 + 60 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1385,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 61 + 62 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1033,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 63 + 64 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1016,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 65 + 66 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 856,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 67 + 68 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 294,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 4 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1189,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 69 + 70 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1273,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 71 + 72 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 857,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 73 + 74 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1568,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 75 + 76 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1169,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 77 + 78 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1727,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 79 + 80 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 81 + 82 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 992,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 83 + 84 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1483,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 85 + 86 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 972,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 87 + 88 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 392,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 5 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1678,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 89 + 90 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 91 + 92 ( Ending ) - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 430,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 6 - MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 330,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 7- MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 294,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 8- MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 253,
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 9- MC Anh Khoa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/1.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 1 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/10.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 10- MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/11.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 11 + 12 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/12.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 13 + 14 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/13.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 15 + 16 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/14.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 17 + 18 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/15.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 19 + 20 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/16.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 21 + 22 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/17.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 23 + 24 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/18.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 25 + 26 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/19.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 27 + 28 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/2.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 2 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/20.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 29 + 30 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/21.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 31 + 32 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/22.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 33 + 34 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/23.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 35 + 36 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/24.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 37 + 38 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/25.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 39 + 40 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/26.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 41 + 42 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/27.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 43 + 44 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/28.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 45 + 46 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/29.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 47 + 48 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/3.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 3 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/30.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 49 + 50 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/31.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 51 + 52 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/32.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 53 + 54 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/33.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 55 + 56 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/34.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 57 + 58 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/35.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 59 + 60 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/36.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 61 + 62 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/37.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 63 + 64 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/38.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 65 + 66 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/39.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 67 + 68 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/4.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 4 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/40.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 69 + 70 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/41.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 71 + 72 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/42.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 73 + 74 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/43.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 75 + 76 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/44.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 77 + 78 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/45.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 79 + 80 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/46.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 81 + 82 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/47.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 83 + 84 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/48.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 85 + 86 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/49.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 87 + 88 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/5.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 5 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/50.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 89 + 90 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/51.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 91 + 92 ( Ending ) - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/6.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 6 - MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/7.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 7- MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/8.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 8- MC Anh Khoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trinh-mai-mai-mot-tinh-yeu/9.mp3",
+    "title" : "Mãi Mãi Một Tình Yêu - Đam Mỹ Hot - Chương 9- MC Anh Khoa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

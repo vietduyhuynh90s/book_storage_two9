@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguon-coi-dan-brown_8142.html",
+    "title" : "Nguồn Cội - Dan Brown.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dan Brown",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29421,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_17da382dfb79d233653cecae65d2ad61.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_17da382dfb79d233653cecae65d2ad61.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B25%5DChuong%2062-64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "[25]Chuong 62-64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B26%5DChuong%2065-67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "[26]Chuong 65-67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B27%5DChuong%2068-70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2023,
+    "title" : "[27]Chuong 68-70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B28%5DChuong%2071-73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1885,
+    "title" : "[28]Chuong 71-73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B29%5DChuong%2074-76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2134,
+    "title" : "[29]Chuong 74-76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B30%5DChuong%2077-79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 984,
+    "title" : "[30]Chuong 77-79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B31%5DChuong%2080-82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1563,
+    "title" : "[31]Chuong 80-82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B32%5DChuong%2083-86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2002,
+    "title" : "[32]Chuong 83-86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B33%5DChuong%2087-89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1854,
+    "title" : "[33]Chuong 87-89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B34%5DChuong%2090-91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "[34]Chuong 90-91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B35%5DChuong%2092-94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1693,
+    "title" : "[35]Chuong 92-94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B36%5DChuong%2095-96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2152,
+    "title" : "[36]Chuong 95-96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B37%5DChuong%2097-98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "[37]Chuong 97-98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B38%5DChuong%2099-102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2071,
+    "title" : "[38]Chuong 99-102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B39%5DChuong%20103-105%20%28END%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "[39]Chuong 103-105 (END)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B25%5DChuong%2062-64.mp3",
+    "title" : "[25]Chuong 62-64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B26%5DChuong%2065-67.mp3",
+    "title" : "[26]Chuong 65-67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B27%5DChuong%2068-70.mp3",
+    "title" : "[27]Chuong 68-70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B28%5DChuong%2071-73.mp3",
+    "title" : "[28]Chuong 71-73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B29%5DChuong%2074-76.mp3",
+    "title" : "[29]Chuong 74-76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B30%5DChuong%2077-79.mp3",
+    "title" : "[30]Chuong 77-79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B31%5DChuong%2080-82.mp3",
+    "title" : "[31]Chuong 80-82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B32%5DChuong%2083-86.mp3",
+    "title" : "[32]Chuong 83-86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B33%5DChuong%2087-89.mp3",
+    "title" : "[33]Chuong 87-89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B34%5DChuong%2090-91.mp3",
+    "title" : "[34]Chuong 90-91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B35%5DChuong%2092-94.mp3",
+    "title" : "[35]Chuong 92-94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B36%5DChuong%2095-96.mp3",
+    "title" : "[36]Chuong 95-96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B37%5DChuong%2097-98.mp3",
+    "title" : "[37]Chuong 97-98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B38%5DChuong%2099-102.mp3",
+    "title" : "[38]Chuong 99-102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/39Chuong103105END/%5B39%5DChuong%20103-105%20%28END%29.mp3",
+    "title" : "[39]Chuong 103-105 (END)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dua-tre-hu-tu-kim-tran_8205.html",
+    "title" : "Đứa Trẻ Hư - Tử Kim Trần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tử Kim Trần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50458,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f20a825b8afdec2751b569513fb64467.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f20a825b8afdec2751b569513fb64467.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3943,
+    "title" : "ĐỨA TRẺ HƯ #1 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "ĐỨA TRẺ HƯ #2 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "ĐỨA TRẺ HƯ #3 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3505,
+    "title" : "ĐỨA TRẺ HƯ #4 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3246,
+    "title" : "ĐỨA TRẺ HƯ #5 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3265,
+    "title" : "ĐỨA TRẺ HƯ #6 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "ĐỨA TRẺ HƯ #7 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3342,
+    "title" : "ĐỨA TRẺ HƯ #8 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "ĐỨA TRẺ HƯ #9 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3304,
+    "title" : "ĐỨA TRẺ HƯ #10 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "ĐỨA TRẺ HƯ #11 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "ĐỨA TRẺ HƯ #12 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "ĐỨA TRẺ HƯ #13 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3067,
+    "title" : "ĐỨA TRẺ HƯ #14 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3849,
+    "title" : "ĐỨA TRẺ HƯ #15 end | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-01.mp3",
+    "title" : "ĐỨA TRẺ HƯ #1 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-02.mp3",
+    "title" : "ĐỨA TRẺ HƯ #2 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-03.mp3",
+    "title" : "ĐỨA TRẺ HƯ #3 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-04.mp3",
+    "title" : "ĐỨA TRẺ HƯ #4 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-05.mp3",
+    "title" : "ĐỨA TRẺ HƯ #5 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-06.mp3",
+    "title" : "ĐỨA TRẺ HƯ #6 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-07.mp3",
+    "title" : "ĐỨA TRẺ HƯ #7 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-08.mp3",
+    "title" : "ĐỨA TRẺ HƯ #8 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-09.mp3",
+    "title" : "ĐỨA TRẺ HƯ #9 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-10.mp3",
+    "title" : "ĐỨA TRẺ HƯ #10 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-11.mp3",
+    "title" : "ĐỨA TRẺ HƯ #11 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-12.mp3",
+    "title" : "ĐỨA TRẺ HƯ #12 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-13.mp3",
+    "title" : "ĐỨA TRẺ HƯ #13 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-14.mp3",
+    "title" : "ĐỨA TRẺ HƯ #14 | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-tre-01/dua-tre-15.mp3",
+    "title" : "ĐỨA TRẺ HƯ #15 end | Tử Kim Trần (Matean chỉnh sửa và diễn đọc)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

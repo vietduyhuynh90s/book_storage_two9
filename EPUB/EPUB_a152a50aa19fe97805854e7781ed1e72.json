@@ -1,0 +1,677 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-phu-nu-cua-tong-giam-doc-minh-chau-hoan_10377.html",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc - Minh Châu Hoàn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Châu Hoàn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 232931,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_a152a50aa19fe97805854e7781ed1e72.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_a152a50aa19fe97805854e7781ed1e72.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4357,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 1 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 10 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3924,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 11 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4167,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 12 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 13 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4737,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 14 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 15 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5644,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 16 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4536,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 17 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5001,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 18 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3961,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 19 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 2 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5903,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 20 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4052,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 21 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4120,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 22 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4174,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 23 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4164,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 24 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4550,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 25 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 26 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4022,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 27 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4641,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 28 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4310,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 29 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3851,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 3 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 30 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4274,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 31 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4024,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 32 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4377,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 33 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4286,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 34 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4581,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 35 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4504,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 36 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 37 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 38 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5304,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 39 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4278,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 4 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 40 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 41 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4566,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 42 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5450,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 43 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5082,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 44 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4556,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 45 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5570,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 46 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4245,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 47 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4494,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 48 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 49 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4884,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 5 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3826,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 50 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3935,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 51 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3876,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 52 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 53 Tập Cuối - Giọng Đọc Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4638,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 6 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4470,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 7 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6558,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 8 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4094,
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 9 - Tác Giả Minh Châu Hoàn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/1.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 1 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/10.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 10 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/11.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 11 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/12.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 12 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/13.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 13 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/14.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 14 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/15.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 15 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/16.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 16 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/17.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 17 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/18.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 18 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/19.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 19 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/2.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 2 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/20.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 20 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/21.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 21 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/22.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 22 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/23.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 23 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/24.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 24 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/25.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 25 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/26.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 26 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/27.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 27 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/28.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 28 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/29.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 29 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/3.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 3 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/30.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 30 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/31.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 31 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/32.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 32 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/33.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 33 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/34.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 34 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/35.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 35 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/36.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 36 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/37.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 37 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/38.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 38 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/39.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 39 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/4.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 4 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/40.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 40 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/41.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 41 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/42.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 42 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/43.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 43 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/44.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 44 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/45.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 45 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/46.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 46 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/47.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 47 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/48.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 48 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/49.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 49 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/5.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 5 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/50.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 50 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/51.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 51 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/52.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 52 - Tác Giả Minh Châu Hoàn - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/53.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 53 Tập Cuối - Giọng Đọc Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/6.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 6 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/7.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 7 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/8.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 8 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-phu-nu-cua-tong-giam-doc/9.mp3",
+    "title" : "Người Phụ Nữ Của Tổng Giám Đốc Tập 9 - Tác Giả Minh Châu Hoàn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

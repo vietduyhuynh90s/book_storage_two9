@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tung-co-nguoi-yeu-toi-nhu-sinh-menh-thu-nghi_10189.html",
+    "title" : "Từng Có Người Yêu Tôi Như Sinh Mệnh - Thư Nghi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thư Nghi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37247,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_00d8ed57edd3a1720371b85fca20cfda.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_00d8ed57edd3a1720371b85fca20cfda.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 10| TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3442,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 11| TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5634,
+    "title" : "chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3460,
+    "title" : "Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 4|TRUYỆN AUDIO CỰC HAY |TỪNG CÓ NGƯỜI YÊU TÔI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 5 |TRUYỆN AUDIO CỰC HAY|TỪNG CÓ NGƯỜI YÊU TÔI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 6| TRUYỆN AUDIO CỰC HAY|TỪNG CÓ NGƯỜI YÊU TÔI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 7 | TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3167,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 8 | TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3569,
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 9 | TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/1.mp3",
+    "title" : "Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/10.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 10| TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/11.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 11| TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/2.mp3",
+    "title" : "chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/3.mp3",
+    "title" : "Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/4.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 4|TRUYỆN AUDIO CỰC HAY |TỪNG CÓ NGƯỜI YÊU TÔI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/5.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 5 |TRUYỆN AUDIO CỰC HAY|TỪNG CÓ NGƯỜI YÊU TÔI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/6.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 6| TRUYỆN AUDIO CỰC HAY|TỪNG CÓ NGƯỜI YÊU TÔI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/7.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 7 | TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/8.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 8 | TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tungconguoiyeutoinhusinhmenh/9.mp3",
+    "title" : "CÔ BÉ CỦA TÔI, CHÚC EM MỘT ĐỜI BÌNH AN, VUI VẺ | PHẦN 9 | TRẦM RADIO| TỪNG CÓ NGƯỜI YÊU TÔI ...",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

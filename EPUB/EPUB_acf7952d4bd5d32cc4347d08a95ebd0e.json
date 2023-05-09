@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song_20235.html",
+    "title" : "Yes Or No, Những Quyết Định Thay Đổi Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Spencer Johnson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11724,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_acf7952d4bd5d32cc4347d08a95ebd0e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_acf7952d4bd5d32cc4347d08a95ebd0e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2674,
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3797,
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2108,
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_01.mp3",
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_02.mp3",
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_03.mp3",
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song.sna/YES_NO_NHUNG_QUYET_DINH_THAY_DOI_CUOC_SONG_04.mp3",
+    "title" : "YES NO NHUNG QUYET DINH THAY DOI CUOC SONG 04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

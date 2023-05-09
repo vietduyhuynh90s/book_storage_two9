@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lop-hoc-ma-quai_16079.html",
+    "title" : "Lớp Học Ma Quái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Song",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18487,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d7643260459115e1e11cefcf7a6f6670.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d7643260459115e1e11cefcf7a6f6670.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4496,
+    "title" : "Truyện Ma Có Thật Gặp Vong Ma Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5151,
+    "title" : "Truyện Ma Có Thật Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "Truyện Ma Có Thật Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4527,
+    "title" : "Truyện Ma Có Thật Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/1.mp3",
+    "title" : "Truyện Ma Có Thật Gặp Vong Ma Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/2.mp3",
+    "title" : "Truyện Ma Có Thật Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/3.mp3",
+    "title" : "Truyện Ma Có Thật Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lop-hoc-ma-quai/4.mp3",
+    "title" : "Truyện Ma Có Thật Mc Ngọc Lâm Diễn Đọc Run Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

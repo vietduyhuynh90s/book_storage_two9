@@ -1,0 +1,3773 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/husky-va-su-ton-meo-trang-cua-han_15121.html",
+    "title" : "Husky Và Sư Tôn Mèo Trắng Của Hắn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhục Bao Bất Ngật Nhục",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 361987,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3ed8c074cf34bf2c3c1e49203f3ab2d1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3ed8c074cf34bf2c3c1e49203f3ab2d1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1674,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1138,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 10)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1220,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 100)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1166,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 101)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1316,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 102)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1775,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 103)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 935,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 104)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 105)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1025,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 106)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 956,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 107)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1231,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 108)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1041,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 109)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 790,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2252,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 110)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 111)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1289,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 112)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 857,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 113)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 939,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 114)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1042,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 115)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1217,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 116)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 117)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 118)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1442,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 119)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1089,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 120)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 828,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 121)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1089,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 122)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1232,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 123)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1028,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 124)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1311,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 125)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 126)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 789,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 127)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1108,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 128)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 762,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 129)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 13)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1069,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 130)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1015,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 131)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1059,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 132)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 907,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 133)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 774,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 134)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 693,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 135)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 903,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 136)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1088,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 137)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1206,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 138)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 908,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 139)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 596,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 14)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1120,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 140)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1107,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 142)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 819,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 142)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1301,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 143)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 950,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 144)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1173,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 145)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 972,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 146)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 821,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 147)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 785,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 148)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1476,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 149)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 570,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 15)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 150)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1464,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 151)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 937,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 152)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 991,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 153)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1466,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 154)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 821,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 155)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1153,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 156)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1217,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 157)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1125,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 158)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 750,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 159)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 718,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 16)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 926,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 160)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1116,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 162)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1093,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 162)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1391,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 163)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1341,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 164)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1128,
+    "title" : "165",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1205,
+    "title" : "166",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1231,
+    "title" : "167",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1174,
+    "title" : "168",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 931,
+    "title" : "169",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 754,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 17)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1305,
+    "title" : "170",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 804,
+    "title" : "171",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 866,
+    "title" : "172",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1099,
+    "title" : "173",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 978,
+    "title" : "174",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1064,
+    "title" : "175",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 859,
+    "title" : "176",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 778,
+    "title" : "177",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "178",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "179",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 814,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 18)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 928,
+    "title" : "(Tập 180) Đến giờ thả thính nhau, mời cà nhà ăn thức ăn cho chó nhé",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1197,
+    "title" : "181",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1487,
+    "title" : "182",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1042,
+    "title" : "(Tập 182) Mặc Nhiên và Stun nhét thức ăn chó cho Sư muội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 934,
+    "title" : "184",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 972,
+    "title" : "185",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1219,
+    "title" : "(Tập 186) Tiết Mông ngây thơ bị lừa vào tròng + thông báo quan trọng cuối tập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 977,
+    "title" : "187",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "(Tập 188+189) Cảnh báo nóng 1000 độ bùm bùm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1285,
+    "title" : "189",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1063,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 19)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1180,
+    "title" : "(Tập 191) Nhiên nhi và Mông nhi tâm sự mongr",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1013,
+    "title" : "(Tập 192) Tiết Mông bại lộ tâm hồn đen tối?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 976,
+    "title" : "(Tập 193) Sư tôn thu phục sắc hồ lô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "(Tập 194) Chó con Mặc Nhiên lại bắt đầu dở trò làm nũng, Stun bại trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1193,
+    "title" : "(Tập 195) Làm trễ May chưa nghĩ ra tiêu đề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1734,
+    "title" : "(Tập 196) Từ giờ tui không đọc mấy chương này nữa đâu huhu, hấp hối rồi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1214,
+    "title" : "(Tập 197)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1158,
+    "title" : "(Tập 198) Nhân vật đáng ghét mới xuất hiện, nhìn là muốn xiên một phát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1274,
+    "title" : "(Tập 199) Đồ đệ đầu tiên của sư tôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "(Tập 200) Hoàng Khiếu Nguyệt diễn sâu + thông báo quan trọng cuối tập phải nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 933,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 847,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 20)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1339,
+    "title" : "(Tập 201) Sư tôn, ta nên làm nhục ngươi thế nào?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "(Tập 202) Ác ma ra đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1182,
+    "title" : "(Tập 203) Sư tôn, con muốn nói với người một chuyện😐",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1279,
+    "title" : "(Tập 204) Trò hay mở màn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 855,
+    "title" : "(Tập 205)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1209,
+    "title" : "(Tập 206) Sư tôn, rốt cuộc con là ai?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1535,
+    "title" : "(Tập 207)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 989,
+    "title" : "(Tập 208) Ê chó con, núp dưới giường mau!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2157,
+    "title" : "(Tập 209) Không núp dưới gầm giường lại trốn trong chăn giờ trò mờ ám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 834,
+    "title" : "(Tập 210) Cún thêu khăn tay của Mông Mông cho bõ tức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 697,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 21)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "(Tập 211)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1376,
+    "title" : "(Tập 212) Nam Cung Tứ! Cẩn thận!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1125,
+    "title" : "Sinh tử chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 956,
+    "title" : "(Tập 214) Linh hạch vỡ nát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1494,
+    "title" : "(Tập 215) [Giao Sơn] Thiêu Tàn Thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1332,
+    "title" : "(Tập 216) [Giao Sơn] Đọa thành nô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 903,
+    "title" : "(Tập 217) [Giao Sơn] Ác mộng bắt đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 777,
+    "title" : "(Tập 218) [Giao Sơn] Quân lại về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 855,
+    "title" : "(Tập 219) [Giao Sơn] Chớ chia ly",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "(Tập 220) [Giao Sơn] Sóng vai đi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 920,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 22)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1304,
+    "title" : "(Tập 221) [Giao Sơn] Ngón tay đan xen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1394,
+    "title" : "(Tập 222) [Giao Sơn] Thay đổi kinh hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 946,
+    "title" : "(Tập 223) [Giao Sơn] Tiêu dao du",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1148,
+    "title" : "(Tập 224) [Giao Sơn] Cái chết của Nam Cung Tứ và Sự trở lại của May",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1660,
+    "title" : "(Tập 225) [Giao Sơn] Cười ta điên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1378,
+    "title" : "(Tập 226) [Giao Sơn] Tan vỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1201,
+    "title" : "226",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1032,
+    "title" : "(Tập 228) [Giao Sơn] Công dã tràng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1043,
+    "title" : "(Tập 229) [Giao Sơn] Đục từ đây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 849,
+    "title" : "(Tập 230) [Giao Sơn] Chàng thiếu niên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 719,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 23)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1274,
+    "title" : "(Tập 231) [Giao Sơn] Dược tông đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1160,
+    "title" : "(Tập 232) [Giao Sơn] Mù hai mắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1444,
+    "title" : "(Tập 233) Bổn toạ muốn đổi tiêu đề thì đổi! Tuỳ hứng!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "(Tập 234) Đế quân trở về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1958,
+    "title" : "(Tập 235)[Giao Sơn] Bước đường cùng + Hôm nay 1 tập nhé bà con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 999,
+    "title" : "(Tập 236) [Long Huyết sơn] Viên tịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 913,
+    "title" : "(Tập 237) [Long Huyết sơn] Thần Mộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1358,
+    "title" : "(Tập 238) [Long Huyết sơn] Vô hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1846,
+    "title" : "(Tập 239) [Long Huyết sơn] Có tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1160,
+    "title" : "(Tập 240) [Long Huyết sơn] Làm người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1073,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 24)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1297,
+    "title" : "(Tập 241) [Long Huyết sơn] Chân tướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1193,
+    "title" : "(Tập 241) [Long Huyết sơn] Sở Phi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "(Tập 243) [Long Huyết sơn] Cảnh báo nóng toát hết mồ hôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1343,
+    "title" : "(Tập 244) [Long Huyết sơn] Boss phản diện lên sóng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "(Tập 245) [Long Huyết sơn] Tình địch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 784,
+    "title" : "(Tập 246) [Long Huyết sơn] Trói buộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 982,
+    "title" : "(Tập 247) [Long Huyết sơn] Hồng nhạn (thư/Người gửi thư)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1078,
+    "title" : "(Tập 248) [Long Huyết sơn] Lãng quên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1517,
+    "title" : "(Tập 249) [Long Huyết sơn] Chân tướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1049,
+    "title" : "(Tập 250) [Long Huyết sơn] Vào nghe ủng hộ đi mấy ghẹ, nóng phỏng tay á",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1122,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 25)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 916,
+    "title" : "(Tập 251) [Long Huyết sơn] Trở về + 21h sẽ có điều đặc biệt hehe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1344,
+    "title" : "(Tập 252) [Long Huyết sơn] Xé hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1466,
+    "title" : "(Tập 253) [Long Huyết sơn] Đồ khốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1014,
+    "title" : "(Tập 254) [Long Huyết sơn] Nhớ ngươi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1254,
+    "title" : "(Tập 255) [Long Huyết sơn] Nhận tội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 977,
+    "title" : "(Tập 256) [Thiên âm các] Thân thế chìm nổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 982,
+    "title" : "(Tập 255) [Thiên Âm Các] Lâm Giang tiên tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1494,
+    "title" : "(Tập 258) [Thiên Âm Các] Nhu cốt tranh tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "(Tập 259) [Thiên Âm Các] Cùng người chung áo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1821,
+    "title" : "(Tập 260) [Thiên Âm Các] Đời như lò luyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 26)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1027,
+    "title" : "(Tập 261) [Thiên Âm Các] Tội danh bẩn mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1098,
+    "title" : "(Tập 262) [Thiên Âm Các] Kịch hạ màn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1074,
+    "title" : "(Tập 263) [Thiên Âm Các] Mộng xưa tái diễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1048,
+    "title" : "(Tập 264) [Thiên Âm Các] Đế quân như hắn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1458,
+    "title" : "(Tập 265) [Thiên Âm Các] Hai sư muội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1489,
+    "title" : "(Tập 266) [Thiên Âm Các] Sưởi ẩm vì người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1263,
+    "title" : "Rồng vàng quấn trụ ngọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1572,
+    "title" : "(Tập 268) [Thiên Âm Các] Như về Vu Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1003,
+    "title" : "(Tập 269) [Thiên Âm Các] Quân chớ rời xa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "(Tập 270) [Thiên Âm Các] Xét xử công khai / Nhớ like nha mấy ghẹ, tập 168 ăn 3 dislike bùn qué",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 777,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 27)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1126,
+    "title" : "(Tập 271) [Thiên Âm Các] Phán xét cuối cùng / Mai chủ nhật lên bù hôm qua nhé",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1510,
+    "title" : "(Tập 272) [Thiên Âm Các] Miệng đời đáng sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1160,
+    "title" : "(Tập 273) [Thiên Âm Các] Đường đi bất đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1443,
+    "title" : "(Tập 274) [Thiên Âm Các] Ngàn cần treo sợi tóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1332,
+    "title" : "(Tập 275) [Thiên Âm Các] Lòng son vụn nát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 984,
+    "title" : "(Tập 276) [Thiên Âm Các] Ta tới tuẫn ngươi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "(Tập 277) [Thiên Âm Các] Bổn tọa lẻ loi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2185,
+    "title" : "(Tập 278) [Thiên Âm Các] Chân tướng năm xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1836,
+    "title" : "(Tập 279) [Thiên Âm Các] Quãng đời còn lại gửi đêm tuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1088,
+    "title" : "(Tập 280) [Tử sinh đỉnh] Thiện ác trong miệng người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 767,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 28)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 921,
+    "title" : "(Tập 281) [Tử sinh đỉnh] Ta muốn làm nhiều việc thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "(Tập 282) [Tử sinh đỉnh] Cô lang lâm vào bước đường cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1409,
+    "title" : "(Tập 283) [Tử sinh đỉnh] Khói lửa cuối cùng bốc lên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1394,
+    "title" : "(Tập 284) [Tử sinh đỉnh] Con ta hay bảo trọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 993,
+    "title" : "(Tập 285) [Tử sinh đỉnh] Phượng hoàng thiêu mặt trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1723,
+    "title" : "(Tập 286) [Tử sinh đỉnh] Chàng bạc, chàng thâm tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "(Tập 287) [Tử sinh đỉnh] Số mệnh khó thoát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1407,
+    "title" : "(Tập 288) [Tử sinh đỉnh] Tông sư và Đế quân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1319,
+    "title" : "(Tập 289) [Tử sinh đỉnh] Thăm vùng đất xưa nửa thành quỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1220,
+    "title" : "(Tập 290) [Tử sinh đỉnh] Mai Hàn Tuyết hay Mai Hàm Tuyết?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1082,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 29)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1007,
+    "title" : "(Tập 291) [Tử sinh đỉnh] Hai đời cuối cùng đan xen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1198,
+    "title" : "(Tập 292) [Tử sinh đỉnh] Lòng quân sâu như biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1313,
+    "title" : "(Tập 293) [Tử sinh đỉnh] Đế Quân Trường Môn oán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "(Tập 294) [Tử sinh đỉnh] Cảnh báo nóng ngàn độ mùa 2 + Thông báo Give Away quan trọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/294.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1080,
+    "title" : "(Tập 295) [Tử sinh đỉnh] Tuẫn Đạo khó hồi hương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/295.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1072,
+    "title" : "(Tập 296) [Tử sinh đỉnh] Đúng như mộng năm đó",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/296.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1142,
+    "title" : "(Tập 297) [Tử sinh đỉnh] Điệp cốt mỹ nhân tịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/297.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1086,
+    "title" : "(Tập 298) [Tử sinh đỉnh] Người tính không bằng trời tính",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/298.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1321,
+    "title" : "(Tập 299) [Tử sinh đỉnh] Cả đời khó ngừng lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/299.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 972,
+    "title" : "(Tập 300) [Tử sinh đỉnh] Lòng quân như lòng ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 612,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 805,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 30)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/300.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1591,
+    "title" : "(Tập 301) [Tử sinh đỉnh] Chuyện cũ lặp lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/301.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1719,
+    "title" : "(Tập 302) [Tử sinh đỉnh] Hồn đoạn vu sơn điện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/302.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "(Tập 303) [Tử sinh đỉnh] Tiết mông kiếp trước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/303.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 885,
+    "title" : "(Tập 304) [Tử sinh đỉnh] Kiếp trước của họ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/304.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1771,
+    "title" : "(Tập 305) [Tử sinh đỉnh] Thân thuần tuẫn ma đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/305.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1519,
+    "title" : "(Tập 306) [Tử sinh đỉnh] Thương thân ta dị tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/306.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 946,
+    "title" : "(Tập 307) [Tử sinh đỉnh] Hoàng hôn của con dơi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/307.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1407,
+    "title" : "(Tập 308) [Tử sinh đỉnh] Hợp lực chống dòng lũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/308.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1544,
+    "title" : "(Tập 309) [Tử sinh đỉnh] Mặc Nhiên chưa rời xa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/309.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1551,
+    "title" : "(Tập 310) [Tử sinh đỉnh] Lá bài sơ-cua cuối cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1068,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 31)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/310.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4394,
+    "title" : "Nhục Bao Bất Cật nhục (Đại Kết Cục)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/311.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2410,
+    "title" : "Nhục Bao Bất Cật nhục (Phiên ngoại duy nhất nhé)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1001,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 32)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1119,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 33)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 688,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 34)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 733,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 35)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1080,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 36)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1184,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 37)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1045,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 38)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 39)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 893,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 807,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 40)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1079,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 41)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 787,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 42)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 962,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 43)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1175,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 44)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1067,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 45)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1147,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 46)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 944,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 47)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1088,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 48)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1047,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 49)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 997,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1038,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 50)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 851,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 51)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1195,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 52)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 905,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 53)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1046,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 54)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1033,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 55)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 876,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 56)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1252,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 57)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 916,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 58)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1040,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 59)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1136,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1052,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 60)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1034,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 61)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 991,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 62)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 957,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 63)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 853,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 64)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 835,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 65)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1227,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 66)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1171,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 67)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1224,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 68)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 892,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 69)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1214,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 936,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 70)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1026,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 71)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 920,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 72)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 909,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 73)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1857,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 74)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 935,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 75)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1220,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 76)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 730,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 77)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1334,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 78)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 788,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 79)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1023,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 80)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1294,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 81)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 850,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 82)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 713,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 83)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 974,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 84)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1198,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 85)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1079,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 86)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 87)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 897,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 88)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 736,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 89)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1202,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 9)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1107,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 90)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 818,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 92)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1030,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 92)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 968,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 93)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1138,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 94)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 95)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1500,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 96)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1633,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 97)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 98)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 788,
+    "title" : "Nhục Bao Bất Cật nhục (Tập 99)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/1.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/10.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 10)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/100.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 100)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/101.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 101)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/102.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 102)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/103.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 103)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/104.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 104)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/105.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 105)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/106.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 106)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/107.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 107)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/108.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 108)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/109.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 109)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/11.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/110.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 110)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/111.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 111)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/112.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 112)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/113.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 113)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/114.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 114)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/115.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 115)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/116.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 116)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/117.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 117)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/118.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 118)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/119.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 119)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/12.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/120.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 120)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/121.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 121)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/122.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 122)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/123.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 123)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/124.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 124)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/125.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 125)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/126.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 126)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/127.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 127)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/128.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 128)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/129.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 129)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/13.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 13)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/130.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 130)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/131.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 131)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/132.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 132)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/133.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 133)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/134.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 134)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/135.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 135)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/136.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 136)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/137.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 137)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/138.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 138)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/139.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 139)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/14.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 14)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/140.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 140)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/141.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 142)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/142.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 142)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/143.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 143)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/144.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 144)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/145.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 145)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/146.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 146)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/147.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 147)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/148.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 148)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/149.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 149)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/15.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 15)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/150.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 150)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/151.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 151)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/152.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 152)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/153.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 153)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/154.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 154)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/155.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 155)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/156.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 156)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/157.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 157)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/158.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 158)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/159.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 159)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/16.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 16)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/160.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 160)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/161.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 162)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/162.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 162)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/163.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 163)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/164.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 164)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/165.mp3",
+    "title" : "165",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/166.mp3",
+    "title" : "166",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/167.mp3",
+    "title" : "167",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/168.mp3",
+    "title" : "168",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/169.mp3",
+    "title" : "169",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/17.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 17)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/170.mp3",
+    "title" : "170",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/171.mp3",
+    "title" : "171",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/172.mp3",
+    "title" : "172",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/173.mp3",
+    "title" : "173",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/174.mp3",
+    "title" : "174",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/175.mp3",
+    "title" : "175",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/176.mp3",
+    "title" : "176",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/177.mp3",
+    "title" : "177",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/178.mp3",
+    "title" : "178",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/179.mp3",
+    "title" : "179",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/18.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 18)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/180.mp3",
+    "title" : "(Tập 180) Đến giờ thả thính nhau, mời cà nhà ăn thức ăn cho chó nhé",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/181.mp3",
+    "title" : "181",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/182.mp3",
+    "title" : "182",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/183.mp3",
+    "title" : "(Tập 182) Mặc Nhiên và Stun nhét thức ăn chó cho Sư muội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/184.mp3",
+    "title" : "184",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/185.mp3",
+    "title" : "185",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/186.mp3",
+    "title" : "(Tập 186) Tiết Mông ngây thơ bị lừa vào tròng + thông báo quan trọng cuối tập",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/187.mp3",
+    "title" : "187",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/188.mp3",
+    "title" : "(Tập 188+189) Cảnh báo nóng 1000 độ bùm bùm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/189.mp3",
+    "title" : "189",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/19.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 19)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/190.mp3",
+    "title" : "(Tập 191) Nhiên nhi và Mông nhi tâm sự mongr",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/191.mp3",
+    "title" : "(Tập 192) Tiết Mông bại lộ tâm hồn đen tối?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/192.mp3",
+    "title" : "(Tập 193) Sư tôn thu phục sắc hồ lô",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/193.mp3",
+    "title" : "(Tập 194) Chó con Mặc Nhiên lại bắt đầu dở trò làm nũng, Stun bại trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/194.mp3",
+    "title" : "(Tập 195) Làm trễ May chưa nghĩ ra tiêu đề",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/195.mp3",
+    "title" : "(Tập 196) Từ giờ tui không đọc mấy chương này nữa đâu huhu, hấp hối rồi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/196.mp3",
+    "title" : "(Tập 197)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/197.mp3",
+    "title" : "(Tập 198) Nhân vật đáng ghét mới xuất hiện, nhìn là muốn xiên một phát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/198.mp3",
+    "title" : "(Tập 199) Đồ đệ đầu tiên của sư tôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/199.mp3",
+    "title" : "(Tập 200) Hoàng Khiếu Nguyệt diễn sâu + thông báo quan trọng cuối tập phải nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/2.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/20.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 20)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/200.mp3",
+    "title" : "(Tập 201) Sư tôn, ta nên làm nhục ngươi thế nào?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/201.mp3",
+    "title" : "(Tập 202) Ác ma ra đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/202.mp3",
+    "title" : "(Tập 203) Sư tôn, con muốn nói với người một chuyện😐",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/203.mp3",
+    "title" : "(Tập 204) Trò hay mở màn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/204.mp3",
+    "title" : "(Tập 205)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/205.mp3",
+    "title" : "(Tập 206) Sư tôn, rốt cuộc con là ai?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/206.mp3",
+    "title" : "(Tập 207)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/207.mp3",
+    "title" : "(Tập 208) Ê chó con, núp dưới giường mau!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/208.mp3",
+    "title" : "(Tập 209) Không núp dưới gầm giường lại trốn trong chăn giờ trò mờ ám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/209.mp3",
+    "title" : "(Tập 210) Cún thêu khăn tay của Mông Mông cho bõ tức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/21.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 21)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/210.mp3",
+    "title" : "(Tập 211)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/211.mp3",
+    "title" : "(Tập 212) Nam Cung Tứ! Cẩn thận!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/212.mp3",
+    "title" : "Sinh tử chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/213.mp3",
+    "title" : "(Tập 214) Linh hạch vỡ nát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/214.mp3",
+    "title" : "(Tập 215) [Giao Sơn] Thiêu Tàn Thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/215.mp3",
+    "title" : "(Tập 216) [Giao Sơn] Đọa thành nô",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/216.mp3",
+    "title" : "(Tập 217) [Giao Sơn] Ác mộng bắt đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/217.mp3",
+    "title" : "(Tập 218) [Giao Sơn] Quân lại về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/218.mp3",
+    "title" : "(Tập 219) [Giao Sơn] Chớ chia ly",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/219.mp3",
+    "title" : "(Tập 220) [Giao Sơn] Sóng vai đi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/22.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 22)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/220.mp3",
+    "title" : "(Tập 221) [Giao Sơn] Ngón tay đan xen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/221.mp3",
+    "title" : "(Tập 222) [Giao Sơn] Thay đổi kinh hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/222.mp3",
+    "title" : "(Tập 223) [Giao Sơn] Tiêu dao du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/223.mp3",
+    "title" : "(Tập 224) [Giao Sơn] Cái chết của Nam Cung Tứ và Sự trở lại của May",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/224.mp3",
+    "title" : "(Tập 225) [Giao Sơn] Cười ta điên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/225.mp3",
+    "title" : "(Tập 226) [Giao Sơn] Tan vỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/226.mp3",
+    "title" : "226",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/227.mp3",
+    "title" : "(Tập 228) [Giao Sơn] Công dã tràng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/228.mp3",
+    "title" : "(Tập 229) [Giao Sơn] Đục từ đây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/229.mp3",
+    "title" : "(Tập 230) [Giao Sơn] Chàng thiếu niên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/23.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 23)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/230.mp3",
+    "title" : "(Tập 231) [Giao Sơn] Dược tông đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/231.mp3",
+    "title" : "(Tập 232) [Giao Sơn] Mù hai mắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/232.mp3",
+    "title" : "(Tập 233) Bổn toạ muốn đổi tiêu đề thì đổi! Tuỳ hứng!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/233.mp3",
+    "title" : "(Tập 234) Đế quân trở về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/234.mp3",
+    "title" : "(Tập 235)[Giao Sơn] Bước đường cùng + Hôm nay 1 tập nhé bà con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/235.mp3",
+    "title" : "(Tập 236) [Long Huyết sơn] Viên tịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/236.mp3",
+    "title" : "(Tập 237) [Long Huyết sơn] Thần Mộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/237.mp3",
+    "title" : "(Tập 238) [Long Huyết sơn] Vô hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/238.mp3",
+    "title" : "(Tập 239) [Long Huyết sơn] Có tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/239.mp3",
+    "title" : "(Tập 240) [Long Huyết sơn] Làm người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/24.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 24)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/240.mp3",
+    "title" : "(Tập 241) [Long Huyết sơn] Chân tướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/241.mp3",
+    "title" : "(Tập 241) [Long Huyết sơn] Sở Phi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/242.mp3",
+    "title" : "(Tập 243) [Long Huyết sơn] Cảnh báo nóng toát hết mồ hôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/243.mp3",
+    "title" : "(Tập 244) [Long Huyết sơn] Boss phản diện lên sóng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/244.mp3",
+    "title" : "(Tập 245) [Long Huyết sơn] Tình địch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/245.mp3",
+    "title" : "(Tập 246) [Long Huyết sơn] Trói buộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/246.mp3",
+    "title" : "(Tập 247) [Long Huyết sơn] Hồng nhạn (thư/Người gửi thư)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/247.mp3",
+    "title" : "(Tập 248) [Long Huyết sơn] Lãng quên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/248.mp3",
+    "title" : "(Tập 249) [Long Huyết sơn] Chân tướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/249.mp3",
+    "title" : "(Tập 250) [Long Huyết sơn] Vào nghe ủng hộ đi mấy ghẹ, nóng phỏng tay á",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/25.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 25)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/250.mp3",
+    "title" : "(Tập 251) [Long Huyết sơn] Trở về + 21h sẽ có điều đặc biệt hehe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/251.mp3",
+    "title" : "(Tập 252) [Long Huyết sơn] Xé hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/252.mp3",
+    "title" : "(Tập 253) [Long Huyết sơn] Đồ khốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/253.mp3",
+    "title" : "(Tập 254) [Long Huyết sơn] Nhớ ngươi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/254.mp3",
+    "title" : "(Tập 255) [Long Huyết sơn] Nhận tội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/255.mp3",
+    "title" : "(Tập 256) [Thiên âm các] Thân thế chìm nổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/256.mp3",
+    "title" : "(Tập 255) [Thiên Âm Các] Lâm Giang tiên tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/257.mp3",
+    "title" : "(Tập 258) [Thiên Âm Các] Nhu cốt tranh tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/258.mp3",
+    "title" : "(Tập 259) [Thiên Âm Các] Cùng người chung áo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/259.mp3",
+    "title" : "(Tập 260) [Thiên Âm Các] Đời như lò luyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/26.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 26)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/260.mp3",
+    "title" : "(Tập 261) [Thiên Âm Các] Tội danh bẩn mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/261.mp3",
+    "title" : "(Tập 262) [Thiên Âm Các] Kịch hạ màn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/262.mp3",
+    "title" : "(Tập 263) [Thiên Âm Các] Mộng xưa tái diễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/263.mp3",
+    "title" : "(Tập 264) [Thiên Âm Các] Đế quân như hắn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/264.mp3",
+    "title" : "(Tập 265) [Thiên Âm Các] Hai sư muội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/265.mp3",
+    "title" : "(Tập 266) [Thiên Âm Các] Sưởi ẩm vì người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/266.mp3",
+    "title" : "Rồng vàng quấn trụ ngọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/267.mp3",
+    "title" : "(Tập 268) [Thiên Âm Các] Như về Vu Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/268.mp3",
+    "title" : "(Tập 269) [Thiên Âm Các] Quân chớ rời xa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/269.mp3",
+    "title" : "(Tập 270) [Thiên Âm Các] Xét xử công khai / Nhớ like nha mấy ghẹ, tập 168 ăn 3 dislike bùn qué",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/27.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 27)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/270.mp3",
+    "title" : "(Tập 271) [Thiên Âm Các] Phán xét cuối cùng / Mai chủ nhật lên bù hôm qua nhé",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/271.mp3",
+    "title" : "(Tập 272) [Thiên Âm Các] Miệng đời đáng sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/272.mp3",
+    "title" : "(Tập 273) [Thiên Âm Các] Đường đi bất đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/273.mp3",
+    "title" : "(Tập 274) [Thiên Âm Các] Ngàn cần treo sợi tóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/274.mp3",
+    "title" : "(Tập 275) [Thiên Âm Các] Lòng son vụn nát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/275.mp3",
+    "title" : "(Tập 276) [Thiên Âm Các] Ta tới tuẫn ngươi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/276.mp3",
+    "title" : "(Tập 277) [Thiên Âm Các] Bổn tọa lẻ loi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/277.mp3",
+    "title" : "(Tập 278) [Thiên Âm Các] Chân tướng năm xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/278.mp3",
+    "title" : "(Tập 279) [Thiên Âm Các] Quãng đời còn lại gửi đêm tuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/279.mp3",
+    "title" : "(Tập 280) [Tử sinh đỉnh] Thiện ác trong miệng người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/28.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 28)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/280.mp3",
+    "title" : "(Tập 281) [Tử sinh đỉnh] Ta muốn làm nhiều việc thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/281.mp3",
+    "title" : "(Tập 282) [Tử sinh đỉnh] Cô lang lâm vào bước đường cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/282.mp3",
+    "title" : "(Tập 283) [Tử sinh đỉnh] Khói lửa cuối cùng bốc lên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/283.mp3",
+    "title" : "(Tập 284) [Tử sinh đỉnh] Con ta hay bảo trọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/284.mp3",
+    "title" : "(Tập 285) [Tử sinh đỉnh] Phượng hoàng thiêu mặt trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/285.mp3",
+    "title" : "(Tập 286) [Tử sinh đỉnh] Chàng bạc, chàng thâm tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/286.mp3",
+    "title" : "(Tập 287) [Tử sinh đỉnh] Số mệnh khó thoát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/287.mp3",
+    "title" : "(Tập 288) [Tử sinh đỉnh] Tông sư và Đế quân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/288.mp3",
+    "title" : "(Tập 289) [Tử sinh đỉnh] Thăm vùng đất xưa nửa thành quỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/289.mp3",
+    "title" : "(Tập 290) [Tử sinh đỉnh] Mai Hàn Tuyết hay Mai Hàm Tuyết?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/29.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 29)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/290.mp3",
+    "title" : "(Tập 291) [Tử sinh đỉnh] Hai đời cuối cùng đan xen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/291.mp3",
+    "title" : "(Tập 292) [Tử sinh đỉnh] Lòng quân sâu như biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/292.mp3",
+    "title" : "(Tập 293) [Tử sinh đỉnh] Đế Quân Trường Môn oán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/293.mp3",
+    "title" : "(Tập 294) [Tử sinh đỉnh] Cảnh báo nóng ngàn độ mùa 2 + Thông báo Give Away quan trọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/294.mp3",
+    "title" : "(Tập 295) [Tử sinh đỉnh] Tuẫn Đạo khó hồi hương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/295.mp3",
+    "title" : "(Tập 296) [Tử sinh đỉnh] Đúng như mộng năm đó",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/296.mp3",
+    "title" : "(Tập 297) [Tử sinh đỉnh] Điệp cốt mỹ nhân tịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/297.mp3",
+    "title" : "(Tập 298) [Tử sinh đỉnh] Người tính không bằng trời tính",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/298.mp3",
+    "title" : "(Tập 299) [Tử sinh đỉnh] Cả đời khó ngừng lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/299.mp3",
+    "title" : "(Tập 300) [Tử sinh đỉnh] Lòng quân như lòng ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/3.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/30.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 30)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/300.mp3",
+    "title" : "(Tập 301) [Tử sinh đỉnh] Chuyện cũ lặp lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/301.mp3",
+    "title" : "(Tập 302) [Tử sinh đỉnh] Hồn đoạn vu sơn điện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/302.mp3",
+    "title" : "(Tập 303) [Tử sinh đỉnh] Tiết mông kiếp trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/303.mp3",
+    "title" : "(Tập 304) [Tử sinh đỉnh] Kiếp trước của họ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/304.mp3",
+    "title" : "(Tập 305) [Tử sinh đỉnh] Thân thuần tuẫn ma đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/305.mp3",
+    "title" : "(Tập 306) [Tử sinh đỉnh] Thương thân ta dị tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/306.mp3",
+    "title" : "(Tập 307) [Tử sinh đỉnh] Hoàng hôn của con dơi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/307.mp3",
+    "title" : "(Tập 308) [Tử sinh đỉnh] Hợp lực chống dòng lũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/308.mp3",
+    "title" : "(Tập 309) [Tử sinh đỉnh] Mặc Nhiên chưa rời xa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/309.mp3",
+    "title" : "(Tập 310) [Tử sinh đỉnh] Lá bài sơ-cua cuối cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/31.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 31)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/310.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Đại Kết Cục)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/311.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Phiên ngoại duy nhất nhé)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/32.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 32)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/33.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 33)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/34.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 34)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/35.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 35)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/36.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 36)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/37.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 37)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/38.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 38)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/39.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 39)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/4.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/40.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 40)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/41.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 41)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/42.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 42)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/43.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 43)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/44.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 44)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/45.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 45)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/46.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 46)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/47.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 47)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/48.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 48)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/49.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 49)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/5.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/50.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 50)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/51.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 51)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/52.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 52)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/53.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 53)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/54.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 54)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/55.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 55)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/56.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 56)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/57.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 57)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/58.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 58)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/59.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 59)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/6.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/60.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 60)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/61.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 61)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/62.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 62)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/63.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 63)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/64.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 64)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/65.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 65)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/66.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 66)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/67.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 67)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/68.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 68)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/69.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 69)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/7.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/70.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 70)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/71.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 71)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/72.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 72)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/73.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 73)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/74.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 74)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/75.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 75)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/76.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 76)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/77.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 77)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/78.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 78)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/79.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 79)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/8.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/80.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 80)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/81.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 81)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/82.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 82)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/83.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 83)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/84.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 84)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/85.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 85)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/86.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 86)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/87.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 87)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/88.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 88)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/89.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 89)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/9.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 9)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/90.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 90)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/91.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 92)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/92.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 92)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/93.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 93)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/94.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 94)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/95.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 95)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/96.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 96)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/97.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 97)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/98.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 98)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/husky-va-su-ton-meo-trang-cua-han/99.mp3",
+    "title" : "Nhục Bao Bất Cật nhục (Tập 99)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-tre-dong-xanh-j-d-salinger_10594.html",
+    "title" : "Bắt Trẻ Đồng Xanh - J. D. Salinger",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J.D. Salinger",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23856,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_91cbcaa6acdcfdcbfd478dcfca47f95e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_91cbcaa6acdcfdcbfd478dcfca47f95e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5826,
+    "title" : "J .D. Salinger - Phần 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5222,
+    "title" : "J .D. Salinger - Phần 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5758,
+    "title" : "J .D. Salinger - Phần 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7050,
+    "title" : "J .D. Salinger - Phần 04 end",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/1.mp3",
+    "title" : "J .D. Salinger - Phần 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/2.mp3",
+    "title" : "J .D. Salinger - Phần 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/3.mp3",
+    "title" : "J .D. Salinger - Phần 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-tre-dong-xanh/4.mp3",
+    "title" : "J .D. Salinger - Phần 04 end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

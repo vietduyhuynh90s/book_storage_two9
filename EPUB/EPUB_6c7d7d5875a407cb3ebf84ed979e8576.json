@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ten-em-la-benh-cua-anh-ham-ham_9556.html",
+    "title" : "Tên Em Là Bệnh Của Anh - Hàm Hàm.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hàm Hàm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47193,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6c7d7d5875a407cb3ebf84ed979e8576.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6c7d7d5875a407cb3ebf84ed979e8576.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4230,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3235,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4489,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4319,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3810,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4094,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/10.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/11.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/12.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/4.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/5.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/6.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/7.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/8.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ten-em-la-benh-cua-anh/9.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH VỀ NGƯỜI VỢ BỊ PHẢN BỘI - MC BẢO ANH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

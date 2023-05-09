@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-ma-quai-o-benh-vien-dong-hoa-nam-lang-yeu-giam-phi_11793.html",
+    "title" : "Chuyện Ma Quái Ở Bênh Viện Đồng Hoa - Nam Lang Yếu Giảm Phì",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Lang Yếu Giảm Phì",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15397,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c5418421b6f3bc3776faf23c28f1c420.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c5418421b6f3bc3776faf23c28f1c420.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3765,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4064,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/1.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/2.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/3.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-vien-dong-hoa/4.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Nghe Mà Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

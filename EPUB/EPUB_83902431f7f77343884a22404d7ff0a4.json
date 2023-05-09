@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sherlock-holmes-toan-tap_12502.html",
+    "title" : "Sherlock Holmes Toàn Tập",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Arthur Conan Doyle",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41944,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_83902431f7f77343884a22404d7ff0a4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_83902431f7f77343884a22404d7ff0a4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/01.%20Tu%CC%A3c%20le%CC%A3%CC%82%20o%CC%9B%CC%89%20do%CC%80ng%20ho%CC%A3%20Musgrave.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "01. Tục lệ ở dòng họ Musgrave",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/02.%20%C4%90e%CC%82m%20kinh%20hoa%CC%80ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3017,
+    "title" : "02. Đêm kinh hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/03.%20Hai%20lo%CC%82%CC%83%20tai%20ngu%CC%9Bo%CC%9B%CC%80i%20trong%20ho%CC%A3%CC%82p%20ca%CC%81c%20to%CC%82ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1873,
+    "title" : "03. Hai lỗ tai người trong hộp các tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/04.%20Vo%CC%80ng%20tro%CC%80n%20%C4%91o%CC%89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2180,
+    "title" : "04. Vòng tròn đỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/05.%20Ca%CC%81c%20ba%CC%89n%20ve%CC%83%20ta%CC%80u%20nga%CC%82%CC%80m%20Bruce%20Partington.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "05. Các bản vẽ tàu ngầm Bruce Partington",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/06.%20Sherlock%20Holmes%20ha%CC%82%CC%81p%20ho%CC%82%CC%81i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "06. Sherlock Holmes hấp hối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/07.%20Ngu%CC%9Bo%CC%9B%CC%80i%20%C4%91a%CC%80n%20ba%CC%80%20co%CC%82%20%C4%91o%CC%9Bn%20%C4%91i%20du%20li%CC%A3ch.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2188,
+    "title" : "07. Người đàn bà cô đơn đi du lịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/08.%20Ca%CC%82u%20chuye%CC%A3%CC%82n%20ba%CC%80n%20cha%CC%82n%20quy%CC%89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "08. Câu chuyện bàn chân quỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/09.%20Cung%20%C4%91a%CC%80n%20sau%20cuo%CC%82%CC%81i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "09. Cung đàn sau cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/10.%20Ngu%CC%9Bo%CC%9B%CC%80i%20kha%CC%81ch%20ha%CC%80ng%20no%CC%82%CC%89i%20tie%CC%82%CC%81ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2597,
+    "title" : "10. Người khách hàng nổi tiếng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/11.%20Ngu%CC%9Bo%CC%9B%CC%80i%20li%CC%81nh%20bi%CC%A3%20va%CC%89y%20ne%CC%82%CC%81n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1982,
+    "title" : "11. Người lính bị vảy nến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/12.%20Vie%CC%82n%20%C4%91a%CC%81%20cu%CC%89a%20mazarin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "12. Viên đá của mazarin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/13.%20Ba%20ngu%CC%9Bo%CC%9B%CC%80i%20cu%CC%80ng%20mang%20ho%CC%A3%20Garrideb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "13. Ba người cùng mang họ Garrideb",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/14.%20Ba%CC%80i%20toa%CC%81n%20ta%CC%A3i%20ca%CC%82%CC%80u%20Thor.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2551,
+    "title" : "14. Bài toán tại cầu Thor",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/15.%20Ma%20ca%CC%80%20ro%CC%82%CC%80ng%20o%CC%9B%CC%89%20Sussex.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1709,
+    "title" : "15. Ma cà rồng ở Sussex",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/16.%20Mo%CC%A3%CC%82t%20trang%20ho%CC%82%CC%80i%20ky%CC%81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1864,
+    "title" : "16. Một trang hồi ký",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/17.%20Ngu%CC%9Bo%CC%9B%CC%80i%20%C4%91i%20bo%CC%82%CC%81n%20cha%CC%82n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "17. Người đi bốn chân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/18.%20Bi%CC%81%20a%CC%82%CC%89n%20la%CC%82u%20%C4%91a%CC%80i%20co%CC%82%CC%89%20Shoscombe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1685,
+    "title" : "18. Bí ẩn lâu đài cổ Shoscombe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/19.%20Ca%CC%81i%20bo%CC%9B%CC%80m%20su%CC%9B%20tu%CC%9B%CC%89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "19. Cái bờm sư tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/20.%20Ngu%CC%9Bo%CC%9B%CC%80i%20ba%CC%81n%20so%CC%9Bn%20ve%CC%82%CC%80%20hu%CC%9Bu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1394,
+    "title" : "20. Người bán sơn về hưu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/01.%20Tu%CC%A3c%20le%CC%A3%CC%82%20o%CC%9B%CC%89%20do%CC%80ng%20ho%CC%A3%20Musgrave.mp3",
+    "title" : "01. Tục lệ ở dòng họ Musgrave",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/02.%20%C4%90e%CC%82m%20kinh%20hoa%CC%80ng.mp3",
+    "title" : "02. Đêm kinh hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/03.%20Hai%20lo%CC%82%CC%83%20tai%20ngu%CC%9Bo%CC%9B%CC%80i%20trong%20ho%CC%A3%CC%82p%20ca%CC%81c%20to%CC%82ng.mp3",
+    "title" : "03. Hai lỗ tai người trong hộp các tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/04.%20Vo%CC%80ng%20tro%CC%80n%20%C4%91o%CC%89.mp3",
+    "title" : "04. Vòng tròn đỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/05.%20Ca%CC%81c%20ba%CC%89n%20ve%CC%83%20ta%CC%80u%20nga%CC%82%CC%80m%20Bruce%20Partington.mp3",
+    "title" : "05. Các bản vẽ tàu ngầm Bruce Partington",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/06.%20Sherlock%20Holmes%20ha%CC%82%CC%81p%20ho%CC%82%CC%81i.mp3",
+    "title" : "06. Sherlock Holmes hấp hối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/07.%20Ngu%CC%9Bo%CC%9B%CC%80i%20%C4%91a%CC%80n%20ba%CC%80%20co%CC%82%20%C4%91o%CC%9Bn%20%C4%91i%20du%20li%CC%A3ch.mp3",
+    "title" : "07. Người đàn bà cô đơn đi du lịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/08.%20Ca%CC%82u%20chuye%CC%A3%CC%82n%20ba%CC%80n%20cha%CC%82n%20quy%CC%89.mp3",
+    "title" : "08. Câu chuyện bàn chân quỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/09.%20Cung%20%C4%91a%CC%80n%20sau%20cuo%CC%82%CC%81i.mp3",
+    "title" : "09. Cung đàn sau cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/10.%20Ngu%CC%9Bo%CC%9B%CC%80i%20kha%CC%81ch%20ha%CC%80ng%20no%CC%82%CC%89i%20tie%CC%82%CC%81ng.mp3",
+    "title" : "10. Người khách hàng nổi tiếng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/11.%20Ngu%CC%9Bo%CC%9B%CC%80i%20li%CC%81nh%20bi%CC%A3%20va%CC%89y%20ne%CC%82%CC%81n.mp3",
+    "title" : "11. Người lính bị vảy nến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/12.%20Vie%CC%82n%20%C4%91a%CC%81%20cu%CC%89a%20mazarin.mp3",
+    "title" : "12. Viên đá của mazarin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/13.%20Ba%20ngu%CC%9Bo%CC%9B%CC%80i%20cu%CC%80ng%20mang%20ho%CC%A3%20Garrideb.mp3",
+    "title" : "13. Ba người cùng mang họ Garrideb",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/14.%20Ba%CC%80i%20toa%CC%81n%20ta%CC%A3i%20ca%CC%82%CC%80u%20Thor.mp3",
+    "title" : "14. Bài toán tại cầu Thor",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/15.%20Ma%20ca%CC%80%20ro%CC%82%CC%80ng%20o%CC%9B%CC%89%20Sussex.mp3",
+    "title" : "15. Ma cà rồng ở Sussex",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/16.%20Mo%CC%A3%CC%82t%20trang%20ho%CC%82%CC%80i%20ky%CC%81.mp3",
+    "title" : "16. Một trang hồi ký",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/17.%20Ngu%CC%9Bo%CC%9B%CC%80i%20%C4%91i%20bo%CC%82%CC%81n%20cha%CC%82n.mp3",
+    "title" : "17. Người đi bốn chân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/18.%20Bi%CC%81%20a%CC%82%CC%89n%20la%CC%82u%20%C4%91a%CC%80i%20co%CC%82%CC%89%20Shoscombe.mp3",
+    "title" : "18. Bí ẩn lâu đài cổ Shoscombe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/19.%20Ca%CC%81i%20bo%CC%9B%CC%80m%20su%CC%9B%20tu%CC%9B%CC%89.mp3",
+    "title" : "19. Cái bờm sư tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sherlock-holmes-truyen-ngan-3.sna/20.%20Ngu%CC%9Bo%CC%9B%CC%80i%20ba%CC%81n%20so%CC%9Bn%20ve%CC%82%CC%80%20hu%CC%9Bu.mp3",
+    "title" : "20. Người bán sơn về hưu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

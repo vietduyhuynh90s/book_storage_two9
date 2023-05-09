@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/say-dam-mot-nang-meo_15323.html",
+    "title" : "Say Đắm Một Nàng Mèo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Một Nửa Linh Hồn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17497,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_972a575ad8d96bc2dc8c3e8666097399.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_972a575ad8d96bc2dc8c3e8666097399.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "Tập 1 - ngôn tình, xuyên không hài hước 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "Tập 2 - ngôn tình, xuyên không hài hước 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4149,
+    "title" : "Tập 3 - ngôn tình, xuyên không hài hước 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4697,
+    "title" : "Tập cuổi - ngôn tình, xuyên không hài hước 2020",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/1.mp3",
+    "title" : "Tập 1 - ngôn tình, xuyên không hài hước 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/2.mp3",
+    "title" : "Tập 2 - ngôn tình, xuyên không hài hước 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/3.mp3",
+    "title" : "Tập 3 - ngôn tình, xuyên không hài hước 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/say-dam-mot-nang-meo/4.mp3",
+    "title" : "Tập cuổi - ngôn tình, xuyên không hài hước 2020",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

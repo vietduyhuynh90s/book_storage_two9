@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-sach-z-28-nguoi-thu-tam_11461.html",
+    "title" : "Tủ Sách Z.28 - Người Thứ Tám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Người Thứ Tám",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36307,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7c3fd0be5f1b18516de540ccfa426f53.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7c3fd0be5f1b18516de540ccfa426f53.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/balematbiecmoihong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8438,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/balematbiecmoihong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7666,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/balematbiecmoihong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10064,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/balematbiecmoihong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10139,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/balematbiecmoihong/1.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/balematbiecmoihong/2.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/balematbiecmoihong/3.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/balematbiecmoihong/4.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

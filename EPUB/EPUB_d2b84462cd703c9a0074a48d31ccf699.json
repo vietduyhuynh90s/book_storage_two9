@@ -1,0 +1,473 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-chang-linh-ngu-lam-alexandre-dumas_10333.html",
+    "title" : "Ba Chàng Lính Ngự Lâm - Alexandre Dumas",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alexandre Dumas",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 72164,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d2b84462cd703c9a0074a48d31ccf699.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d2b84462cd703c9a0074a48d31ccf699.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2075,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2234,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2041,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1909,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2034,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1981,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2122,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2511,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1682,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2170,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1805,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2731,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1307,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1924,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2246,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1683,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1887,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2455,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2091,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2459,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2058,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2128,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1702,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2229,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1843,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1718,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2077,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1980,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1517,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1411,
+    "title" : "Ba Người Lính Ngự Lâm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan01.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan02.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan03.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan04.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan05.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan06.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan07.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan08.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan09.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan10.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan11.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan12.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan13.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan14.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan15.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan16.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan17.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan18.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan19.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan20.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan21.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan22.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan23.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan24.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan25.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan26.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan27.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan28.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan29.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan30.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan31.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan32.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan33.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan34.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan35.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-linh-ngu-lam.sna/Phan36.mp3",
+    "title" : "Ba Người Lính Ngự Lâm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

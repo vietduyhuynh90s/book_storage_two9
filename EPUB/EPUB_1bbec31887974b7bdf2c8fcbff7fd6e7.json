@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngon-tay-thu-muoi-mot_12361.html",
+    "title" : "Ngón Tay Thứ Mười Một",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tần Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 54214,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1bbec31887974b7bdf2c8fcbff7fd6e7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1bbec31887974b7bdf2c8fcbff7fd6e7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4541,
+    "title" : "NGÓN TAY THỨ 11 #1 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "NGÓN TAY THỨ 11 #10 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "NGÓN TAY THỨ 11 #11 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8361,
+    "title" : "NGÓN TAY THỨ 11 #12 end | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4579,
+    "title" : "NGÓN TAY THỨ 11 #2 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4382,
+    "title" : "NGÓN TAY THỨ 11 #3 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4211,
+    "title" : "NGÓN TAY THỨ 11 #4 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4514,
+    "title" : "NGÓN TAY THỨ 11 #5 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3987,
+    "title" : "NGÓN TAY THỨ 11 #6 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4157,
+    "title" : "NGÓN TAY THỨ 11 #7 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "NGÓN TAY THỨ 11 #8 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "NGÓN TAY THỨ 11 #9 | Tần Minh (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/1.mp3",
+    "title" : "NGÓN TAY THỨ 11 #1 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/10.mp3",
+    "title" : "NGÓN TAY THỨ 11 #10 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/11.mp3",
+    "title" : "NGÓN TAY THỨ 11 #11 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/12.mp3",
+    "title" : "NGÓN TAY THỨ 11 #12 end | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/2.mp3",
+    "title" : "NGÓN TAY THỨ 11 #2 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/3.mp3",
+    "title" : "NGÓN TAY THỨ 11 #3 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/4.mp3",
+    "title" : "NGÓN TAY THỨ 11 #4 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/5.mp3",
+    "title" : "NGÓN TAY THỨ 11 #5 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/6.mp3",
+    "title" : "NGÓN TAY THỨ 11 #6 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/7.mp3",
+    "title" : "NGÓN TAY THỨ 11 #7 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/8.mp3",
+    "title" : "NGÓN TAY THỨ 11 #8 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngon-tay-thu-11/9.mp3",
+    "title" : "NGÓN TAY THỨ 11 #9 | Tần Minh (Matean chỉnh sửa)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

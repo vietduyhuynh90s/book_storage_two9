@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-nhac-tuong_18807.html",
+    "title" : "Kẻ Nhắc Tuồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Donato Carrisi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 56151,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8011f350e9f88a1cda46e44995303ef5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8011f350e9f88a1cda46e44995303ef5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5052,
+    "title" : "KẺ NHẮC TUỒNG 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5172,
+    "title" : "KẺ NHẮC TUỒNG 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6053,
+    "title" : "KẺ NHẮC TUỒNG 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4225,
+    "title" : "KẺ NHẮC TUỒNG 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4997,
+    "title" : "KẺ NHẮC TUỒNG 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4467,
+    "title" : "KẺ NHẮC TUỒNG 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4568,
+    "title" : "KẺ NHẮC TUỒNG 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5561,
+    "title" : "KẺ NHẮC TUỒNG 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4933,
+    "title" : "KẺ NHẮC TUỒNG 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4437,
+    "title" : "KẺ NHẮC TUỒNG 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_11%20%28full%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6686,
+    "title" : "KẺ NHẮC TUỒNG 11 (full)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_01.mp3",
+    "title" : "KẺ NHẮC TUỒNG 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_02.mp3",
+    "title" : "KẺ NHẮC TUỒNG 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_03.mp3",
+    "title" : "KẺ NHẮC TUỒNG 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_04.mp3",
+    "title" : "KẺ NHẮC TUỒNG 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_05.mp3",
+    "title" : "KẺ NHẮC TUỒNG 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_06.mp3",
+    "title" : "KẺ NHẮC TUỒNG 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_07.mp3",
+    "title" : "KẺ NHẮC TUỒNG 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_08.mp3",
+    "title" : "KẺ NHẮC TUỒNG 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_09.mp3",
+    "title" : "KẺ NHẮC TUỒNG 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_10.mp3",
+    "title" : "KẺ NHẮC TUỒNG 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-nha-c-tuo-ng-03/K%E1%BA%BA%20NH%E1%BA%AEC%20TU%E1%BB%92NG_11%20%28full%29.mp3",
+    "title" : "KẺ NHẮC TUỒNG 11 (full)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

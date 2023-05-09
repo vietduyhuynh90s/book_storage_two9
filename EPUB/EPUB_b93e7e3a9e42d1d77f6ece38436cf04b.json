@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/le-nao-em-khong-biet-lan-rua_10379.html",
+    "title" : "Lẽ Nào Em Không Biết - Lan Rùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan Rùa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 49002,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_b93e7e3a9e42d1d77f6ece38436cf04b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_b93e7e3a9e42d1d77f6ece38436cf04b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3335,
+    "title" : "Audio- Lẽ nào em không biết p1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Audio- Lẽ nào em không biết p10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Audio- Lẽ nào em không biết p11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6776,
+    "title" : "Audio- Lẽ nào em không biết p12 hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "Audio- Lẽ nào em không biết p2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "Audio- Lẽ nào em không biết p3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4284,
+    "title" : "Audio- Lẽ nào em không biết p4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "Audio- Lẽ nào em không biết p5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "Audio- Lẽ nào em không biết p6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2963,
+    "title" : "Audio- Lẽ nào em không biết p7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5154,
+    "title" : "Audio- Lẽ nào em không biết p8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5252,
+    "title" : "Audio- Lẽ nào em không biết p9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/1.mp3",
+    "title" : "Audio- Lẽ nào em không biết p1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/10.mp3",
+    "title" : "Audio- Lẽ nào em không biết p10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/11.mp3",
+    "title" : "Audio- Lẽ nào em không biết p11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/12.mp3",
+    "title" : "Audio- Lẽ nào em không biết p12 hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/2.mp3",
+    "title" : "Audio- Lẽ nào em không biết p2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/3.mp3",
+    "title" : "Audio- Lẽ nào em không biết p3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/4.mp3",
+    "title" : "Audio- Lẽ nào em không biết p4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/5.mp3",
+    "title" : "Audio- Lẽ nào em không biết p5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/6.mp3",
+    "title" : "Audio- Lẽ nào em không biết p6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/7.mp3",
+    "title" : "Audio- Lẽ nào em không biết p7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/8.mp3",
+    "title" : "Audio- Lẽ nào em không biết p8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-nao-em-khong-biet/9.mp3",
+    "title" : "Audio- Lẽ nào em không biết p9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

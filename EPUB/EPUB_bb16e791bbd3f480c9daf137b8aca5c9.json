@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-trong-chiec-vali_15675.html",
+    "title" : "Bí Mật Trong Chiếc Vali",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25709,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_bb16e791bbd3f480c9daf137b8aca5c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_bb16e791bbd3f480c9daf137b8aca5c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bmtcv/00001_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 733,
+    "title" : "00001 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00002_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1005,
+    "title" : "00002 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00003_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 875,
+    "title" : "00003 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00004_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 910,
+    "title" : "00004 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00005_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 808,
+    "title" : "00005 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00006_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1005,
+    "title" : "00006 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00007_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 497,
+    "title" : "00007 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00008_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 768,
+    "title" : "00008 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00009_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 647,
+    "title" : "00009 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00010_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 799,
+    "title" : "00010 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00011_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 975,
+    "title" : "00011 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00012_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "00012 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00013_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 712,
+    "title" : "00013 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00014_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 727,
+    "title" : "00014 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00015_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 833,
+    "title" : "00015 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00016_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1167,
+    "title" : "00016 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00017_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 837,
+    "title" : "00017 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00018_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 846,
+    "title" : "00018 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00019_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 804,
+    "title" : "00019 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00020_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 674,
+    "title" : "00020 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00021_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 511,
+    "title" : "00021 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00022_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 677,
+    "title" : "00022 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00023_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 650,
+    "title" : "00023 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00024_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1378,
+    "title" : "00024 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00025_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 359,
+    "title" : "00025 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00026_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 218,
+    "title" : "00026 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00027_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 664,
+    "title" : "00027 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00028_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 928,
+    "title" : "00028 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00029_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 243,
+    "title" : "00029 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00030_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 624,
+    "title" : "00030 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00031_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1332,
+    "title" : "00031 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00032_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1232,
+    "title" : "00032 Bí Mật Trong Chiếc Vali",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bmtcv/00001_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00001 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00002_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00002 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00003_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00003 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00004_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00004 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00005_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00005 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00006_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00006 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00007_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00007 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00008_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00008 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00009_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00009 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00010_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00010 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00011_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00011 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00012_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00012 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00013_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00013 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00014_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00014 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00015_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00015 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00016_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00016 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00017_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00017 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00018_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00018 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00019_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00019 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00020_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00020 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00021_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00021 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00022_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00022 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00023_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00023 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00024_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00024 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00025_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00025 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00026_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00026 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00027_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00027 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00028_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00028 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00029_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00029 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00030_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00030 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00031_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00031 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmtcv/00032_Bi%CC%81%20Ma%CC%A3%CC%82t%20Trong%20Chie%CC%82%CC%81c%20Vali.m4a",
+    "title" : "00032 Bí Mật Trong Chiếc Vali",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

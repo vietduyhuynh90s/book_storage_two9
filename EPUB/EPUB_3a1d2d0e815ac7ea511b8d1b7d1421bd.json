@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-voi-ma_15630.html",
+    "title" : "Sống Với Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "KuroKeita",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14957,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3a1d2d0e815ac7ea511b8d1b7d1421bd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3a1d2d0e815ac7ea511b8d1b7d1421bd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn kể Sợ Lạnh Hết Cả Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn kể Sợ Lạnh Hết Cả Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn Kể Hãi Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn Kể Rợn Gáy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/1.mp3",
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn kể Sợ Lạnh Hết Cả Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/2.mp3",
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn kể Sợ Lạnh Hết Cả Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/3.mp3",
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn Kể Hãi Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-voi-ma_20201013/4.mp3",
+    "title" : "Truyện Ma Mới Có Thật Hay MC Đình Soạn Kể Rợn Gáy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

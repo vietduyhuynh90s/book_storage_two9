@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhat-ky-son-moi_14157.html",
+    "title" : "Nhật Ký Son Môi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gào (Vũ Phương Thanh)",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12324,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c38ed3e7ef686ae174717c36f0f3903c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c38ed3e7ef686ae174717c36f0f3903c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "1/8 | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1533,
+    "title" : "2/8 | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "3/8 | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2062,
+    "title" : "4/8 | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1474,
+    "title" : "5/8 | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1096,
+    "title" : "6/8 | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1377,
+    "title" : "7/8 | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1401,
+    "title" : "8/8 (Hết) | Gào | Now Truyện hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/1.mp3",
+    "title" : "1/8 | Gào | Now Truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/2.mp3",
+    "title" : "2/8 | Gào | Now Truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/3.mp3",
+    "title" : "3/8 | Gào | Now Truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/4.mp3",
+    "title" : "4/8 | Gào | Now Truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/5.mp3",
+    "title" : "5/8 | Gào | Now Truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/6.mp3",
+    "title" : "6/8 | Gào | Now Truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/7.mp3",
+    "title" : "7/8 | Gào | Now Truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-son-moi/8.mp3",
+    "title" : "8/8 (Hết) | Gào | Now Truyện hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

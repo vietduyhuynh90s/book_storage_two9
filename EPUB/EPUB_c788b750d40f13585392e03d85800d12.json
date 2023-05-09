@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-diem-doi-lua-dan-brown-trinh-tham_3717.html",
+    "title" : "Điểm Dối Lừa - Dan Brown.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dan Brown",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 63791,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c788b750d40f13585392e03d85800d12.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c788b750d40f13585392e03d85800d12.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diemluadoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8889,
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9240,
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9651,
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9507,
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8945,
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8744,
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8815,
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diemluadoi/1.mp3",
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/2.mp3",
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/3.mp3",
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/4.mp3",
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/5.mp3",
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/6.mp3",
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diemluadoi/7.mp3",
+    "title" : "Tiểu Thuyết của Dan Brown | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

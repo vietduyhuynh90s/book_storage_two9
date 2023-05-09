@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/le-tinh-nhan-dam-mau_14413.html",
+    "title" : "Lễ Tình Nhân Đẫm Máu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đào Đào Nhất Luân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 71803,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6f59ebaa4756d0b3300725a2e58a5fb6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6f59ebaa4756d0b3300725a2e58a5fb6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4492,
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3549,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3288,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "Full Siêu Phẩm Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "Full Siêu Phẩm Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4525,
+    "title" : "Full Siêu Phẩm Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 19 (Tập Cuối )",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4034,
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4925,
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3792,
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3789,
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3859,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3877,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4190,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3814,
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/1.mp3",
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/10.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/11.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/12.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/13.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/14.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/15.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/16.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/17.mp3",
+    "title" : "Full Siêu Phẩm Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/18.mp3",
+    "title" : "Full Siêu Phẩm Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/19.mp3",
+    "title" : "Full Siêu Phẩm Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 19 (Tập Cuối )",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/2.mp3",
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/3.mp3",
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/4.mp3",
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/5.mp3",
+    "title" : "Full Truyện Trinh Thám hay Lễ Tình Nhân Đẫm Máu Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/6.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/7.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/8.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-tinh-nhan-dam-mau/9.mp3",
+    "title" : "Full Truyện Trinh Thám Lễ Tình Nhân Đẫm Máu Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

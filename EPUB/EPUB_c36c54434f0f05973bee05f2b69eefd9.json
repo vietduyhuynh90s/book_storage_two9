@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-harry-potter-va-bao-boi-tu-than-j-k-rowling-ky-ao_3505.html",
+    "title" : "Harry Potter Và Bảo Bối Tử Thần - J. K. Rowling",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. K. Rowling",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 84065,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c36c54434f0f05973bee05f2b69eefd9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c36c54434f0f05973bee05f2b69eefd9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-01-chua-te-tung-hoanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1562,
+    "title" : "Harry Potter 7 - Chýõng 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-02-Trong-ky-uc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "Harry Potter 7 - Chýõng 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-03-Chuyen-di-cua-nha-Dursley.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1593,
+    "title" : "Harry Potter 7 - Chýõng 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-04-Bay-Harry-potter.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2503,
+    "title" : "Harry Potter 7 - Chýõng 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-05-Nguoi-chien-binh-guc-nga.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2911,
+    "title" : "Harry Potter 7 - Chýõng 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-06-Con-ma-ca-rong-mac-pajamas.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3210,
+    "title" : "Harry Potter 7 - Chýõng 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-07-Di-chuc-cua-cu%25C2%25A0Dumbledore.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "Harry Potter 7 - Chýõng 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-08-Dam-cuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "Harry Potter 7 - Chýõng 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-09-Mot-noi-de-tron.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1951,
+    "title" : "Harry Potter 7 - Chýõng 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-10-Cau-chuyen-cua-Kreacher.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3154,
+    "title" : "Harry Potter 7 - Chýõng 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-11-Qua-hoi-lo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2682,
+    "title" : "Harry Potter 7 - Chýõng 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-12-Phap-thuat-va-quyen-luc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "Harry Potter 7 - Chýõng 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-13-Uy-ban-dang-ky-phu-thuy-goc-muggle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2725,
+    "title" : "Harry Potter 7 - Chýõng 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-14-Ten-trom.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1885,
+    "title" : "Harry Potter 7 - Chýõng 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-15-Yeu-tinh-rua-han.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "Harry Potter 7 - Chýõng 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-16-Thung-lung-Godric.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2279,
+    "title" : "Harry Potter 7 - Chýõng 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-17-Bi-mat-cua-Bathilda.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2425,
+    "title" : "Harry Potter 7 - Chýõng 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-18-Chuyen-doi-va-chuyen-xao-cua-albus-dumbledore.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "Harry Potter 7 - Chýõng 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-19-Con-huou-bac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "Harry Potter 7 - Chýõng 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-20-Ong-Xenophilius-Lovegood.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2034,
+    "title" : "Harry Potter 7 - Chýõng 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-21-Chuyen-ke-ve-ba-anh-em.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2252,
+    "title" : "Harry Potter 7 - Chýõng 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-22-Ba-bao-boi-tu-than.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2670,
+    "title" : "Harry Potter 7 - Chýõng 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-23-Phu-Malfoy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3774,
+    "title" : "Harry Potter 7 - Chýõng 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-24-Nguoi-che-tao-dua-phep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3082,
+    "title" : "Harry Potter 7 - Chýõng 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-25-Choi-dat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1948,
+    "title" : "Harry Potter 7 - Chýõng 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-26-Gringott.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2914,
+    "title" : "Harry Potter 7 - Chýõng 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-27-Cho-giau-cuoi-cung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1158,
+    "title" : "Harry Potter 7 - Chýõng 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-28-Manh-guong-that-lac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2117,
+    "title" : "Harry Potter 7 - Chýõng 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-29-Vong-nguyet-que-da-mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2054,
+    "title" : "Harry Potter 7 - Chýõng 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-30-Tong-co-Severus-Snape-.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2256,
+    "title" : "Harry Potter 7 - Chýõng 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-31-Chien-truong-Hogwarts.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Harry Potter 7 - Chýõng 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-32-Cay-dua-phep-com-nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2546,
+    "title" : "Harry Potter 7 - Chýõng 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-33-Chuyen-cua-Prince.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "Harry Potter 7 - Chýõng 33",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-01-chua-te-tung-hoanh.mp3",
+    "title" : "Harry Potter 7 - Chýõng 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-02-Trong-ky-uc.mp3",
+    "title" : "Harry Potter 7 - Chýõng 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-03-Chuyen-di-cua-nha-Dursley.mp3",
+    "title" : "Harry Potter 7 - Chýõng 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-04-Bay-Harry-potter.mp3",
+    "title" : "Harry Potter 7 - Chýõng 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-05-Nguoi-chien-binh-guc-nga.mp3",
+    "title" : "Harry Potter 7 - Chýõng 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-06-Con-ma-ca-rong-mac-pajamas.mp3",
+    "title" : "Harry Potter 7 - Chýõng 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-07-Di-chuc-cua-cu%25C2%25A0Dumbledore.mp3",
+    "title" : "Harry Potter 7 - Chýõng 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-08-Dam-cuoi.mp3",
+    "title" : "Harry Potter 7 - Chýõng 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-09-Mot-noi-de-tron.mp3",
+    "title" : "Harry Potter 7 - Chýõng 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-10-Cau-chuyen-cua-Kreacher.mp3",
+    "title" : "Harry Potter 7 - Chýõng 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-11-Qua-hoi-lo.mp3",
+    "title" : "Harry Potter 7 - Chýõng 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-12-Phap-thuat-va-quyen-luc.mp3",
+    "title" : "Harry Potter 7 - Chýõng 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-13-Uy-ban-dang-ky-phu-thuy-goc-muggle.mp3",
+    "title" : "Harry Potter 7 - Chýõng 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-14-Ten-trom.mp3",
+    "title" : "Harry Potter 7 - Chýõng 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-15-Yeu-tinh-rua-han.mp3",
+    "title" : "Harry Potter 7 - Chýõng 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-16-Thung-lung-Godric.mp3",
+    "title" : "Harry Potter 7 - Chýõng 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-17-Bi-mat-cua-Bathilda.mp3",
+    "title" : "Harry Potter 7 - Chýõng 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-18-Chuyen-doi-va-chuyen-xao-cua-albus-dumbledore.mp3",
+    "title" : "Harry Potter 7 - Chýõng 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-19-Con-huou-bac.mp3",
+    "title" : "Harry Potter 7 - Chýõng 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-20-Ong-Xenophilius-Lovegood.mp3",
+    "title" : "Harry Potter 7 - Chýõng 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-21-Chuyen-ke-ve-ba-anh-em.mp3",
+    "title" : "Harry Potter 7 - Chýõng 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-22-Ba-bao-boi-tu-than.mp3",
+    "title" : "Harry Potter 7 - Chýõng 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-23-Phu-Malfoy.mp3",
+    "title" : "Harry Potter 7 - Chýõng 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-24-Nguoi-che-tao-dua-phep.mp3",
+    "title" : "Harry Potter 7 - Chýõng 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-25-Choi-dat.mp3",
+    "title" : "Harry Potter 7 - Chýõng 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-26-Gringott.mp3",
+    "title" : "Harry Potter 7 - Chýõng 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-27-Cho-giau-cuoi-cung.mp3",
+    "title" : "Harry Potter 7 - Chýõng 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-28-Manh-guong-that-lac.mp3",
+    "title" : "Harry Potter 7 - Chýõng 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-29-Vong-nguyet-que-da-mat.mp3",
+    "title" : "Harry Potter 7 - Chýõng 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-30-Tong-co-Severus-Snape-.mp3",
+    "title" : "Harry Potter 7 - Chýõng 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-31-Chien-truong-Hogwarts.mp3",
+    "title" : "Harry Potter 7 - Chýõng 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-32-Cay-dua-phep-com-nguoi.mp3",
+    "title" : "Harry Potter 7 - Chýõng 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnHarryPotter7-BaoBoiTuThan/chuong-33-Chuyen-cua-Prince.mp3",
+    "title" : "Harry Potter 7 - Chýõng 33",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,677 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chinh-phi-khong-bang-tieu-thiep_12532.html",
+    "title" : "Chính Phi Không Bằng Tiểu Thiếp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thư Ca",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 185643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_2d488dccd4f76e6e2339c332890b3722.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_2d488dccd4f76e6e2339c332890b3722.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4205,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1873,
+    "title" : "Chương 59: Audio Truyện Chính Phi Không Bằng tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "Chương 60: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3890,
+    "title" : "Chương 61-63: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2798,
+    "title" : "Chương 64-65: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4290,
+    "title" : "Chương 66-69: Audio Truyện Chính Phi Không Bằng Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "Chương 70-71: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2196,
+    "title" : "Chương 72-73: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3009,
+    "title" : "Chương 74-76: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4387,
+    "title" : "Chương 77-80: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3350,
+    "title" : "Chương 81-83: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4492,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3773,
+    "title" : "Chương 84-87: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3175,
+    "title" : "Chương 88-90: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "Chương 91-93: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3937,
+    "title" : "Chương 94-97: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "Chương 98-101: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3963,
+    "title" : "Chương 102-104: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4199,
+    "title" : "Chương 105-107: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "Chương 108-110: Audio Truyện Chính Phi khÔng bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Chương 111-112: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "Chương 112-114: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4561,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "Chương 115-117: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4560,
+    "title" : "Chương 118-122: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4380,
+    "title" : "Chương 123-126: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4477,
+    "title" : "Chương 127-130: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "Chương 131-133: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3213,
+    "title" : "Chương 134-136: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1401,
+    "title" : "Chương 137: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3288,
+    "title" : "Q2 Chương 1-3: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2848,
+    "title" : "Q2 Chương 4-5: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2445,
+    "title" : "Q2 Chương 6-8: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7960,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4336,
+    "title" : "Q2 Chương 9-12: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4233,
+    "title" : "Q2 Chương 13-15: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4370,
+    "title" : "Q2 Chương 16-18: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1953,
+    "title" : "Q2 Chương 19: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1981,
+    "title" : "Q2 Chương 20: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "Q2 Chương 21-22: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4739,
+    "title" : "Q2 Chương 23-26: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2614,
+    "title" : "Q2 Chương 27-28: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2204,
+    "title" : "Q2 Chương 29: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2013,
+    "title" : "Q2 Chương 30: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4110,
+    "title" : "Chương 53-54: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4491,
+    "title" : "Q2 Chương 31-33: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4261,
+    "title" : "Q2 Chương 34-36: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2114,
+    "title" : "Q2 Chương 37: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10930,
+    "title" : "Q2 Chương 38 Kết: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "Chương 55: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1825,
+    "title" : "Chương 56: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1739,
+    "title" : "Chương 57: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "Chương 58: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/10.mp3",
+    "title" : "Chương 59: Audio Truyện Chính Phi Không Bằng tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/11.mp3",
+    "title" : "Chương 60: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/12.mp3",
+    "title" : "Chương 61-63: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/13.mp3",
+    "title" : "Chương 64-65: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/14.mp3",
+    "title" : "Chương 66-69: Audio Truyện Chính Phi Không Bằng Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/15.mp3",
+    "title" : "Chương 70-71: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/16.mp3",
+    "title" : "Chương 72-73: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/17.mp3",
+    "title" : "Chương 74-76: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/18.mp3",
+    "title" : "Chương 77-80: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/19.mp3",
+    "title" : "Chương 81-83: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/20.mp3",
+    "title" : "Chương 84-87: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/21.mp3",
+    "title" : "Chương 88-90: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/22.mp3",
+    "title" : "Chương 91-93: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/23.mp3",
+    "title" : "Chương 94-97: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/24.mp3",
+    "title" : "Chương 98-101: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/25.mp3",
+    "title" : "Chương 102-104: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/26.mp3",
+    "title" : "Chương 105-107: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/27.mp3",
+    "title" : "Chương 108-110: Audio Truyện Chính Phi khÔng bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/28.mp3",
+    "title" : "Chương 111-112: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/29.mp3",
+    "title" : "Chương 112-114: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/30.mp3",
+    "title" : "Chương 115-117: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/31.mp3",
+    "title" : "Chương 118-122: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/32.mp3",
+    "title" : "Chương 123-126: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/33.mp3",
+    "title" : "Chương 127-130: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/34.mp3",
+    "title" : "Chương 131-133: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/35.mp3",
+    "title" : "Chương 134-136: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/36.mp3",
+    "title" : "Chương 137: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/37.mp3",
+    "title" : "Q2 Chương 1-3: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/38.mp3",
+    "title" : "Q2 Chương 4-5: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/39.mp3",
+    "title" : "Q2 Chương 6-8: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/40.mp3",
+    "title" : "Q2 Chương 9-12: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/41.mp3",
+    "title" : "Q2 Chương 13-15: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/42.mp3",
+    "title" : "Q2 Chương 16-18: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/43.mp3",
+    "title" : "Q2 Chương 19: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/44.mp3",
+    "title" : "Q2 Chương 20: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/45.mp3",
+    "title" : "Q2 Chương 21-22: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/46.mp3",
+    "title" : "Q2 Chương 23-26: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/47.mp3",
+    "title" : "Q2 Chương 27-28: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/48.mp3",
+    "title" : "Q2 Chương 29: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/49.mp3",
+    "title" : "Q2 Chương 30: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/5.mp3",
+    "title" : "Chương 53-54: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/50.mp3",
+    "title" : "Q2 Chương 31-33: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/51.mp3",
+    "title" : "Q2 Chương 34-36: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/52.mp3",
+    "title" : "Q2 Chương 37: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/53.mp3",
+    "title" : "Q2 Chương 38 Kết: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/6.mp3",
+    "title" : "Chương 55: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/7.mp3",
+    "title" : "Chương 56: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/8.mp3",
+    "title" : "Chương 57: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chinh-phi-khong-bang-tieu-thiep_201911/9.mp3",
+    "title" : "Chương 58: Audio Truyện Chính Phi Không Bằng Tiểu Thiếp",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

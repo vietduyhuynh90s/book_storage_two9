@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/em-lai-gap-anh_12969.html",
+    "title" : "Em Lại Gặp Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Thanh Thần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 48571,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_344a19f0216169be9d823fb23e50a5d5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_344a19f0216169be9d823fb23e50a5d5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/em-gap-lai-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7281,
+    "title" : "Truyện hay 2017 – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7247,
+    "title" : "Truyện hay 2017 – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8596,
+    "title" : "Truyện hay 2017 – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7539,
+    "title" : "Truyện hay 2017 – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7963,
+    "title" : "Truyện hay 2017 – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9945,
+    "title" : "Truyện hay 2017 – P6( Hết )",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/em-gap-lai-anh/1.mp3",
+    "title" : "Truyện hay 2017 – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/2.mp3",
+    "title" : "Truyện hay 2017 – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/3.mp3",
+    "title" : "Truyện hay 2017 – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/4.mp3",
+    "title" : "Truyện hay 2017 – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/5.mp3",
+    "title" : "Truyện hay 2017 – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-gap-lai-anh/6.mp3",
+    "title" : "Truyện hay 2017 – P6( Hết )",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

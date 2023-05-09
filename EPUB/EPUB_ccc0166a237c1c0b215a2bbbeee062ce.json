@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/rung-na-uy-haruki-murakami_10425.html",
+    "title" : "Rừng Na Uy - Haruki Murakami",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Haruki Murakami",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44664,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ccc0166a237c1c0b215a2bbbeee062ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ccc0166a237c1c0b215a2bbbeee062ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL001%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 77,
+    "title" : "SNNL001 ― Rừng Na Uy ― Chương 1 ― Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL002%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "SNNL002 ― Rừng Na Uy ― Chương 2 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL003%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "SNNL003 ― Rừng Na Uy ― Chương 3 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL004%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "SNNL004 ― Rừng Na Uy ― Chương 4 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL005%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5603,
+    "title" : "SNNL005 ― Rừng Na Uy ― Chương 5 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL006%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 811,
+    "title" : "SNNL006 ― Rừng Na Uy ― Chương 6 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL007%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12123,
+    "title" : "SNNL007 ― Rừng Na Uy ― Chương 7 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL008%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4709,
+    "title" : "SNNL008 ― Rừng Na Uy ― Chương 8 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL009%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2906,
+    "title" : "SNNL009 ― Rừng Na Uy ― Chương 9 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL010%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "SNNL010 ― Rừng Na Uy ― Chương 10 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL011%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5294,
+    "title" : "SNNL011 ― Rừng Na Uy ― Chương 11 ―",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL012%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012%20%E2%80%95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "SNNL012 ― Rừng Na Uy ― Chương 12 ―",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL001%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "title" : "SNNL001 ― Rừng Na Uy ― Chương 1 ― Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL002%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202%20%E2%80%95.mp3",
+    "title" : "SNNL002 ― Rừng Na Uy ― Chương 2 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL003%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203%20%E2%80%95.mp3",
+    "title" : "SNNL003 ― Rừng Na Uy ― Chương 3 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL004%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204%20%E2%80%95.mp3",
+    "title" : "SNNL004 ― Rừng Na Uy ― Chương 4 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL005%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205%20%E2%80%95.mp3",
+    "title" : "SNNL005 ― Rừng Na Uy ― Chương 5 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL006%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206%20%E2%80%95.mp3",
+    "title" : "SNNL006 ― Rừng Na Uy ― Chương 6 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL007%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207%20%E2%80%95.mp3",
+    "title" : "SNNL007 ― Rừng Na Uy ― Chương 7 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL008%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208%20%E2%80%95.mp3",
+    "title" : "SNNL008 ― Rừng Na Uy ― Chương 8 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL009%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209%20%E2%80%95.mp3",
+    "title" : "SNNL009 ― Rừng Na Uy ― Chương 9 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL010%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010%20%E2%80%95.mp3",
+    "title" : "SNNL010 ― Rừng Na Uy ― Chương 10 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL011%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011%20%E2%80%95.mp3",
+    "title" : "SNNL011 ― Rừng Na Uy ― Chương 11 ―",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202333-Rung-Na-Uy/SNNL012%20%E2%80%95%20R%E1%BB%ABng%20Na%20Uy%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012%20%E2%80%95.mp3",
+    "title" : "SNNL012 ― Rừng Na Uy ― Chương 12 ―",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

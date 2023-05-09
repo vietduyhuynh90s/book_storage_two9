@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-phi-tram-that-su-khong-met-moi_12500.html",
+    "title" : "Ái Phi, Trẫm Thật Sự Không Mệt Mỏi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hàn Tiểu Đình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 79903,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_4967e31aadac8d9f0a6d1a8fcc6479f1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_4967e31aadac8d9f0a6d1a8fcc6479f1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8608,
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #01_truyện audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11292,
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #02_TRUYỆN audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7251,
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #03_truyện Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18402,
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #04_truyện Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15716,
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #05_truyện Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18634,
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #06 Full_truyện Audio ngôn tình xuyên không hay nhất.",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/1.mp3",
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #01_truyện audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/2.mp3",
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #02_TRUYỆN audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/3.mp3",
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #03_truyện Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/4.mp3",
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #04_truyện Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/5.mp3",
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #05_truyện Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-phi-tram-that-su-khong-met-moi/6.mp3",
+    "title" : "Ái phi Trẫm thật sự không mệt mỏi #06 Full_truyện Audio ngôn tình xuyên không hay nhất.",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

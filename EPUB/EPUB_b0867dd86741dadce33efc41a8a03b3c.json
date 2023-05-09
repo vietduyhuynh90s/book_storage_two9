@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuong-phi-an-may_14411.html",
+    "title" : "Vương Phi Ăn Mày",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bích",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19922,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_b0867dd86741dadce33efc41a8a03b3c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_b0867dd86741dadce33efc41a8a03b3c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuong-phi-an-may/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "[Phần 1] Vương phi ăn mày | Truyện xuyên không cực hay và hấp dẫn năm 2020| MC Thu Hằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "[Phần 2] Vương phi ăn mày|Truyện xuyên không nữ cường,nam cường,cổ đại hay nhất 2020| MC Thu hằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2528,
+    "title" : "[Phần 3] Vương phi ăn mày |Lập phi cho nhiếp chính vương| Truyện xuyên không- nữ cường hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2597,
+    "title" : "[Phần 4] Vương phi ăn mày|Trọng sinh để yêu anh|Truyện xuyên không, nữ cường trọng sinh cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "[Phần 5] Vương phi ăn mày | Thái hậu ép hôn | Truyện xuyên không nữ cường, trọng sinh hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "[Phần6] Vương phi ăn mày|Kế hoạch trả thù của Mạc Ly|Truyện xuyên không ngôn tình sủng cực mạnh 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1884,
+    "title" : "Mạc Ly động phòng | Truyện xuyên không cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2857,
+    "title" : "[Phần cuối] Vương phi ăn mày | Nguyện bên nhau đến răng long đầu bạc |Truyện xuyên không cổ đại 2020",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuong-phi-an-may/1.mp3",
+    "title" : "[Phần 1] Vương phi ăn mày | Truyện xuyên không cực hay và hấp dẫn năm 2020| MC Thu Hằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/2.mp3",
+    "title" : "[Phần 2] Vương phi ăn mày|Truyện xuyên không nữ cường,nam cường,cổ đại hay nhất 2020| MC Thu hằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/3.mp3",
+    "title" : "[Phần 3] Vương phi ăn mày |Lập phi cho nhiếp chính vương| Truyện xuyên không- nữ cường hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/4.mp3",
+    "title" : "[Phần 4] Vương phi ăn mày|Trọng sinh để yêu anh|Truyện xuyên không, nữ cường trọng sinh cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/5.mp3",
+    "title" : "[Phần 5] Vương phi ăn mày | Thái hậu ép hôn | Truyện xuyên không nữ cường, trọng sinh hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/6.mp3",
+    "title" : "[Phần6] Vương phi ăn mày|Kế hoạch trả thù của Mạc Ly|Truyện xuyên không ngôn tình sủng cực mạnh 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/7.mp3",
+    "title" : "Mạc Ly động phòng | Truyện xuyên không cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-an-may/8.mp3",
+    "title" : "[Phần cuối] Vương phi ăn mày | Nguyện bên nhau đến răng long đầu bạc |Truyện xuyên không cổ đại 2020",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

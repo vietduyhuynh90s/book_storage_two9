@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yeu-khong-loi-thoat-lam-bach-sac_10437.html",
+    "title" : "Yêu Không Lối Thoát - Lam Bạch Sắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lam Bạch Sắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 68419,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f1836b31108db97ca105cd4f99214304.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f1836b31108db97ca105cd4f99214304.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4870,
+    "title" : "Yêu Không Lối Thoát- Trailer- TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4167,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5448,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4600,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4768,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5617,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4542,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4468,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6073,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3940,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4238,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4502,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/1.mp3",
+    "title" : "Yêu Không Lối Thoát- Trailer- TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/10.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/11.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/12.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/13.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/14.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/15.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/2.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/3.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/4.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/5.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/6.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/7.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/8.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-khong-loi-thoat/9.mp3",
+    "title" : "TG: Lam Bạch Sắc- Ngôn Tình Chọn Lọc 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

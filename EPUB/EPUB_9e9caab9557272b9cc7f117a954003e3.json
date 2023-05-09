@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bao-oan-dem-giao-thua_15470.html",
+    "title" : "Báo Oán Đêm Giao Thừa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14167,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_9e9caab9557272b9cc7f117a954003e3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_9e9caab9557272b9cc7f117a954003e3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3006,
+    "title" : "Truyện ma mới nhất Mc Đình Soạn 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "[SỢ & HÃI-Tập 2] Báo Oán Đêm Giao Thừa -Truyện ma mới nhất Mc Đình Soạn 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3262,
+    "title" : "[RỢN -Tập 3] Báo Oán Đêm Giao Thừa -Truyện ma mới nhất Mc Đình Soạn 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4266,
+    "title" : "Tập 4 Kết ] Báo Oán Đêm Giao Thừa - Truyện ma mới nhất Mc Đình Soạn 2020",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/1.mp3",
+    "title" : "Truyện ma mới nhất Mc Đình Soạn 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/2.mp3",
+    "title" : "[SỢ & HÃI-Tập 2] Báo Oán Đêm Giao Thừa -Truyện ma mới nhất Mc Đình Soạn 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/3.mp3",
+    "title" : "[RỢN -Tập 3] Báo Oán Đêm Giao Thừa -Truyện ma mới nhất Mc Đình Soạn 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-oan-dem-giao-thua/4.mp3",
+    "title" : "Tập 4 Kết ] Báo Oán Đêm Giao Thừa - Truyện ma mới nhất Mc Đình Soạn 2020",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

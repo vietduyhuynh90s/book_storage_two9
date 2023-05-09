@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quy-an_15643.html",
+    "title" : "Quỷ Ấn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trường Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 79556,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_46ad8874bd6071a0dfd6c0d4cd2bc06b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_46ad8874bd6071a0dfd6c0d4cd2bc06b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-an_202010/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6107,
+    "title" : "Truyện Ma Mới Rợn TG Trường Lê MC Đình Soạn Kể Thật HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4011,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể SỢ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4210,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4308,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4051,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3765,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4976,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8028,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể Thật RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4032,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể Thật RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4060,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3765,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4149,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4286,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4134,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-an_202010/1.mp3",
+    "title" : "Truyện Ma Mới Rợn TG Trường Lê MC Đình Soạn Kể Thật HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/10.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/11.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể SỢ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/12.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/13.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/14.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/15.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/16.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/17.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/18.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/2.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể Thật RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/3.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể Thật RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/4.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/5.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/6.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể HÃI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/7.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/8.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-an_202010/9.mp3",
+    "title" : "Truyện Ma Mới Nhất Tác Giả Trường Lê MC Đình Soạn Kể RỢN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

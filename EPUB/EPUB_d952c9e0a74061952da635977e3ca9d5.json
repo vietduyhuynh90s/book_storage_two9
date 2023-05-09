@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-dung-ben-cua-so_15317.html",
+    "title" : "Ai Đứng Bên Cửa Sổ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thẩm Nghiên Hy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21379,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d952c9e0a74061952da635977e3ca9d5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d952c9e0a74061952da635977e3ca9d5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3348,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3408,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3203,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3865,
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "Kết] Ai Đứng Bên Cửa Sổ - Truyện ma Đình Soạn mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/1.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/2.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/3.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/4.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/5.mp3",
+    "title" : "Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-dung-ben-cua-so_202008/6.mp3",
+    "title" : "Kết] Ai Đứng Bên Cửa Sổ - Truyện ma Đình Soạn mới nhất 2020",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

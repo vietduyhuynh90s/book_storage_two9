@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thay-boi-mu-o-tan-ky_16069.html",
+    "title" : "Thầy Bói Mù Ở Tân Kỳ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Nhựt Kha",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14132,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_2c4c0f7ec75f32f5578b9413171ed5e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_2c4c0f7ec75f32f5578b9413171ed5e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3179,
+    "title" : "Thầy Bói Mù Ở Tân Kỳ-Truyện Ma Mới Có Thật Về Thầy Bói Mc Đình Soạn Kể Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "Truyện Ma Mới Có Thật Về Thầy Bói Mù MC Đình Soạn Kể Sợ Và Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "[Tập 3] Thầy Bói Mù Ở Tân Kỳ -Truyện Ma Mới Có Thật Về Thầy Bói Mc Đình Soạn Kể Rợn & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4454,
+    "title" : "Truyện Ma Mới Có Thật Về Thầy Bói Mù MC Đình Soạn Kể Sợ Và Hãi Qúa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/1.mp3",
+    "title" : "Thầy Bói Mù Ở Tân Kỳ-Truyện Ma Mới Có Thật Về Thầy Bói Mc Đình Soạn Kể Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/2.mp3",
+    "title" : "Truyện Ma Mới Có Thật Về Thầy Bói Mù MC Đình Soạn Kể Sợ Và Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/3.mp3",
+    "title" : "[Tập 3] Thầy Bói Mù Ở Tân Kỳ -Truyện Ma Mới Có Thật Về Thầy Bói Mc Đình Soạn Kể Rợn & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-boi-mu-o-tan-ky_202101/4.mp3",
+    "title" : "Truyện Ma Mới Có Thật Về Thầy Bói Mù MC Đình Soạn Kể Sợ Và Hãi Qúa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

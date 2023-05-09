@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/qua-tang-tu-trai-tim_16905.html",
+    "title" : "Quà Tặng Từ Trái Tim",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 6296,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_71ac0ac4f60ae7dd92f3df753303f0cc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_71ac0ac4f60ae7dd92f3df753303f0cc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 274,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/02-dua_den_gioi_han.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "Đưa đến giới hạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/03-25_xu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 160,
+    "title" : "Hai mươi lăm xu quyên cho giầy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/04-ai_co_chia_khoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 132,
+    "title" : "Ai có chìa khóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/05-dung_lai_va_can_nhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 124,
+    "title" : "Dừng lại và cân nhắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/06-bai_hoc_tieng_tbn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 290,
+    "title" : "Bài học tiếng Tây Ban Nha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/07-hinh_thai_nghe_thuat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 160,
+    "title" : "Hình thái nghệ thuật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/08-giet_thoi_gian.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 92,
+    "title" : "Giết thời gian",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/09-hoc_de_tro_thanh_nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "Học để trở thành người toàn diện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/10-lam_viec_vi_cty.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 226,
+    "title" : "Làm việc vì công ty",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/11-henry.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 168,
+    "title" : "Henry Aaron",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/12-loi_cua_cay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 122,
+    "title" : "Lời của cây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/13-luon_luon_va_mai_mai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 286,
+    "title" : "Luôn luôn và mãi mãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/14-la_thu_cua_con.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 258,
+    "title" : "Lá thư của con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/15-mang_lai_giac_mo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 272,
+    "title" : "Mang lại giấc mơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/16-mot_ngay_toi_te.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 160,
+    "title" : "Một ngày tồi tệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/17-loi_hua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "Lời hứa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/18-ngay_tuyet_voi_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "Ngày tuyệt vời nhất của Paul",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/19-nghe_thuat_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 376,
+    "title" : "Nghệ thuật sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/20-muc_tieu_va_ly_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 170,
+    "title" : "Mục tiêu và lý do chúng tồn tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/21-quan_quan_that_su.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 200,
+    "title" : "Quán quân thật sự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/22-rap_xiec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 248,
+    "title" : "Rạp xiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/24-tam_nhin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 238,
+    "title" : "Tầm nhìn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/25-tao_nen_ky_niem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 248,
+    "title" : "Tạo ra kỷ niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/26-the_van_hoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 202,
+    "title" : "Thế vận hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/27-tao_nen_su_khac_biet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 168,
+    "title" : "Tạo nên sự khác biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/28-vinh_danh_cha_me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 150,
+    "title" : "Vinh danh cha mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/29-thu_thach.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 98,
+    "title" : "Thử thách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/30-tro_choi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 108,
+    "title" : "Trò chơi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/31-tu_khu_o_chuot_toi_toa_a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 196,
+    "title" : "Từ khu ổ chuột tới tòa án",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/32-tinh_yeu_danh_cho_cun_co.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 236,
+    "title" : "Tình yêu dành cho chú cún con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/33-tung_buoc_mot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 144,
+    "title" : "Từng bước một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/34-toi_se_lam_nhieu_hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 172,
+    "title" : "Tôi sẽ làm nhiều hơn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/02-dua_den_gioi_han.mp3",
+    "title" : "Đưa đến giới hạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/03-25_xu.mp3",
+    "title" : "Hai mươi lăm xu quyên cho giầy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/04-ai_co_chia_khoa.mp3",
+    "title" : "Ai có chìa khóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/05-dung_lai_va_can_nhac.mp3",
+    "title" : "Dừng lại và cân nhắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/06-bai_hoc_tieng_tbn.mp3",
+    "title" : "Bài học tiếng Tây Ban Nha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/07-hinh_thai_nghe_thuat.mp3",
+    "title" : "Hình thái nghệ thuật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/08-giet_thoi_gian.mp3",
+    "title" : "Giết thời gian",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/09-hoc_de_tro_thanh_nguoi.mp3",
+    "title" : "Học để trở thành người toàn diện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/10-lam_viec_vi_cty.mp3",
+    "title" : "Làm việc vì công ty",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/11-henry.mp3",
+    "title" : "Henry Aaron",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/12-loi_cua_cay.mp3",
+    "title" : "Lời của cây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/13-luon_luon_va_mai_mai.mp3",
+    "title" : "Luôn luôn và mãi mãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/14-la_thu_cua_con.mp3",
+    "title" : "Lá thư của con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/15-mang_lai_giac_mo.mp3",
+    "title" : "Mang lại giấc mơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/16-mot_ngay_toi_te.mp3",
+    "title" : "Một ngày tồi tệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/17-loi_hua.mp3",
+    "title" : "Lời hứa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/18-ngay_tuyet_voi_nhat.mp3",
+    "title" : "Ngày tuyệt vời nhất của Paul",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/19-nghe_thuat_song.mp3",
+    "title" : "Nghệ thuật sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/20-muc_tieu_va_ly_do.mp3",
+    "title" : "Mục tiêu và lý do chúng tồn tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/21-quan_quan_that_su.mp3",
+    "title" : "Quán quân thật sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/22-rap_xiec.mp3",
+    "title" : "Rạp xiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/24-tam_nhin.mp3",
+    "title" : "Tầm nhìn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/25-tao_nen_ky_niem.mp3",
+    "title" : "Tạo ra kỷ niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/26-the_van_hoi.mp3",
+    "title" : "Thế vận hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/27-tao_nen_su_khac_biet.mp3",
+    "title" : "Tạo nên sự khác biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/28-vinh_danh_cha_me.mp3",
+    "title" : "Vinh danh cha mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/29-thu_thach.mp3",
+    "title" : "Thử thách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/30-tro_choi.mp3",
+    "title" : "Trò chơi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/31-tu_khu_o_chuot_toi_toa_a.mp3",
+    "title" : "Từ khu ổ chuột tới tòa án",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/32-tinh_yeu_danh_cho_cun_co.mp3",
+    "title" : "Tình yêu dành cho chú cún con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/33-tung_buoc_mot.mp3",
+    "title" : "Từng bước một",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss14-quaTangTuTraiTim/34-toi_se_lam_nhieu_hon.mp3",
+    "title" : "Tôi sẽ làm nhiều hơn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-sac-lang_12879.html",
+    "title" : "Đại Sắc Lang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhộng Hiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 42676,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f3a07acf6ca9c6030d0fe01bdae5ddd7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f3a07acf6ca9c6030d0fe01bdae5ddd7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dai-sac-lang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "Đại Sắc Lang ( Tập 1 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 10 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 11 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1320,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập Cuối ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Đại Sắc Lang H+ ( Tập 2 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "Đại Sắc Lang H+ ( Tập 3 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Đại Sắc Lang H + ( Tập 4 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3874,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 5 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3886,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL ( Tập 6 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 7 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 8 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3876,
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 9 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dai-sac-lang/1.mp3",
+    "title" : "Đại Sắc Lang ( Tập 1 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/10.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 10 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/11.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 11 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/12.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập Cuối ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/2.mp3",
+    "title" : "Đại Sắc Lang H+ ( Tập 2 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/3.mp3",
+    "title" : "Đại Sắc Lang H+ ( Tập 3 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/4.mp3",
+    "title" : "Đại Sắc Lang H + ( Tập 4 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/5.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 5 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/6.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL ( Tập 6 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/7.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 7 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/8.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 8 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-sac-lang/9.mp3",
+    "title" : "Đam Tứ Tuyệt Q3 _ ĐSL H+ ( Tập 9 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

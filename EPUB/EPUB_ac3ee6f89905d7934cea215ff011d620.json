@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ong-chu-kho-tinh-wee-ngn_10551.html",
+    "title" : "Ông Chủ Khó Tính - Wee Ngn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Wee Ngn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16681,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ac3ee6f89905d7934cea215ff011d620.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ac3ee6f89905d7934cea215ff011d620.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ong-chu-kho-tinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8208,
+    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-chu-kho-tinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8473,
+    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ong-chu-kho-tinh/1.mp3",
+    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-chu-kho-tinh/2.mp3",
+    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

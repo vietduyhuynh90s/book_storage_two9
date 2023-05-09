@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ac-ma-truyen-ky_12974.html",
+    "title" : "Ác Ma Truyền Kỳ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bồng Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17816,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f15252f39389ed05f5356640eb1a3d2f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f15252f39389ed05f5356640eb1a3d2f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4114,
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3697,
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2556,
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/4.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-ma-truyen-ky/5.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KỲ HẤP DẪN KHÔNG DÀNH CHO CÁC BÉ - MC BẢO ANH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

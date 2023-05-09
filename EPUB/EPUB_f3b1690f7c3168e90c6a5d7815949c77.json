@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-phat-benh-roi-em-den-day-quy-mieu-tu_11472.html",
+    "title" : "Anh Phát Bệnh Rồi... Em Đến Đây! - Quỷ Miêu Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỷ Miêu Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 109297,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f3b1690f7c3168e90c6a5d7815949c77.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f3b1690f7c3168e90c6a5d7815949c77.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập1-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3406,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 10-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3251,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 11-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2726,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 12-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4421,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 13-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4451,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 14-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3971,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 15-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4286,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 16-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6116,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 17-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4269,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 18-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5755,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 19-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3143,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 2-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4746,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 20-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5533,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 21-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4300,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 22-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5886,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 23-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4926,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 24-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4741,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 25-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4016,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 26-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4306,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 27-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 3-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 4-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 5-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 6-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 7-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2853,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 8-Truyện ngôn tình hay-MC_ PT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 9-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/1.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập1-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/10.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 10-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/11.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 11-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/12.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 12-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/13.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 13-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/14.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 14-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/15.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 15-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/16.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 16-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/17.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 17-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/18.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 18-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/19.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 19-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/2.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 2-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/20.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 20-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/21.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 21-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/22.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 22-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/23.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 23-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/24.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 24-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/25.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 25-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/26.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 26-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/27.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 27-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/3.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 3-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/4.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 4-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/5.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 5-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/6.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 6-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/7.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 7-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/8.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 8-Truyện ngôn tình hay-MC_ PT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhphatbenhroiemdenday/9.mp3",
+    "title" : "Anh Phát Bệnh Rồi Em Đến Đây Tập 9-Truyện ngôn tình hay-MC_ PT- Quỷ miêu tử",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trong-sinh-chi-sung-nhi-bat-cu_14609.html",
+    "title" : "Trọng Sinh Chi Sủng Nhĩ Bất Cú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tối Ái Tiểu Miêu Miêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55744,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_af90f0109a4cbe3348ce561614d88297.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_af90f0109a4cbe3348ce561614d88297.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5540,
+    "title" : "#1 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5842,
+    "title" : "#10 (Tập Cuối) TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5342,
+    "title" : "#2 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5598,
+    "title" : "#3 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5616,
+    "title" : "#4 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5436,
+    "title" : "#5 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5746,
+    "title" : "#6 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5488,
+    "title" : "#7 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5571,
+    "title" : "#8 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5565,
+    "title" : "#9 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/1.mp3",
+    "title" : "#1 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/10.mp3",
+    "title" : "#10 (Tập Cuối) TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/2.mp3",
+    "title" : "#2 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/3.mp3",
+    "title" : "#3 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/4.mp3",
+    "title" : "#4 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/5.mp3",
+    "title" : "#5 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/6.mp3",
+    "title" : "#6 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/7.mp3",
+    "title" : "#7 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/8.mp3",
+    "title" : "#8 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-sung-nhi-bat-cu/9.mp3",
+    "title" : "#9 TRỌNG SINH CHI SỦNG NHĨ BẤT CÚ || Cổ Trang Ngọt || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

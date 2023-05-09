@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuan-lam-viec-4-gio_15451.html",
+    "title" : "Tuần Làm Việc 4 Giờ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Timothy Ferriss",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33222,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f738cfe618460cf3ab72f2aca57b5a19.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f738cfe618460cf3ab72f2aca57b5a19.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4422,
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/1.mp3",
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/2.mp3",
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/3.mp3",
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/4.mp3",
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuan-lam-viec-4-gio/5.mp3",
+    "title" : "Sách Nói Kinh Doanh - Kho Sách Nói Online",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

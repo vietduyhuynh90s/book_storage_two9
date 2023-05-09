@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/oan-hon-nang-trinh-nu_16056.html",
+    "title" : "Oan Hồn Nàng Trinh Nữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọ Hường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27328,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_eededcf7483edb0456728d9936b7dc33.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_eededcf7483edb0456728d9936b7dc33.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3803,
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4127,
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4133,
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Nghe Rất Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4002,
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Nghe Rất Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Sợ Hết Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Sợ Hết Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4014,
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Nghe Mà Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/1.mp3",
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/2.mp3",
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/3.mp3",
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Nghe Rất Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/4.mp3",
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Nghe Rất Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/5.mp3",
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Sợ Hết Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/6.mp3",
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Sợ Hết Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-nang-trinh-nu/7.mp3",
+    "title" : "Truyện Ma Có Thật Mới Đình Soạn Kể Nghe Mà Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

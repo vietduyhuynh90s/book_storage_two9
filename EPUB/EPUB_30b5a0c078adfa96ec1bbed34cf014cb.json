@@ -1,0 +1,941 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-an-tam_8166.html",
+    "title" : "Hào Môn Kinh Mộng 2: Khế Ước Đàn Ukulele - Ân Tầm.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ân Tầm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 294484,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_30b5a0c078adfa96ec1bbed34cf014cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_30b5a0c078adfa96ec1bbed34cf014cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "Hào Môn Kinh Mộng 2 - Khế Ước Đàn Ukulele Tập 1 - Ngôn Tình Được Yêu Thích Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 10 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 11 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3998,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 12 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4580,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4114,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4305,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3762,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 2 - Ngôn Tình Được Yêu Thích Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3658,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3418,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3883,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3938,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5389,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4302,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3885,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5626,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 3 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5345,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3946,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3213,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3628,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3470,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3638,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3838,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3792,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 4 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3521,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3414,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3968,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3699,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3907,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 5 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3870,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3482,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3362,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 6 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3713,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4102,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4062,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4356,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3936,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4128,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 7 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4122,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4126,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6233,
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4818,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 8 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 9 - Ngôn Tình Được Mong Đợi Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/1.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 - Khế Ước Đàn Ukulele Tập 1 - Ngôn Tình Được Yêu Thích Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/10.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 10 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/11.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 11 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/12.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 12 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/13.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/14.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/15.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/16.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/17.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/18.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/19.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/2.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 2 - Ngôn Tình Được Yêu Thích Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/20.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/21.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/22.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/23.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/24.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/25.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/26.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/27.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/28.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/29.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/3.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 3 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/30.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/31.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/32.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/33.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/34.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/35.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/36.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/37.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/38.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/39.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/4.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 4 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/40.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/41.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/42.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/43.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/44.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/45.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/46.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/47.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/48.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/49.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/5.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 5 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/50.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/51.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/52.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/53.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/54.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/55.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/56.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/57.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/58.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/59.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/6.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 6 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/60.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/61.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/62.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/63.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/64.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/65.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/66.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/67.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/68.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/69.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/7.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 7 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/70.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/71.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/72.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/73.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/74.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/75.mp3",
+    "title" : "Truyện Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/8.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 8 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-kinh-mon-2/9.mp3",
+    "title" : "Hào Môn Kinh Mộng 2 Khế Ước Đàn Ukulele Tập 9 - Ngôn Tình Được Mong Đợi Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

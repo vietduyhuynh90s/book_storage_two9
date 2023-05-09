@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-ba-tra-xuan-vu_11916.html",
+    "title" : "Cô Ba Trà - Xuân Vũ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xuân Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37321,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_49f7dc90366f850da517124a8045a264.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_49f7dc90366f850da517124a8045a264.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cobatra_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11225,
+    "title" : "Truyện Dài của Xuân Vũ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cobatra_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13134,
+    "title" : "Truyện Dài của Xuân Vũ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cobatra_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12962,
+    "title" : "Truyện Dài của Xuân Vũ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cobatra_201903/1.mp3",
+    "title" : "Truyện Dài của Xuân Vũ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cobatra_201903/2.mp3",
+    "title" : "Truyện Dài của Xuân Vũ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cobatra_201903/3.mp3",
+    "title" : "Truyện Dài của Xuân Vũ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

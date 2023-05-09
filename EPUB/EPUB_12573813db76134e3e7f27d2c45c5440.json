@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ma-nu-cua-laplace_17846.html",
+    "title" : "Ma Nữ của Laplace",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 42516,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_12573813db76134e3e7f27d2c45c5440.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_12573813db76134e3e7f27d2c45c5440.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2839,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1444,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1862,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1628,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2138,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2642,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2845,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2386,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2266,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2456,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2095,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2080,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3308,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1646,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_20%28End%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2604,
+    "title" : "(lachoncoc.com)Ma nu o Laplace 20(End)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_01.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_02.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_03.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_04.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_05.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_06.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_07.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_08.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_09.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_10.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_11.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_12.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_13.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_14.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_15.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_16.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_17.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_18.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_19.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-ma-nu-o-laplace-01_202101/%28lachoncoc.com%29Ma%20nu%20o%20Laplace_20%28End%29.mp3",
+    "title" : "(lachoncoc.com)Ma nu o Laplace 20(End)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

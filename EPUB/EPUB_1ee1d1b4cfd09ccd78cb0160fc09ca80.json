@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bich-huyet-kiem-kim-dung_10038.html",
+    "title" : "Bích Huyết Kiếm - Kim Dung.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 139913,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1ee1d1b4cfd09ccd78cb0160fc09ca80.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1ee1d1b4cfd09ccd78cb0160fc09ca80.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3352,
+    "title" : "Bích Huyết Kiếm (Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "Bích Huyết Kiếm (Phần 10)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "Bích Huyết Kiếm (Phần 11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "Bích Huyết Kiếm (Phần 12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Bích Huyết Kiếm (Phần 13)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3234,
+    "title" : "Bích Huyết Kiếm (Phần 14)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "Bích Huyết Kiếm - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "Bích Huyết Kiếm (Phần 16)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3291,
+    "title" : "Bích Huyết Kiếm (Phần 17)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "Bích Huyết Kiếm (Phần 18)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "Bích Huyết Kiếm (Phần 19)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3278,
+    "title" : "Bích Huyết Kiếm (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "Bích Huyết Kiếm (Phần 20)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3267,
+    "title" : "Bích Huyết Kiếm - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3256,
+    "title" : "Bích Huyết Kiếm - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3263,
+    "title" : "Bích Huyết Kiếm - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3262,
+    "title" : "Bích Huyết Kiếm (Phần 24)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "Bích Huyết Kiếm - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "Bích Huyết Kiếm - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "Bích Huyết Kiếm - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "Bích Huyết Kiếm - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3167,
+    "title" : "Bích Huyết Kiếm - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "Bích Huyết Kiếm (Phần 3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3255,
+    "title" : "Bích Huyết Kiếm - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "Bích Huyết Kiếm - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3358,
+    "title" : "Bích Huyết Kiếm - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3322,
+    "title" : "Bích Huyết Kiếm - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "Bích Huyết Kiếm - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3382,
+    "title" : "Bích Huyết Kiếm - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3367,
+    "title" : "Bích Huyết Kiếm - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3388,
+    "title" : "Bích Huyết Kiếm - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "Bích Huyết Kiếm - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "Bích Huyết Kiếm - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3371,
+    "title" : "Bích Huyết Kiếm (Phần 4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "Bích Huyết Kiếm - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "Bích Huyết Kiếm - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "Bích Huyết Kiếm - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3429,
+    "title" : "Bích Huyết Kiếm (Phần 5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "Bích Huyết Kiếm (Phần 6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3267,
+    "title" : "Bích Huyết Kiếm (Phần 7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "Bích Huyết Kiếm (Phần 8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3252,
+    "title" : "Bích Huyết Kiếm (Phần 9)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/1.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/10.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 10)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/11.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/12.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/13.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 13)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/14.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 14)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/15.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/16.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 16)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/17.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 17)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/18.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 18)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/19.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 19)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/2.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/20.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 20)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/21.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/22.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/23.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/24.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 24)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/25.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/26.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/27.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/28.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/29.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/3.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/30.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/31.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/32.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/33.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/34.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/35.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/36.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/37.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/38.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/39.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/4.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/40.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/41.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/42.mp3",
+    "title" : "Bích Huyết Kiếm - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/5.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/6.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/7.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/8.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Bhk/9.mp3",
+    "title" : "Bích Huyết Kiếm (Phần 9)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

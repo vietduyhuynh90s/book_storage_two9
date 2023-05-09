@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/21-nguyen-tac-vang-cua-nghe-thuat-lanh-dao_16984.html",
+    "title" : "21 Nguyên Tắc Vàng Của Nghệ Thuật Lãnh Đạo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John C. Maxwell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22498,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f7a704c1e138d070dd68069d46f02eb9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f7a704c1e138d070dd68069d46f02eb9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP01.MP3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1071,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1123,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 992,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1085,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1161,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 939,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 941,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1101,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1134,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1156,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 877,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1062,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1346,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1155,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 908,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 974,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 989,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1105,
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP21",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP01.MP3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP02.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP03.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP04.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP05.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP06.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP07.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP08.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP09.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP10.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP11.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP12.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP13.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP14.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP15.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP16.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP17.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP18.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP19.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP20.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn21NguyenTacVangCuaNgheThuatLanhDao/21NguyenTacVangCuaNgheThuatLanhDaoP21.mp3",
+    "title" : "21NguyenTacVangCuaNgheThuatLanhDaoP21",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

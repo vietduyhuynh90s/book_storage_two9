@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gia-dinh-giao-hoang-cha-con-giao-hoang-mario-puzo_10020.html",
+    "title" : "Gia Đình Giáo Hoàng (Cha Con Giáo Hoàng) - Mario Puzo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mario Puzo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50380,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_cfa0489010e7c608aa94912637470df1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_cfa0489010e7c608aa94912637470df1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8627,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10518,
+    "title" : "Mario Puzo - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10886,
+    "title" : "Mario Puzo - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10417,
+    "title" : "Mario Puzo - Phần 4 – Văn học kinh điển -Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9932,
+    "title" : "Mario Puzo - Phần 5 END -T/p Văn học kinh điển- Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/1.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/2.mp3",
+    "title" : "Mario Puzo - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/3.mp3",
+    "title" : "Mario Puzo - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/4.mp3",
+    "title" : "Mario Puzo - Phần 4 – Văn học kinh điển -Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Gdgh/5.mp3",
+    "title" : "Mario Puzo - Phần 5 END -T/p Văn học kinh điển- Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

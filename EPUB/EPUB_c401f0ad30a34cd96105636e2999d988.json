@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quan-khu-nam-dong_13498.html",
+    "title" : "Quân Khu Nam Đồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bình Ca",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31577,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c401f0ad30a34cd96105636e2999d988.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c401f0ad30a34cd96105636e2999d988.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2569,
+    "title" : "Ngày Gặp Mặt [Audio 1]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2751,
+    "title" : "10 - Xử Án",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "11 - Trước Ngày Ra Trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "Buổi Sáng Thứ Hai [Audio 2]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2212,
+    "title" : "Đi Thăm Thầy Toàn [Audio 3]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "Âm Mưu Và Tình Yêu [Audio 4]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2954,
+    "title" : "Chiến Thuật [Audio 5]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1890,
+    "title" : "Giang Cận [Audio 6]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3437,
+    "title" : "7 - Trận Đánh Cổng Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "8 - Cô Ninh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2492,
+    "title" : "9 - Nghĩa Vụ Quân Sự",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/1.mp3",
+    "title" : "Ngày Gặp Mặt [Audio 1]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/10.mp3",
+    "title" : "10 - Xử Án",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/11.mp3",
+    "title" : "11 - Trước Ngày Ra Trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/2.mp3",
+    "title" : "Buổi Sáng Thứ Hai [Audio 2]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/3.mp3",
+    "title" : "Đi Thăm Thầy Toàn [Audio 3]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/4.mp3",
+    "title" : "Âm Mưu Và Tình Yêu [Audio 4]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/5.mp3",
+    "title" : "Chiến Thuật [Audio 5]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/6.mp3",
+    "title" : "Giang Cận [Audio 6]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/7.mp3",
+    "title" : "7 - Trận Đánh Cổng Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/8.mp3",
+    "title" : "8 - Cô Ninh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-khu-nam-dong/9.mp3",
+    "title" : "9 - Nghĩa Vụ Quân Sự",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

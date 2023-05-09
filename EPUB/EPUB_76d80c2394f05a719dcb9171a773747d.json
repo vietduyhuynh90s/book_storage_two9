@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/7-chien-luoc-thinh-vuong-va-hanh-phuc-jim-rohn_10595.html",
+    "title" : "7 Chiến lược Thịnh Vượng và Hạnh Phúc - Jim Rohn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jim Rohn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12663,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_76d80c2394f05a719dcb9171a773747d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_76d80c2394f05a719dcb9171a773747d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "Ch.01 - Jim Rohn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3185,
+    "title" : "Ch.02- Jim Rohn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3934,
+    "title" : "Ch.03 - Jim Rohn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "Ch.04 (Hết) - Jim Rohn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/1.mp3",
+    "title" : "Ch.01 - Jim Rohn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/2.mp3",
+    "title" : "Ch.02- Jim Rohn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/3.mp3",
+    "title" : "Ch.03 - Jim Rohn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/4.mp3",
+    "title" : "Ch.04 (Hết) - Jim Rohn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-la-phuong-nam_17501.html",
+    "title" : "Án Lạ Phương Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Đức Sao Biển",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11211,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_10f0dffdad24da4733757a0916ea2e63.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_10f0dffdad24da4733757a0916ea2e63.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-01.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2053,
+    "title" : "Rơi vú giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-02.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "Tề Thiên bay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-03.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "Hai cục vàng khò",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-04.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "Không phải là không phạm tội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-05.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1958,
+    "title" : "Sơn trai tiêu hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-06.mp3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1700,
+    "title" : "Nhận tội thay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-01.mp3.mp3",
+    "title" : "Rơi vú giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-02.mp3.mp3",
+    "title" : "Tề Thiên bay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-03.mp3.mp3",
+    "title" : "Hai cục vàng khò",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-04.mp3.mp3",
+    "title" : "Không phải là không phạm tội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-05.mp3.mp3",
+    "title" : "Sơn trai tiêu hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anlaphuongnam-vuduc-saobien/AN%20LA%20PHUONG%20NAM-06.mp3.mp3",
+    "title" : "Nhận tội thay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

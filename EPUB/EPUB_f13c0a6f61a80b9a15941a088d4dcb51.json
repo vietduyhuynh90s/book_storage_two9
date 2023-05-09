@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoa-troi-tren-song-nuoc_15219.html",
+    "title" : "Hoa Trôi Trên Sóng Nước",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Myodo Satomi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24408,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f13c0a6f61a80b9a15941a088d4dcb51.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f13c0a6f61a80b9a15941a088d4dcb51.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 401,
+    "title" : "Tiểu Sử Tác Giả – Lời Nói Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "Chương 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1644,
+    "title" : "Chương 07 – Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1583,
+    "title" : "Chương 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1371,
+    "title" : "Chương 08 – Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "Chương 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 443,
+    "title" : "Phần Kết – Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1267,
+    "title" : "Chương 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1942,
+    "title" : "Chương 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1609,
+    "title" : "Chương 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1501,
+    "title" : "Chương 03 – Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2678,
+    "title" : "Chương 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2023,
+    "title" : "Chương 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2391,
+    "title" : "Chương 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2031,
+    "title" : "Chương 06 – Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/1.mp3",
+    "title" : "Tiểu Sử Tác Giả – Lời Nói Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/10.mp3",
+    "title" : "Chương 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/11.mp3",
+    "title" : "Chương 07 – Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/12.mp3",
+    "title" : "Chương 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/13.mp3",
+    "title" : "Chương 08 – Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/14.mp3",
+    "title" : "Chương 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/15.mp3",
+    "title" : "Phần Kết – Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/2.mp3",
+    "title" : "Chương 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/3.mp3",
+    "title" : "Chương 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/4.mp3",
+    "title" : "Chương 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/5.mp3",
+    "title" : "Chương 03 – Tiếp Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/6.mp3",
+    "title" : "Chương 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/7.mp3",
+    "title" : "Chương 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/8.mp3",
+    "title" : "Chương 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-troi-tren-song-nuoc_202008/9.mp3",
+    "title" : "Chương 06 – Tiếp Theo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

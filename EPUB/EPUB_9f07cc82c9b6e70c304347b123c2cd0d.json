@@ -1,0 +1,533 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-hieu-duoc-long-em-luc-xu_10521.html",
+    "title" : "Ai Hiểu Được Lòng Em - Lục Xu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Xu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51556,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_9f07cc82c9b6e70c304347b123c2cd0d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_9f07cc82c9b6e70c304347b123c2cd0d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 646,
+    "title" : "Chương 1 - Ngôn tình lãng mạn 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 15+16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1519,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 17+18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1394,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 19+20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1408,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 23+24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1137,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 25+26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1326,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 27+28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1635,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 29+30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1309,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 31+32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1319,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 33+34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1342,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 35+36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 578,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1260,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 39+40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1294,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 41+42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1474,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 43+44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1329,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 45+46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1432,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 47+48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1715,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 49+50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1329,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 51+52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1176,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 53+54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1307,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 55+56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1365,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 57+58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 526,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1260,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 59+60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1341,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 61+62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1199,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 63+64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 65+66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1244,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 67+68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 69+70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1158,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 71+72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 73+74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1121,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 75+76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1145,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 77+78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 491,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1154,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 79+80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2334,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em #81-NT **END**",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1031,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 5+6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1020,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 7+8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1386,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 9+10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1294,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 11+12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1272,
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 13+14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/1.mp3",
+    "title" : "Chương 1 - Ngôn tình lãng mạn 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/10.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 15+16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/11.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 17+18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/12.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 19+20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/13.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 23+24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/14.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 25+26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/15.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 27+28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/16.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 29+30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/17.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 31+32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/18.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 33+34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/19.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 35+36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/2.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/20.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 39+40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/21.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 41+42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/22.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 43+44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/23.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 45+46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/24.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 47+48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/25.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 49+50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/26.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 51+52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/27.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 53+54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/28.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 55+56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/29.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 57+58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/3.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/30.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 59+60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/31.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 61+62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/32.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 63+64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/33.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 65+66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/34.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 67+68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/35.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 69+70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/36.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 71+72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/37.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 73+74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/38.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 75+76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/39.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 77+78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/4.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/40.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 79+80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/41.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em #81-NT **END**",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/5.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 5+6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/6.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 7+8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/7.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017 : Ai Hiểu Được Lòng Em Chương 9+10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/8.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 11+12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-hieu-duoc-long-em/9.mp3",
+    "title" : "[Camy Audio] Truyện Audio ngôn tình lãng mạn 2017: Ai Hiểu Được Lòng Em Chương 13+14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

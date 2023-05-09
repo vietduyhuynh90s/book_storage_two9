@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ti-menh-cuu-lo-phi-huong_10286.html",
+    "title" : "Ti Mệnh - Cửu Lộ Phi Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 48064,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_0bafcc44b717189b6e0fe562f2199943.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_0bafcc44b717189b6e0fe562f2199943.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ti-menh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6668,
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 1 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ti-menh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6651,
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 2 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ti-menh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7408,
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 3 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ti-menh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7201,
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 4 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ti-menh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6943,
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 5 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ti-menh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6581,
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 6 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ti-menh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6612,
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 7 (END) Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ti-menh/1.mp3",
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 1 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ti-menh/2.mp3",
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 2 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ti-menh/3.mp3",
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 3 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ti-menh/4.mp3",
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 4 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ti-menh/5.mp3",
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 5 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ti-menh/6.mp3",
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 6 Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ti-menh/7.mp3",
+    "title" : "Audio Ti Mệnh Cửu Lộ Phi Hương Part 7 (END) Ngôn Tình Cổ Đại Huyền Huyễn Hài Hước HE",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

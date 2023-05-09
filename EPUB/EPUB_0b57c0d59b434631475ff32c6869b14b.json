@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuot-qua-thu-thach-dau-doi_16949.html",
+    "title" : "Vượt Qua Thử Thách Đầu Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7448,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_0b57c0d59b434631475ff32c6869b14b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_0b57c0d59b434631475ff32c6869b14b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/01-phuong_hoang_bay_cao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 874,
+    "title" : "Phượng hoàng bay cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/02-ban_danh_cho_ba_nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 576,
+    "title" : "Bàn dành cho ba người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/03-cha_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 410,
+    "title" : "Cha tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/04-phui_bui_di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 764,
+    "title" : "“Phủi bụi đi!”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/05-danh_mat_chinh_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 510,
+    "title" : "Đánh mất chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/06-tro_lai_mai_am.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 774,
+    "title" : "Trở lại mái ấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/07-qua_tang_tam_hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 696,
+    "title" : "Quà tặng tâm hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/08-lam_lai_tu_dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 608,
+    "title" : "Làm lại từ đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/09-toi_la_lony.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 754,
+    "title" : "Tôi là Loni",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/10-hoi_uc_ve_me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 664,
+    "title" : "Hồi ức về mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/11-con_da_cham_duoc_vao_me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 818,
+    "title" : "Con đã chạm được vào mẹ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/01-phuong_hoang_bay_cao.mp3",
+    "title" : "Phượng hoàng bay cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/02-ban_danh_cho_ba_nguoi.mp3",
+    "title" : "Bàn dành cho ba người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/03-cha_toi.mp3",
+    "title" : "Cha tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/04-phui_bui_di.mp3",
+    "title" : "“Phủi bụi đi!”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/05-danh_mat_chinh_minh.mp3",
+    "title" : "Đánh mất chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/06-tro_lai_mai_am.mp3",
+    "title" : "Trở lại mái ấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/07-qua_tang_tam_hon.mp3",
+    "title" : "Quà tặng tâm hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/08-lam_lai_tu_dau.mp3",
+    "title" : "Làm lại từ đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/09-toi_la_lony.mp3",
+    "title" : "Tôi là Loni",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/10-hoi_uc_ve_me.mp3",
+    "title" : "Hồi ức về mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss11-vuotQuaThuThanhDauDoi/11-con_da_cham_duoc_vao_me.mp3",
+    "title" : "Con đã chạm được vào mẹ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

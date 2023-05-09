@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-nguoi-thay-vi-dai-robin-sharma_10451.html",
+    "title" : "Ba Người Thầy Vĩ Đại - Robin Sharma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Sharma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26895,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5d29e578dd5bf0a4c5b7297836431dcb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5d29e578dd5bf0a4c5b7297836431dcb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 520,
+    "title" : "Robin Sharma - Lời cảm ơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1995,
+    "title" : "Robin Sharma - Phần 9: Trưởng thành từ bãi biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2520,
+    "title" : "Robin Sharma - Phần 10: Lướt sóng và tình yêu dành cho chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1980,
+    "title" : "Robin Sharma - Phần 11: Người cho đi nhiều nhất sẽ thắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1450,
+    "title" : "Robin Sharma - Phần 12: Tình yêu là một công cụ kinh doanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1185,
+    "title" : "Robin Sharma - Phần 13: Con đường đích thực đi tới thành công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1130,
+    "title" : "Robin Sharma - Phần 14: Sống đúng với khát vọng và ước mơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 785,
+    "title" : "Robin Sharma - Phần 15: Cửa ngõ đi tới một cuộc sống tươi đẹp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2755,
+    "title" : "Robin Sharma - Phần 1: Những khời đầu mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 905,
+    "title" : "Robin Sharma - Phần 2: Lên đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "Robin Sharma - Phần 3: Khám phá cách thế giới thực sự vận hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2850,
+    "title" : "Robin Sharma - Phần 4: Sống đúng với bản ngã đích thực của mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 595,
+    "title" : "Robin Sharma - Phần 5: Ô cửa kính màu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 500,
+    "title" : "Robin Sharma - Phần 6: Truy tìm căn nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2065,
+    "title" : "Robin Sharma - Phần 7: Gặp gỡ người thầy của trái tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2275,
+    "title" : "Robin Sharma - Phần 8: Đi vào cõi huyền bí",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/1.mp3",
+    "title" : "Robin Sharma - Lời cảm ơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/10.mp3",
+    "title" : "Robin Sharma - Phần 9: Trưởng thành từ bãi biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/11.mp3",
+    "title" : "Robin Sharma - Phần 10: Lướt sóng và tình yêu dành cho chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/12.mp3",
+    "title" : "Robin Sharma - Phần 11: Người cho đi nhiều nhất sẽ thắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/13.mp3",
+    "title" : "Robin Sharma - Phần 12: Tình yêu là một công cụ kinh doanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/14.mp3",
+    "title" : "Robin Sharma - Phần 13: Con đường đích thực đi tới thành công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/15.mp3",
+    "title" : "Robin Sharma - Phần 14: Sống đúng với khát vọng và ước mơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/16.mp3",
+    "title" : "Robin Sharma - Phần 15: Cửa ngõ đi tới một cuộc sống tươi đẹp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/2.mp3",
+    "title" : "Robin Sharma - Phần 1: Những khời đầu mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/3.mp3",
+    "title" : "Robin Sharma - Phần 2: Lên đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/4.mp3",
+    "title" : "Robin Sharma - Phần 3: Khám phá cách thế giới thực sự vận hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/5.mp3",
+    "title" : "Robin Sharma - Phần 4: Sống đúng với bản ngã đích thực của mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/6.mp3",
+    "title" : "Robin Sharma - Phần 5: Ô cửa kính màu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/7.mp3",
+    "title" : "Robin Sharma - Phần 6: Truy tìm căn nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/8.mp3",
+    "title" : "Robin Sharma - Phần 7: Gặp gỡ người thầy của trái tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nguoi-thay-vi-dai/9.mp3",
+    "title" : "Robin Sharma - Phần 8: Đi vào cõi huyền bí",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-song-thoi-la-da-du-tuyet-voi_14837.html",
+    "title" : "Chỉ Sống Thôi Là Đã Đủ Tuyệt Vời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Itsuki Hiroyuki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8539,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_34378ae6187ce99571114ff1a1f8c224.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_34378ae6187ce99571114ff1a1f8c224.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/CSTLDDTV/Ch%E1%BB%89%20s%E1%BB%91ng%20th%C3%B4i%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20tuy%E1%BB%87t%20v%E1%BB%9Di%20-%20%20Itsuki%20Hiroyuki%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8539,
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/CSTLDDTV/Ch%E1%BB%89%20s%E1%BB%91ng%20th%C3%B4i%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20tuy%E1%BB%87t%20v%E1%BB%9Di%20-%20%20Itsuki%20Hiroyuki%20%28128kbit_AAC%29.mp3",
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

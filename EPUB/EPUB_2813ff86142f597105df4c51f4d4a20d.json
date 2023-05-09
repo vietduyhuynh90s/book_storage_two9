@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/minh-su-chuyen-nguyen-hoang-mo-coi_16154.html",
+    "title" : "Minh Sư - Chuyện Nguyễn Hoàng Mở Cõi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thái Bá Lợi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26355,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_2813ff86142f597105df4c51f4d4a20d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_2813ff86142f597105df4c51f4d4a20d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "TieuThuyetMinhSu 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "TieuThuyetMinhSu 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "TieuThuyetMinhSu 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "TieuThuyetMinhSu 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "TieuThuyetMinhSu 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1722,
+    "title" : "TieuThuyetMinhSu 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1765,
+    "title" : "TieuThuyetMinhSu 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1740,
+    "title" : "TieuThuyetMinhSu 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "TieuThuyetMinhSu 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1747,
+    "title" : "TieuThuyetMinhSu 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "TieuThuyetMinhSu 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1748,
+    "title" : "TieuThuyetMinhSu 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "TieuThuyetMinhSu 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "TieuThuyetMinhSu 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1732,
+    "title" : "TieuThuyetMinhSu 15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_01.mp3",
+    "title" : "TieuThuyetMinhSu 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_02.mp3",
+    "title" : "TieuThuyetMinhSu 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_03.mp3",
+    "title" : "TieuThuyetMinhSu 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_04.mp3",
+    "title" : "TieuThuyetMinhSu 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_05.mp3",
+    "title" : "TieuThuyetMinhSu 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_06.mp3",
+    "title" : "TieuThuyetMinhSu 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_07.mp3",
+    "title" : "TieuThuyetMinhSu 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_08.mp3",
+    "title" : "TieuThuyetMinhSu 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_09.mp3",
+    "title" : "TieuThuyetMinhSu 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_10.mp3",
+    "title" : "TieuThuyetMinhSu 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_11.mp3",
+    "title" : "TieuThuyetMinhSu 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_12.mp3",
+    "title" : "TieuThuyetMinhSu 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_13.mp3",
+    "title" : "TieuThuyetMinhSu 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_14.mp3",
+    "title" : "TieuThuyetMinhSu 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TieuThuyetMinhSu/TieuThuyetMinhSu_15.mp3",
+    "title" : "TieuThuyetMinhSu 15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

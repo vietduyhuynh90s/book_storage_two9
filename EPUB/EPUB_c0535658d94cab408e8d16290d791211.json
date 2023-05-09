@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truyen-nhan-phai-mao-son_14712.html",
+    "title" : "Truyền Nhân Phái Mao Sơn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đoá Hoa Vô Thường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 128632,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c0535658d94cab408e8d16290d791211.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c0535658d94cab408e8d16290d791211.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4575,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3741,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3977,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3175,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4187,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4262,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4085,
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4256,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4134,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4227,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4089,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4188,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4206,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4105,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4296,
+    "title" : "Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4095,
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4124,
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4104,
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4150,
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4204,
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3152,
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4303,
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4030,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3953,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4318,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/1.mp3",
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/2.mp3",
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/27.mp3",
+    "title" : "Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/28.mp3",
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/29.mp3",
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/3.mp3",
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/30.mp3",
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/31.mp3",
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/32.mp3",
+    "title" : "Quyển 6] Truyền Nhân Phái Mao Sơn - Truyện Ma Dài Kỳ Hay MC Đình Soạn Diễn Đọc Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/4.mp3",
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/5.mp3",
+    "title" : "Truyện Ma Có Thật Đến Sợ Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-nhan-phai-mao-son/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

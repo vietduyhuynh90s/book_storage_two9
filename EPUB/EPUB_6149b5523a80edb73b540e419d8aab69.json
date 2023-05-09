@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sai-gon-nam-xua_12505.html",
+    "title" : "Sài Gòn Năm Xưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Hồng Sển",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29676,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6149b5523a80edb73b540e419d8aab69.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6149b5523a80edb73b540e419d8aab69.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8076,
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/1.mp3",
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/2.mp3",
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/3.mp3",
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-nam-xua/4.mp3",
+    "title" : "Truyện dài của Vương Hồng Sển | Nghe Truyện Xưa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-diep-vien-tu-vung-dat-lanh-john-le-carre-phan-gian_3861.html",
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John Le Carré.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John le Carré",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 28500,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_88f32b9e22c33993834cfd86f1502fe6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_88f32b9e22c33993834cfd86f1502fe6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dvtvdl/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5520,
+    "title" : "Audio Sách Nói Trinh Thám Điệp Viên Từ Vùng Đất Lạnh John le Carré Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5525,
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5240,
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5425,
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6790,
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần 5 END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dvtvdl/1.mp3",
+    "title" : "Audio Sách Nói Trinh Thám Điệp Viên Từ Vùng Đất Lạnh John le Carré Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/2.mp3",
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/3.mp3",
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/4.mp3",
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dvtvdl/5.mp3",
+    "title" : "Điệp Viên Từ Vùng Đất Lạnh - John le Carré Phần 5 END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

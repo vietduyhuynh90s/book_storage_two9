@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kim-oc-han_17851.html",
+    "title" : "Kim Ốc Hận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Liễu Ký Giang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 128682,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d1c5b325c61749e90af4fafbc09818d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d1c5b325c61749e90af4fafbc09818d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 499,
+    "title" : "Liễu Kỳ Giang - GIỚI THIỆU - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3435,
+    "title" : "Liễu Kỳ Giang - Tập 1 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Liễu Kỳ Giang - Tập 2 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2591,
+    "title" : "Liễu Kỳ Giang - Tập 3 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "Liễu Kỳ Giang - Tập 4 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2849,
+    "title" : "Liễu Kỳ Giang - Tập 5 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "Liễu Kỳ Giang - Tập 6 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "Liễu Kỳ Giang - Tập 7 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2545,
+    "title" : "Liễu Kỳ Giang - Tập 8 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3682,
+    "title" : "Liễu Kỳ Giang - Tập 9 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "Liễu Kỳ Giang - Tập 10 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "Liễu Kỳ Giang - Tập 11 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2596,
+    "title" : "Liễu Kỳ Giang - Tập 12 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2994,
+    "title" : "Liễu Kỳ Giang - Tập 13 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "Liễu Kỳ Giang - Tập 14 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4147,
+    "title" : "Liễu Kỳ Giang - Tập 15 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "Liễu Kỳ Giang - Tập 16 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3807,
+    "title" : "Liễu Kỳ Giang - Tập 17 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3563,
+    "title" : "Liễu Kỳ Giang - Tập 18 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3383,
+    "title" : "Liễu Kỳ Giang - Tập 19 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3177,
+    "title" : "Liễu Kỳ Giang - Tập 20 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "Liễu Kỳ Giang - Tập 21 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3199,
+    "title" : "Liễu Kỳ Giang - Tập 22 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3810,
+    "title" : "Liễu Kỳ Giang - Tập 23 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3206,
+    "title" : "Liễu Kỳ Giang - Tập 24 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2969,
+    "title" : "Liễu Kỳ Giang - Tập 25 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4477,
+    "title" : "Liễu Kỳ Giang - Tập 26 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Liễu Kỳ Giang - Tập 27 - Cổ đại, xuyên không, cung đấu, nữ cường, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Liễu Kỳ Giang - Tập 28 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "Liễu Kỳ Giang - Tập 29 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "Liễu Kỳ Giang - Tập 30 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2032.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3388,
+    "title" : "Liễu Kỳ Giang - Tập 31 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "Liễu Kỳ Giang - Tập 32 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2034.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "Liễu Kỳ Giang - Tập 33 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2035.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3414,
+    "title" : "Liễu Kỳ Giang - Tập 34- Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "Liễu Kỳ Giang - Tập 35- Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2037.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "Liễu Kỳ Giang - Tập 36 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2038.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3596,
+    "title" : "Liễu Kỳ Giang - Tập 37 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4180,
+    "title" : "Liễu Kỳ Giang - Tập 38 END - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2040.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "Liễu Kỳ Giang - Tập 39 [Ngoại Truyện] - Cổ đại,xuyên không,ngược tâm,lịch sử",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2001.mp3",
+    "title" : "Liễu Kỳ Giang - GIỚI THIỆU - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2002.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 1 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2003.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 2 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2004.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 3 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2005.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 4 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2006.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 5 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2007.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 6 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2008.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 7 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2009.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 8 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2010.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 9 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2011.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 10 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2012.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 11 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2013.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 12 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2014.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 13 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2015.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 14 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2016.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 15 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2017.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 16 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2018.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 17 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2019.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 18 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2020.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 19 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2021.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 20 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2022.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 21 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2023.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 22 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2024.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 23 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2025.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 24 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2026.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 25 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2027.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 26 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2028.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 27 - Cổ đại, xuyên không, cung đấu, nữ cường, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2029.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 28 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2030.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 29 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2031.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 30 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2032.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 31 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2033.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 32 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2034.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 33 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2035.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 34- Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2036.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 35- Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2037.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 36 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2038.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 37 - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2039.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 38 END - Cổ đại, xuyên không, ngược tâm, lịch sử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kim-oc-han-02/Kim%20%E1%BB%90c%20H%E1%BA%ADn%2040.mp3",
+    "title" : "Liễu Kỳ Giang - Tập 39 [Ngoại Truyện] - Cổ đại,xuyên không,ngược tâm,lịch sử",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

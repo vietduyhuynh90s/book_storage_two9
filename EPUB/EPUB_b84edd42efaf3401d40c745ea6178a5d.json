@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dia-nguc-tang-thu-19_19554.html",
+    "title" : "Địa Ngục Tầng Thứ 19",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sái Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16773,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_b84edd42efaf3401d40c745ea6178a5d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_b84edd42efaf3401d40c745ea6178a5d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dianguctangthu19/DiaNgucTangThu19_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5190,
+    "title" : "DiaNgucTangThu19 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dianguctangthu19/DiaNgucTangThu19_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5612,
+    "title" : "DiaNgucTangThu19 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dianguctangthu19/DiaNgucTangThu19_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5971,
+    "title" : "DiaNgucTangThu19 03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dianguctangthu19/DiaNgucTangThu19_01.mp3",
+    "title" : "DiaNgucTangThu19 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dianguctangthu19/DiaNgucTangThu19_02.mp3",
+    "title" : "DiaNgucTangThu19 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dianguctangthu19/DiaNgucTangThu19_03.mp3",
+    "title" : "DiaNgucTangThu19 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

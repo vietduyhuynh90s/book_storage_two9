@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nuong-tu-ta-yeu-em-xich-ma-dl_10671.html",
+    "title" : "Nương Tử, Ta Yêu Em - Xích Ma ĐL",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xích Ma ĐL",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44400,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_006994576befaf650a455a906eb891b7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_006994576befaf650a455a906eb891b7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4445,
+    "title" : "Nương Tử Ta Yêu Em Tập 01 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "Nương Tử Ta Yêu Em Tập 10 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "Nương Tử Ta Yêu Em Tập 11 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Nương Tử Ta Yêu Em Tập 12 (END) | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4733,
+    "title" : "Nương Tử Ta Yêu Em Tập 02 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5696,
+    "title" : "Nương Tử Ta Yêu Em Tập 03 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "Nương Tử Ta Yêu Em Tập 04 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "Nương Tử Ta Yêu Em Tập 05 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5983,
+    "title" : "Nương Tử Ta Yêu Em Tập 06 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2956,
+    "title" : "Nương Tử Ta Yêu Em Tập 07 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2628,
+    "title" : "Nương Tử Ta Yêu Em Tập 08 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "Nương Tử Ta Yêu Em Tập 09 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/1.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 01 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/10.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 10 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/11.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 11 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/12.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 12 (END) | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/2.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 02 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/3.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 03 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/4.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 04 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/5.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 05 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/6.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 06 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/7.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 07 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/8.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 08 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuong-tu-ta-yeu-em/9.mp3",
+    "title" : "Nương Tử Ta Yêu Em Tập 09 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

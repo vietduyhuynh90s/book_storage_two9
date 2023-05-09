@@ -1,0 +1,4097 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-than-bien-nga-cat-tay-hong-thi_9437.html",
+    "title" : "Tinh Thần Biến - Ngã Cật Tây Hồng Thị.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngã Cật Tây Hồng Thị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 992453,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5d53358bf17d1c7b9348f51ef971f307.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5d53358bf17d1c7b9348f51ef971f307.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-than-bien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2934,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2838,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2930,
+    "title" : "100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2857,
+    "title" : "103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2869,
+    "title" : "106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2848,
+    "title" : "107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2895,
+    "title" : "109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2995,
+    "title" : "110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2904,
+    "title" : "111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3305,
+    "title" : "113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "115",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "117",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "118",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "119",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "120",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3881,
+    "title" : "121",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "122",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "123",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2837,
+    "title" : "124",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2993,
+    "title" : "125",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2885,
+    "title" : "126",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2847,
+    "title" : "127",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2940,
+    "title" : "128",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2870,
+    "title" : "129",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "130",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "131",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2850,
+    "title" : "132",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3012,
+    "title" : "133",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2795,
+    "title" : "134",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2814,
+    "title" : "135",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2854,
+    "title" : "136",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "137",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "138",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2876,
+    "title" : "139",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "140",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "141",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2882,
+    "title" : "142",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "143",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2942,
+    "title" : "144",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2782,
+    "title" : "145",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "146",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "147",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "148",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "149",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2796,
+    "title" : "150",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "151",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2681,
+    "title" : "152",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "153",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "154",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2784,
+    "title" : "155",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2637,
+    "title" : "156",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2818,
+    "title" : "157",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "158",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "159",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2849,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2728,
+    "title" : "160",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2793,
+    "title" : "161",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2739,
+    "title" : "162",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "163",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "164",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "165",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "166",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2655,
+    "title" : "167",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2755,
+    "title" : "168",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "169",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2691,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2939,
+    "title" : "170",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "171",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2696,
+    "title" : "172",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2791,
+    "title" : "173",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "174",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "175",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2774,
+    "title" : "176",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "177",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2738,
+    "title" : "178",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2897,
+    "title" : "179",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "180",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "181",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "182",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2951,
+    "title" : "183",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2800,
+    "title" : "184",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "185",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2674,
+    "title" : "186",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3007,
+    "title" : "187",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2729,
+    "title" : "188",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2862,
+    "title" : "189",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2637,
+    "title" : "190",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2717,
+    "title" : "191",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "192",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2660,
+    "title" : "193",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "194",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2798,
+    "title" : "195",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "196",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2618,
+    "title" : "197",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "198",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "199",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "200",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "201",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2776,
+    "title" : "202",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2897,
+    "title" : "203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "204",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2654,
+    "title" : "205",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "206",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "Hậu tinh thần biến tập 1 – Tám Vị Thánh Hoàng - Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2752,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2713,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "Truyện tiên hiệp Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2914,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2776,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2791,
+    "title" : "Truyện tiên hiệp do Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2755,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2834,
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2606,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2796,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2799,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2709,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2779,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2725,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2439,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2780,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2873,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2774,
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2788,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2774,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2786,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2810,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2739,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2846,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2809,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2773,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2839,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2621,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2757,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2784,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2672,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2729,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2782,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2949,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2839,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2799,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2747,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1847,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1873,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1881,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1959,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1848,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1821,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1842,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1923,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "Hậu tinh thần biến tập 86 – Đại Phá Cửu Đỉnh- Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3567,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/294.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/295.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/296.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/297.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/298.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3827,
+    "title" : "Giải Cứu Bạch Y Thần - Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/299.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3992,
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2728,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2626,
+    "title" : "30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/300.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Huyết Ma Xuất Thế - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/301.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3956,
+    "title" : "Lục Đạo Chân Đế - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/302.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "Huyết Chiến Tu La - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/303.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3939,
+    "title" : "Biến Thân Lần Thứ 7 - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/304.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "Tiểu Tần Xuất Quan - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/305.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3826,
+    "title" : "Lĩnh Ngộ Hỗn Độn - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/306.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "Thân Phận Bại Lộ - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/307.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3774,
+    "title" : "Chiến Trường Khai Tích - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/308.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "Đại Chiến Xích Nhật Tinh - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/309.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "Hậu tinh thần biến tập 103 – Sơn Lĩnh Ác Chiến - Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2839,
+    "title" : "31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/310.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "Hậu tinh thần biến tập 104 – Kế Hoạch Chiếm Thành - Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/311.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "Hậu tinh thần biến tập 105 – Thất Đạo Phòng Tuyến - Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/312.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Hậu tinh thần biến tập 106 – Mật Thất Kinh Hồn - Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/313.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "Hậu tinh thần biến tập 107 – Tiến Vào Tà thần Giới - Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/314.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "Hậu tinh thần biến tập 108 –Tử Dạ Thương Long - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/315.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "Hậu tinh thần biến tập 109 –Bát Tộc Hội Nghị - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/316.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "Hậu tinh thần biến tập 110 – 300 Năm Lĩnh Ngộ - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/317.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "Hậu tinh thần biến tập 111 – Hắc Động Nguyên Thủy - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/318.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "Hậu tinh thần biến tập 112 – Song Thú Đại Chiến - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/319.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "Hậu tinh thần biến tập 113 – Loạn Thần Chưởng Khống Giả - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/320.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "Hậu tinh thần biến tập 114 – Binh Vương Luyện Khí - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/321.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "Hậu tinh thần biến tập 115 – Loạn Thần Khai Binh - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/322.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "Hậu tinh thần biến tập 116 – Song Đại Loạn Thần - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/323.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "Hậu tinh thần biến tập 117 – Vũ Kình Ma Khí - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/324.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "Hậu tinh thần biến tập 118 – Trục Tâm Băng Hủy - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/325.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "Hậu tinh thần biến tập 119 – Chủ Thần Hội Ngộ - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/326.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "Hậu tinh thần biến tập 120 – Thần Uy Thần Chiến - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/327.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3807,
+    "title" : "Hậu tinh thần biến tập 121 – Tân Nhiệm Chủ Thần - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/328.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "Hậu tinh thần biến tập 122 – Đối Diện Tử Thần - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/329.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Hậu tinh thần biến tập 123 – Thần Thiên Bảng Hiện Thế - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2674,
+    "title" : "33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/330.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3651,
+    "title" : "Hậu tinh thần biến tập 124 – Thần Thiên Cảnh Giới Thế - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/331.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3799,
+    "title" : "Hậu tinh thần biến tập 125 – Diệt Thần Chi Chiến - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/332.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "Hậu tinh thần biến tập 126 – Thần Chiến Kết Thúc - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/333.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "Hậu tinh thần biến tập 127 – Linh Bảo Quy Nhất - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/334.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "Hậu tinh thần biến tập 128 – Thần Thiên Sống Lại - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/335.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "Hậu tinh thần biến tập 129 – Cổ Bàn Thành Thần - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/336.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3794,
+    "title" : "Hậu tinh thần biến tập 130 – Điều Khiển Nguyên Tố - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/337.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3696,
+    "title" : "Hậu tinh thần biến tập 131 – Đệ Nhất Thần Thiên - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/338.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3202,
+    "title" : "Hậu tinh thần biến tập 132 – Ngôi Vị Tối Cao - Mc Tuấn Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3028,
+    "title" : "35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2679,
+    "title" : "37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2831,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2664,
+    "title" : "41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2795,
+    "title" : "42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2914,
+    "title" : "43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2814,
+    "title" : "44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2743,
+    "title" : "46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2829,
+    "title" : "48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2746,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2780,
+    "title" : "50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2887,
+    "title" : "53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2852,
+    "title" : "55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2837,
+    "title" : "56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3014,
+    "title" : "58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2920,
+    "title" : "59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2608,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2731,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2735,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2786,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2771,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2711,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2639,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2682,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2819,
+    "title" : "73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2870,
+    "title" : "Tinh thần biến tập 75 – KHÔNG TRUNG LÂU CÁC Truyện tiên hiệp đỉnh cao Mc Tuấn Anh diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2751,
+    "title" : "76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2890,
+    "title" : "77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2789,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2837,
+    "title" : "82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2970,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2707,
+    "title" : "85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2846,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2845,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3801,
+    "title" : "92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2923,
+    "title" : "93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2773,
+    "title" : "95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2846,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2686,
+    "title" : "97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2750,
+    "title" : "98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "99",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-than-bien/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/100.mp3",
+    "title" : "100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/101.mp3",
+    "title" : "101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/102.mp3",
+    "title" : "102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/103.mp3",
+    "title" : "103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/104.mp3",
+    "title" : "104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/105.mp3",
+    "title" : "105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/106.mp3",
+    "title" : "106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/107.mp3",
+    "title" : "107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/108.mp3",
+    "title" : "108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/109.mp3",
+    "title" : "109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/110.mp3",
+    "title" : "110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/111.mp3",
+    "title" : "111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/112.mp3",
+    "title" : "112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/113.mp3",
+    "title" : "113",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/114.mp3",
+    "title" : "114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/115.mp3",
+    "title" : "115",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/116.mp3",
+    "title" : "116",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/117.mp3",
+    "title" : "117",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/118.mp3",
+    "title" : "118",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/119.mp3",
+    "title" : "119",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/120.mp3",
+    "title" : "120",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/121.mp3",
+    "title" : "121",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/122.mp3",
+    "title" : "122",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/123.mp3",
+    "title" : "123",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/124.mp3",
+    "title" : "124",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/125.mp3",
+    "title" : "125",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/126.mp3",
+    "title" : "126",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/127.mp3",
+    "title" : "127",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/128.mp3",
+    "title" : "128",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/129.mp3",
+    "title" : "129",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/130.mp3",
+    "title" : "130",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/131.mp3",
+    "title" : "131",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/132.mp3",
+    "title" : "132",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/133.mp3",
+    "title" : "133",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/134.mp3",
+    "title" : "134",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/135.mp3",
+    "title" : "135",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/136.mp3",
+    "title" : "136",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/137.mp3",
+    "title" : "137",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/138.mp3",
+    "title" : "138",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/139.mp3",
+    "title" : "139",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/140.mp3",
+    "title" : "140",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/141.mp3",
+    "title" : "141",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/142.mp3",
+    "title" : "142",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/143.mp3",
+    "title" : "143",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/144.mp3",
+    "title" : "144",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/145.mp3",
+    "title" : "145",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/146.mp3",
+    "title" : "146",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/147.mp3",
+    "title" : "147",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/148.mp3",
+    "title" : "148",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/149.mp3",
+    "title" : "149",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/150.mp3",
+    "title" : "150",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/151.mp3",
+    "title" : "151",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/152.mp3",
+    "title" : "152",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/153.mp3",
+    "title" : "153",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/154.mp3",
+    "title" : "154",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/155.mp3",
+    "title" : "155",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/156.mp3",
+    "title" : "156",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/157.mp3",
+    "title" : "157",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/158.mp3",
+    "title" : "158",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/159.mp3",
+    "title" : "159",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/160.mp3",
+    "title" : "160",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/161.mp3",
+    "title" : "161",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/162.mp3",
+    "title" : "162",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/163.mp3",
+    "title" : "163",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/164.mp3",
+    "title" : "164",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/165.mp3",
+    "title" : "165",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/166.mp3",
+    "title" : "166",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/167.mp3",
+    "title" : "167",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/168.mp3",
+    "title" : "168",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/169.mp3",
+    "title" : "169",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/170.mp3",
+    "title" : "170",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/171.mp3",
+    "title" : "171",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/172.mp3",
+    "title" : "172",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/173.mp3",
+    "title" : "173",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/174.mp3",
+    "title" : "174",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/175.mp3",
+    "title" : "175",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/176.mp3",
+    "title" : "176",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/177.mp3",
+    "title" : "177",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/178.mp3",
+    "title" : "178",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/179.mp3",
+    "title" : "179",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/180.mp3",
+    "title" : "180",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/181.mp3",
+    "title" : "181",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/182.mp3",
+    "title" : "182",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/183.mp3",
+    "title" : "183",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/184.mp3",
+    "title" : "184",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/185.mp3",
+    "title" : "185",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/186.mp3",
+    "title" : "186",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/187.mp3",
+    "title" : "187",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/188.mp3",
+    "title" : "188",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/189.mp3",
+    "title" : "189",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/190.mp3",
+    "title" : "190",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/191.mp3",
+    "title" : "191",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/192.mp3",
+    "title" : "192",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/193.mp3",
+    "title" : "193",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/194.mp3",
+    "title" : "194",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/195.mp3",
+    "title" : "195",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/196.mp3",
+    "title" : "196",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/197.mp3",
+    "title" : "197",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/198.mp3",
+    "title" : "198",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/199.mp3",
+    "title" : "199",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/200.mp3",
+    "title" : "200",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/201.mp3",
+    "title" : "201",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/202.mp3",
+    "title" : "202",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/203.mp3",
+    "title" : "203",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/204.mp3",
+    "title" : "204",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/205.mp3",
+    "title" : "205",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/206.mp3",
+    "title" : "206",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/207.mp3",
+    "title" : "Hậu tinh thần biến tập 1 – Tám Vị Thánh Hoàng - Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/208.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/209.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/210.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/211.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/212.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/213.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/214.mp3",
+    "title" : "Truyện tiên hiệp Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/215.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/216.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/217.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/218.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/219.mp3",
+    "title" : "Truyện tiên hiệp do Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/220.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/221.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/222.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/223.mp3",
+    "title" : "Truyện tiên hiệp full Cực Hay Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/224.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/225.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/226.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/227.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/228.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/229.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/230.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/231.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/232.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/233.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/234.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/235.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/236.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/237.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/238.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/239.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/240.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/241.mp3",
+    "title" : "Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/242.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/243.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/244.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/245.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/246.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/247.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/248.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/249.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/250.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/251.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/252.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/253.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/254.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/255.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/256.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/257.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/258.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/259.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/260.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/261.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/262.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/263.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/264.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/265.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/266.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/267.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/268.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/269.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/270.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/271.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/272.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/273.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/274.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/275.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/276.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/277.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/278.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/279.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/280.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/281.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/282.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/283.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/284.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/285.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/286.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/287.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/288.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/289.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/290.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/291.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/292.mp3",
+    "title" : "Hậu tinh thần biến tập 86 – Đại Phá Cửu Đỉnh- Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/293.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/294.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/295.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/296.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/297.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/298.mp3",
+    "title" : "Giải Cứu Bạch Y Thần - Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/299.mp3",
+    "title" : "Truyện tiên hiệp audio Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/30.mp3",
+    "title" : "30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/300.mp3",
+    "title" : "Huyết Ma Xuất Thế - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/301.mp3",
+    "title" : "Lục Đạo Chân Đế - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/302.mp3",
+    "title" : "Huyết Chiến Tu La - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/303.mp3",
+    "title" : "Biến Thân Lần Thứ 7 - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/304.mp3",
+    "title" : "Tiểu Tần Xuất Quan - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/305.mp3",
+    "title" : "Lĩnh Ngộ Hỗn Độn - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/306.mp3",
+    "title" : "Thân Phận Bại Lộ - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/307.mp3",
+    "title" : "Chiến Trường Khai Tích - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/308.mp3",
+    "title" : "Đại Chiến Xích Nhật Tinh - Truyện tiên hiệp full Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/309.mp3",
+    "title" : "Hậu tinh thần biến tập 103 – Sơn Lĩnh Ác Chiến - Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/31.mp3",
+    "title" : "31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/310.mp3",
+    "title" : "Hậu tinh thần biến tập 104 – Kế Hoạch Chiếm Thành - Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/311.mp3",
+    "title" : "Hậu tinh thần biến tập 105 – Thất Đạo Phòng Tuyến - Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/312.mp3",
+    "title" : "Hậu tinh thần biến tập 106 – Mật Thất Kinh Hồn - Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/313.mp3",
+    "title" : "Hậu tinh thần biến tập 107 – Tiến Vào Tà thần Giới - Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/314.mp3",
+    "title" : "Hậu tinh thần biến tập 108 –Tử Dạ Thương Long - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/315.mp3",
+    "title" : "Hậu tinh thần biến tập 109 –Bát Tộc Hội Nghị - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/316.mp3",
+    "title" : "Hậu tinh thần biến tập 110 – 300 Năm Lĩnh Ngộ - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/317.mp3",
+    "title" : "Hậu tinh thần biến tập 111 – Hắc Động Nguyên Thủy - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/318.mp3",
+    "title" : "Hậu tinh thần biến tập 112 – Song Thú Đại Chiến - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/319.mp3",
+    "title" : "Hậu tinh thần biến tập 113 – Loạn Thần Chưởng Khống Giả - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/32.mp3",
+    "title" : "32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/320.mp3",
+    "title" : "Hậu tinh thần biến tập 114 – Binh Vương Luyện Khí - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/321.mp3",
+    "title" : "Hậu tinh thần biến tập 115 – Loạn Thần Khai Binh - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/322.mp3",
+    "title" : "Hậu tinh thần biến tập 116 – Song Đại Loạn Thần - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/323.mp3",
+    "title" : "Hậu tinh thần biến tập 117 – Vũ Kình Ma Khí - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/324.mp3",
+    "title" : "Hậu tinh thần biến tập 118 – Trục Tâm Băng Hủy - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/325.mp3",
+    "title" : "Hậu tinh thần biến tập 119 – Chủ Thần Hội Ngộ - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/326.mp3",
+    "title" : "Hậu tinh thần biến tập 120 – Thần Uy Thần Chiến - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/327.mp3",
+    "title" : "Hậu tinh thần biến tập 121 – Tân Nhiệm Chủ Thần - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/328.mp3",
+    "title" : "Hậu tinh thần biến tập 122 – Đối Diện Tử Thần - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/329.mp3",
+    "title" : "Hậu tinh thần biến tập 123 – Thần Thiên Bảng Hiện Thế - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/33.mp3",
+    "title" : "33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/330.mp3",
+    "title" : "Hậu tinh thần biến tập 124 – Thần Thiên Cảnh Giới Thế - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/331.mp3",
+    "title" : "Hậu tinh thần biến tập 125 – Diệt Thần Chi Chiến - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/332.mp3",
+    "title" : "Hậu tinh thần biến tập 126 – Thần Chiến Kết Thúc - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/333.mp3",
+    "title" : "Hậu tinh thần biến tập 127 – Linh Bảo Quy Nhất - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/334.mp3",
+    "title" : "Hậu tinh thần biến tập 128 – Thần Thiên Sống Lại - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/335.mp3",
+    "title" : "Hậu tinh thần biến tập 129 – Cổ Bàn Thành Thần - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/336.mp3",
+    "title" : "Hậu tinh thần biến tập 130 – Điều Khiển Nguyên Tố - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/337.mp3",
+    "title" : "Hậu tinh thần biến tập 131 – Đệ Nhất Thần Thiên - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/338.mp3",
+    "title" : "Hậu tinh thần biến tập 132 – Ngôi Vị Tối Cao - Mc Tuấn Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/34.mp3",
+    "title" : "34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/35.mp3",
+    "title" : "35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/36.mp3",
+    "title" : "36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/37.mp3",
+    "title" : "37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/38.mp3",
+    "title" : "38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/39.mp3",
+    "title" : "39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/40.mp3",
+    "title" : "40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/41.mp3",
+    "title" : "41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/42.mp3",
+    "title" : "42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/43.mp3",
+    "title" : "43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/44.mp3",
+    "title" : "44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/45.mp3",
+    "title" : "45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/46.mp3",
+    "title" : "46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/47.mp3",
+    "title" : "47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/48.mp3",
+    "title" : "48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/49.mp3",
+    "title" : "49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/50.mp3",
+    "title" : "50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/51.mp3",
+    "title" : "51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/52.mp3",
+    "title" : "52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/53.mp3",
+    "title" : "53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/54.mp3",
+    "title" : "54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/55.mp3",
+    "title" : "55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/56.mp3",
+    "title" : "56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/57.mp3",
+    "title" : "57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/58.mp3",
+    "title" : "58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/59.mp3",
+    "title" : "59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/60.mp3",
+    "title" : "60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/72.mp3",
+    "title" : "72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/73.mp3",
+    "title" : "73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/74.mp3",
+    "title" : "74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/75.mp3",
+    "title" : "Tinh thần biến tập 75 – KHÔNG TRUNG LÂU CÁC Truyện tiên hiệp đỉnh cao Mc Tuấn Anh diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/76.mp3",
+    "title" : "76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/77.mp3",
+    "title" : "77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/78.mp3",
+    "title" : "78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/79.mp3",
+    "title" : "79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/80.mp3",
+    "title" : "80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/81.mp3",
+    "title" : "81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/82.mp3",
+    "title" : "82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/84.mp3",
+    "title" : "84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/85.mp3",
+    "title" : "85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/91.mp3",
+    "title" : "91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/92.mp3",
+    "title" : "92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/93.mp3",
+    "title" : "93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/94.mp3",
+    "title" : "94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/95.mp3",
+    "title" : "95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/97.mp3",
+    "title" : "97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/98.mp3",
+    "title" : "98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-than-bien/99.mp3",
+    "title" : "99",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

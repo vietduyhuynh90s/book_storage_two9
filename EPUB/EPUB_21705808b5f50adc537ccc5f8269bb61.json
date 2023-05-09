@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/diem-vuong-phuc-hac-vuong-phi-gay-roi-mat-chi-ly_10352.html",
+    "title" : "Diêm Vương Phúc Hắc Vương Phi Gây Rối - Mạt Chi Ly",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạt Chi Ly",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 88293,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_21705808b5f50adc537ccc5f8269bb61.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_21705808b5f50adc537ccc5f8269bb61.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2655,
+    "title" : "Tập 1 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "Tập 10 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1817,
+    "title" : "Tập 11 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1076,
+    "title" : "Tập 12 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2678,
+    "title" : "Tập 13 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4190,
+    "title" : "Tập 14 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2610,
+    "title" : "Tập 15 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1241,
+    "title" : "Tập 16 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "Tập 17 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2445,
+    "title" : "Tập 18 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "Tập 19 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "Tập 2 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2510,
+    "title" : "Tập 20 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3568,
+    "title" : "Tập 21 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2743,
+    "title" : "Tập 22 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "Tập 23 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1849,
+    "title" : "Tập 24 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3387,
+    "title" : "Tập 25 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2034,
+    "title" : "Tập 26 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "Tập 27 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "Tập 28 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2432,
+    "title" : "Tập 29 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "Tập 3 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "Tập 30 Truyện Audio Xuyên Khô ng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "Tập 31 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Tập 32 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5490,
+    "title" : "Tập 33 End Truyện Audio Xuyên Không3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2421,
+    "title" : "Tập 4 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2405,
+    "title" : "Tập 5 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "Tập 6 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1575,
+    "title" : "Tập 7 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "Tập 9 Truyện Audio Xuyên Không",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/1.mp3",
+    "title" : "Tập 1 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/10.mp3",
+    "title" : "Tập 10 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/11.mp3",
+    "title" : "Tập 11 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/12.mp3",
+    "title" : "Tập 12 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/13.mp3",
+    "title" : "Tập 13 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/14.mp3",
+    "title" : "Tập 14 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/15.mp3",
+    "title" : "Tập 15 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/16.mp3",
+    "title" : "Tập 16 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/17.mp3",
+    "title" : "Tập 17 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/18.mp3",
+    "title" : "Tập 18 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/19.mp3",
+    "title" : "Tập 19 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/2.mp3",
+    "title" : "Tập 2 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/20.mp3",
+    "title" : "Tập 20 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/21.mp3",
+    "title" : "Tập 21 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/22.mp3",
+    "title" : "Tập 22 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/23.mp3",
+    "title" : "Tập 23 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/24.mp3",
+    "title" : "Tập 24 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/25.mp3",
+    "title" : "Tập 25 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/26.mp3",
+    "title" : "Tập 26 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/27.mp3",
+    "title" : "Tập 27 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/28.mp3",
+    "title" : "Tập 28 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/29.mp3",
+    "title" : "Tập 29 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/3.mp3",
+    "title" : "Tập 3 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/30.mp3",
+    "title" : "Tập 30 Truyện Audio Xuyên Khô ng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/31.mp3",
+    "title" : "Tập 31 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/32.mp3",
+    "title" : "Tập 32 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/33.mp3",
+    "title" : "Tập 33 End Truyện Audio Xuyên Không3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/4.mp3",
+    "title" : "Tập 4 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/5.mp3",
+    "title" : "Tập 5 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/6.mp3",
+    "title" : "Tập 6 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/7.mp3",
+    "title" : "Tập 7 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/8.mp3",
+    "title" : "Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-vuong-phuc-hac-vuong-phi-gay-roi/9.mp3",
+    "title" : "Tập 9 Truyện Audio Xuyên Không",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

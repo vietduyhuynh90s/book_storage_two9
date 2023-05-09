@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lau-roi-khong-gap_15157.html",
+    "title" : "Lâu Rồi Không Gặp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bắc Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 90678,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7be54ba944199a48de45ebd21b3eb614.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7be54ba944199a48de45ebd21b3eb614.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10820,
+    "title" : "Lâu Rồi Không Gặp ( Tập 1 ) Gặp Lại Sau Bảy Năm _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11223,
+    "title" : "Lâu Rồi Không Gặp ( Tập 2 ) Chợt Nhận Ra _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11913,
+    "title" : "Lâu Rồi Không Gặp ( Tập 3 ) Lần Đầu _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12275,
+    "title" : "Lâu Rồi Không Gặp ( Tập 4 ) Độ Ta Không Độ Người _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11925,
+    "title" : "Lâu Rồi Không Gặp ( Tập 5 ) Tìm Lại Ký Ức _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11536,
+    "title" : "Lâu Rồi Không Gặp ( Tập 6 ) Bảo Bối _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11910,
+    "title" : "Lâu Rồi Không Gặp ( Tập 7 ) Dòng Máu Phượng Hoàng _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9076,
+    "title" : "Lâu Rồi Không Gặp ( Tập Cuối ) Gia Đình Đoàn Viên _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/1.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập 1 ) Gặp Lại Sau Bảy Năm _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/2.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập 2 ) Chợt Nhận Ra _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/3.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập 3 ) Lần Đầu _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/4.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập 4 ) Độ Ta Không Độ Người _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/5.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập 5 ) Tìm Lại Ký Ức _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/6.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập 6 ) Bảo Bối _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/7.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập 7 ) Dòng Máu Phượng Hoàng _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lau-roi-khong-gap_202007/8.mp3",
+    "title" : "Lâu Rồi Không Gặp ( Tập Cuối ) Gia Đình Đoàn Viên _ Châu Gia Thiện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

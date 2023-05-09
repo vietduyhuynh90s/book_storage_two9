@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/diep-vien-hoan-hao-larry-berman_10349.html",
+    "title" : "Điệp Viên Hoàn Hảo - Larry Berman",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Larry Berman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 39086,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_76825f343212f19953404b1dc68c9217.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_76825f343212f19953404b1dc68c9217.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3219,
+    "title" : "Lời tựa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5462,
+    "title" : "Chương 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3371,
+    "title" : "Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4185,
+    "title" : "Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4123,
+    "title" : "Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2972,
+    "title" : "Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4001,
+    "title" : "Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4377,
+    "title" : "Chương 8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/1.mp3",
+    "title" : "Lời tựa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/10.mp3",
+    "title" : "Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/2.mp3",
+    "title" : "Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/3.mp3",
+    "title" : "Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/4.mp3",
+    "title" : "Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/5.mp3",
+    "title" : "Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/6.mp3",
+    "title" : "Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/7.mp3",
+    "title" : "Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/8.mp3",
+    "title" : "Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-hoan-hao-pham-xuan-an/9.mp3",
+    "title" : "Chương 8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngay-hoang-dao_15640.html",
+    "title" : "Ngày Hoàng Đạo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Chính",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 72417,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_fa0afb534e65b72d45f9dd5f84107fbd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_fa0afb534e65b72d45f9dd5f84107fbd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngay-hoang-dao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "NGÀY HOÀNG ĐẠO #01 | Tiểu thuyết Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3354,
+    "title" : "NGÀY HOÀNG ĐẠO #10 | Tiểu thuyết thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "NGÀY HOÀNG ĐẠO #11 | Tiểu thuyết Thời Cũ Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3082,
+    "title" : "NGÀY HOÀNG ĐẠO #12 | Truyện Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "NGÀY HOÀNG ĐẠO #13 | Truyện Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3116,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3220,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3032,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3288,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "NGÀY HOÀNG ĐẠO #02 | Tiểu thuyết Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3066,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4315,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "NGÀY HOÀNG ĐẠO #03 | Tiểu thuyết Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "NGÀY HOÀNG ĐẠO #04 | Tiểu thuyết Trinh Thám HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "NGÀY HOÀNG ĐẠO #05 | Tiểu thuyết Trinh Thám HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3124,
+    "title" : "NGÀY HOÀNG ĐẠO #06 | Tiểu thuyết Thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3486,
+    "title" : "NGÀY HOÀNG ĐẠO #07 | Tiểu thuyết thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "NGÀY HOÀNG ĐẠO #08 | Truyện thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3294,
+    "title" : "Ngày Hoàng Đạo #09 | Tiểu thuyết thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngay-hoang-dao/1.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #01 | Tiểu thuyết Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/10.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #10 | Tiểu thuyết thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/11.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #11 | Tiểu thuyết Thời Cũ Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/12.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #12 | Truyện Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/13.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #13 | Truyện Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/14.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/15.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/16.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/17.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/18.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/19.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/2.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #02 | Tiểu thuyết Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/20.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/21.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/22.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/3.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #03 | Tiểu thuyết Trinh Thám Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/4.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #04 | Tiểu thuyết Trinh Thám HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/5.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #05 | Tiểu thuyết Trinh Thám HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/6.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #06 | Tiểu thuyết Thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/7.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #07 | Tiểu thuyết thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/8.mp3",
+    "title" : "NGÀY HOÀNG ĐẠO #08 | Truyện thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-hoang-dao/9.mp3",
+    "title" : "Ngày Hoàng Đạo #09 | Tiểu thuyết thời cũ Việt Nam HAY | MC THANH BÌNH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

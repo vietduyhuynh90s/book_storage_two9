@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-the_17845.html",
+    "title" : "Tam Thể",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lưu Từ Hân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 52695,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_431fb3929787a2878da3a4798aa84990.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_431fb3929787a2878da3a4798aa84990.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1783,
+    "title" : "Tam thể 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1716,
+    "title" : "Tam thể 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1427,
+    "title" : "Tam thể 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "Tam thể 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1442,
+    "title" : "Tam thể 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "Tam thể 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "Tam thể 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1285,
+    "title" : "Tam thể 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1482,
+    "title" : "Tam thể 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1977,
+    "title" : "Tam thể 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "Tam thể 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1891,
+    "title" : "Tam thể 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2333,
+    "title" : "Tam thể 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1519,
+    "title" : "Tam thể 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1505,
+    "title" : "Tam thể 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2049,
+    "title" : "Tam thể 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2140,
+    "title" : "Tam thể 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1880,
+    "title" : "Tam thể 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1689,
+    "title" : "Tam thể 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "Tam thể 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1971,
+    "title" : "Tam thể 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1144,
+    "title" : "Tam thể 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1272,
+    "title" : "Tam thể 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1172,
+    "title" : "Tam thể 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1115,
+    "title" : "Tam thể 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1556,
+    "title" : "Tam thể 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1688,
+    "title" : "Tam thể 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1596,
+    "title" : "Tam thể 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "Tam thể 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2645,
+    "title" : "Tam thể 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "Tam thể 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_32%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 942,
+    "title" : "Tam thể 32 (end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_01.mp3",
+    "title" : "Tam thể 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_02.mp3",
+    "title" : "Tam thể 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_03.mp3",
+    "title" : "Tam thể 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_04.mp3",
+    "title" : "Tam thể 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_05.mp3",
+    "title" : "Tam thể 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_06.mp3",
+    "title" : "Tam thể 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_07.mp3",
+    "title" : "Tam thể 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_08.mp3",
+    "title" : "Tam thể 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_09.mp3",
+    "title" : "Tam thể 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_10.mp3",
+    "title" : "Tam thể 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_11.mp3",
+    "title" : "Tam thể 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_12.mp3",
+    "title" : "Tam thể 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_13.mp3",
+    "title" : "Tam thể 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_14.mp3",
+    "title" : "Tam thể 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_15.mp3",
+    "title" : "Tam thể 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_16.mp3",
+    "title" : "Tam thể 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_17.mp3",
+    "title" : "Tam thể 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_18.mp3",
+    "title" : "Tam thể 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_19.mp3",
+    "title" : "Tam thể 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_20.mp3",
+    "title" : "Tam thể 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_21.mp3",
+    "title" : "Tam thể 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_22.mp3",
+    "title" : "Tam thể 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_23.mp3",
+    "title" : "Tam thể 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_24.mp3",
+    "title" : "Tam thể 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_25.mp3",
+    "title" : "Tam thể 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_26.mp3",
+    "title" : "Tam thể 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_27.mp3",
+    "title" : "Tam thể 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_28.mp3",
+    "title" : "Tam thể 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_29.mp3",
+    "title" : "Tam thể 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_30.mp3",
+    "title" : "Tam thể 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_31.mp3",
+    "title" : "Tam thể 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-the-29/Tam%20th%E1%BB%83_32%20%28end%29.mp3",
+    "title" : "Tam thể 32 (end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

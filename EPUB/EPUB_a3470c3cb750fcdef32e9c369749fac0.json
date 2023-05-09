@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-tu-duy-khac-ve-kinh-te-va-xa-hoi-viet-nam_12541.html",
+    "title" : "Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alan Phan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12740,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_a3470c3cb750fcdef32e9c369749fac0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_a3470c3cb750fcdef32e9c369749fac0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "01. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2192,
+    "title" : "02. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "03. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2462,
+    "title" : "04. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1655,
+    "title" : "05. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1624,
+    "title" : "06. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN01.mp3",
+    "title" : "01. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN02.mp3",
+    "title" : "02. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN03.mp3",
+    "title" : "03. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN04.mp3",
+    "title" : "04. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN05.mp3",
+    "title" : "05. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuduykhacve-kt-xh-vietnam/TuDuyKhacVeVN06.mp3",
+    "title" : "06. Một Tư Duy Khác Về Kinh Tế Và Xã Hội Việt Nam",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

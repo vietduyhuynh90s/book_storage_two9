@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dem-truoc-ly-hon-thien-son-hong-diep_11348.html",
+    "title" : "Đêm Trước Ly Hôn - Thiên Sơn Hồng Diệp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Sơn Hồng Diệp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 80134,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_777fe5e5d39c25d79ef1bb7f4f88e75a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_777fe5e5d39c25d79ef1bb7f4f88e75a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5771,
+    "title" : "[Tập 1] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hôn Nhân Không Lối Thoát | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5034,
+    "title" : "[Tập 10] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Nhất Tình Thương Của Cha | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4624,
+    "title" : "[Tập 11] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Nhất Người Chồng Hai Mặt 😊TUYỆT VỜI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6081,
+    "title" : "[Tập 12] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Tuyệt Vời Thủ Đoạn Của Mẹ Chồng | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6711,
+    "title" : "[Tập 13] ĐÊM TRƯỚC LY HÔN | Truyệt Phẩm Ngôn Tình Mở Cửa Trái Tim | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7264,
+    "title" : "[Tập Cuối] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Tìm Được Hạnh Phúc Hay Nhất Mà Bạn Từng Nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6045,
+    "title" : "[Tập 2] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Nhất Nữ Hiệp Xinh Đẹp | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6400,
+    "title" : "[Tập 3] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Trọng Sinh Không Thể Bên Nhau | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5586,
+    "title" : "[Tập 4] ĐÊM TRƯỚC LY HÔN | Truyện Tâm Lý Xã Hội Đêm Lời Dụ Dỗ Của Con | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5545,
+    "title" : "[Tập 5] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình, Tâm Lý Xã Hội Tình Thân Và Tình Yêu | MC Vị Hy Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4945,
+    "title" : "[Tập 6] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Không Phải Em, Không Cưới | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5292,
+    "title" : "[Tập 7] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Nước Mắt Cô Đơn | MC Vị Hy Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5580,
+    "title" : "[Tập 8] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình, Tâm Lý Xã Hội Hay Nhất Tình Cờ Gặp Mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5256,
+    "title" : "[Tập 9] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình, Tâm Lý Xã Hội Hay Nhất Tình Đôi Vòng Tay Gia Bảo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/1.mp3",
+    "title" : "[Tập 1] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hôn Nhân Không Lối Thoát | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/10.mp3",
+    "title" : "[Tập 10] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Nhất Tình Thương Của Cha | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/11.mp3",
+    "title" : "[Tập 11] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Nhất Người Chồng Hai Mặt 😊TUYỆT VỜI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/12.mp3",
+    "title" : "[Tập 12] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Tuyệt Vời Thủ Đoạn Của Mẹ Chồng | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/13.mp3",
+    "title" : "[Tập 13] ĐÊM TRƯỚC LY HÔN | Truyệt Phẩm Ngôn Tình Mở Cửa Trái Tim | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/14.mp3",
+    "title" : "[Tập Cuối] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Tìm Được Hạnh Phúc Hay Nhất Mà Bạn Từng Nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/2.mp3",
+    "title" : "[Tập 2] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Hay Nhất Nữ Hiệp Xinh Đẹp | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/3.mp3",
+    "title" : "[Tập 3] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Trọng Sinh Không Thể Bên Nhau | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/4.mp3",
+    "title" : "[Tập 4] ĐÊM TRƯỚC LY HÔN | Truyện Tâm Lý Xã Hội Đêm Lời Dụ Dỗ Của Con | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/5.mp3",
+    "title" : "[Tập 5] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình, Tâm Lý Xã Hội Tình Thân Và Tình Yêu | MC Vị Hy Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/6.mp3",
+    "title" : "[Tập 6] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Không Phải Em, Không Cưới | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/7.mp3",
+    "title" : "[Tập 7] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình Nước Mắt Cô Đơn | MC Vị Hy Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/8.mp3",
+    "title" : "[Tập 8] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình, Tâm Lý Xã Hội Hay Nhất Tình Cờ Gặp Mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dm-truoc-ly-hon/9.mp3",
+    "title" : "[Tập 9] ĐÊM TRƯỚC LY HÔN | Truyện Ngôn Tình, Tâm Lý Xã Hội Hay Nhất Tình Đôi Vòng Tay Gia Bảo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

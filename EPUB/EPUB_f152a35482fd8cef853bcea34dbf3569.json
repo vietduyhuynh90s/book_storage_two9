@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dam-bi-ghet_14543.html",
+    "title" : "Dám Bị Ghét",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Koga Fumitake",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20301,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f152a35482fd8cef853bcea34dbf3569.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f152a35482fd8cef853bcea34dbf3569.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dam-bi-ghet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4173,
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 1: Đêm Thứ nhất - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4740,
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 2: Đêm Thứ Hai - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 3: Đêm Thứ Ba - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 4: Đêm Thứ Tư - Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4726,
+    "title" : "Phần 5: Đêm Thứ Năm -Phần Cuối- SỐNG HẾT MÌNH NGAY TẠI ĐÂY, NGAY LÚC NÀY",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dam-bi-ghet/1.mp3",
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 1: Đêm Thứ nhất - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/2.mp3",
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 2: Đêm Thứ Hai - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/3.mp3",
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 3: Đêm Thứ Ba - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/4.mp3",
+    "title" : "Koga Fumitake, Kishimi Ichiro - Phần 4: Đêm Thứ Tư - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dam-bi-ghet/5.mp3",
+    "title" : "Phần 5: Đêm Thứ Năm -Phần Cuối- SỐNG HẾT MÌNH NGAY TẠI ĐÂY, NGAY LÚC NÀY",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

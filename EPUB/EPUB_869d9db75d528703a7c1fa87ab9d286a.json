@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kieu-thiep-dong-thi-nuong_10669.html",
+    "title" : "Kiều Thiếp - Đông Thi Nương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đông Thi Nương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 88082,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_869d9db75d528703a7c1fa87ab9d286a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_869d9db75d528703a7c1fa87ab9d286a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kieu-thiep/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6416,
+    "title" : "[ Audio NGÔN TÌNH SỦNG NGỌT LỊM ] KIỀU THIẾP _ MC HƯƠNG GIANG _",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2844,
+    "title" : "[NGÔN TÌNH SỦNG NGỌT] KIỀU THIẾP _TẬP 10 I HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4284,
+    "title" : "[Ngôn Tình Sủng Ngọt Mát Lịm] Kiều Thiếp tập 11 _ Hương Giang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2598,
+    "title" : "Kiều Thiếp Tập 12 _ Hương Giang [ Ngôn tình cực sủng ngọt lịm TRONG SÁNG ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "Kiều Thiếp Tập 13 _ Hương Giang I Ngôn Tình Sủng Ngọt Mát Lịm Tim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3513,
+    "title" : "Kiều Thiếp tập 14 _Hương Giang _Audio ngôn tình sủng ngọt cực yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "Kiều Thiếp tập 15 _ Hương Giang | Audio Ngôn tình sủng ngọt lịm nam giả nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "Kiều Thiếp _ tập16 ( Tập gần cuối) _ Hương Giang _ Audio Ngôn Tình Sủng Ngọt Sắc Lang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3911,
+    "title" : "Kiều Thiếp _ tập 17 _ Hương Giang { Gần gần hết ] I Ngôn Tình Sủng Ngọt Lịm Tim Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7440,
+    "title" : "KIỀU THIẾP TẬP 18 [ FULL BỘ ] _ Hương Giang I NGÔN TÌNH SỦNG NGỌT SẮC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7274,
+    "title" : "[ Audio SỦNG NGỌT NAM GIẢ NỮ ] KIỀU THIẾP 2 _ MC HƯƠNG GIANG _",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "[ Audio NGÔN TÌNH SỦNG NGỌT NAM GIẢ NỮ ] KIỀU THIẾP 3 _ MC HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5632,
+    "title" : "[ Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT ] KIỀU THIẾP 4 _ MC HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6280,
+    "title" : "[ Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT ] KIỀU THIẾP 5 _ MC HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8296,
+    "title" : "[ Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT ] KIỀU THIẾP 6 _ MC HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5887,
+    "title" : "[Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT] KIỀU THIẾP 7/ MC HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5194,
+    "title" : "[Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT] KIỀU THIẾP 8/ MC HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4054,
+    "title" : "[Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT] KIỀU THIẾP 9 | MC HƯƠNG GIANG",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kieu-thiep/1.mp3",
+    "title" : "[ Audio NGÔN TÌNH SỦNG NGỌT LỊM ] KIỀU THIẾP _ MC HƯƠNG GIANG _",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/10.mp3",
+    "title" : "[NGÔN TÌNH SỦNG NGỌT] KIỀU THIẾP _TẬP 10 I HƯƠNG GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/11.mp3",
+    "title" : "[Ngôn Tình Sủng Ngọt Mát Lịm] Kiều Thiếp tập 11 _ Hương Giang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/12.mp3",
+    "title" : "Kiều Thiếp Tập 12 _ Hương Giang [ Ngôn tình cực sủng ngọt lịm TRONG SÁNG ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/13.mp3",
+    "title" : "Kiều Thiếp Tập 13 _ Hương Giang I Ngôn Tình Sủng Ngọt Mát Lịm Tim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/14.mp3",
+    "title" : "Kiều Thiếp tập 14 _Hương Giang _Audio ngôn tình sủng ngọt cực yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/15.mp3",
+    "title" : "Kiều Thiếp tập 15 _ Hương Giang | Audio Ngôn tình sủng ngọt lịm nam giả nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/16.mp3",
+    "title" : "Kiều Thiếp _ tập16 ( Tập gần cuối) _ Hương Giang _ Audio Ngôn Tình Sủng Ngọt Sắc Lang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/17.mp3",
+    "title" : "Kiều Thiếp _ tập 17 _ Hương Giang { Gần gần hết ] I Ngôn Tình Sủng Ngọt Lịm Tim Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/18.mp3",
+    "title" : "KIỀU THIẾP TẬP 18 [ FULL BỘ ] _ Hương Giang I NGÔN TÌNH SỦNG NGỌT SẮC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/2.mp3",
+    "title" : "[ Audio SỦNG NGỌT NAM GIẢ NỮ ] KIỀU THIẾP 2 _ MC HƯƠNG GIANG _",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/3.mp3",
+    "title" : "[ Audio NGÔN TÌNH SỦNG NGỌT NAM GIẢ NỮ ] KIỀU THIẾP 3 _ MC HƯƠNG GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/4.mp3",
+    "title" : "[ Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT ] KIỀU THIẾP 4 _ MC HƯƠNG GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/5.mp3",
+    "title" : "[ Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT ] KIỀU THIẾP 5 _ MC HƯƠNG GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/6.mp3",
+    "title" : "[ Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT ] KIỀU THIẾP 6 _ MC HƯƠNG GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/7.mp3",
+    "title" : "[Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT] KIỀU THIẾP 7/ MC HƯƠNG GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/8.mp3",
+    "title" : "[Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT] KIỀU THIẾP 8/ MC HƯƠNG GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kieu-thiep/9.mp3",
+    "title" : "[Audio NGÔN TÌNH CỰC HÀI SỦNG NGỌT] KIỀU THIẾP 9 | MC HƯƠNG GIANG",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

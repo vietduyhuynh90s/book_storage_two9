@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sam-sam-den-day-an-ne-co-man_10517.html",
+    "title" : "Sam Sam Đến Đây Ăn Nè - Cố Mạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cố Mạn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26771,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f964d7c7224d456baae08a4169942332.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f964d7c7224d456baae08a4169942332.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1906,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3128,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 14 END",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1858,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2390,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1618,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1542,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2122,
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/1.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/10.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/11.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/12.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/13.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/14.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 14 END",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/2.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/3.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/4.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/5.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/6.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/7.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/8.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-sam-den-day-an-ne/9.mp3",
+    "title" : "Audio Sam Sam đến đây ăn nè, Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

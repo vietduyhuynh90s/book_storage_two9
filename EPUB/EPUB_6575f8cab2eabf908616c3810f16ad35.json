@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/van-co-mot-nguoi-doi-em-noi-cuoi-con-duong-sky-angels_11843.html",
+    "title" : "Vẫn Có Một Người Đợi Em Nơi Cuối Con Đường - Sky Angels",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sky Angels",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35351,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6575f8cab2eabf908616c3810f16ad35.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6575f8cab2eabf908616c3810f16ad35.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7400,
+    "title" : "Vẫn Có Một Người Đợi Em Nơi Cuối Con Đường – Truyện ngắn hay chọn lọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7260,
+    "title" : "Part 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6591,
+    "title" : "Truyện ngắn hay chọn lọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7231,
+    "title" : "Tập 4 | Truyện ngắn hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6869,
+    "title" : "Truyện ngắn hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/1.mp3",
+    "title" : "Vẫn Có Một Người Đợi Em Nơi Cuối Con Đường – Truyện ngắn hay chọn lọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/2.mp3",
+    "title" : "Part 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/3.mp3",
+    "title" : "Truyện ngắn hay chọn lọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/4.mp3",
+    "title" : "Tập 4 | Truyện ngắn hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vancomotnguoidoiemnoicuoiconduong/5.mp3",
+    "title" : "Truyện ngắn hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

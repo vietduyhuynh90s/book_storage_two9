@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sam-walton-va-wal-mart-giau-nhat-nho-ban-hang-re-nhat_20276.html",
+    "title" : "Sam Walton Và Wal-Mart - Giàu Nhất Nhờ Bán Hàng Rẻ Nhất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Phạm Đăng Khoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15232,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_47357c7384bf04223c1d12bed935ac03.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_47357c7384bf04223c1d12bed935ac03.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/01.P00_MucLuc_MoDau_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1201,
+    "title" : "01.P00 MucLuc MoDau SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/02.P01A_C01_SamCongDanTuyetDieuCuaTheGioi_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1899,
+    "title" : "02.P01A C01 SamCongDanTuyetDieuCuaTheGioi SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/03.P01B_C02_BanHangTotNhatVoiGiaThapNhat_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1673,
+    "title" : "03.P01B C02 BanHangTotNhatVoiGiaThapNhat SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/04.P01C_C03_TrietLyMotDola_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "04.P01C C03 TrietLyMotDola SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/05.P02A_C01_NghiNhuNguoiTieuDung_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 963,
+    "title" : "05.P02A C01 NghiNhuNguoiTieuDung SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/06.P02B_C02_VuotThac_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "06.P02B C02 VuotThac SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/07.P02C_C03_ThachDau_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1641,
+    "title" : "07.P02C C03 ThachDau SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/08.P02D_C04_CauLacBoSam_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1089,
+    "title" : "08.P02D C04 CauLacBoSam SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/09.P03A_PhuLuc_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "09.P03A PhuLuc SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/10.P03B_PhuLuc_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 859,
+    "title" : "10.P03B PhuLuc SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/11.P03C_Het_PhuLuc_SamWaltonVaWalMart.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "11.P03C Het PhuLuc SamWaltonVaWalMart",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/01.P00_MucLuc_MoDau_SamWaltonVaWalMart.mp3",
+    "title" : "01.P00 MucLuc MoDau SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/02.P01A_C01_SamCongDanTuyetDieuCuaTheGioi_SamWaltonVaWalMart.mp3",
+    "title" : "02.P01A C01 SamCongDanTuyetDieuCuaTheGioi SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/03.P01B_C02_BanHangTotNhatVoiGiaThapNhat_SamWaltonVaWalMart.mp3",
+    "title" : "03.P01B C02 BanHangTotNhatVoiGiaThapNhat SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/04.P01C_C03_TrietLyMotDola_SamWaltonVaWalMart.mp3",
+    "title" : "04.P01C C03 TrietLyMotDola SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/05.P02A_C01_NghiNhuNguoiTieuDung_SamWaltonVaWalMart.mp3",
+    "title" : "05.P02A C01 NghiNhuNguoiTieuDung SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/06.P02B_C02_VuotThac_SamWaltonVaWalMart.mp3",
+    "title" : "06.P02B C02 VuotThac SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/07.P02C_C03_ThachDau_SamWaltonVaWalMart.mp3",
+    "title" : "07.P02C C03 ThachDau SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/08.P02D_C04_CauLacBoSam_SamWaltonVaWalMart.mp3",
+    "title" : "08.P02D C04 CauLacBoSam SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/09.P03A_PhuLuc_SamWaltonVaWalMart.mp3",
+    "title" : "09.P03A PhuLuc SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/10.P03B_PhuLuc_SamWaltonVaWalMart.mp3",
+    "title" : "10.P03B PhuLuc SamWaltonVaWalMart",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sam-walton-va-walmart-giau-nhat-nho-ban-hang-re-nhat.sna/11.P03C_Het_PhuLuc_SamWaltonVaWalMart.mp3",
+    "title" : "11.P03C Het PhuLuc SamWaltonVaWalMart",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
