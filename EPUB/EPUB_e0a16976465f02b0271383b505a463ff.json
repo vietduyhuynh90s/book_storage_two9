@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-nhay-cam-mon-qua-hay-loi-nguyen_20245.html",
+    "title" : "Người Nhạy Cảm - Món Quà Hay Lời Nguyền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Elaine N. Aron",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 11095,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e0a16976465f02b0271383b505a463ff.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e0a16976465f02b0271383b505a463ff.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "nguoi-nhay-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2762,
+    "title" : "nguoi-nhay-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1610,
+    "title" : "nguoi-nhay-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "nguoi-nhay-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-1.mp3",
+    "title" : "nguoi-nhay-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-2.mp3",
+    "title" : "nguoi-nhay-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-3.mp3",
+    "title" : "nguoi-nhay-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-nhay-4/nguoi-nhay-4.mp3",
+    "title" : "nguoi-nhay-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
