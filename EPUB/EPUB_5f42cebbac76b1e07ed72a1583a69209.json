@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lay-than-bao-dap_15842.html",
+    "title" : "Lấy Thân Báo Đáp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Tửu Nhi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 39104,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5f42cebbac76b1e07ed72a1583a69209.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5f42cebbac76b1e07ed72a1583a69209.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lay-than-ba-dap/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "Truyện Nam Quân Nhân, Nữ Phóng Viên | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 1 | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4264,
+    "title" : "Truyện Ngắn Hay 2020 | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 10: Đây Là Con Dâu Nhà Tôi | Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3711,
+    "title" : "Tập Cuối: Lấy Thân Báo Đáp | Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3314,
+    "title" : "Truyện Sủng Ngọt Hay | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 2 | Ngôn Tình Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3203,
+    "title" : "Truyện Quân Nhân Mới Nhất | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 3: Lấy Thân Báo Đáp | MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Truyện Ngôn Tình Mới | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 4: Em Muốn Ngủ Cùng Anh | MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2849,
+    "title" : "Truyện Sủng Ngọt Mới Nhất | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 5 | Ngôn Tình Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Truyện Hay 2020 | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 6: Anh Thích Em Sao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "Truyện Ngôn Tình Mới | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 7 | Trần Vân Kể Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Con Dâu Nuôi Từ Bé | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3579,
+    "title" : "Truyện Hay Và Ý Nghĩa | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 9 | Ngôn Tình Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lay-than-ba-dap/1.mp3",
+    "title" : "Truyện Nam Quân Nhân, Nữ Phóng Viên | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 1 | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/10.mp3",
+    "title" : "Truyện Ngắn Hay 2020 | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 10: Đây Là Con Dâu Nhà Tôi | Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/11.mp3",
+    "title" : "Tập Cuối: Lấy Thân Báo Đáp | Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/2.mp3",
+    "title" : "Truyện Sủng Ngọt Hay | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 2 | Ngôn Tình Trần Vân Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/3.mp3",
+    "title" : "Truyện Quân Nhân Mới Nhất | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 3: Lấy Thân Báo Đáp | MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/4.mp3",
+    "title" : "Truyện Ngôn Tình Mới | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 4: Em Muốn Ngủ Cùng Anh | MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/5.mp3",
+    "title" : "Truyện Sủng Ngọt Mới Nhất | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 5 | Ngôn Tình Trần Vân Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/6.mp3",
+    "title" : "Truyện Hay 2020 | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 6: Anh Thích Em Sao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/7.mp3",
+    "title" : "Truyện Ngôn Tình Mới | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 7 | Trần Vân Kể Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/8.mp3",
+    "title" : "Con Dâu Nuôi Từ Bé | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-than-ba-dap/9.mp3",
+    "title" : "Truyện Hay Và Ý Nghĩa | VÔ TÌNH CỨU ĐƯỢC CÔ VỢ TƯƠNG LAI | Tập 9 | Ngôn Tình Trần Vân Vị Hy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

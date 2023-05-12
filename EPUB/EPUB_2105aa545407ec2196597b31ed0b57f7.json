@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giai-phap-dot-pha_20280.html",
+    "title" : "Giải Pháp Đột Phá",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jay Abraham",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 29152,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_2105aa545407ec2196597b31ed0b57f7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_2105aa545407ec2196597b31ed0b57f7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha00.MP3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1354,
+    "title" : "GiaiPhapDotPha00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha00_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1492,
+    "title" : "GiaiPhapDotPha00 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha0102_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "GiaiPhapDotPha0102 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3583,
+    "title" : "GiaiPhapDotPha03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha04_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2474,
+    "title" : "GiaiPhapDotPha04 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha05_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "GiaiPhapDotPha05 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2310,
+    "title" : "GiaiPhapDotPha06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "GiaiPhapDotPha07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha08_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2032,
+    "title" : "GiaiPhapDotPha08 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha09_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3426,
+    "title" : "GiaiPhapDotPha09 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "GiaiPhapDotPha10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "GiaiPhapDotPha11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha00.MP3",
+    "title" : "GiaiPhapDotPha00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha00_Chuan.mp3",
+    "title" : "GiaiPhapDotPha00 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha0102_Chuan.mp3",
+    "title" : "GiaiPhapDotPha0102 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha03.mp3",
+    "title" : "GiaiPhapDotPha03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha04_Chuan.mp3",
+    "title" : "GiaiPhapDotPha04 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha05_Chuan.mp3",
+    "title" : "GiaiPhapDotPha05 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha06.mp3",
+    "title" : "GiaiPhapDotPha06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha07.mp3",
+    "title" : "GiaiPhapDotPha07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha08_Chuan.mp3",
+    "title" : "GiaiPhapDotPha08 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha09_Chuan.mp3",
+    "title" : "GiaiPhapDotPha09 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha10.mp3",
+    "title" : "GiaiPhapDotPha10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/9-giai-phap-dot-pha-cho-thoi-buoi-kinh-te-kho-khan.sna/GiaiPhapDotPha11.mp3",
+    "title" : "GiaiPhapDotPha11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

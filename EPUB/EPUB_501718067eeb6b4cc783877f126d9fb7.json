@@ -1,0 +1,665 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-cong-tu-dien-khung-nga-thi-lao-ngu-do-thi_3058.html",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngã Thị Lão Ngũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 340970,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_501718067eeb6b4cc783877f126d9fb7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_501718067eeb6b4cc783877f126d9fb7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/congtudienkhung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6445,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (11)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6445,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (12)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6445,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (13)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (14)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (15)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (16)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (17)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (18)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (19)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (20)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (21)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (22)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (23)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (24)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (25)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6255,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (26)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (27)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (28)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (29)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (30)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (31)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (32)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (33)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (34)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (35)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (36)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (37)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6365,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (38)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6215,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (39)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6215,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (40)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6215,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (41)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6215,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (42)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6215,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (43)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (44)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (45)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (46)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (47)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (48)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (49)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (50)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6230,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (51)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18625,
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần 52 END",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6440,
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/congtudienkhung/1.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/10.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/11.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (11)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/12.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (12)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/13.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (13)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/14.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (14)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/15.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (15)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/16.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (16)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/17.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (17)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/18.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (18)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/19.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (19)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/2.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/20.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (20)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/21.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (21)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/22.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (22)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/23.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (23)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/24.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (24)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/25.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (25)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/26.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (26)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/27.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (27)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/28.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (28)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/29.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (29)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/3.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/30.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (30)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/31.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (31)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/32.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (32)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/33.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (33)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/34.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (34)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/35.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (35)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/36.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (36)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/37.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (37)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/38.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (38)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/39.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (39)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/4.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/40.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (40)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/41.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (41)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/42.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (42)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/43.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (43)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/44.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (44)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/45.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (45)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/46.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (46)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/47.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (47)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/48.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (48)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/49.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (49)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/5.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/50.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (50)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/51.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần (51)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/52.mp3",
+    "title" : "Công Tử Điên Khùng - Ngã Thị Lão Ngũ Phần 52 END",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/6.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/7.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/8.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congtudienkhung/9.mp3",
+    "title" : "Audio Đô Thị Dị Năng Công Tử Điên Khùng Ngã Thị Lão Ngũ Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

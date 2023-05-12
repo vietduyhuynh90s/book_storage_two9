@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-chien-giua-nhip-va-quan-dui-hoa_19156.html",
+    "title" : "Cuộc Chiến Giữa Nhíp Và Quần Đùi Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "LiNi Thông Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 24362,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8eabac1381e7b0f2c3758104a5857477.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8eabac1381e7b0f2c3758104a5857477.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "cuoc-chien-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "cuoc-chien-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "cuoc-chien-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "cuoc-chien-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "cuoc-chien-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "cuoc-chien-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 962,
+    "title" : "cuoc-chien-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-1.mp3",
+    "title" : "cuoc-chien-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-2.mp3",
+    "title" : "cuoc-chien-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-3.mp3",
+    "title" : "cuoc-chien-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-4.mp3",
+    "title" : "cuoc-chien-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-5.mp3",
+    "title" : "cuoc-chien-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-6.mp3",
+    "title" : "cuoc-chien-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-chien-1/cuoc-chien-7.mp3",
+    "title" : "cuoc-chien-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

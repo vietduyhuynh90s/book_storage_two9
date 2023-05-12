@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nam-thanh-gio-noi_14046.html",
+    "title" : "Nam Thành Gió Nổi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Ký Bạch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 89768,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c357a18648389d1200b29bc0ecf3fb42.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c357a18648389d1200b29bc0ecf3fb42.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4243,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4248,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4667,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4183,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4001,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4016,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4114,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4039,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4336,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4019,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3328,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3524,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "a",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/1.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/10.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/11.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/12.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/13.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/14.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/15.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/16.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/17.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/18.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/19.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/2.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/20.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/21.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/22.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/23.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/3.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/4.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/5.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/6.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/7.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/8.mp3",
+    "title" : "a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-thanh-gio-noi/9.mp3",
+    "title" : "a",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

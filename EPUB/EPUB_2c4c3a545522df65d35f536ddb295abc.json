@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/soi-va-duong-cam-ngu-cung-soi-diep-lac-vo-tam_10344.html",
+    "title" : "Sói và Dương Cầm (Ngủ Cùng Sói) - Diệp Lạc Vô Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Lạc Vô Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 40159,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_2c4c3a545522df65d35f536ddb295abc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_2c4c3a545522df65d35f536ddb295abc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngu-cung-soi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3693,
+    "title" : "Truyện ngôn tình hắc bang HE hay nhất - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "Truyện ngôn tình hắc bang HE hay nhất - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3946,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3693,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3799,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3969,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "MC Bi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngu-cung-soi/1.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/10.mp3",
+    "title" : "Truyện ngôn tình hắc bang HE hay nhất - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/11.mp3",
+    "title" : "Truyện ngôn tình hắc bang HE hay nhất - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/2.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/3.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/4.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/5.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/6.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/7.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/8.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-soi/9.mp3",
+    "title" : "MC Bi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

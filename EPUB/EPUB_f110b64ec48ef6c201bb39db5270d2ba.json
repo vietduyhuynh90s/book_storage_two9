@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/oan-hon-duoi-gieng-ha-duong_12014.html",
+    "title" : "Oan Hồn Dưới Giếng - Hà Dương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 24391,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f110b64ec48ef6c201bb39db5270d2ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f110b64ec48ef6c201bb39db5270d2ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4531,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4088,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4030,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4365,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7377,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/1.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/2.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/3.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/4.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-duoi-gieng/5.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Đến Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

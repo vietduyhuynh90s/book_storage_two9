@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ta-tu_16074.html",
+    "title" : "Tà Tu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 15286,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_b9e7f0928c590aad83a16c7e7a1855f8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_b9e7f0928c590aad83a16c7e7a1855f8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ta-tu_202101/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4568,
+    "title" : "Truyện Ma Có Thật Mới Nhất 2021 Về Tà Thuật MC Ngọc Lâm Kể Rợn Và Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-tu_202101/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4013,
+    "title" : "Truyện Ma Có Thật Mới Về Tà Thuật MC Ngọc Lâm Kể Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-tu_202101/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4089,
+    "title" : "Truyện Ma Có Thật Mới Về Tà Thuật MC Ngọc Lâm Kể Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ta-tu_202101/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2616,
+    "title" : "Truyện Ma Có Thật Mới Về Tà Thuật MC Ngọc Lâm Kể Hãi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ta-tu_202101/1.mp3",
+    "title" : "Truyện Ma Có Thật Mới Nhất 2021 Về Tà Thuật MC Ngọc Lâm Kể Rợn Và Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-tu_202101/2.mp3",
+    "title" : "Truyện Ma Có Thật Mới Về Tà Thuật MC Ngọc Lâm Kể Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-tu_202101/3.mp3",
+    "title" : "Truyện Ma Có Thật Mới Về Tà Thuật MC Ngọc Lâm Kể Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ta-tu_202101/4.mp3",
+    "title" : "Truyện Ma Có Thật Mới Về Tà Thuật MC Ngọc Lâm Kể Hãi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-tu-khinh-bi-khong-tu-phi-hoai_19003.html",
+    "title" : "Không Tự Khinh Bỉ Không Tự Phí Hoài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vãn Tình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 26794,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6f2ef2ed7e6ba44bba0fe90112f2616a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6f2ef2ed7e6ba44bba0fe90112f2616a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongtukhinhbi1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongtukhinhbi2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongtukhinhbi3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongtukhinhbi4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongtukhinhbi5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongtukhinhbi6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khongtukhinhbi7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1594,
+    "title" : "khongtukhinhbi8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi1.mp3",
+    "title" : "khongtukhinhbi1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi2.mp3",
+    "title" : "khongtukhinhbi2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi3.mp3",
+    "title" : "khongtukhinhbi3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi4.mp3",
+    "title" : "khongtukhinhbi4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi5.mp3",
+    "title" : "khongtukhinhbi5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi6.mp3",
+    "title" : "khongtukhinhbi6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi7.mp3",
+    "title" : "khongtukhinhbi7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khongtukhinhbi1/khongtukhinhbi8.mp3",
+    "title" : "khongtukhinhbi8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

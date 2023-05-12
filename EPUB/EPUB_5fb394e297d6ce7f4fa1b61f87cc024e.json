@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bay-thanh-hung-gian_18624.html",
+    "title" : "Bảy Thanh Hung Giản",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vĩ Ngư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 254439,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5fb394e297d6ce7f4fa1b61f87cc024e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5fb394e297d6ce7f4fa1b61f87cc024e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9150,
+    "title" : "7 THG VN Q01 T01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8330,
+    "title" : "7 THG VN Q01 T02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8185,
+    "title" : "7 THG VN Q01 T03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6930,
+    "title" : "7 THG VN Q01 T04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8638,
+    "title" : "7 THG VN Q01 T05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8044,
+    "title" : "7 THG VN Q01 T06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7939,
+    "title" : "7 THG VN Q01 T07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6712,
+    "title" : "7 THG VN Q01 T08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7488,
+    "title" : "7 THG VN Q02 T01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7501,
+    "title" : "7 THG VN Q02 T02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8503,
+    "title" : "7 THG VN Q02 T03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7060,
+    "title" : "7 THG VN Q02 T04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8104,
+    "title" : "7 THG VN Q02 T05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7738,
+    "title" : "7 THG VN Q02 T06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7825,
+    "title" : "7 THG VN Q02 T07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9726,
+    "title" : "7 THG VN Q02 T08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7713,
+    "title" : "7 THG VN Q03 T01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8108,
+    "title" : "7 THG VN Q03 T02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8053,
+    "title" : "7 THG VN Q03 T03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8094,
+    "title" : "7 THG VN Q03 T04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7771,
+    "title" : "7 THG VN Q03 T05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8210,
+    "title" : "7 THG VN Q03 T06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8555,
+    "title" : "7 THG VN Q03 T07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9367,
+    "title" : "7 THG VN Q03 T08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7794,
+    "title" : "7 THG VN Q04 T01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6654,
+    "title" : "7 THG VN Q04 T02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8337,
+    "title" : "7 THG VN Q04 T03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8068,
+    "title" : "7 THG VN Q04 T04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9158,
+    "title" : "7 THG VN Q04 T05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4621,
+    "title" : "7 THG VN Q04 T06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5332,
+    "title" : "7 THG VN Q04 T07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7949,
+    "title" : "7 THG VN Q04 T08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2782,
+    "title" : "7 THG VN Q04 T09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T01.mp3",
+    "title" : "7 THG VN Q01 T01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T02.mp3",
+    "title" : "7 THG VN Q01 T02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T03.mp3",
+    "title" : "7 THG VN Q01 T03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T04.mp3",
+    "title" : "7 THG VN Q01 T04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T05.mp3",
+    "title" : "7 THG VN Q01 T05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T06.mp3",
+    "title" : "7 THG VN Q01 T06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T07.mp3",
+    "title" : "7 THG VN Q01 T07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q01_T08.mp3",
+    "title" : "7 THG VN Q01 T08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T01.mp3",
+    "title" : "7 THG VN Q02 T01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T02.mp3",
+    "title" : "7 THG VN Q02 T02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T03.mp3",
+    "title" : "7 THG VN Q02 T03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T04.mp3",
+    "title" : "7 THG VN Q02 T04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T05.mp3",
+    "title" : "7 THG VN Q02 T05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T06.mp3",
+    "title" : "7 THG VN Q02 T06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T07.mp3",
+    "title" : "7 THG VN Q02 T07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q02_T08.mp3",
+    "title" : "7 THG VN Q02 T08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T01.mp3",
+    "title" : "7 THG VN Q03 T01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T02.mp3",
+    "title" : "7 THG VN Q03 T02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T03.mp3",
+    "title" : "7 THG VN Q03 T03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T04.mp3",
+    "title" : "7 THG VN Q03 T04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T05.mp3",
+    "title" : "7 THG VN Q03 T05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T06.mp3",
+    "title" : "7 THG VN Q03 T06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T07.mp3",
+    "title" : "7 THG VN Q03 T07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q03_T08.mp3",
+    "title" : "7 THG VN Q03 T08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T01.mp3",
+    "title" : "7 THG VN Q04 T01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T02.mp3",
+    "title" : "7 THG VN Q04 T02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T03.mp3",
+    "title" : "7 THG VN Q04 T03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T04.mp3",
+    "title" : "7 THG VN Q04 T04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T05.mp3",
+    "title" : "7 THG VN Q04 T05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T06.mp3",
+    "title" : "7 THG VN Q04 T06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T07.mp3",
+    "title" : "7 THG VN Q04 T07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T08.mp3",
+    "title" : "7 THG VN Q04 T08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-thg-vn-q-02-t-08/7%20THG_VN_Q04_T09.mp3",
+    "title" : "7 THG VN Q04 T09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

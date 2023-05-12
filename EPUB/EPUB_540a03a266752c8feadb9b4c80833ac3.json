@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sau-nay-con-se-hieu_16746.html",
+    "title" : "Sau Này Con Sẽ Hiểu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Marc Gellman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 9146,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_540a03a266752c8feadb9b4c80833ac3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_540a03a266752c8feadb9b4c80833ac3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/01-loi_noi_dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 358,
+    "title" : "Lời nói đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/02-mot_ngay_nao_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1075,
+    "title" : "Phần 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/03-choi_dep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1281,
+    "title" : "Phần 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/04-dung_xen_ngang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1068,
+    "title" : "Phần 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/05-con_ko_the_ra_khoi_nha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1144,
+    "title" : "Phần 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/06-con_se_cam_thay_the_nao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "Phần 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/07-dung_vua_chay_vua_cam_keo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1133,
+    "title" : "Phần 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/08-hay_van_dong_di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1233,
+    "title" : "Phần 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/09-mot_ngay_nao_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "Phần 08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/01-loi_noi_dau.mp3",
+    "title" : "Lời nói đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/02-mot_ngay_nao_do.mp3",
+    "title" : "Phần 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/03-choi_dep.mp3",
+    "title" : "Phần 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/04-dung_xen_ngang.mp3",
+    "title" : "Phần 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/05-con_ko_the_ra_khoi_nha.mp3",
+    "title" : "Phần 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/06-con_se_cam_thay_the_nao.mp3",
+    "title" : "Phần 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/07-dung_vua_chay_vua_cam_keo.mp3",
+    "title" : "Phần 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/08-hay_van_dong_di.mp3",
+    "title" : "Phần 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiNoiDau_20130929/09-mot_ngay_nao_do.mp3",
+    "title" : "Phần 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

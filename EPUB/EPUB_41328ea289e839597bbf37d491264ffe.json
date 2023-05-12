@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-de-thi-dam-mau-loi-me-best-seller_2340.html",
+    "title" : "Đề Thi Đẫm Máu - Lôi Mễ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lôi Mễ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 45978,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_41328ea289e839597bbf37d491264ffe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_41328ea289e839597bbf37d491264ffe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dethidammau_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4364,
+    "title" : "ĐỀ THI ĐẪM MÁU #1 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4282,
+    "title" : "ĐỀ THI ĐẪM MÁU #10 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "ĐỀ THI ĐẪM MÁU #11 (end) | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4232,
+    "title" : "ĐỀ THI ĐẪM MÁU #2 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4314,
+    "title" : "ĐỀ THI ĐẪM MÁU #3 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4213,
+    "title" : "ĐỀ THI ĐẪM MÁU #4 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "ĐỀ THI ĐẪM MÁU #5 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4586,
+    "title" : "ĐỀ THI ĐẪM MÁU #6 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "ĐỀ THI ĐẪM MÁU #7 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4163,
+    "title" : "ĐỀ THI ĐẪM MÁU #8 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4519,
+    "title" : "ĐỀ THI ĐẪM MÁU #9 | Lôi Mễ (Matean chỉnh sửa)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dethidammau_201903/1.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #1 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/10.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #10 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/11.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #11 (end) | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/2.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #2 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/3.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #3 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/4.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #4 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/5.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #5 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/6.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #6 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/7.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #7 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/8.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #8 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dethidammau_201903/9.mp3",
+    "title" : "ĐỀ THI ĐẪM MÁU #9 | Lôi Mễ (Matean chỉnh sửa)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

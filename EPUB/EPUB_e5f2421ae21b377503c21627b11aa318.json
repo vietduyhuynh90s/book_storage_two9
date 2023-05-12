@@ -1,0 +1,377 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-so-luu-huong-truyen-ky-long-ho-phong-van-co-long-vo-hiep_3705.html",
+    "title" : "Sở Lưu Hương Truyền Kỳ: Long Hổ Phong Vân - Cổ Long",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 143031,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e5f2421ae21b377503c21627b11aa318.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e5f2421ae21b377503c21627b11aa318.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5467,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5292,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5810,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6321,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5642,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5754,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5348,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4760,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5551,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5376,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5691,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5096,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6384,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5446,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5341,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5327,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5964,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4816,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3185,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 28 End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3948,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "4 - Một Việc Trên Sức, Trăng Sáng Gió Lành, Tai Họa Và Mỹ Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5600,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5915,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4207,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 7 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3185,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6993,
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/1.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/10.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/11.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/12.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/13.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/14.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/15.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/16.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/17.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/18.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/19.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/2.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/20.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/21.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/22.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/23.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/24.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/25.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/26.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/27.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/28.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 28 End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/3.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/4.mp3",
+    "title" : "4 - Một Việc Trên Sức, Trăng Sáng Gió Lành, Tai Họa Và Mỹ Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/5.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/6.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/7.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 7 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/8.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lhpv/9.mp3",
+    "title" : "Long Hổ Phong Vân Sở Lưu Hương Truyền Kỳ Series Kiếm Hiệp Cổ Long Audio 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

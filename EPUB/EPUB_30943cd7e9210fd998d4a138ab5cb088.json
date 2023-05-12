@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-tiec-bao-thu-quy-co-nu-kinh-di_3663.html",
+    "title" : "Tiệc Báo Thù - Quỷ Cổ Nữ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỷ Cổ Nữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 13918,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_30943cd7e9210fd998d4a138ab5cb088.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_30943cd7e9210fd998d4a138ab5cb088.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tiecbaothu_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3175,
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2120,
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2374,
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 620,
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tiecbaothu_201903/1.mp3",
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/2.mp3",
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/3.mp3",
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/4.mp3",
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/5.mp3",
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tiecbaothu_201903/6.mp3",
+    "title" : "Vu Lee - Tiểu Thuyết Ma, Trinh Thám 2017",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

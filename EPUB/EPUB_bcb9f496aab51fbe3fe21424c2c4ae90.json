@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-trieu-lan-yeu-em-phuong-mich-han_11579.html",
+    "title" : "Một Triệu Lần Yêu Em - Phương Mịch Hán",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phương Mịch Hán",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 16792,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_bcb9f496aab51fbe3fe21424c2c4ae90.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_bcb9f496aab51fbe3fe21424c2c4ae90.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mottrieulanyeuem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8579,
+    "title" : "Truyện Ngôn Tình Hay Nhất Cảm Động Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mottrieulanyeuem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8213,
+    "title" : "Truyện Ngôn Tình Hay và Cảm Động Vô Cùng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mottrieulanyeuem/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Cảm Động Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mottrieulanyeuem/2.mp3",
+    "title" : "Truyện Ngôn Tình Hay và Cảm Động Vô Cùng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

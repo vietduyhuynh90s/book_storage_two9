@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-toi-thay-hoa-vang-tren-co-xanh-nguyen-nhat-anh-tieu-thuyet_2323.html",
+    "title" : "Tôi Thấy Hoa Vàng Trên Cỏ Xanh - Nguyễn Nhật Ánh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 21542,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_765c7185dda7acad64b94a7d2be54c9f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_765c7185dda7acad64b94a7d2be54c9f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "Toi thay hoa vang tren co xanh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%282%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3567,
+    "title" : "Toi thay hoa vang tren co xanh (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%283%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "Toi thay hoa vang tren co xanh (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%284%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "Toi thay hoa vang tren co xanh (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%285%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Toi thay hoa vang tren co xanh (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%286%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "Toi thay hoa vang tren co xanh (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%281%29.mp3",
+    "title" : "Toi thay hoa vang tren co xanh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%282%29.mp3",
+    "title" : "Toi thay hoa vang tren co xanh (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%283%29.mp3",
+    "title" : "Toi thay hoa vang tren co xanh (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%284%29.mp3",
+    "title" : "Toi thay hoa vang tren co xanh (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%285%29.mp3",
+    "title" : "Toi thay hoa vang tren co xanh (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-thay-hoa-vang-tren-co-xanh.sna/Toi%20thay%20hoa%20vang%20tren%20co%20xanh%20%286%29.mp3",
+    "title" : "Toi thay hoa vang tren co xanh (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

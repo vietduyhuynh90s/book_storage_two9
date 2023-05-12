@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-hon-cao-thuong-edmondo-de-amicis_10574.html",
+    "title" : "Tâm Hồn Cao Thượng - Edmondo De Amicis",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Edmondo De Amicis",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 22045,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_fc9a628eb63d2a3a3139b5bb6c7202b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_fc9a628eb63d2a3a3139b5bb6c7202b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-hon-cao-thuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16930,
+    "title" : "Tâm Hồn Cao Thượng - Edmondo De Amicis Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-hon-cao-thuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5115,
+    "title" : "Tâm Hồn Cao Thượng - Edmondo De Amicis Phần 2 END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-hon-cao-thuong/1.mp3",
+    "title" : "Tâm Hồn Cao Thượng - Edmondo De Amicis Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-hon-cao-thuong/2.mp3",
+    "title" : "Tâm Hồn Cao Thượng - Edmondo De Amicis Phần 2 END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

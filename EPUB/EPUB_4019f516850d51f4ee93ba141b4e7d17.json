@@ -1,0 +1,497 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/suc-manh-cua-hien-tai_16751.html",
+    "title" : "Sức Mạnh Của Hiện Tại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Eckhart Tolle",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 10618,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_4019f516850d51f4ee93ba141b4e7d17.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_4019f516850d51f4ee93ba141b4e7d17.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/01-chuong_4-chien_luoc_tranh_ne-danh_mat_phut_giay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 324,
+    "title" : "Chương 4: Chiến lược để tránh né phút giây hiện tại của trí năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/02-vo_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 533,
+    "title" : "Vô minh thông thường và vô minh sâu đậm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/03-nhung_nguoi_da_trang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 188,
+    "title" : "“Những người da trắng ấy đang đi tìm cái gì vậy?”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/04-hoa_giai_vo_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 203,
+    "title" : "Hóa giải những vô minh thông thường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/05-thoat_ly_bat_hanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 758,
+    "title" : "Thoát ly khỏi những cảm giác bất hạnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/06-du_dang_o_dau_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 618,
+    "title" : "Dù bất kỳ đang ở đâu, bạn hãy có mặt ở đó hoàn toàn (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/07-du_dang_o_dau_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 608,
+    "title" : "Dù bất kỳ đang ở đâu, bạn hãy có mặt ở đó hoàn toàn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/08-muc_tieu_dich_thuc_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 188,
+    "title" : "Mục tiêu đích thực cuộc hành trình của đời bạn (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/09-muc_tieu_dich_thuc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 88,
+    "title" : "Mục tiêu đích thực cuộc hành trình của đời bạn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/10-qua_khu_ko_the_song_day.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 353,
+    "title" : "Quá khứ không thể “sống dậy” khi bạn thực sự cảm nhận được hiện tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/11-chu_thich_chuong_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 667,
+    "title" : "Chú thích chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/12-chuong_5-trang_thai_co_mat-dieu_do_ko_phai_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 81,
+    "title" : "Chương 5: Trạng thái có mặt sâu sắc ở hiện tại: Điều đó không phải như bạn nghĩ đâu (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/13-dieu_do_ko_nhu_ban_nghi_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "Điều đó không phải như bạn nghĩ đâu (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/14-y_nghia_mat_truyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 210,
+    "title" : "Ý nghĩa mật truyền của sự “chờ đợi” trong cảnh giác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/15-cai_dep_phat_sinh_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 177,
+    "title" : "Cái đẹp phát sinh từ sự có mặt tĩnh lặng của bạn (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/16-cai_dep_phat_sinh_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 188,
+    "title" : "Cái đẹp phát sinh từ sự có mặt tĩnh lặng của bạn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/17-nhan_thuc_trang_thai_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 608,
+    "title" : "Nhận thức trạng thái tinh chất của tâm (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/18-nhan_thuc_trang_thai_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 278,
+    "title" : "Nhận thức trạng thái tinh chất của tâm (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/19-duc_phat_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 223,
+    "title" : "Đức Phật: Hiện thân của sự Hiện Hữu siêu phàm của bạn (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/20-duc_phat_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 274,
+    "title" : "Đức Phật: Hiện thân của sự Hiện Hữu siêu phàm của bạn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/21-chu_thich_chuong_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 164,
+    "title" : "Chú thích chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/22-chuong_6-co_the_nang_luong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 178,
+    "title" : "Chương 6: Cơ thể năng lượng bên trong bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/23-vuot_len_ngon_tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 311,
+    "title" : "Vượt lên trên ngôn từ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/24-nhan_ra_ban_la_thuc_tai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 300,
+    "title" : "Nhận ra bạn chính là thực tại vô hình tướng và vĩnh cửu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/25-tiep_xuc_co_the_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "Tiếp xúc với cơ thể năng lượng bên trong (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/26-tiep_xuc_co_the_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 70,
+    "title" : "Tiếp xúc với cơ thể năng lượng bên trong (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/27-chuyen_hoa_qua_co_the.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 448,
+    "title" : "Chuyển hóa qua cơ thể mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/28-bai_thuyet_phap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 119,
+    "title" : "Bài thuyết pháp về thân thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/29-tap_trung_chu_y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 443,
+    "title" : "Tập trung sự chú ý của bạn váo cơ thể bên trong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/30-hay_mo_long.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 338,
+    "title" : "Hãy mở lòng bao dung trước khi đi vào bên trong cơ thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/31-su_lien_he.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 203,
+    "title" : "Sự liên hệ giữa bạn với cõi Vô Tướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/32-lam_cham_qua_trinh_lao_hoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 152,
+    "title" : "Làm chậm quá trình lão hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/33-gia_tang_he_thong_mien_nhiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 132,
+    "title" : "Gia tăng hệ thống miễn nhiễm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/34-bai_tap_6b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 152,
+    "title" : "Bài tập 6.b: Thực tập hơi thở có ý thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/35-de_hoi_tho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 117,
+    "title" : "Để hơi thở đưa bạn vào bên trong cơ thể bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/36-hay_su_dung_tri_nang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 83,
+    "title" : "Hãy sử dụng trí năng của bạn một cách sáng tạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/37-nghe_thuat_lang_nghe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 164,
+    "title" : "Nghệ thuật lắng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/38-chu_thich_chuong_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 421,
+    "title" : "Chú thích chương 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/01-chuong_4-chien_luoc_tranh_ne-danh_mat_phut_giay.mp3",
+    "title" : "Chương 4: Chiến lược để tránh né phút giây hiện tại của trí năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/02-vo_minh.mp3",
+    "title" : "Vô minh thông thường và vô minh sâu đậm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/03-nhung_nguoi_da_trang.mp3",
+    "title" : "“Những người da trắng ấy đang đi tìm cái gì vậy?”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/04-hoa_giai_vo_minh.mp3",
+    "title" : "Hóa giải những vô minh thông thường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/05-thoat_ly_bat_hanh.mp3",
+    "title" : "Thoát ly khỏi những cảm giác bất hạnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/06-du_dang_o_dau_1.mp3",
+    "title" : "Dù bất kỳ đang ở đâu, bạn hãy có mặt ở đó hoàn toàn (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/07-du_dang_o_dau_2.mp3",
+    "title" : "Dù bất kỳ đang ở đâu, bạn hãy có mặt ở đó hoàn toàn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/08-muc_tieu_dich_thuc_1.mp3",
+    "title" : "Mục tiêu đích thực cuộc hành trình của đời bạn (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/09-muc_tieu_dich_thuc_2.mp3",
+    "title" : "Mục tiêu đích thực cuộc hành trình của đời bạn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/10-qua_khu_ko_the_song_day.mp3",
+    "title" : "Quá khứ không thể “sống dậy” khi bạn thực sự cảm nhận được hiện tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/11-chu_thich_chuong_4.mp3",
+    "title" : "Chú thích chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/12-chuong_5-trang_thai_co_mat-dieu_do_ko_phai_1.mp3",
+    "title" : "Chương 5: Trạng thái có mặt sâu sắc ở hiện tại: Điều đó không phải như bạn nghĩ đâu (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/13-dieu_do_ko_nhu_ban_nghi_2.mp3",
+    "title" : "Điều đó không phải như bạn nghĩ đâu (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/14-y_nghia_mat_truyen.mp3",
+    "title" : "Ý nghĩa mật truyền của sự “chờ đợi” trong cảnh giác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/15-cai_dep_phat_sinh_1.mp3",
+    "title" : "Cái đẹp phát sinh từ sự có mặt tĩnh lặng của bạn (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/16-cai_dep_phat_sinh_2.mp3",
+    "title" : "Cái đẹp phát sinh từ sự có mặt tĩnh lặng của bạn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/17-nhan_thuc_trang_thai_1.mp3",
+    "title" : "Nhận thức trạng thái tinh chất của tâm (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/18-nhan_thuc_trang_thai_2.mp3",
+    "title" : "Nhận thức trạng thái tinh chất của tâm (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/19-duc_phat_1.mp3",
+    "title" : "Đức Phật: Hiện thân của sự Hiện Hữu siêu phàm của bạn (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/20-duc_phat_2.mp3",
+    "title" : "Đức Phật: Hiện thân của sự Hiện Hữu siêu phàm của bạn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/21-chu_thich_chuong_5.mp3",
+    "title" : "Chú thích chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/22-chuong_6-co_the_nang_luong.mp3",
+    "title" : "Chương 6: Cơ thể năng lượng bên trong bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/23-vuot_len_ngon_tu.mp3",
+    "title" : "Vượt lên trên ngôn từ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/24-nhan_ra_ban_la_thuc_tai.mp3",
+    "title" : "Nhận ra bạn chính là thực tại vô hình tướng và vĩnh cửu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/25-tiep_xuc_co_the_1.mp3",
+    "title" : "Tiếp xúc với cơ thể năng lượng bên trong (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/26-tiep_xuc_co_the_2.mp3",
+    "title" : "Tiếp xúc với cơ thể năng lượng bên trong (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/27-chuyen_hoa_qua_co_the.mp3",
+    "title" : "Chuyển hóa qua cơ thể mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/28-bai_thuyet_phap.mp3",
+    "title" : "Bài thuyết pháp về thân thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/29-tap_trung_chu_y.mp3",
+    "title" : "Tập trung sự chú ý của bạn váo cơ thể bên trong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/30-hay_mo_long.mp3",
+    "title" : "Hãy mở lòng bao dung trước khi đi vào bên trong cơ thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/31-su_lien_he.mp3",
+    "title" : "Sự liên hệ giữa bạn với cõi Vô Tướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/32-lam_cham_qua_trinh_lao_hoa.mp3",
+    "title" : "Làm chậm quá trình lão hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/33-gia_tang_he_thong_mien_nhiem.mp3",
+    "title" : "Gia tăng hệ thống miễn nhiễm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/34-bai_tap_6b.mp3",
+    "title" : "Bài tập 6.b: Thực tập hơi thở có ý thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/35-de_hoi_tho.mp3",
+    "title" : "Để hơi thở đưa bạn vào bên trong cơ thể bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/36-hay_su_dung_tri_nang.mp3",
+    "title" : "Hãy sử dụng trí năng của bạn một cách sáng tạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/37-nghe_thuat_lang_nghe.mp3",
+    "title" : "Nghệ thuật lắng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/38-chu_thich_chuong_6.mp3",
+    "title" : "Chú thích chương 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

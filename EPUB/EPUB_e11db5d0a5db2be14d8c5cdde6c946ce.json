@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-xa-ly-hon-da-het-hieu-luc_13023.html",
+    "title" : "Bà Xã, Ly Hôn Đã Hết Hiệu Lực",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hữu Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 27659,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e11db5d0a5db2be14d8c5cdde6c946ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e11db5d0a5db2be14d8c5cdde6c946ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-xa-ly-hon-da-het-hieu-luc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16194,
+    "title" : "Bà Xã, Ly Hôn Đã Hết Hiệu Lực Truyện Ngôn Tình Hay Không Thể Bỏ Qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-xa-ly-hon-da-het-hieu-luc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11465,
+    "title" : "Truyện Ngôn Tình Hay Và Ý Nghĩa Bà xã, Ly Hôn Đã Hết Hiệu Lực (Phần cuối)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-xa-ly-hon-da-het-hieu-luc/1.mp3",
+    "title" : "Bà Xã, Ly Hôn Đã Hết Hiệu Lực Truyện Ngôn Tình Hay Không Thể Bỏ Qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-xa-ly-hon-da-het-hieu-luc/2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Và Ý Nghĩa Bà xã, Ly Hôn Đã Hết Hiệu Lực (Phần cuối)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

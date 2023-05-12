@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-thuong-minh-sau-nhung-thang-nam-thuong-nguoi_19158.html",
+    "title" : "Tự Thương Mình Sau Những Tháng Năm Thương Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trí",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 16000,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_67de47e0ac2bb6881785e30356cef88c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_67de47e0ac2bb6881785e30356cef88c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tu-thuong-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tu-thuong-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tu-thuong-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tu-thuong-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1600,
+    "title" : "tu-thuong-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-1.mp3",
+    "title" : "tu-thuong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-2.mp3",
+    "title" : "tu-thuong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-3.mp3",
+    "title" : "tu-thuong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-4.mp3",
+    "title" : "tu-thuong-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-thuong-1/tu-thuong-5.mp3",
+    "title" : "tu-thuong-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

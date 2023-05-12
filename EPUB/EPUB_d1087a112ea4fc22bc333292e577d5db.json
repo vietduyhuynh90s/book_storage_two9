@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chap-tay-lay-nguoi_20208.html",
+    "title" : "Chắp Tay Lạy Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 13822,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d1087a112ea4fc22bc333292e577d5db.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d1087a112ea4fc22bc333292e577d5db.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 975,
+    "title" : "1_9 Chấp Tay Lạy Người [ Lời Tựa ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1723,
+    "title" : "2_9 Chấp Tay Lạy Người [ Thế Giới Quanh Ta ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 904,
+    "title" : "3_9 Chấp Tay Lạy Người [ Thế Giới Trong Ta ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "4_9 Chấp Tay Lạy Người [ Gieo Nhân Gặt Quả ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "5_9 Chấp Tay Lạy Người [ Nhận Thức Chân Thật ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1630,
+    "title" : "6_9 Chắp Tay Lạy Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 996,
+    "title" : "7_9 Chắp Tay Lạy Người [ Những Viên Thuốc Bọc Đường ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1950,
+    "title" : "8_9 Chắp Tay Lạy Người [ Con Thuyền Ngược Nước ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 764,
+    "title" : "9_9 Chắp Tay Lạy Người [ Thay Lời Kết ]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-1.mp3",
+    "title" : "1_9 Chấp Tay Lạy Người [ Lời Tựa ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-2.mp3",
+    "title" : "2_9 Chấp Tay Lạy Người [ Thế Giới Quanh Ta ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-3.mp3",
+    "title" : "3_9 Chấp Tay Lạy Người [ Thế Giới Trong Ta ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-4.mp3",
+    "title" : "4_9 Chấp Tay Lạy Người [ Gieo Nhân Gặt Quả ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-5.mp3",
+    "title" : "5_9 Chấp Tay Lạy Người [ Nhận Thức Chân Thật ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-6.mp3",
+    "title" : "6_9 Chắp Tay Lạy Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-7.mp3",
+    "title" : "7_9 Chắp Tay Lạy Người [ Những Viên Thuốc Bọc Đường ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-8.mp3",
+    "title" : "8_9 Chắp Tay Lạy Người [ Con Thuyền Ngược Nước ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chap-tay-4/chap-tay-9.mp3",
+    "title" : "9_9 Chắp Tay Lạy Người [ Thay Lời Kết ]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
