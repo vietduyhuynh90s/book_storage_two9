@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ben-nhau-tron-doi_20345.html",
+    "title" : "Bên Nhau Trọn Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cố Mạn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 24598,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e61ee2237971ea86d14a8ee4ecda5fdc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e61ee2237971ea86d14a8ee4ecda5fdc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1910,
+    "title" : "Ben nhau trọn đời P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "Ben nhau trọn đời P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3058,
+    "title" : "Ben nhau trọn đời P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4498,
+    "title" : "Ben nhau trọn đời P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2061,
+    "title" : "Ben nhau trọn đời P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5434,
+    "title" : "Ben nhau trọn đời P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1569,
+    "title" : "Ben nhau trọn đời P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1622,
+    "title" : "Ben nhau trọn đời P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1519,
+    "title" : "Ben nhau trọn đời P9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1349,
+    "title" : "Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-01.mp3",
+    "title" : "Ben nhau trọn đời P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-02.mp3",
+    "title" : "Ben nhau trọn đời P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-03.mp3",
+    "title" : "Ben nhau trọn đời P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-04.mp3",
+    "title" : "Ben nhau trọn đời P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-05.mp3",
+    "title" : "Ben nhau trọn đời P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-06.mp3",
+    "title" : "Ben nhau trọn đời P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-07.mp3",
+    "title" : "Ben nhau trọn đời P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-08.mp3",
+    "title" : "Ben nhau trọn đời P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-09.mp3",
+    "title" : "Ben nhau trọn đời P9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-nhau-06/ben-nhau-10.mp3",
+    "title" : "Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

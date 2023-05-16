@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khi-ban-vua-ban-vua-dep-con-so-chi-duoc-mat_20366.html",
+    "title" : "Khi Bạn Vừa Bận Vừa Đẹp Còn Sợ Chi Được Mất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lương Sảng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 30122,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_b3cd688931f9af8663bda7a14985cc2d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_b3cd688931f9af8663bda7a14985cc2d.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6336,
+    "title" : "1 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Không thể đánh giá thấp 1 cô gái ăn mặc đẹp được",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5943,
+    "title" : "2 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Ng sống nền nếp... # Lương Sảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4175,
+    "title" : "3 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất #Những MQH mang tính tiêu cực cần nhanh chóng dứt bỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4402,
+    "title" : "4 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất #Nhg Ng càng muốn chiều lòng Ng khác càng sống K T/m",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4442,
+    "title" : "5 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Yêu vừa đủ, cuộc sống mới tươi đẹp hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4824,
+    "title" : "6 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Cô gái không coi việc kiếm tiền ...(Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-1.mp3",
+    "title" : "1 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Không thể đánh giá thấp 1 cô gái ăn mặc đẹp được",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-2.mp3",
+    "title" : "2 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Ng sống nền nếp... # Lương Sảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-3.mp3",
+    "title" : "3 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất #Những MQH mang tính tiêu cực cần nhanh chóng dứt bỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-4.mp3",
+    "title" : "4 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất #Nhg Ng càng muốn chiều lòng Ng khác càng sống K T/m",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-5.mp3",
+    "title" : "5 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Yêu vừa đủ, cuộc sống mới tươi đẹp hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ban-1/khi-ban-6.mp3",
+    "title" : "6 # Khi bạn vừa bận vừa đẹp còn sợ chi được mất # Cô gái không coi việc kiếm tiền ...(Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

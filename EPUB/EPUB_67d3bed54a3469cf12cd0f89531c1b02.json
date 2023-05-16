@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ganh-hang-hoa_20330.html",
+    "title" : "Gánh Hàng Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhất Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 17454,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_67d3bed54a3469cf12cd0f89531c1b02.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_67d3bed54a3469cf12cd0f89531c1b02.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1527,
+    "title" : "1/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 878,
+    "title" : "2/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1294,
+    "title" : "3/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 935,
+    "title" : "4/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "5/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1034,
+    "title" : "6/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "7/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 841,
+    "title" : "8/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1641,
+    "title" : "9/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1286,
+    "title" : "10/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "11/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2035,
+    "title" : "12/13 l Nhất Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 846,
+    "title" : "13/13",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-01.mp3",
+    "title" : "1/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-02.mp3",
+    "title" : "2/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-03.mp3",
+    "title" : "3/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-04.mp3",
+    "title" : "4/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-05.mp3",
+    "title" : "5/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-06.mp3",
+    "title" : "6/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-07.mp3",
+    "title" : "7/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-08.mp3",
+    "title" : "8/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-09.mp3",
+    "title" : "9/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-10.mp3",
+    "title" : "10/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-11.mp3",
+    "title" : "11/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-12.mp3",
+    "title" : "12/13 l Nhất Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-hang-12/ganh-hang-13.mp3",
+    "title" : "13/13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
