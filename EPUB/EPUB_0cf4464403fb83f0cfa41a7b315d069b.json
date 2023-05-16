@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-phieu-thuong-loi-nhuan-phi-thuong_2730.html",
+    "title" : "Cổ Phiếu Thường Lợi Nhuận Phi Thường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Philip A. Fisher",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 25600,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_0cf4464403fb83f0cfa41a7b315d069b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_0cf4464403fb83f0cfa41a7b315d069b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "co-phieu-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "co-phieu-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "co-phieu-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "co-phieu-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "co-phieu-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "co-phieu-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "co-phieu-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-1.mp3",
+    "title" : "co-phieu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-2.mp3",
+    "title" : "co-phieu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-3.mp3",
+    "title" : "co-phieu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-4.mp3",
+    "title" : "co-phieu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-5.mp3",
+    "title" : "co-phieu-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-6.mp3",
+    "title" : "co-phieu-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-phieu-1/co-phieu-7.mp3",
+    "title" : "co-phieu-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

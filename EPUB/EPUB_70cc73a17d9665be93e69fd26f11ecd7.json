@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thay-loi-vong-linh_17583.html",
+    "title" : "Thay Lời Vong Linh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tòng 0",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 66861,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_70cc73a17d9665be93e69fd26f11ecd7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_70cc73a17d9665be93e69fd26f11ecd7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "Truyện ma kinh dị có thật | Thay lời vong linh | Tòng 0 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 10 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 11 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2789,
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 12 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2811,
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 13 | Tòng 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Truyện ma | Thay lời vong linh tập 14 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2752,
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 15 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2614,
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 16 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "Thay lời vong linh tập 17 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "Thay lời vong linh Tập 18 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2648,
+    "title" : "Thay lời vong linh Tập 19 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2944,
+    "title" : "Nghe truyện ma | Thay lời vong linh tập 2 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2818,
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 20 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2920,
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 21 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 22 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4604,
+    "title" : "Thay lời vong linh tập cuối | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2862,
+    "title" : "Tập 3 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "tập 4 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "Truyện ma 2021 | Thay lời vòng linh Tập 5 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 6 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2639,
+    "title" : "Truyện ma 2021 | Thay lời Vong linh tập 7 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2703,
+    "title" : "Thay lời vong linh tập 8 | Truyện tâm linh | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "Truyện ma 2021 | Thay Lời Vong Linh tập 9 | MC Phú Cường",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/1.mp3",
+    "title" : "Truyện ma kinh dị có thật | Thay lời vong linh | Tòng 0 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/10.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 10 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/11.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 11 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/12.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 12 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/13.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 13 | Tòng 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/14.mp3",
+    "title" : "Truyện ma | Thay lời vong linh tập 14 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/15.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 15 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/16.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 16 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/17.mp3",
+    "title" : "Thay lời vong linh tập 17 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/18.mp3",
+    "title" : "Thay lời vong linh Tập 18 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/19.mp3",
+    "title" : "Thay lời vong linh Tập 19 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/2.mp3",
+    "title" : "Nghe truyện ma | Thay lời vong linh tập 2 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/20.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 20 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/21.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 21 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/22.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh Tập 22 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/23.mp3",
+    "title" : "Thay lời vong linh tập cuối | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/3.mp3",
+    "title" : "Tập 3 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/4.mp3",
+    "title" : "tập 4 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/5.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vòng linh Tập 5 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/6.mp3",
+    "title" : "Truyện ma 2021 | Thay lời vong linh tập 6 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/7.mp3",
+    "title" : "Truyện ma 2021 | Thay lời Vong linh tập 7 | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/8.mp3",
+    "title" : "Thay lời vong linh tập 8 | Truyện tâm linh | MC Phú Cường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-loi-vong-linh/9.mp3",
+    "title" : "Truyện ma 2021 | Thay Lời Vong Linh tập 9 | MC Phú Cường",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

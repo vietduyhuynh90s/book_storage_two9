@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tra-hoa-nu-alexandre-dumas_8475.html",
+    "title" : "Trà Hoa Nữ - Alexandre Dumas.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alexandre Dumas",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 39604,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_951f7710c8e235ac3ca976b9909cb393.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_951f7710c8e235ac3ca976b9909cb393.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1181,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2810%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3858,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2811%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2812%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2437,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2813%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4464,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2814%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1595,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2815%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1911,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2816%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2817%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%282%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1199,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%283%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1205,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%284%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%285%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1436,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%286%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1410,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%287%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3053,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%288%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3352,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%289%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3502,
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%281%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2810%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2811%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2812%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2813%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2814%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2815%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2816%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%2817%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%282%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%283%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%284%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%285%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%286%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%287%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%288%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tra-hoa-nu-alexandre-dumas-con-.sna/Tra-Hoa-Nu%20%289%29.mp3",
+    "title" : "Trà hoa nữ - Alexandre Dumas",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

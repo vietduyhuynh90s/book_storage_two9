@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ma-thoi-den-tap-3-trung-coc-van-nam-thien-ha-ba-xuong-kinh-di_2548.html",
+    "title" : "Ma Thổi Đèn Tập 3: Trùng Cốc Vân Nam - Thiên Hạ Bá Xướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 65312,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5937c742d7f6445929c59e4e51b034aa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5937c742d7f6445929c59e4e51b034aa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mathoidentap3_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1429,
+    "title" : "Ma Thổi Đèn Tập 3 #1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2080,
+    "title" : "Ma Thổi Đèn Tập 3 #10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "Ma Thổi Đèn Tập 3 #11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1733,
+    "title" : "Ma Thổi Đèn Tập 3 #12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1920,
+    "title" : "Ma Thổi Đèn Tập 3 #13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2293,
+    "title" : "Ma Thổi Đèn Tập 3 #14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1384,
+    "title" : "Ma Thổi Đèn Tập 3 #15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "Ma Thổi Đèn Tập 3 #16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1492,
+    "title" : "Ma Thổi Đèn Tập 3 #17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1664,
+    "title" : "Ma Thổi Đèn Tập 3 #18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1543,
+    "title" : "Ma Thổi Đèn Tập 3 #19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1793,
+    "title" : "Ma Thổi Đèn Tập 3 #2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "Ma Thổi Đèn Tập 3 #20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "Ma Thổi Đèn Tập 3 #21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1393,
+    "title" : "Ma Thổi Đèn Tập 3 #22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 956,
+    "title" : "Ma Thổi Đèn Tập 3 #23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1568,
+    "title" : "Ma Thổi Đèn Tập 3 #24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "Ma Thổi Đèn Tập 3 #25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1563,
+    "title" : "Ma Thổi Đèn Tập 3 #26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1589,
+    "title" : "Ma Thổi Đèn Tập 3 #27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1245,
+    "title" : "Ma Thổi Đèn Tập 3 #28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 454,
+    "title" : "Ma Thổi Đèn Tập 3 #29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "Ma Thổi Đèn Tập 3 #3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1283,
+    "title" : "Ma Thổi Đèn Tập 3 #30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1676,
+    "title" : "Ma Thổi Đèn Tập 3 #31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1648,
+    "title" : "Ma Thổi Đèn Tập 3 #32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1676,
+    "title" : "Ma Thổi Đèn Tập 3 #33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "Ma Thổi Đèn Tập 3 #34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1660,
+    "title" : "Ma Thổi Đèn Tập 3 #35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1292,
+    "title" : "Ma Thổi Đèn Tập 3 #36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1633,
+    "title" : "Ma Thổi Đèn Tập 3 #37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "Ma Thổi Đèn Tập 3 #38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2479,
+    "title" : "Ma Thổi Đèn Tập 3 #39 End",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2098,
+    "title" : "Ma Thổi Đèn Tập 3 #4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1107,
+    "title" : "Ma Thổi Đèn Tập 3 #5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1598,
+    "title" : "Ma Thổi Đèn Tập 3 #6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "Ma Thổi Đèn Tập 3 #7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1429,
+    "title" : "Ma Thổi Đèn Tập 3 #8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2527,
+    "title" : "Ma Thổi Đèn Tập 3 #9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mathoidentap3_201903/1.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/10.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/11.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/12.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/13.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/14.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/15.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/16.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/17.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/18.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/19.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/2.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/20.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/21.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/22.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/23.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/24.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/25.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/26.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/27.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/28.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/29.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/3.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/30.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/31.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/32.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/33.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/34.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/35.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/36.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/37.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/38.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/39.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #39 End",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/4.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/5.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/6.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/7.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/8.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mathoidentap3_201903/9.mp3",
+    "title" : "Ma Thổi Đèn Tập 3 #9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,3365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-mang-hoang-ky-nga-cat-tay-hong-thi-tien-hiep_3538.html",
+    "title" : "Mãng Hoang Kỷ - Ngã Cật Tây Hồng Thị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngã Cật Tây Hồng Thị",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 936340,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1d90a9140ba093a5d02148288366e520.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1d90a9140ba093a5d02148288366e520.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoang-mang-ky/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "MÃNG HOANG KỶ #01 :Cơ Duyên Của kỷ Ninh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #10 : Ngộ Đạo Bên Hồ Sen/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #100 :Ky Ninh Ngộ Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #101 :Kiếp Nạn Của Kỷ Ninh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3451,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #102 :Biên Giới Tuyệt Diệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #103 :Cảnh Giới Chúa Tể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #104 :Dư VI Độ Kiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #105 :Thoát Hiểm-- Trở lại Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #106 :Tung Tích Phụ Mẫu Đầu Thai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #107 :Vô Gian Môn Hành Động / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #108 :Hạ Hòang Trợ Giúp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #109:Bí Mật Của Dư Vi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #11 :Đi Tìm Xuân Thảo/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4431,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #110 :Nguyên Hà Tứ Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4480,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #111 :Hạo Kiếp Bắt Đầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #112 : 9 Thống Lĩnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3870,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #113: Chiến đấu Giằng Co / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4650,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #114 :Xích Bỉnh Chân Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #115 :Đột Phá Bình Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3201,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #116 :Chiến Tranh Giới Vực / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #117 :Mặc trúc Đạo Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #118 :Kẻ Phản Bội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4001,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #119 :Nữ Nhi Minh Nguyệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #12 :Báo Thù Cho Xuân Thảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3180,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #120 :Chia ly-Chọn Lựa- Thống Hận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #121 :Tâm Lực Đệ Tứ Trọng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #122 :Bí Mật Của Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3920,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #123 :3 Món Báu vật / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #124 :Gặp Chuyện Ở Xung Vân Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #125 :Ngũ Bảo Kiếm Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3180,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #126 : Truy Sát Thiếu Viêm Sửu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #127 :7 Pháp Môn Kì lạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #128 :Thế Giới Trong Bia đá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #129 :36 Phân Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2974,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #13 :Lạc Vào Thế Giới Di Tích / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #130 :51 Năm Luyện kiếm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #131 :Pháp Môn Mới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #132 :Cửu Giác Điện Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3180,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #133 :Tiếp Tục Đánh Lén Vô Gian Môn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #134 :3 Món Bảo Bối / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3180,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #135 :Tiến Vào Nguyệt Hạ Đàm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #136 :Thử Thách 5 Hòn Đảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #137 :2/5 Hòn Đảo Đầu Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #138 :Hoàn Đảo Thứ 3 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #139 :Đến Đảo Thứ 4 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ # : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #140 :Thập Đại Trấn Thủ Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #141 : Hòn Đảo Thứ 5 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4201,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #142 :Thần Kiếm Tử Quỳnh Quang / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #143 :Trở Lại / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #144 :Dung Hợp Phân Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #145 :Ma Thần Kỷ Ninh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #146 :Bản Tôn Bi Giết Chết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #147 :Khôi Phục Thực Lực / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #148 :Bước Đệm Đôt Phá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #149 :Đột Phá Chân Thần -Đạo Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3502,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #15 :Đại Chiến Dưới Hồ Dực Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #150 :Phế Tích Thượng Cổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #151 :Tuyệt Địa \" Địa Minh Sơn \" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3130,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #152 :Triển lộ Thần uy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #153 :Thứ Tu Đại Ma Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #154 :Gặp Lại Thôi Phủ Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #155 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #156 :Quyết Chiến Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #157 :Tổ Tiên Đẳng Cấp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #158 :Diễn Biến Không Ngờ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #159 :Nguyên Lão Nhân Là Ai? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #16 : Cơ Duyên Không Thể Cầu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #160 :Ly Khai Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #161 :Cá Cược Tạo Uy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #162 :Tướng Quân Thứ 6 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #163 :Di Tích Cổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #164 :Tố Phong Bách Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #165 :Thu Phụ Tá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #166: Giai Cứu Tù Phạm/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #167 :Tâm Thần Tướng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #168 :Hắc Liên Thần Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4480,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #169 :Thiên Nhất Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2874,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #17 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #170 :Từ Biệt Đại Ca / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #171 :Tranh Bảo Hội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #172 :Vạn Thần Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3480,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #173 :Tô Vưu Cơ Đột Phá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #174 :Sinh Tử Ma Bàn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4440,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #175 :Vĩnh Hằng Thần Huyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #176 :Đột Phá 5000 Kiếm Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #177 :Cừu Sát Tại Cự Thạch Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #178 :Khởi Hành Đi Thiên Thương Cung / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #179 :Hắc Ám Chi Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #18 :Phá Trận Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #180 :Truyền Thừa Trên Tinh Thần Đảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #181 : Tinh Thần Đảo/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3676,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #182 :Trợ GIúp Vưu Cơ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3485,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #183 :Đối Thủ Tầng 6 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3009,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #184 :Rời Khỏi Tinh Thần Đảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4055,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #185 :Vưu Cơ Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #186 :Đông Yên Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3433,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #187 :Kiếm Cung / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #188 :Sư PhụTuyết Giám Đế Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3418,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #189 :Kiếm Quân Thứ 7 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #19 :Lời Mời Của Ứng Long Vệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3332,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #190 :Thời Hạn Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3143,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #191 :Xuất Phát Dị Vũ Trụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3045,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #192 :Lọt Vào Cướp Giết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #193 :Nội Vực Dị Vũ Trụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #194 :Tầng 36 Khảo Ngiệm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #195 :Đệ Tử Ký Danh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #196 :Bắc Minh Mất Tích / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4174,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #197 : Trở Về- Đột Phá- Xuất Phát/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #198 :Cứu Phụ Mẫu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #199 :Đột Phá Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3280,
+    "title" : "MÃNG HOANG KỶ #02 :Lựa Chọn Tu Luyện/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3014,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #20 :Tập Chấp Nhận Mất Mát / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3372,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #200 :Thanh Phong Thánh Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3130,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #201 :Cơ Duyên Không Đạt Được / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4307,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #202 : Rắc Rối Tại Thánh Thành/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #203 :Đạo Phù Chúa Tể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3113,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #204 : Tùy Tùng Thứ 3/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #205 :Chiến Đấu Cầu Đột Phá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3317,
+    "title" : "206",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "207",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "208",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #209 :Bí Mật Phơi Bày / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #21 :Là Phúc Hay Là Họa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #210 :Ngu TInh Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2909,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #211 :Khám Phá Đình Nam Hành Cung / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #212 :Động Minh Ngọc Phù Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #213 :Dịch Ba Giới Biến Động / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4289,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #214 :Cứu Nguy Thiên Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3005,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #215 :Động Minh Ngọc Phù / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #216 :Cơ Duyên Của Thiên Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3050,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #217 :Cửu Trần Trúng Độc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #218 :Tuế Mộng Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #219 :Gặp Bài Danh Thứ Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #22 : Tuyết Long Sơn Uy Hiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3128,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #220 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #221 : Cặp Đôi Hoàn Hảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3126,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #222 :Hảo Hữu Đáng Kết Giao / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3396,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #223 :GIúp Người Là Tự Giúp Ta / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3231,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #224 :Chiếm Hết Tiện Nghi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4070,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #225 :Đàm Phán với 6 Thế Lực / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3423,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #226 :Phát Hiện Bất Ngờ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3508,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #227 :Khôi Lỗi Đế Cấp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3376,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #228 :Tổ Địa Tây Tư Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3444,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #229 :Đường Tới Chí Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #23 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #230 :Thiên Diệp Thanh Linh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #231: Hai Tộc Quần Giao Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #232 : Giọt Máu Chí Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3271,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #233 :Phi Tuyết Thành Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3389,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #234 :Tu Hành Nơi Phàm Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #235 :Bộc Lộ Bản Lĩnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #236 :Nhổ Căn Cơ Của Phi Tuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3326,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #237 :Thu Hoạch Lớn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #238 :Xông Vào Thanh Hoa Động Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #239 :Cửu Trần Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #24 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3199,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #240 :Nhờ Cậy Chí Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3435,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #241 :Đợi Ba Ba Chui Rọ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #242 :Thủ Hạ Là Chúa Tể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #243 :Cầm Hỏa Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3504,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #244 :Chí Tôn Ra Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3684,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #245 :Sóng Gió Nối Tiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #246 :Dịch Ba Xuất Hiện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4591,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #247 :Hai Nút Thắt Nhân Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3437,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #248 :Thu Đồ Đệ Giúp Sư Phụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3697,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #249 :Hợp Đạo Hỏa Vân Hoa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #25 :Minh Long Tỏa Thiên Trận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2630,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #250 :Kỷ Ninh Hợp Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3463,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #251 :Tìm Nữ Oa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #252 :Tung Tích Nữ Oa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #253 :Đến Hầu Ngũ Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4057,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #254 :Dung Nhập Đại Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3715,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #255 :Tây Tư Tộc tôn CHủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3969,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #256 :Chí Tôn Hội Tụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2879,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #257 :Âm Dương Sinh Tử Luân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3348,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #258 :Thần Đình Chi Chủ Cầu Cứu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #259 :Cứu Đan Tôn Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #26 :Ba Ba Trong Rọ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2879,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #260 :Khám Phá Hiểm Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3596,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #261 :Không Gian Ẩn Giấu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3226,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #262 :Lọt Vào Ngục Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2343,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #263 :THoát Khỏi Ngục Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #264 :Chân Linh Bất Diệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #265 :Từ Biệt Thân Nhân-Bế Tử Quan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3424,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #266 :Chân Linh Bất Diệt Đại Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2973,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #267 :Thiên Thể Kỳ Dị / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #268 :Khởi Động Chiến Tranh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #269 :Nhị Đồ Đệ Thanh Trúc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #27: Huyết Chiến Tuyết Long Sơn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3398,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #270 :Bị Khốn Trụ-Y Da Nhĩ Ra Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3328,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #271 :Mô Cốc Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ # 272:Ba Lâm Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #273 :Phá Hủy Thế Giới Thảo Nguyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #274 :Quyết Định Tử Chiến / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #275 : Thất Thủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3168,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #276 :Đột Phá Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2982,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #277 :Đại Kết Cục Viên Mãn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #28 :Đối Đầu Vạn Tượng Chân Nhân/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #29 :Quyết Định Trưởng Bối Kỷ Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "TIÊN HIỆP --MÃNG HOANG KỶ #03 :Điên Cuồng Tu Luyện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4010,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #30 : Đoạt Thần Thông/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #31 : May Mắn Của Kỷ Tộc/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3641,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #32 :Vĩnh Biệt Phụ Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #33 :Đến Thành An Thiền Hầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #34 :Lập Uy Tạo Danh Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #35: Chọn Môn Phái/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #36: Thử Thách Nhập Môn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3193,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #37 :Truyền Thừa Kiếm Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3354,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #38 :Chọn Sư Phụ-Chọn Pháp Môn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #39 :Khẳng Định Đẳng Cấp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3027,
+    "title" : "TIÊN HIỆP-MÃNG HOANG KỶ #04 :Thần Thú \"Tiếu Nguyệt Lang\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #40 :Liên Tiếp Khẳng Định Mình / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3699,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #41 :Kiếm Tiên-Kiếm Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4286,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #42 :Lên Đường Phiêu Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #43 :Gia Nhập Ứng Long Vệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3513,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #44: Cứu Người trong Hiểm Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #45 : Sát Tử Bọn Cướp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1620,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #46:Gặp Lại \" Không Thanh Xà Yêu\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #47 : Nuôi Địa Hỏa -Gieo Hàn Sát/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #48 : Một Lần Chết Hụt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #49 :Nhiêm Vụ Đầu Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "TIÊN HIỆP-MÃNG HOANG KỶ #05 :Dực Xà Tìm Con / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3224,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #50 :Ngu Đông-Kẻ Thù Giết Thân Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #51:Thủy Dị-Kẻ Thù Giết Thân Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #52 :Quay Lại Hồ Dực Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #53 :Kỷ Ninh Bị Đánh Ghen / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #54:Chia Loan Rẽ Phượng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #55 :Khiêu Chiến Tuyết Long Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3583,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #56 :Đánh Bại Nguyên Thần Đạo Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #57 : Phụ Đệ Của Thiên Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #58 :Phủ Đệ Của Thiên Tiên 2 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #59 :Cơ Duyên Với Bảo Vật / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2968,
+    "title" : "TIÊN HIỆP-MÃNG HOANG KỶ #06 :Đoạt Kim Kiếm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3569,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #60 :Trở Mặt Như Trở Bàn Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3568,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #61 :Ngộ Ra Kiếm Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3333,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #62 : Bước Ngoặt Cuộc Đời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #63 :Nguyên Thần Thứ 2 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3416,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #64 :Đến Vương Đô Đại Hạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #65 :Khách Quý Của Thiên Bảo Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #66:Khiêu Khích Cầu Nổi Tiếng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #67 :Tìm Lại Biểu Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #68 :Kỷ Ninh Bị Ám Sát / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #69:Danh Tiếng Lại Tăng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #07:Hành Trình Phiêu Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #70 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #71 :Đại Hội Tiên Duyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #72 :Đụng Độ 2 Cường Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3547,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #73 : \" Đệ Không Muốn Do Dự\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3253,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #74 :Lọt Top 48 Đối Thủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #75 :Vòng12 Người / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3529,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #76 :Lọt Vòng 6 Cao Thủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3465,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #77 :Đệ Tử Của Đạo Tổ/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #78 :Đạo Tổ Thần Bí Nhất Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3478,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #79: Bồ Đề Lão Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3051,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #08 :Đụng Độ Tê Hoàng Ngưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #80 :30 Năm Tu Luyện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #81 /Thử Thách Sư Môn : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #82 :Đại Đồ Đệ-Kỳ Tiểu Vũ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3782,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #83 :12 Yêu Vuong Đông Lưu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #84 :Bảo Tàng Thần Bí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #85 :Bảo Vật Của Thần Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3248,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #86 :Xuất Sư- Quay về Đại Hạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3369,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #87 :Gặp Lại Thân Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3066,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #88 :Tam Đại Hung Trận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 648,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #89 :Bảo Hộ Sư Phụ Độ Kiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #09: / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #90 :Trận Pháp Tam Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #91 :Đông Lâm Sơn Mạch / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #92 :Trờ Về Môn Phái / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4021,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #93 :Tìm Lại Được Mộc Tử Sóc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2940,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #94 :Giải Cứu Sư Đệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #95 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #96 :Thù Hận Tăng Sâu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2850,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #97 :Kế Hoạch Báo Thù / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2910,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #98 :Phá Hang ổ Thiếu Viêm Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #99 :Thủy Tổ Thiếu Viêm Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoang-mang-ky/1.mp3",
+    "title" : "MÃNG HOANG KỶ #01 :Cơ Duyên Của kỷ Ninh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/10.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #10 : Ngộ Đạo Bên Hồ Sen/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/100.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #100 :Ky Ninh Ngộ Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/101.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #101 :Kiếp Nạn Của Kỷ Ninh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/102.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #102 :Biên Giới Tuyệt Diệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/103.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #103 :Cảnh Giới Chúa Tể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/104.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #104 :Dư VI Độ Kiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/105.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #105 :Thoát Hiểm-- Trở lại Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/106.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #106 :Tung Tích Phụ Mẫu Đầu Thai / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/107.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #107 :Vô Gian Môn Hành Động / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/108.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #108 :Hạ Hòang Trợ Giúp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/109.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #109:Bí Mật Của Dư Vi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/11.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #11 :Đi Tìm Xuân Thảo/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/110.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #110 :Nguyên Hà Tứ Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/111.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #111 :Hạo Kiếp Bắt Đầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/112.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #112 : 9 Thống Lĩnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/113.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #113: Chiến đấu Giằng Co / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/114.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #114 :Xích Bỉnh Chân Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/115.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #115 :Đột Phá Bình Cảnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/116.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #116 :Chiến Tranh Giới Vực / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/117.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #117 :Mặc trúc Đạo Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/118.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #118 :Kẻ Phản Bội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/119.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #119 :Nữ Nhi Minh Nguyệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/12.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #12 :Báo Thù Cho Xuân Thảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/120.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #120 :Chia ly-Chọn Lựa- Thống Hận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/121.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #121 :Tâm Lực Đệ Tứ Trọng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/122.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #122 :Bí Mật Của Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/123.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #123 :3 Món Báu vật / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/124.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #124 :Gặp Chuyện Ở Xung Vân Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/125.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #125 :Ngũ Bảo Kiếm Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/126.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #126 : Truy Sát Thiếu Viêm Sửu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/127.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #127 :7 Pháp Môn Kì lạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/128.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #128 :Thế Giới Trong Bia đá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/129.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #129 :36 Phân Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/13.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #13 :Lạc Vào Thế Giới Di Tích / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/130.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #130 :51 Năm Luyện kiếm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/131.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #131 :Pháp Môn Mới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/132.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #132 :Cửu Giác Điện Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/133.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #133 :Tiếp Tục Đánh Lén Vô Gian Môn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/134.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #134 :3 Món Bảo Bối / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/135.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #135 :Tiến Vào Nguyệt Hạ Đàm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/136.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #136 :Thử Thách 5 Hòn Đảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/137.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #137 :2/5 Hòn Đảo Đầu Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/138.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #138 :Hoàn Đảo Thứ 3 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/139.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #139 :Đến Đảo Thứ 4 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/14.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ # : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/140.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #140 :Thập Đại Trấn Thủ Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/141.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #141 : Hòn Đảo Thứ 5 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/142.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #142 :Thần Kiếm Tử Quỳnh Quang / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/143.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #143 :Trở Lại / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/144.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #144 :Dung Hợp Phân Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/145.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #145 :Ma Thần Kỷ Ninh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/146.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #146 :Bản Tôn Bi Giết Chết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/147.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #147 :Khôi Phục Thực Lực / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/148.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #148 :Bước Đệm Đôt Phá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/149.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #149 :Đột Phá Chân Thần -Đạo Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/15.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #15 :Đại Chiến Dưới Hồ Dực Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/150.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #150 :Phế Tích Thượng Cổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/151.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #151 :Tuyệt Địa \" Địa Minh Sơn \" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/152.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #152 :Triển lộ Thần uy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/153.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #153 :Thứ Tu Đại Ma Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/154.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #154 :Gặp Lại Thôi Phủ Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/155.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #155 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/156.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #156 :Quyết Chiến Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/157.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #157 :Tổ Tiên Đẳng Cấp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/158.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #158 :Diễn Biến Không Ngờ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/159.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #159 :Nguyên Lão Nhân Là Ai? / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/16.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #16 : Cơ Duyên Không Thể Cầu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/160.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #160 :Ly Khai Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/161.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #161 :Cá Cược Tạo Uy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/162.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #162 :Tướng Quân Thứ 6 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/163.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #163 :Di Tích Cổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/164.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #164 :Tố Phong Bách Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/165.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #165 :Thu Phụ Tá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/166.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #166: Giai Cứu Tù Phạm/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/167.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #167 :Tâm Thần Tướng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/168.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #168 :Hắc Liên Thần Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/169.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #169 :Thiên Nhất Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/17.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #17 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/170.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #170 :Từ Biệt Đại Ca / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/171.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #171 :Tranh Bảo Hội / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/172.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #172 :Vạn Thần Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/173.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #173 :Tô Vưu Cơ Đột Phá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/174.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #174 :Sinh Tử Ma Bàn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/175.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #175 :Vĩnh Hằng Thần Huyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/176.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #176 :Đột Phá 5000 Kiếm Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/177.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #177 :Cừu Sát Tại Cự Thạch Lâm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/178.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #178 :Khởi Hành Đi Thiên Thương Cung / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/179.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #179 :Hắc Ám Chi Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/18.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #18 :Phá Trận Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/180.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #180 :Truyền Thừa Trên Tinh Thần Đảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/181.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #181 : Tinh Thần Đảo/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/182.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #182 :Trợ GIúp Vưu Cơ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/183.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #183 :Đối Thủ Tầng 6 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/184.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #184 :Rời Khỏi Tinh Thần Đảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/185.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #185 :Vưu Cơ Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/186.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #186 :Đông Yên Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/187.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #187 :Kiếm Cung / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/188.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #188 :Sư PhụTuyết Giám Đế Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/189.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #189 :Kiếm Quân Thứ 7 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/19.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #19 :Lời Mời Của Ứng Long Vệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/190.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #190 :Thời Hạn Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/191.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #191 :Xuất Phát Dị Vũ Trụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/192.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #192 :Lọt Vào Cướp Giết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/193.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #193 :Nội Vực Dị Vũ Trụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/194.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #194 :Tầng 36 Khảo Ngiệm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/195.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #195 :Đệ Tử Ký Danh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/196.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #196 :Bắc Minh Mất Tích / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/197.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #197 : Trở Về- Đột Phá- Xuất Phát/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/198.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #198 :Cứu Phụ Mẫu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/199.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #199 :Đột Phá Đạo Quân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/2.mp3",
+    "title" : "MÃNG HOANG KỶ #02 :Lựa Chọn Tu Luyện/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/20.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #20 :Tập Chấp Nhận Mất Mát / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/200.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #200 :Thanh Phong Thánh Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/201.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #201 :Cơ Duyên Không Đạt Được / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/202.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #202 : Rắc Rối Tại Thánh Thành/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/203.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #203 :Đạo Phù Chúa Tể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/204.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #204 : Tùy Tùng Thứ 3/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/205.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #205 :Chiến Đấu Cầu Đột Phá / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/206.mp3",
+    "title" : "206",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/207.mp3",
+    "title" : "207",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/208.mp3",
+    "title" : "208",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/209.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #209 :Bí Mật Phơi Bày / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/21.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #21 :Là Phúc Hay Là Họa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/210.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #210 :Ngu TInh Hải / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/211.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #211 :Khám Phá Đình Nam Hành Cung / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/212.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #212 :Động Minh Ngọc Phù Xuất Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/213.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #213 :Dịch Ba Giới Biến Động / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/214.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #214 :Cứu Nguy Thiên Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/215.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #215 :Động Minh Ngọc Phù / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/216.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #216 :Cơ Duyên Của Thiên Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/217.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #217 :Cửu Trần Trúng Độc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/218.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #218 :Tuế Mộng Giáo Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/219.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #219 :Gặp Bài Danh Thứ Nhất / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/22.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #22 : Tuyết Long Sơn Uy Hiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/220.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #220 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/221.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #221 : Cặp Đôi Hoàn Hảo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/222.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #222 :Hảo Hữu Đáng Kết Giao / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/223.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #223 :GIúp Người Là Tự Giúp Ta / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/224.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #224 :Chiếm Hết Tiện Nghi / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/225.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #225 :Đàm Phán với 6 Thế Lực / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/226.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #226 :Phát Hiện Bất Ngờ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/227.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #227 :Khôi Lỗi Đế Cấp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/228.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #228 :Tổ Địa Tây Tư Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/229.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #229 :Đường Tới Chí Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/23.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #23 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/230.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #230 :Thiên Diệp Thanh Linh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/231.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #231: Hai Tộc Quần Giao Long / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/232.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #232 : Giọt Máu Chí Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/233.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #233 :Phi Tuyết Thành Chủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/234.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #234 :Tu Hành Nơi Phàm Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/235.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #235 :Bộc Lộ Bản Lĩnh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/236.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #236 :Nhổ Căn Cơ Của Phi Tuyết / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/237.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #237 :Thu Hoạch Lớn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/238.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #238 :Xông Vào Thanh Hoa Động Phủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/239.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #239 :Cửu Trần Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/24.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #24 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/240.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #240 :Nhờ Cậy Chí Tôn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/241.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #241 :Đợi Ba Ba Chui Rọ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/242.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #242 :Thủ Hạ Là Chúa Tể / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/243.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #243 :Cầm Hỏa Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/244.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #244 :Chí Tôn Ra Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/245.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #245 :Sóng Gió Nối Tiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/246.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #246 :Dịch Ba Xuất Hiện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/247.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #247 :Hai Nút Thắt Nhân Quả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/248.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #248 :Thu Đồ Đệ Giúp Sư Phụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/249.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #249 :Hợp Đạo Hỏa Vân Hoa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/25.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #25 :Minh Long Tỏa Thiên Trận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/250.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #250 :Kỷ Ninh Hợp Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/251.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #251 :Tìm Nữ Oa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/252.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #252 :Tung Tích Nữ Oa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/253.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #253 :Đến Hầu Ngũ Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/254.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #254 :Dung Nhập Đại Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/255.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #255 :Tây Tư Tộc tôn CHủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/256.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #256 :Chí Tôn Hội Tụ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/257.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #257 :Âm Dương Sinh Tử Luân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/258.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #258 :Thần Đình Chi Chủ Cầu Cứu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/259.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #259 :Cứu Đan Tôn Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/26.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #26 :Ba Ba Trong Rọ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/260.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #260 :Khám Phá Hiểm Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/261.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #261 :Không Gian Ẩn Giấu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/262.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #262 :Lọt Vào Ngục Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/263.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #263 :THoát Khỏi Ngục Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/264.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #264 :Chân Linh Bất Diệt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/265.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #265 :Từ Biệt Thân Nhân-Bế Tử Quan / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/266.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #266 :Chân Linh Bất Diệt Đại Thành / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/267.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #267 :Thiên Thể Kỳ Dị / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/268.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #268 :Khởi Động Chiến Tranh / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/269.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #269 :Nhị Đồ Đệ Thanh Trúc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/27.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #27: Huyết Chiến Tuyết Long Sơn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/270.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #270 :Bị Khốn Trụ-Y Da Nhĩ Ra Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/271.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #271 :Mô Cốc Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/272.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ # 272:Ba Lâm Gặp Nạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/273.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #273 :Phá Hủy Thế Giới Thảo Nguyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/274.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #274 :Quyết Định Tử Chiến / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/275.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #275 : Thất Thủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/276.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #276 :Đột Phá Cuối Cùng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/277.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #277 :Đại Kết Cục Viên Mãn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/28.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #28 :Đối Đầu Vạn Tượng Chân Nhân/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/29.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #29 :Quyết Định Trưởng Bối Kỷ Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/3.mp3",
+    "title" : "TIÊN HIỆP --MÃNG HOANG KỶ #03 :Điên Cuồng Tu Luyện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/30.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #30 : Đoạt Thần Thông/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/31.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #31 : May Mắn Của Kỷ Tộc/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/32.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #32 :Vĩnh Biệt Phụ Thân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/33.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #33 :Đến Thành An Thiền Hầu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/34.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #34 :Lập Uy Tạo Danh Thế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/35.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #35: Chọn Môn Phái/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/36.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #36: Thử Thách Nhập Môn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/37.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #37 :Truyền Thừa Kiếm Pháp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/38.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #38 :Chọn Sư Phụ-Chọn Pháp Môn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/39.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #39 :Khẳng Định Đẳng Cấp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/4.mp3",
+    "title" : "TIÊN HIỆP-MÃNG HOANG KỶ #04 :Thần Thú \"Tiếu Nguyệt Lang\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/40.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #40 :Liên Tiếp Khẳng Định Mình / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/41.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #41 :Kiếm Tiên-Kiếm Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/42.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #42 :Lên Đường Phiêu Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/43.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #43 :Gia Nhập Ứng Long Vệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/44.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #44: Cứu Người trong Hiểm Địa / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/45.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #45 : Sát Tử Bọn Cướp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/46.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #46:Gặp Lại \" Không Thanh Xà Yêu\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/47.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #47 : Nuôi Địa Hỏa -Gieo Hàn Sát/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/48.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #48 : Một Lần Chết Hụt / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/49.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #49 :Nhiêm Vụ Đầu Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/5.mp3",
+    "title" : "TIÊN HIỆP-MÃNG HOANG KỶ #05 :Dực Xà Tìm Con / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/50.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #50 :Ngu Đông-Kẻ Thù Giết Thân Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/51.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #51:Thủy Dị-Kẻ Thù Giết Thân Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/52.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #52 :Quay Lại Hồ Dực Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/53.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #53 :Kỷ Ninh Bị Đánh Ghen / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/54.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #54:Chia Loan Rẽ Phượng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/55.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #55 :Khiêu Chiến Tuyết Long Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/56.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #56 :Đánh Bại Nguyên Thần Đạo Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/57.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #57 : Phụ Đệ Của Thiên Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/58.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #58 :Phủ Đệ Của Thiên Tiên 2 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/59.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #59 :Cơ Duyên Với Bảo Vật / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/6.mp3",
+    "title" : "TIÊN HIỆP-MÃNG HOANG KỶ #06 :Đoạt Kim Kiếm / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/60.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #60 :Trở Mặt Như Trở Bàn Tay / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/61.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #61 :Ngộ Ra Kiếm Đạo / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/62.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #62 : Bước Ngoặt Cuộc Đời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/63.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #63 :Nguyên Thần Thứ 2 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/64.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #64 :Đến Vương Đô Đại Hạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/65.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #65 :Khách Quý Của Thiên Bảo Sơn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/66.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #66:Khiêu Khích Cầu Nổi Tiếng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/67.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #67 :Tìm Lại Biểu Tỷ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/68.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #68 :Kỷ Ninh Bị Ám Sát / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/69.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #69:Danh Tiếng Lại Tăng / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/7.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #07:Hành Trình Phiêu Lưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/70.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #70 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/71.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #71 :Đại Hội Tiên Duyên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/72.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #72 :Đụng Độ 2 Cường Giả / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/73.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #73 : \" Đệ Không Muốn Do Dự\" / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/74.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #74 :Lọt Top 48 Đối Thủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/75.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #75 :Vòng12 Người / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/76.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #76 :Lọt Vòng 6 Cao Thủ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/77.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #77 :Đệ Tử Của Đạo Tổ/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/78.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #78 :Đạo Tổ Thần Bí Nhất Tam Giới / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/79.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #79: Bồ Đề Lão Tổ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/8.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #08 :Đụng Độ Tê Hoàng Ngưu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/80.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #80 :30 Năm Tu Luyện / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/81.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #81 /Thử Thách Sư Môn : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/82.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #82 :Đại Đồ Đệ-Kỳ Tiểu Vũ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/83.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #83 :12 Yêu Vuong Đông Lưu/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/84.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #84 :Bảo Tàng Thần Bí / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/85.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #85 :Bảo Vật Của Thần Ma / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/86.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #86 :Xuất Sư- Quay về Đại Hạ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/87.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #87 :Gặp Lại Thân Nhân / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/88.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #88 :Tam Đại Hung Trận / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/89.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #89 :Bảo Hộ Sư Phụ Độ Kiếp / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/9.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #09: / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/90.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #90 :Trận Pháp Tam Xà / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/91.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #91 :Đông Lâm Sơn Mạch / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/92.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #92 :Trờ Về Môn Phái / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/93.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #93 :Tìm Lại Được Mộc Tử Sóc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/94.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #94 :Giải Cứu Sư Đệ / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/95.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #95 : / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/96.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #96 :Thù Hận Tăng Sâu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/97.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #97 :Kế Hoạch Báo Thù / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/98.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #98 :Phá Hang ổ Thiếu Viêm Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-mang-ky/99.mp3",
+    "title" : "TIÊN HIỆP-- MÃNG HOANG KỶ #99 :Thủy Tổ Thiếu Viêm Tộc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

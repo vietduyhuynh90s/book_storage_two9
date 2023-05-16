@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kham-pha-cuoc-song_16925.html",
+    "title" : "Khám Phá Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 5723,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_afe670d7cf4144459c3f9a9e56a6e46c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_afe670d7cf4144459c3f9a9e56a6e46c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 158,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/02-cuc_van_tho_va_ky_uc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 407,
+    "title" : "Cúc vạn thọ và ký ức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/03-cai_cay_to.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "Cái cây to",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/04-chim_bo_nong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 616,
+    "title" : "Chim bồ nông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/05-donnie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 415,
+    "title" : "Donnie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/06-di_dao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 139,
+    "title" : "Đi dạo sẽ tạo nên điều gì khác biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/07-noi_duoc_goi_la_mua_ha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 297,
+    "title" : "Nơi được gọi là mùa Hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/08-dieu_khien_ba_grace_chay_bo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 707,
+    "title" : "Điều khiến bà Grace chạy bộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/09-rua_toi_ben_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 300,
+    "title" : "Rửa tội bên sông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/10-gap_go_lon_bien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 351,
+    "title" : "Gặp gỡ lợn biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/11-tren_ngon_doi_chau_phi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 337,
+    "title" : "Trên những ngọn đồi châu Phi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/12-phep_mau_cua_vit_me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 286,
+    "title" : "Phép màu của vịt mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/13-ve_voi_thien_nhien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 670,
+    "title" : "Về với thiên nhiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/14-tieng_chuong_trong_dem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 556,
+    "title" : "Tiếng chuông trong đêm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/02-cuc_van_tho_va_ky_uc.mp3",
+    "title" : "Cúc vạn thọ và ký ức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/03-cai_cay_to.mp3",
+    "title" : "Cái cây to",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/04-chim_bo_nong.mp3",
+    "title" : "Chim bồ nông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/05-donnie.mp3",
+    "title" : "Donnie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/06-di_dao.mp3",
+    "title" : "Đi dạo sẽ tạo nên điều gì khác biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/07-noi_duoc_goi_la_mua_ha.mp3",
+    "title" : "Nơi được gọi là mùa Hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/08-dieu_khien_ba_grace_chay_bo.mp3",
+    "title" : "Điều khiến bà Grace chạy bộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/09-rua_toi_ben_song.mp3",
+    "title" : "Rửa tội bên sông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/10-gap_go_lon_bien.mp3",
+    "title" : "Gặp gỡ lợn biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/11-tren_ngon_doi_chau_phi.mp3",
+    "title" : "Trên những ngọn đồi châu Phi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/12-phep_mau_cua_vit_me.mp3",
+    "title" : "Phép màu của vịt mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/13-ve_voi_thien_nhien.mp3",
+    "title" : "Về với thiên nhiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss22-khamPhaCuocSong/14-tieng_chuong_trong_dem.mp3",
+    "title" : "Tiếng chuông trong đêm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

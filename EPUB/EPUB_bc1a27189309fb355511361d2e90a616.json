@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truyen-co-han-quoc_17054.html",
+    "title" : "Truyện Cổ Hàn Quốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ahn Kyong Hwan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 10551,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_bc1a27189309fb355511361d2e90a616.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_bc1a27189309fb355511361d2e90a616.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 925,
+    "title" : "truyencohanquoc01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 409,
+    "title" : "truyencohanquoc02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 169,
+    "title" : "truyencohanquoc03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 629,
+    "title" : "truyencohanquoc04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "truyencohanquoc05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 712,
+    "title" : "truyencohanquoc06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 894,
+    "title" : "truyencohanquoc07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 726,
+    "title" : "truyencohanquoc08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 873,
+    "title" : "truyencohanquoc09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 710,
+    "title" : "truyencohanquoc10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 291,
+    "title" : "truyencohanquoc11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "truyencohanquoc12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 495,
+    "title" : "truyencohanquoc13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1137,
+    "title" : "truyencohanquoc14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 104,
+    "title" : "truyencohanquoc15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc01.mp3",
+    "title" : "truyencohanquoc01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc02.mp3",
+    "title" : "truyencohanquoc02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc03.mp3",
+    "title" : "truyencohanquoc03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc04.mp3",
+    "title" : "truyencohanquoc04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc05.mp3",
+    "title" : "truyencohanquoc05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc06.mp3",
+    "title" : "truyencohanquoc06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc07.mp3",
+    "title" : "truyencohanquoc07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc08.mp3",
+    "title" : "truyencohanquoc08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc09.mp3",
+    "title" : "truyencohanquoc09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc10.mp3",
+    "title" : "truyencohanquoc10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc11.mp3",
+    "title" : "truyencohanquoc11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc12.mp3",
+    "title" : "truyencohanquoc12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc13.mp3",
+    "title" : "truyencohanquoc13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc14.mp3",
+    "title" : "truyencohanquoc14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnTruyencohanquoc/truyencohanquoc15.mp3",
+    "title" : "truyencohanquoc15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

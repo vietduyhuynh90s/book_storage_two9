@@ -1,0 +1,617 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-song-nong-thon-nhan-roi_15345.html",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kẹo Vitamin C",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 275385,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5e9a6731c464bae4c04b27043904e692.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5e9a6731c464bae4c04b27043904e692.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10426,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 1(Chương 1-10)_Xuyên Không, Ngôn Tình, Cổ Đại, Điền Văn.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5060,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 10(Chương 66-70)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4995,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 11(Chương 71-75)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4544,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 12(Chương 76-80)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4383,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 13(Chương 81-85)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4538,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 14(Chương 86-90)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4799,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần15 CNĐ Chương ̣̣̣̣̣(91-95)-Xuyên Không, Cổ Đại, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4889,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần16 CNĐ Chương(96-100)- Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4693,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần17 CNĐ Chương(101-105)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4711,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần18 CNĐ Chương(106-110)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4553,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 19 CNĐ Chương̣(111-115)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8198,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 2(Chương 11-20)_Xuyên Không, Ngôn Tình , Cổ Đại, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4497,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 20 CNĐ Chương(116-120)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4523,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 21 CNĐ-Chương ̣(121-125)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 22 KNĐ Chương (126-130)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 23 CNĐ Chương̣(131-135)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4306,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi Phần 24 KNĐ Chương(136-140)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 25 KNĐ Chương(141-145)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4284,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 26 KNĐ Chương(146-150)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4394,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 27 KNĐ Chương(151-155) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4118,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 28 KNĐ Chương(156-160)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4317,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 29 CNĐ Chương̣(161-165)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9486,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 3(Chương 21-30)_Xuyên Không, Ngôn Tình , Cổ Đại, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3910,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 30 CNĐ Chương(165-170)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6971,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 31 KNĐ.Chương(171-175) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7714,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 32 CNĐ Chương(176-180) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7622,
+    "title" : "Cuộc Sống Nông Thôn Nhàn-Rỗi Phần 33 KNĐ Chương(181-185) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7381,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 34 CNĐ Chương(186-190) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8665,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 35 CHĐ Chương (191-195)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6830,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 36 CNĐ Chương (196-200) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7318,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 37 KNĐ Chương(201-205)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6414,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 38 CNĐ Chương̣(206-210)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6849,
+    "title" : "Cuộc Sống Nông Thôn Nhàn-Rỗi Phần 39 KNĐ Chương (211-215) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9042,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 4(Chương 31-40)_Xuyên Không, Ngôn Tình , Cổ Đại, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7747,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 40 CNĐ Chương̣(216-220)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7170,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 41 CNĐ Chương(221-225)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7284,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 42 CNĐ Chương(226-230)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4838,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 43 CNĐ Chương(231-235)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5065,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 44 CNĐ Chương(236-240)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4149,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 45 CNĐ Chương̣(241-245)-Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4379,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 46 CNĐ Chương(246-250) -Xuyên Không, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8254,
+    "title" : "47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8091,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 48=Hết CNĐ Chương(261 270",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4976,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 5(Chương 41-45)_Ngôn Tình, Cổ Đại, Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4483,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 6(Chương 46-50)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4507,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 7(Chương 51-55)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4380,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 8(Chương 56-60)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4720,
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 9(Chương 61-65)_Xuyên Không, Cổ Đại,Điền Văn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/1.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 1(Chương 1-10)_Xuyên Không, Ngôn Tình, Cổ Đại, Điền Văn.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/10.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 10(Chương 66-70)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/11.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 11(Chương 71-75)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/12.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 12(Chương 76-80)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/13.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 13(Chương 81-85)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/14.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 14(Chương 86-90)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/15.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần15 CNĐ Chương ̣̣̣̣̣(91-95)-Xuyên Không, Cổ Đại, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/16.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần16 CNĐ Chương(96-100)- Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/17.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần17 CNĐ Chương(101-105)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/18.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần18 CNĐ Chương(106-110)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/19.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 19 CNĐ Chương̣(111-115)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/2.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 2(Chương 11-20)_Xuyên Không, Ngôn Tình , Cổ Đại, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/20.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 20 CNĐ Chương(116-120)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/21.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 21 CNĐ-Chương ̣(121-125)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/22.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 22 KNĐ Chương (126-130)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/23.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 23 CNĐ Chương̣(131-135)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/24.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi Phần 24 KNĐ Chương(136-140)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/25.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 25 KNĐ Chương(141-145)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/26.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 26 KNĐ Chương(146-150)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/27.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 27 KNĐ Chương(151-155) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/28.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 28 KNĐ Chương(156-160)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/29.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 29 CNĐ Chương̣(161-165)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/3.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 3(Chương 21-30)_Xuyên Không, Ngôn Tình , Cổ Đại, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/30.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 30 CNĐ Chương(165-170)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/31.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 31 KNĐ.Chương(171-175) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/32.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 32 CNĐ Chương(176-180) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/33.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn-Rỗi Phần 33 KNĐ Chương(181-185) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/34.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 34 CNĐ Chương(186-190) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/35.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 35 CHĐ Chương (191-195)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/36.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 36 CNĐ Chương (196-200) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/37.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 37 KNĐ Chương(201-205)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/38.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 38 CNĐ Chương̣(206-210)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/39.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn-Rỗi Phần 39 KNĐ Chương (211-215) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/4.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 4(Chương 31-40)_Xuyên Không, Ngôn Tình , Cổ Đại, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/40.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 40 CNĐ Chương̣(216-220)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/41.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 41 CNĐ Chương(221-225)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/42.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 42 CNĐ Chương(226-230)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/43.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 43 CNĐ Chương(231-235)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/44.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 44 CNĐ Chương(236-240)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/45.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 45 CNĐ Chương̣(241-245)-Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/46.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 46 CNĐ Chương(246-250) -Xuyên Không, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/47.mp3",
+    "title" : "47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/48.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi-Phần 48=Hết CNĐ Chương(261 270",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/5.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 5(Chương 41-45)_Ngôn Tình, Cổ Đại, Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/6.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 6(Chương 46-50)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/7.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 7(Chương 51-55)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/8.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 8(Chương 56-60)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nong-thon-nhan-roi/9.mp3",
+    "title" : "Cuộc Sống Nông Thôn Nhàn Rỗi_Phần 9(Chương 61-65)_Xuyên Không, Cổ Đại,Điền Văn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

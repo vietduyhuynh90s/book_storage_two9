@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-ma-ton-cuu-lo-phi-huong-huyen-ao_3640.html",
+    "title" : "Ma Tôn - Cửu Lộ Phi Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 68298,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3e050f6c98bc54d2f0e6b312b228d86f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3e050f6c98bc54d2f0e6b312b228d86f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-ton/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4124,
+    "title" : "Cửu Lộ Phi Hương-Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4437,
+    "title" : "Cửu Lộ Phi Hương-Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4939,
+    "title" : "Cửu Lộ Phi Hương-Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4596,
+    "title" : "Cửu Lộ Phi Hương-Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4380,
+    "title" : "Cửu Lộ Phi Hương-Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6739,
+    "title" : "Cửu Lộ Phi Hương-Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "Cửu Lộ Phi Hương-Phần 15 (Hết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4402,
+    "title" : "Cửu Lộ Phi Hương-Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3858,
+    "title" : "Cửu Lộ Phi Hương-Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4244,
+    "title" : "Cửu Lộ Phi Hương-Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4382,
+    "title" : "Cửu Lộ Phi Hương-Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4588,
+    "title" : "Cửu Lộ Phi Hương-Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4687,
+    "title" : "Cửu Lộ Phi Hương-Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4426,
+    "title" : "Cửu Lộ Phi Hương-Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ton/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4353,
+    "title" : "Cửu Lộ Phi Hương-Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-ton/1.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/10.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/11.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/12.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/13.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/14.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/15.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 15 (Hết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/2.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/3.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/4.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/5.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/6.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/7.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/8.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ton/9.mp3",
+    "title" : "Cửu Lộ Phi Hương-Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
