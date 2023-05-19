@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mong-the-gioi-nay-luon-diu-dang-voi-em_20369.html",
+    "title" : "Mong Thế Giới Này Luôn Dịu Dàng Với Em",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Dĩ Trú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 31196,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1eca39beaccc95a7cdb5fc5eaf1350bf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1eca39beaccc95a7cdb5fc5eaf1350bf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4589,
+    "title" : "mong-the-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4525,
+    "title" : "mong-the-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5842,
+    "title" : "mong-the-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5333,
+    "title" : "mong-the-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5617,
+    "title" : "mong-the-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5290,
+    "title" : "mong-the-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-1.mp3",
+    "title" : "mong-the-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-2.mp3",
+    "title" : "mong-the-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-3.mp3",
+    "title" : "mong-the-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-4.mp3",
+    "title" : "mong-the-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-5.mp3",
+    "title" : "mong-the-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mong-the-3/mong-the-6.mp3",
+    "title" : "mong-the-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

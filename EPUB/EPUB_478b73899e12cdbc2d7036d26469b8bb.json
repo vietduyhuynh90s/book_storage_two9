@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1_20383.html",
+    "title" : "Chuyện Tình Các Danh Nhân Việt Nam Tập 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Minh Quốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 37092,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_478b73899e12cdbc2d7036d26469b8bb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_478b73899e12cdbc2d7036d26469b8bb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2762,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2660,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2869,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2738,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2809,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2996,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1436,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2637,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2616,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2697,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2888,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2463,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p01.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p02.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p03.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p04.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p05.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p06.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p07.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p08.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p09.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p10.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p11.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p12.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p13.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc.sna/chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc_p14.mp3",
+    "title" : "chuyen-tinh-cac-danh-nhan-viet-nam-tap-1-le-minh-quoc p14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

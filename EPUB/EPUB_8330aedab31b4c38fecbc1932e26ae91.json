@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/troi-sinh-vung-ve-hay-bu-dap-bang-su-kien-tri_20170.html",
+    "title" : "Trời Sinh Vụng Về, Hãy Bù Đắp Bằng Sự Kiên Trì",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lư Tư Hạo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 26235,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8330aedab31b4c38fecbc1932e26ae91.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8330aedab31b4c38fecbc1932e26ae91.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2935,
+    "title" : "Phần 1/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2500,
+    "title" : "Phần 2/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "Phần 3/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3190,
+    "title" : "Phần 4/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "Phần 5/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2896,
+    "title" : "Phần 6/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "Phần 7/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "Phần 8/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "Phần 9/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1640,
+    "title" : "Phần 10/10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-01.mp3",
+    "title" : "Phần 1/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-02.mp3",
+    "title" : "Phần 2/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-03.mp3",
+    "title" : "Phần 3/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-04.mp3",
+    "title" : "Phần 4/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-05.mp3",
+    "title" : "Phần 5/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-06.mp3",
+    "title" : "Phần 6/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-07.mp3",
+    "title" : "Phần 7/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-08.mp3",
+    "title" : "Phần 8/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-09.mp3",
+    "title" : "Phần 9/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-sinh-05/troi-sinh-10.mp3",
+    "title" : "Phần 10/10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
