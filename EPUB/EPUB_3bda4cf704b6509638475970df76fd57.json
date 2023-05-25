@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gia-toc-an-dat_19997.html",
+    "title" : "Gia Tộc Ăn Đất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Minh Nhựt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-25",
+    "duration" : 8078,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3bda4cf704b6509638475970df76fd57.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3bda4cf704b6509638475970df76fd57.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2174,
+    "title" : "gia-toc-an-dat-le-minh-nhut p01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2528,
+    "title" : "gia-toc-an-dat-le-minh-nhut p02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "gia-toc-an-dat-le-minh-nhut p03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1891,
+    "title" : "gia-toc-an-dat-le-minh-nhut p04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p01.mp3",
+    "title" : "gia-toc-an-dat-le-minh-nhut p01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p02.mp3",
+    "title" : "gia-toc-an-dat-le-minh-nhut p02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p03.mp3",
+    "title" : "gia-toc-an-dat-le-minh-nhut p03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-toc-an-dat-le-minh-nhut.sna/gia-toc-an-dat-le-minh-nhut_p04.mp3",
+    "title" : "gia-toc-an-dat-le-minh-nhut p04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
