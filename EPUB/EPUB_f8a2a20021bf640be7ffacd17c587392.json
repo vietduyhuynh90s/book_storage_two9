@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/quan-ly-nghiep-388.html",
+    "title" : "QUẢN LÝ NGHIỆP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Geshe Michael Roach",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhân dịp này, chúng tôi gửi lời cám ơn tới rất nhiều thân hữu mà nỗ lực của họ đã giúp cuốn sách này được ra mắt. Người biên tập cho chúng tôi ở Doubleday, Trace Murphy, là người đã có lòng tin vào chúng tôi để cuốn sách kinh doanh đầu tiên của chúng tôi được xuất bản - Năng đoạn Kim cương nay đã được hàng triệu người trên khắp thế giới đọc; kết quả này chịu ơn rất nhiều từ sự khích lệ của ông. Jon Sheer để chúng tôi núp dưới đôi cánh của ông và hướng dẫn chúng tôi trong những bản hợp đồng và những thủ tục cuối cùng với lòng tử tế đầy nhẫn nại. Heather Gordon đã cẩn thận biên tập lại bản cuối cùng của cuốn sách và đưa ra rất nhiều đề nghị quý giá, Catherine Thrasher cũng vậy trong lần biên tập thứ hai. Sau đó Rebecca Vinacour và Grant Burn đã đưa ra thêm những ý kiến chuyên môn vào bản in thử cuối cùng, trong khi Rob Ruisinger đã phù phép một lần nữa trong việc thiết kế cuốn sách, đặc biệt với những minh hoạ rất khó. Lillas Marie Hatala đã giúp xem lại bản in thử. Steve Hiett đã giúp làm bìa và Robin Saidman đóng góp vào việc chụp ảnh. Muhammad Salam và Rob Hou đã làm việc vất vả để phát triển những khoá học và đoạn phim trực tuyến trên toàn thế giới trong khi Huang Jin của công ty truyền hình văn hoá Witway ở Thượng Hải đã là nguồn hỗ trợ và cảm hứng bất tận cho việc phổ biến cuốn sách và những việc khác của chúng tôi tại Châu Á.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f8a2a20021bf640be7ffacd17c587392.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f8a2a20021bf640be7ffacd17c587392.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/388-quan-ly-nghiep-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/388-quan-ly-nghiep-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

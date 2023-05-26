@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-quyet-dung-nguoi-1153.html",
+    "title" : "BÍ QUYẾT DÙNG NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tạ Ngọc Ái",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một trong những điều quan trọng nhất đối với một người lãnh đạo là nghệ thuật sử dụng con người. Bởi vì, phải có con người thì mới làm nên việc và một doanh nghiệp muốn phát triển phải có được những con người có hoài bão lớn. Chính vì thế mà người lãnh đạo phải có đối sách sử dụng con người một cách khoa học, thực tiễn và hiệu quả. Với nội dung phong phú, văn phong giản dị, dễ hiểu, giàu tính thông tin tri thức, cuốn sách “Bí quyết dùng người” của nhà xuất bản Thời đại sẽ giúp bạn biết cách chiêu dụng “hiền tài” và có khả năng tổ chức nhân lực tuyệt vời, luôn biết cách sắp xếp nhiệm vụ phù hợp với năng lực và thế mạnh riêng của từng người nhằm phát huy hết tài năng của họ, khiến một người địch lại mười người, mười người bằng cả trăm người, mang lại hiệu quả theo cấp số nhân, tổng hợp và lớn mạnh. Hy vọng cuốn sách sẽ đem lại nhiều tri thức bổ ích bất ngờ, thú vị với bạn đọc quan tâm tới vấn đề này!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_9094038951b549d54ccb55b09badaed7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_9094038951b549d54ccb55b09badaed7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1153-bi-quyet-dung-nguoi-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1153-bi-quyet-dung-nguoi-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

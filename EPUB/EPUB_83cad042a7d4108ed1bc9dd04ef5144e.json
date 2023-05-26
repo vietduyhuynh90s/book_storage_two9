@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/sinh-trac-van-tay-kham-pha-tiem-nang-giai-ma-cuoc-doi-13460.html",
+    "title" : "SINH TRẮC VÂN TAY: KHÁM PHÁ TIỀM NĂNG GIẢI MÃ CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Unger",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Có bao giờ bạn tự hỏi: “Tại sao có những người thành công đến với họ dường như dễ dàng hơn những người khác? Yếu tố gì giúp họ vượt lên nhanh và sớm như vậy trong khi đa số mọi người vẫn loay hoay ở phía sau?” Cuộc sống là một chuỗi những lựa chọn và hiểu bản thân là cách để bạn đưa ra những quyết định đúng đắn. Tuy nhiên, bạn sẽ không biết mình phù hợp hay không phù hợp với điều gì cho đến khi bạn trực tiếp thử nghiệm việc đó. Vậy nếu bạn hiểu bản thân mình ngay từ đầu, biết được những khả năng bẩm sinh của bản thân… hẳn bạn sẽ tiết kiệm được rất nhiều thời gian, công sức, tiền bạc cho những trải nghiệm không phù hợp. Và sinh trắc vân tay sẽ là công cụ chính xác để giúp bạn KHÁM PHÁ BẢN THÂN trên cơ sở những nghiên cứu khoa học đáng tin cậy nhất. Đặc biệt, bạn HOÀN TOÀN có thể TỰ SINH TRẮC VÂN TAY cho bản thân bạn và cho người thân của mình chỉ thông qua cuốn sách “Sinh Trắc Vân Tay Khám Phá Tiềm Năng Giải Mã Cuộc Đời từ dấu vân tay của bạn” của chuyên gia phân tích tay Vân Tay Richard Unger.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_83cad042a7d4108ed1bc9dd04ef5144e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_83cad042a7d4108ed1bc9dd04ef5144e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13460-sinh-trac-van-tay-kham-pha-tiem-nang-giai-ma-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13460-sinh-trac-van-tay-kham-pha-tiem-nang-giai-ma-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

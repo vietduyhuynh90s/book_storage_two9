@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/toi-tai-gioi-ban-cung-the-390.html",
+    "title" : "TÔI TÀI GIỎI BẠN CŨNG THẾ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Adam Khoo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>CHƯƠNG MỘT: TỪ ĐẦN ĐỘN TRỞ THÀNH THIÊN TÀI CHƯƠNG HAI: QUÁ TRÌNH HỌC TẬP HIỆU QUẢ CHƯƠNG BA: BẠN ĐÃ SẴN SÀNG ĐI ĐẾN THÀNH CÔNG CHƯA? CHƯƠNG 4: TÔI TỰ TIN, TÔI CÓ THỂ BAY CAO VÀ TÔI LÀM ĐƯỢC CHƯƠNG 5: BẠN SỞ HỮU BỘ NÃO CỦA 1 THIÊN TÀI CHƯƠNG 6: PHƯƠNG PHÁP ĐỌC ĐỂ NẮM BẮT THÔNG TIN CHƯƠNG 7: SƠ ĐỒ TƯ DUY (MY MAPPING) CÔNG CỤ GHI NHỚ TỐI ƯU CHƯƠNG 8: TRÍ NHỚ SIÊU ĐẲNG CÓ PHẢI TRÍ NHỚ ĐANG KÌM HÃM BẠN CHƯƠNG 9:TRÍ NHỚ SIÊU ĐẲNG DÀNH CHO SỐ HỆ THỐNG SỐ CHƯƠNG 10: MÔ HÌNH TRÍ NHỚ CHƯƠNG 11 NGHỆ THUẬT ỨNG DỤNG LÝ THUYẾT VÀO THỰC HÀNH CHƯƠNG 12:DÁM ƯỚC MƠ, SỨC MẠNH CỦA MỤC TIÊU THÀNH CÔNG KHÔNG PHẢI LÀ DO MAY MẮN CHƯƠNG 13: ĐỘNG LỰC MẠNH MẼ VƯỢT QUA SỰ LƯỜI BIẾNG CHƯƠNG 14: CÔNG THỨC ĐẠT ĐIỂM TUYỆT ĐỐI CHƯƠNG 15: THỜI GIAN LÀ TIỀN BẠC LÀM CHỦ THỜI GIAN, LÀM CHỦ CUỘC SỐNG CHƯƠNG 16: TẠO QUYẾT TÂM MẠNH MẼ TỨC THÌ CHƯƠNG 17: TĂNG TỐC VỀ ĐÍCH CHƯƠNG 18: VINH QUANG VÀ CHIẾN THẮNG</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_76f0398a3c9eb8f991884ba6ad2843d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_76f0398a3c9eb8f991884ba6ad2843d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Mở Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=742",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:12:22 Chương 1: Từ Đần Độn Trở Thành Thiên Tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=1744",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:29:04 Chương 2: Quá Trình Học Tập Hiệu Quả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=2818",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:46:58 Chương 3: Bạn Đã Sẵn Sàng Để Thành Công Chưa?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=3453",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:33 Chương 4: Tôi Tin Tôi Có Thể Bay Cao… Và Tôi Làm Được",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=5544",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:32:24 Chương 5: Bạn Sở Hữu Bộ Não Của Một Thiên Tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=7131",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:58:51 Chương 6: Phương Pháp Đọc Để Nắm Bắt Thông Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=8524",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:22:04 Chương 7: Sơ Đồ Tư Duy: Công Cụ Ghi Chú Tối Ưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=10770",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:59:30 Chương 8: Trí Nhớ Siêu Đẳng Dành Cho Từ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=12971",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:36:11 Chương 9: Trí Nhớ Siêu Đẳng Dành Cho Số",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=14542",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:02:22 Chương 10: Mô Hình Trí Nhớ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=15212",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:13:32 Chương 11: Nghệ Thuật Ứng Dụng Lý Thuyết Vào Thực Hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=17521",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:52:01 Chương 12: Dám Mơ Ước: Sức Mạnh Của Mục Tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=18596",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:09:56 Chương 13: Động Lực Mạnh Mẽ - Vượt Qua Sự Lười Biếng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=19520",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:25:20 Chương 14: Công Thức Để Đạt Điểm Tuyệt Đối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=20730",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:45:30 Chương 15: Thời Gian Là Tiền Bạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=22573",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:16:13 Chương 16: Tạo Quyết Tâm Mạnh Mẽ Tức Thì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=24530",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:48:50 Chương 17: Tăng Tốc Về Đích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=25241",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:00:41 Chương 18: Chiến Thắng Và Vinh Quang.",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Mở Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=742",
+    "title" : "00:12:22 Chương 1: Từ Đần Độn Trở Thành Thiên Tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=1744",
+    "title" : "00:29:04 Chương 2: Quá Trình Học Tập Hiệu Quả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=2818",
+    "title" : "00:46:58 Chương 3: Bạn Đã Sẵn Sàng Để Thành Công Chưa?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=3453",
+    "title" : "00:57:33 Chương 4: Tôi Tin Tôi Có Thể Bay Cao… Và Tôi Làm Được",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=5544",
+    "title" : "01:32:24 Chương 5: Bạn Sở Hữu Bộ Não Của Một Thiên Tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=7131",
+    "title" : "01:58:51 Chương 6: Phương Pháp Đọc Để Nắm Bắt Thông Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=8524",
+    "title" : "02:22:04 Chương 7: Sơ Đồ Tư Duy: Công Cụ Ghi Chú Tối Ưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=10770",
+    "title" : "02:59:30 Chương 8: Trí Nhớ Siêu Đẳng Dành Cho Từ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=12971",
+    "title" : "03:36:11 Chương 9: Trí Nhớ Siêu Đẳng Dành Cho Số",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=14542",
+    "title" : "04:02:22 Chương 10: Mô Hình Trí Nhớ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=15212",
+    "title" : "04:13:32 Chương 11: Nghệ Thuật Ứng Dụng Lý Thuyết Vào Thực Hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=17521",
+    "title" : "04:52:01 Chương 12: Dám Mơ Ước: Sức Mạnh Của Mục Tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=18596",
+    "title" : "05:09:56 Chương 13: Động Lực Mạnh Mẽ - Vượt Qua Sự Lười Biếng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=19520",
+    "title" : "05:25:20 Chương 14: Công Thức Để Đạt Điểm Tuyệt Đối",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=20730",
+    "title" : "05:45:30 Chương 15: Thời Gian Là Tiền Bạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=22573",
+    "title" : "06:16:13 Chương 16: Tạo Quyết Tâm Mạnh Mẽ Tức Thì",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=24530",
+    "title" : "06:48:50 Chương 17: Tăng Tốc Về Đích",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/390-toi-tai-gioi-ban-cung-the-thuviensach.vn.mp3?t=25241",
+    "title" : "07:00:41 Chương 18: Chiến Thắng Và Vinh Quang.",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

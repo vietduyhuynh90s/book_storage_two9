@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lich-su-viet-nam-thoi-dau-hau-le-7891.html",
+    "title" : "LỊCH SỬ VIỆT NAM THỜI ĐẦU HẬU LÊ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Văn Phú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thời Lê sơ (1428-1527) Thời Lê sơ kéo dài đúng 100 năm, có 10 vua thuộc 6 thế hệ. Xây dựng đất nước Giai đoạn đầu là thời kỳ xây dựng lại đất nước sau thời bị nhà Minh đô hộ. Lịch Sử Việt Nam-nhà Hậu Lê (1418 - 1788) Thời Lê sơ (1428-1527) Thời Lê sơ kéo dài đúng 100 năm, có 10 vua thuộc 6 thế hệ. Xây dựng đất nước Giai đoạn đầu là thời kỳ xây dựng lại đất nước sau thời bị nhà Minh đô hộ. Sau khi lên ngôi, Lê Thái Tổ nhanh chóng bắt tay vào xây dựng đất nước bị tàn phá qua nhiều năm chiến tranh.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_253dd7a09de0c3d1f62adc6cc96acb4f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_253dd7a09de0c3d1f62adc6cc96acb4f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7891-lich-su-viet-nam-thoi-dau-hau-le-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7891-lich-su-viet-nam-thoi-dau-hau-le-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

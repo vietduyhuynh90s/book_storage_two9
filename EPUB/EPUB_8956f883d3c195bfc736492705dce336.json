@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dan-dat-su-thay-doi-13517.html",
+    "title" : "DẪN DẮT SỰ THAY ĐỔI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Kotter",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>John P. Kotter cho rằng sở dĩ các công ty thường xuyên gặp thất bại vì những thay đổi chiến lược của họ không dẫn đến thay đổi hành vi của nhân viên. Ông đã nhận ra những sai lầm phổ biến nhất trong sự thay đổi ảnh hưởng và đưa ra tám bước để khắc phục những trở ngại. Tác giả thừa nhận rằng sự thay đổi nội dung đòi hỏi phải có sự lãnh đạo, nhưng khái niệm lãnh đạo ở đây không được hiểu là món quà mà thượng để ban tặng cho một số người nào đó. Kotter đưa ra một trường hợp hấp dẫn mà trong đó, người thắng cuộc sẽ là những người phát triển nhanh hơn và thành công hơn đối thủ của họ. Cuốn sách này sẽ mang lại cho bạn rất nhiều giá trị. Nó cho thấy những gì John Kotter nghe, thấy, trải nghiệm và kết luận trong nhiều năm làm việc với các công ty để tạo ra biến đổi lâu dài. Cuốn sách vừa là nguồn cảm hứng với những ai đang cần tìm ý tưởng cải cách công ty, lại vừa rất thực tế với tất cả những người có cổ phần trong tổ chức muốn thay đổi tổ chức của mình. Liên tục nhấn mạnh nhu cầu cần thiết về khả năng lãnh đạo trong công cuộc tạo dựng sự thay đổi, \"dẫn dắt sự thay đổi\" cung cấp một số trải nghiệm và mô hình vai trò tích cực để các nhà lãnh đạo học tập. Cuốn sách xác định một quá trình 8 bước mà tất cả các công ty đều phải trải qua để có thể đạt được mục tiêu của mình, và chỉ ra các cá nhân xuất sắc thường mắc sai lầm ở đâu và như thế nào. Mời Bạn Đón Đọc!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8956f883d3c195bfc736492705dce336.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8956f883d3c195bfc736492705dce336.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13517-dan-dat-su-thay-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13517-dan-dat-su-thay-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-tap-ly-quang-dieu-ban-ve-cam-quyen-13473.html",
+    "title" : "TUYỂN TẬP LÝ QUANG DIỆU BÀN VỀ CẦM QUYỀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Janice Tay",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách Lý Quang Diệu Bàn Về Cầm Quyền tuyển chọn và giới thiệu những lời phát biểu của Lý Quang Diệu về những thử thách đối với sự sống sót và giữ vững vị trí đầu tàu của đất nước Singapore nhỏ bé. Đó là một cuộc đấu tranh sinh tồn của mỗi công dân Singapore và của đảng lãnh đạo. Các phát biểu thể hiện quan điểm của Lý Quang Diệu về dân chủ, chính quyền, đấu tranh chính trị, công đoàn, xã hội và kết nối với thế giới. Những phát biểu quyết liệt và đầy đam mê sẽ làm độc giả giật mình bởi tính hiện đại và sâu sắc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_906eb707165672d35e228f97cd3b679b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_906eb707165672d35e228f97cd3b679b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13473-tuyen-tap-ly-quang-dieu-ban-ve-cam-quyen-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13473-tuyen-tap-ly-quang-dieu-ban-ve-cam-quyen-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

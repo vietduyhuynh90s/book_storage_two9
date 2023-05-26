@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/duong-den-nuoc-do-13553.html",
+    "title" : "ĐƯỜNG ĐEN NƯỚC ĐỎ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đỗ Viết Nghiệm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Từng là lính chống Mỹ, nhà văn Đỗ Viết Nghiệm chọn chiến tranh làm đề tài quen thuộc cho quá trình sáng tác của mình. Trong tiểu thuyết Đường đen nước đỏ của anh, chiến tranh thêm lần nữa được tái hiện bằng vốn sống và sự tri ân của người lính - nhà văn đối với mảnh đất Khu Năm từng là chiến trường rất khốc liệt, nơi số phận của những người trong cuộc dù là lính ở bên này hoặc bên kia hay là dân thường đều phải gồng mình chịu đựng muôn vàn va đập, nhào trộn dữ dội, nghiệt ngã của thời thế và thường gánh chịu nhiều bi kịch đau thương ghê gớm. Đỗ Viết Nghiệm lấy mốc thời gian cho cuốn tiểu thuyết bắt đầu từ Tổng tiến công nổi dậy mùa xuân Mậu Thân năm 1968 đến sau chiến dịch xuân hè năm 1972. Theo anh, đó là giai đoạn bi hùng nhất của cuộc chiến tranh chống Mỹ. Tiểu thuyết Đường đen nước đỏ của Đỗ Viết Nghiệm bổ sung cho văn học viết về chiến tranh chống Mỹ một phần hiện thực mà theo tôi là còn khá mờ nhạt trước đó. Việc mở thêm những cửa khẩu xuống đồng bằng, tổ chức lực lượng vận tải len lỏi qua hệ thống đồn bốt canh phòng khám xét dày đặc của đối phương để mang gạo muối và nhiều hàng hóa khác lên núi hoặc tổ chức những đơn vị trồng trọt chăn nuôi chuyên nghiệp để giải quyết cái đói trước mắt và chủ động bảo đảm lương thực lâu dài là một kỳ công của quân dân Khu Năm.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_984f84a1c7cafc937db142bfced0a8f7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_984f84a1c7cafc937db142bfced0a8f7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=1384",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:04 Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=3019",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:19 Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=4655",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:35 Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=6281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:44:41 Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=7983",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:13:03 Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=9678",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:41:18 Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=11351",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:09:11 Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=12998",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:36:38 Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=14661",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:04:21 Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=16311",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:31:51 Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=17969",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:59:29 Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=19632",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:27:12 Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=21301",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:55:01 Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=22979",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:22:59 Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=24630",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:50:30 Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=26311",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:18:31 Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=27995",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:46:35 Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=29687",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:14:47 Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=31383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:43:03 Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=33065",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:11:05 Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=34738",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:38:58 Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=36438",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:07:18 Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=38160",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:36:00 Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=39862",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:04:22 Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=41589",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:33:09 Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=43257",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:00:57 Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=44947",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:29:07 Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=46659",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:57:39 Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=48335",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:25:35 Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=50046",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:54:06 Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=51745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:22:25 Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=53436",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:50:36 Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=55115",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:18:35 Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=56795",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:46:35 Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=58452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:14:12 Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=60122",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:42:02 Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=61828",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:10:28 Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=63534",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:38:54 Phần 39",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=1384",
+    "title" : "00:23:04 Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=3019",
+    "title" : "00:50:19 Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=4655",
+    "title" : "01:17:35 Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=6281",
+    "title" : "01:44:41 Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=7983",
+    "title" : "02:13:03 Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=9678",
+    "title" : "02:41:18 Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=11351",
+    "title" : "03:09:11 Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=12998",
+    "title" : "03:36:38 Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=14661",
+    "title" : "04:04:21 Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=16311",
+    "title" : "04:31:51 Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=17969",
+    "title" : "04:59:29 Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=19632",
+    "title" : "05:27:12 Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=21301",
+    "title" : "05:55:01 Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=22979",
+    "title" : "06:22:59 Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=24630",
+    "title" : "06:50:30 Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=26311",
+    "title" : "07:18:31 Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=27995",
+    "title" : "07:46:35 Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=29687",
+    "title" : "08:14:47 Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=31383",
+    "title" : "08:43:03 Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=33065",
+    "title" : "09:11:05 Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=34738",
+    "title" : "09:38:58 Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=36438",
+    "title" : "10:07:18 Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=38160",
+    "title" : "10:36:00 Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=39862",
+    "title" : "11:04:22 Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=41589",
+    "title" : "11:33:09 Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=43257",
+    "title" : "12:00:57 Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=44947",
+    "title" : "12:29:07 Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=46659",
+    "title" : "12:57:39 Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=48335",
+    "title" : "13:25:35 Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=50046",
+    "title" : "13:54:06 Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=51745",
+    "title" : "14:22:25 Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=53436",
+    "title" : "14:50:36 Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=55115",
+    "title" : "15:18:35 Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=56795",
+    "title" : "15:46:35 Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=58452",
+    "title" : "16:14:12 Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=60122",
+    "title" : "16:42:02 Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=61828",
+    "title" : "17:10:28 Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13553-duong-den-nuoc-do-thuviensach.vn.mp3?t=63534",
+    "title" : "17:38:54 Phần 39",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

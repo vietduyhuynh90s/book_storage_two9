@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/truyen-ngan-thach-lam-7881.html",
+    "title" : "TRUYỆN NGẮN THẠCH LAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thạch Lam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thạch Lam, tên thật là Nguyễn Tường Vinh, bắt đầu hoạt động vǎn học từ 1936, là thành viên của Tự lực vǎn đoàn. Trong quãng đời vǎn chưa đầy mười nǎm, Thạch Lam đã cho xuất bản ba tập truyện ngắn: Gió lạnh đầu mùa (1937), Nắng trong vườn (1938), Sợi tóc (1942); một tiểu thuyết: Ngày mới (1939); một tập ký: Hà Nội 36 phố phường (1943); và một tập tuyển luận: Theo giòng (1941). Nhân vật trong các tác phẩm của Thạch Lam đều có cảnh ngộ, có tâm trạng và tính cách điển hình. Ngòi bút Thạch Lam tinh tế và trân trọng biết bao trước số phận người phụ nữ và trẻ em, nếu không thuộc lớp dưới đáy thì cũng là người ở cảnh bần hàn, hoặc đang rơi vào cảnh bần hàn, như trong Cô hàng xén, Hai đứa trẻ, Tối ba mươi. Bên cạnh thế giới phụ nữ và trẻ em, còn phải kể đến những ông chủ gia đình - những ông bố là đồ nho thất thế, lạc lõng, không vui với thời cuộc, sống vào sự tần tảo của vợ con, không dám quyết bất cứ điều gì, suốt ngày ngồi bên cái ống điếu, ra dáng nghĩ ngợi, nhưng thật ra là không nghĩ gì (Cô hàng xén, Hai lần chết, Ngày mới). Thạch Lam có lối văn nhuần nhị, tinh tế, gọn và gợi được thật là rành rõ những trạng trái của sinh hoạt, xúc cảm và tâm hồn; chữ dùng không to tát, cấu trúc không gấp gáp, vội vàng, chỉ cần đủ cho phô diễm và ôm sát những cảnh ngộ hoặc tâm trạng cần phô diễn. Cuốn sách tuyển chọn và giới thiệu những tác phẩm tiêu biểu của Thạch Lam ở cả hai thể loại: truyện ngắn và tiểu luận.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_dc5eb7429e8db78c2f2c801865590c6d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_dc5eb7429e8db78c2f2c801865590c6d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7881-truyen-ngan-thach-lam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7881-truyen-ngan-thach-lam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

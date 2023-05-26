@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nghi-lon-de-thanh-cong-380.html",
+    "title" : "NGHĨ LỚN ĐỂ THÀNH CÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Donald Trump",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI TỰA Trong suốt những năm tháng gắn bó với lĩnh vực kinh doanh, có một số người đã để lại cho tôi những ấn tượng không thể nào phai nhạt. Bill Zanker là một trong số đó. Lần đầu tiên gặp Bill, tôi đã nhận thấy anh ấy không chỉ là một người thông minh, có năng lực mà còn là một con người tràn đầy nhiệt huyết. Sự sáng tạo là một trong những yếu tố rất quan trọng để thành công, bất kể công việc của bạn là gì đi chăng nữa. Bill là một người có óc sáng tạo và anh ấy biết cách tận dụng nó để đạt được hiệu quả cao nhất trong công việc. Đó là một nhà tổ chức tài ba. Quan điểm tích cực của anh đã ảnh hưởng cũng như giúp ích cho rất nhiều người. Ngoài ra, anh ấy còn là một người thầy có sự hiểu biết sâu sắc và toàn diện về chuyên môn của mình. Bill cũng là người có niềm đam mê mãnh liệt đối với công việc của mình, và với tôi, đó là một trong những điều kiện tiên quyết để đạt được thành công. Niềm đam mê với công việc của Bill luôn bừng lên trong anh và nhờ đó mà The Learning Annex đã phát triển và lớn mạnh ngoạn mục đến như vậy. Suy nghĩ lớn là một phương châm mà tôi đã theo đuổi từ những ngày còn rất trẻ, và nó đã được chứng minh là con đường ngắn nhất dẫn tới thành công. Bill cũng cùng chung quan điểm đó với tôi và những thành tựu anh ấy đạt được chính là minh chứng. Việc cùng nhau viết cuốn sách này cũng là một trải nghiệm “cùng nhau thành công” đối với cả hai chúng tôi. Hy vọng rằng bạn sẽ không chỉ thích thú với những thành quả chúng tôi đã đạt được mà còn đúc kết kinh nghiệm cho chính mình từ những điều đó. Donald J. Trump</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6013911f94e555e1634b7536a7502593.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6013911f94e555e1634b7536a7502593.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/380-nghi-lon-de-thanh-cong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/380-nghi-lon-de-thanh-cong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

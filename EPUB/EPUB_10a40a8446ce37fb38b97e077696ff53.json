@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ban-dat-gia-bao-nhieu-342.html",
+    "title" : "BẠN ĐẮT GIÁ BAO NHIÊU?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Nguyễn Ngọc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Chap 1: Sự thỏa hiệp có làm bạn hạnh phúc không? Chap 2: Không cần trở thành một cô gái được tất cả mọi người yêu quý Chap 3: Người có nội tâm mạnh mẽ mới là người chiến thắng cuối cùng Chap 4: Bạn đã lấy lòng họ quá sớm? Chap 5: Quan điểm khác biệt đừng cố tranh cãi Chap 6: Cô gái à, đừng có tư tưởng \"chịu lấy\" Chap 7: Năm đầu tiên sau khi kết hôn bạn nên làm gì? Chap 8: Cuộc sống của tôi và bạn không giống nhau nên đừng ai làm phiền ai Chap 9: Tôi tôn trọng sự bình đẳng ở mọi hình thức trên thế gian này Chap 10: Cô gái à, đừng hiểu lầm nghĩa của từ \" độc lập\" Chap 11: Nghèo quá lâu là lỗi của bạn Chap 12: Năng lực của bạn liệu đã tương xứng với các mối quan hệ hay chưa? Chap 13: Đừng tự đi vào ngõ cụt Chap 14: Nữ hoàng và nữ nô Chap 15: Rồi chúng ta sẽ sống với cuộc đời tương xứng với năng lực của mình Chap 16: Bạn thân yêu ơi, bạn không thể chiếm mọi chuyện tốt nhất trên đời Chap 17: Thứ mà bạn cho là \"lương thiện\" thực ra là sự \" độc ác\" kinh khủng nhất Chap 18: Không có cuộc sống của ai không khổ sở Chap 19: Chỉ cần bạn có dũng khí gánh chịu mọi kết quả Chap 20: Chỉ có một kiểu đàn ông tồi đáng để ta cảm kích Chap 21: Mọi thứ thay đổi đều chỉ tốt cho bạn mà thôi Chap 22: Đừng biến bi kịch thành phim dài tập Chap 23: Cúi đầu hi sinh, ngẩng đầu trông người Chap 24: Đừng làm thủ môn của hôn nhân Chap 25: Bi Kịch \" Luân Hồi\" Chap 26: Không ai có thể tiên đoán trước tương lai Chap 27: Trí tuệ của người khác không thể tự động cứu giúp bạn. Chap 28: Giá trị của bản thân bạn? Chap 29: Trả thù nhẹ nhàng là được rồi Chap 30: Bạn tiết kiệm vì ai? Chap 31: Bao nhiêu người còn đang làm những việc gì? Chap 32: Rốt cuộc việc khéo ăn nói quan trọng tới mức nào? Chap 33: Chẳng ai ngốc hơn ai Chap 34: Bạn không cần quá biết điều</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_10a40a8446ce37fb38b97e077696ff53.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_10a40a8446ce37fb38b97e077696ff53.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/342-ban-dat-gia-bao-nhieu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/342-ban-dat-gia-bao-nhieu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

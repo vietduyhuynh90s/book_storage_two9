@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/huong-den-cuoc-doi-tuoi-dep-740.html",
+    "title" : "HƯỚNG ĐẾN CUỘC ĐỜI TƯƠI ĐẸP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Og Mandino",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn làm gì để có thể thu được lợi ích lớn nhất từ tất cả mười bảy Quy tắc sống này? Rất dễ dàng. Bạn chỉ cần nhớ rằng tất cả mọi người chúng ta đều mang bên mình rất nhiều những thói quen xấu khác nhau, chính những thói quen xấu này đã và đang hạn chế cơ hội thành công trong đời sống mỗi người chúng ta. Mỗi quy tắc mà bạn sẽ được học ở đây sẽ giúp bạn tống khứ được từng thói quen xấu và thay vào đó bằng một thói quen tốt. Đó chính là bí quyết đề có được một cuộc đời tươi đẹp hơn. Mỗi ngày bạn chỉ nên tập trung vào một quy tắc được trình bày ở đây mà thôi. Tất cả mọi quy tắc được trình bày ở đây đều rất ngắn gọn. Sự trường thọ không phải là điều kiện thiết yếu để có được giá trị hoặc chân lý. Bạn hãy đọc từng quy tắc này vào buổi sáng, bạn hãy theo những chỉ dẫn của nó trong suốt ngày hôm đó, bạn đánh dấu vào nó và sau đó bạn tiếp tục với quy tắc tiếp theo vào buổi sáng hôm sau. Trước khi bạn hoàn tất mười bảy quy tắc được trình bày ở đây, có thể bạn sẽ muốn quay trở lại để khảo sát từng quy tắc. Rất tuyệt vời. Kế hoạch ở đây rất đơn giản, nhưng tất cả mọi việc đều tùy thuộc vào chính bạn. Bạn hãy kiên tâm và bạn sẽ nhanh chóng nhận thấy rằng đại đa số những thói quen xấu của bạn - những thói quen đã và đang níu kéo chân bạn - đang dần dần được thay thế bằng những thói quen tốt, những thói quen có thể thay đổi được đời bạn. Sau đó bạn sẽ phải làm gì? Bạn hãy chia sẻ những gì bạn đã học được với mọi người, cũng giống như bản thân tôi đã chia sẻ cùng bạn. Chỉ khi đó bạn mới có thể hiểu được hết ý nghĩa thực sự của sự thành công và của một đời sống tốt đẹp. —Og Mandino</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7708881a8c4decedf9f8033129386d66.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7708881a8c4decedf9f8033129386d66.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/740-huong-den-cuoc-doi-tuoi-dep-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/740-huong-den-cuoc-doi-tuoi-dep-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

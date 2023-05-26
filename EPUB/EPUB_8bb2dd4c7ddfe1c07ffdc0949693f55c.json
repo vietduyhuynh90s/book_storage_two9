@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thien-than-noi-loan-7860.html",
+    "title" : "THIÊN THẦN NỔI LOẠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anatole France",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Anatole France là một trong những nhà văn lớn nhất của nước Pháp thời cận đại, ông sinh ở Paris ngày 16 tháng 4 năm 1844, ngày 13 tháng 10 năm 1924 ở Tours, Indre-et-Loire, Pháp. Năm 1921 ông được trao giải Nobel Văn học vì \"những tác phẩm xuất sắc mang phong cách tinh tế, chủ nghĩa nhân văn sâu sắc và khí chất Gô-loa đích thực\"… Đến năm 1922, sách của ông đã nằm trong danh sách cấm của Giáo Hội Công Giáo La Mã, bởi trước tác của ông chống lại sự mê hoặc tôn giáo, giáo điều chủ nghĩa; dưới ngòi bút châm biếm đả kích, trào lộng, A. France mỉa mai những luận điệu thần thánh, những thiết chế Nhà nước, những thối nát của nhà thờ cùng với sự đớn hèn của loài người. Thiên thần nổi loạn là một trong những tác phẩm xuất sắc nhất của A. France, thời kỳ sau này. Arcade một thiên thần hộ mệnh giáng phàm, trên con đường tìm kiếm tri thức khoa học và chân lý đã đảo tung một trong những thư viện tư lớn nhất Châu Âu. Anh cùng các đồng bạn thiên thần xây dựng một đạo quân “ô hợp bát nháo” cùng hướng đến một mục tiêu chống lại thiên giới và hệ thống tín điều Ki tô thủ cựu; chống lại sự giam hãm, áp đặt tư tưởng của Thiên Chúa; phá vỡ xiềng xích niềm tin để nhận thức được thăng hoa. Thiên thần nổi loạn như muốn đưa một thông điệp với loài người bé nhỏ: đức tin là cần thiết, nhưng đấy phải là một đức tin được thanh lọc bằng những hoài nghi khoa học, bằng tinh thần thánh thiện, bằng chủ nghĩa nhân văn, bằng một thời đại với sự cải cách phục hưng mới. Với kiến thức uyên bác về lịch sử Pháp, lịch sử tôn giáo, đặc biệt am hiểu về văn chương, hội họa xuyên suốt từ cổ đại, trung cổ, phục hưng tới cận đại, với văn phong trác tuyệt, A.France đã khéo léo lồng ghép cái triết lý hoài nghi của mình vào tiểu thuyết, đưa học thức uyên bác kết hợp với nghệ thuật đả kích châm biếm; đưa trí tưởng tượng kết hợp với hiện thực xã hội; đưa biên niên sử tôn giáo kết hợp với phóng tác văn chương; đưa Dionysus gặp gỡ các thánh Tông Đồ; đưa những linh vật giao du cùng ngoại đạo. Tất cả những điều ấy đã đưa ông thành một nghệ sĩ bậc thầy về kể chuyện, đem đến cho người đọc những áng văn tuyệt vời, bất hủ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8bb2dd4c7ddfe1c07ffdc0949693f55c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8bb2dd4c7ddfe1c07ffdc0949693f55c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7860-thien-than-noi-loan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7860-thien-than-noi-loan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

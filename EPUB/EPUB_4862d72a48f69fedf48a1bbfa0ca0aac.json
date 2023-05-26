@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/suc-manh-cua-thuyet-phuc-1114.html",
+    "title" : "SỨC MẠNH CỦA THUYẾT PHỤC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kurt W. Mortensen",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn có nhận thấy thành công nghề nghiệp, những mối quan hệ cá nhân, thăng tiến trong sự nghiệp và thu nhập phụ thuộc nhiều đến thế nào vào khả năng thuyết phục, gây ảnh hưởng và khuyến khích người khác của mình không? Thực tế là bất kỳ điều gì bạn cần đều có thể tìm thấy hướng dẫn trong cuốn sách Sức mạnh thuyết phục này. Chuyên gia về thuyết phục Kurt W. Mortensen đã kết hợp nhiều năm nghiên cứu lý thuyết với những khảo sát thực tế của mình về các kỹ năng gây ảnh hưởng mạnh mẽ, để nêu ra được những ứng dụng hữu ích cho hành động. Những chiến thuật đã chứng tỏ hiệu quả thực sự này sẽ giúp bạn: • Nhanh chóng hiểu người khác • Khiến người khác tin cậy và nhanh chóng quý mến bạn • Làm chủ những kỹ năng thuyết phục mà 99% mọi người không hề biết là chúng tồn tại Nhận định “Một cuốn sách tuyệt vời! Nó chỉ cho bạn thấy cách bạn có thể nhanh chóng gây ảnh hưởng và thuyết phục người khác trong hầu hết mọi lĩnh vực của cuộc sống” - Brian Tracy, tác giả cuốn Nhà triệu phú một phút và cuốn Tiêu điểm “Đây là cuốn sách đáng chú ý! Nó hoàn thiện tới mức không thể tin nổi với những phân tích từ các góc độ mới và đầy những ví dụ thực tế. Nếu bạn muốn tăng ảnh hưởng của mình trong công việc và trong gia đình, hay ở bất kỳ đâu, hãy đọc và áp dụng các nguyên tắc trong cuốn sách này” - TS. Stephen R.Covey, tác giả cuốn 7 thói quen của người thành đạt.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_4862d72a48f69fedf48a1bbfa0ca0aac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_4862d72a48f69fedf48a1bbfa0ca0aac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1114-suc-manh-cua-thuyet-phuc-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1114-suc-manh-cua-thuyet-phuc-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

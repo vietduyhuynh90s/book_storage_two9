@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/goc-nhin-cua-nguoi-thong-thai-725.html",
+    "title" : "GÓC NHÌN CỦA NGƯỜI THÔNG THÁI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert Fulghum",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục 1. Thế à 2. Bộ sưu tập trên cánh cửa tủ lạnh 3. Món bánh thịt và bữa ăn vào lúc hai giờ sáng 4. Bài kiểm tra hudson’s bay Start 5. \"Cô bé lọ lem\", nhân vật chú heo con và một nửa câu chuyện cười với giá 5 xu 6. Điếu xì gà ngon nhất của tôi 7. Ý nghĩa xã hội của chứng nấc cụt 8. Hãy kể về những câu chuyện tình 9. Ngày của lửa 10. Triết lý đom đóm 11. Vụ ném trứng lịch sử 12. Bán chim ở đền - cho đi và nhận lại 13. Lợi nhuận và thua lỗ - nguyên tắc cơ bản nhất trong kinh doanh 14. Cách duy nhất để ra ngoài là bước vào trong 15. Lão già quái chiêu 16. Howard và Chúa trời 17. Bạn có biết hát không? 18. Câu chuyện về bài hát \"Home on the Range\" 19. Những nghi thức đón chào năm mới 20. Grady và hai thùng sơn màu vàng chanh 21. Học cách phân biệt phiền phức và khó khăn thực sự 22. Gyda - con chó trinh nữ 23. Khu nhà kho ẩn dật Fulghum và Quán trọ Một người 24. Đội Quân Cứu Tế và cậu bé rung chuông 25. Những tang lễ ấn tượng 26. Ba bức ảnh đặc biệt 27. Anh chàng Cỗ máy Thời Gian 28. Nếu bạn trở về với một thời kỳ lịch sử nào đó… 29. Anh hề xiếc 30. Trường học, trẻ con, người lớn, và những điều phải học 31. Emily phipps - sự tồn tại của một nhân vật hư cấu 32. Chiếc bát chứa đựng tư duy</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_9b7378f7332183d5389c7ee8eb8c6e0c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_9b7378f7332183d5389c7ee8eb8c6e0c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/725-goc-nhin-cua-nguoi-thong-thai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/725-goc-nhin-cua-nguoi-thong-thai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

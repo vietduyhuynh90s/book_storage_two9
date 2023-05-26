@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khi-nguoi-ta-tu-duy-743.html",
+    "title" : "KHI NGƯỜI TA TƯ DUY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Allen",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC GIỚI THIỆU CHƯƠNG 1: TƯ DUY VÀ TÍNH CÁCH CHƯƠNG 2: ẢNH HƯỞNG CỦA TƯ DUY TỚI HOÀN CẢNH CHƯƠNG 3: TÁC ĐỘNG CỦA TƯ DUY TỚI SỨC KHỎE VÀ CƠ THỂ CON NGƯỜI CHƯƠNG 4: TƯ DUY VÀ MỤC ĐÍCH CHƯƠNG 5: NHÂN TỐ TƯ DUY TRONG THÀNH CÔNG CHƯƠNG 6: VIỄN CẢNH VÀ LÝ TƯỞNG CHƯƠNG 7: SỰ THANH THẢN GIỚI THIỆU</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_167bfd555253f957feeab910ecf2b5c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_167bfd555253f957feeab910ecf2b5c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/743-khi-nguoi-ta-tu-duy-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/743-khi-nguoi-ta-tu-duy-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

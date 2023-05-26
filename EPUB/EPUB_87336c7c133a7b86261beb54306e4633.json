@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/7-thoi-quen-de-thanh-dat-572.html",
+    "title" : "7 THÓI QUEN ĐỂ THÀNH ĐẠT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephen R. Covey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nói chung, có hai con đường để trau dồi bản thân và thay đổi cuộc đời của mình. Có một cách là nhắm tới các kỹ năng cần thiết cho một hành vi mong kỳ vọng nào đó; ví như học các kỹ năng giao tiếp hay các phương pháp quản lý thời gian. Một cách khác, bạn có thể chọn một con đường vòng, xa xôi hơn, bằng việc đào sâu thêm một chút và nỗ lực trau dồi chính tính cách của mình: đó là những thói quen nền tảng và các hệ niềm tin giúp xây dựng nên thế giới quan của bạn. Cách tiếp cận đầu tiên là một nỗ lực hiệu quả nhằm đi tắt đến thành công: trở nên giàu có mà không lao động, hay đạt được những thăng tiến cá nhân mà không cần trải qua những bước phát triển thực sự. Thực ra thì sự phát triển cá nhân không thể đạt được bằng đường tắt. Trên con đường dẫn tới nấc thang thành đạt thực sự, bạn sẽ chẳng thể nhảy cóc chút nào, dù là một bước nhỏ. Điều này quả thật đúng đắn với những môn thể hiện tài năng như tennis hay chơi đàn piano, và cũng hết sức đúng đắn với tiến trình phát triển xúc cảm của con người, cũng như phát triển tính cách của họ. Nếu bạn thực sự muốn thay đổi, bạn cần phải thực hiện “thay đổi từ bên trong”. Chỉ khi bạn đã thay đổi chính mình một cách mạnh mẽ, bạn mới có thể bắt đầu thay đổi thế giới quanh mình. Giả như bạn muốn có một cuộc hôn nhân hạnh phúc, trước hết chính bạn phải trở thành một người tích cực hơn đã. Nếu bạn muốn được nhìn nhận là một người đáng tin cậy, sẽ chẳng tốt đẹp gì khi bạn chỉ cố gắng nâng cao kỹ năng giao tiếp - thay vào đó, điều bạn cần phải làm là nỗ lực để bản thân mình thực sự trở thành một người đáng tin cậy. Để thay đổi, điều bạn phải nhắm tới là tính cách, chứ không phải hành vi của mình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_87336c7c133a7b86261beb54306e4633.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_87336c7c133a7b86261beb54306e4633.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/572-7-thoi-quen-de-thanh-dat-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/572-7-thoi-quen-de-thanh-dat-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

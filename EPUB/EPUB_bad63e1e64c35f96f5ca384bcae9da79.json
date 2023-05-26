@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-thu-lang-nghiem-giang-giai-920.html",
+    "title" : "KINH THỦ LĂNG NGHIÊM GIẢNG GIẢI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>KINH THỦ LĂNG NGHIÊM GIẢNG GIẢI (SURAMGAMA SUTRA) Lê Sỹ Minh Tùng - Cuốn Một - Phần Giới Thiệu - Chương Thứ Nhất - Đề Mục Kinh - Chương Thứ Hai - BẢY ĐOẠN PHẬT HỎI VỀ TÂM - Chương Thứ Ba - Chỉ Rõ Tánh Thấy - Chương Thú Tư - A Nan Nghi “Chơn Tâm” Đồng Với Thuyết “Tự Nhiên” Của Ngoại Đạo - Chương Thứ Năm - Do Nhận Thức Sai Lầm Khiến Cho Con Người Bỏ Mất Bản Tâm Thanh Tịnh Bản Giác Thường Trú Của Mình - Chương Thứ Sáu - Bốn Khoa Bảy Đại Vốn Là Hiện Tượng Biểu Hiện Từ Như Lai Tạng - Chương Thứ Bảy PHẬT THUYẾT MINH TÁNH CỦA CÁC ĐẠI VỐN KHÔNG NGĂN NGẠI GÌ NHAU, NHẰM KHI THỊ CHƠN LÝ: SẮC KHÔNG, KHÔNG SẮC</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_bad63e1e64c35f96f5ca384bcae9da79.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_bad63e1e64c35f96f5ca384bcae9da79.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/920-kinh-thu-lang-nghiem-giang-giai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/920-kinh-thu-lang-nghiem-giang-giai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoang-de-noi-kinh-to-van-13613.html",
+    "title" : "HOÀNG ĐẾ NỘI KINH TỐ VẤN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Tử Siêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hoàng Đế nội kinh là một tài liệu y học cổ của Trung Quốc, được coi là nguồn gốc giáo lý cơ bản của nền y học cổ truyền Trung Quốc trong hơn hai thiên niên kỷ. Tác phẩm bao gồm hai phần, mỗi phần bao gồm 81 chương hoặc chuyên luận theo dạng hỏi và đáp giữa Hoàng Đế và các vị đại thần của ông như Kỳ Bá, Lôi Công, Bá Cao, Du Phụ, Thiếu Sư, Quỷ Du Khu, Thiếu Du. Phần đầu tiên, Tố vấn nghĩa là những câu hỏi cơ bản, bao gồm nền tảng lý thuyết của y học Trung Quốc và các phương pháp chẩn đoán. Phần thứ hai ít được nhắc đến hơn, Linh khu thảo luận chi tiết về liệu pháp châm cứu. Hai tài liệu này được gọi chung là Nội kinh hoặc Hoàng Đế nội kinh, nhưng trong thực tế, tên gọi này thường chỉ được dùng để đề cập tới Tố vấn. Hoàng Đế nội kinh là tài liệu cổ quan trọng nhất của nền y học cổ truyền Trung Quốc, cũng là một cuốn sách chính về triết lý và lối sống của đạo sĩ. Nội kinh rời khỏi niềm tin cũ của các pháp sư rằng bệnh tật là do ảnh hưởng của ma quỷ. Thay vào đó, những tác động tự nhiên của chế độ ăn uống, lối sống, cảm xúc, môi trường và tuổi tác là các nguyên nhân khiến bệnh tật phát triển. Theo Nội kinh, vũ trụ bao gồm nhiều lực lượng và nguyên tắc khác nhau, chẳng hạn như âm dương, khí và ngũ hành. Những lực lượng này có thể được lý giải thông qua các phương tiện hợp lý và con người có thể giữ cân bằng hoặc trở lại cân bằng bằng cách hiểu biết quy luật của các lực lượng tự nhiên này. Con người là một vũ trụ thu nhỏ phản chiếu vũ trụ lớn hơn. Các nguyên tắc âm dương, ngũ hành, các yếu tố môi trường như gió, ẩm ướt, nóng, lạnh là một phần của vũ trụ lớn cũng có thể được áp dụng cho vũ trụ nhỏ của con người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f22ea27e94c00572dc14cedad630d927.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f22ea27e94c00572dc14cedad630d927.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Nói Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=178",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:02:58 Thiên 1: Thượng Cổ Thiên Chân Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=1178",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:19:38 Thiên 2: Tứ Khí Điều Thần Đại Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=1882",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:31:22 Thiên 3: Sinh Khí Thông Thiên Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=2736",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:45:36 Thiên 4: Kim Quỹ Chân Ngôn Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=3324",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:24 Thiên 5: Âm Dương Ứng Tượng Đại Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=4704",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:18:24 Thiên 6: Âm Dương Ly Hợp Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=5114",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:25:14 Thiên 7: Âm Dương Biệt Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=5721",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:35:21 Thiên 8: Linh Lan Bí Điển Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=6053",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:40:53 Thiên 9: Lục Tiết Tạng Tượng Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=6917",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:55:17 Thiên 10: Ngũ Tạng Sinh Thành Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=7615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:55 Thiên 11: Ngũ Tạng Biệt Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=7922",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:02 Thiên 12: Dị Pháp Phương Nghi Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=8255",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:35 Thiên 13: Di Tinh Biến Khí Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=8842",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:27:22 Thiên 14: Thang Dịch Giao Lễ Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=9189",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:33:09 Thiên 15: Ngọc Bản Luận Yếu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Nói Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=178",
+    "title" : "00:02:58 Thiên 1: Thượng Cổ Thiên Chân Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=1178",
+    "title" : "00:19:38 Thiên 2: Tứ Khí Điều Thần Đại Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=1882",
+    "title" : "00:31:22 Thiên 3: Sinh Khí Thông Thiên Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=2736",
+    "title" : "00:45:36 Thiên 4: Kim Quỹ Chân Ngôn Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=3324",
+    "title" : "00:55:24 Thiên 5: Âm Dương Ứng Tượng Đại Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=4704",
+    "title" : "01:18:24 Thiên 6: Âm Dương Ly Hợp Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=5114",
+    "title" : "01:25:14 Thiên 7: Âm Dương Biệt Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=5721",
+    "title" : "01:35:21 Thiên 8: Linh Lan Bí Điển Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=6053",
+    "title" : "01:40:53 Thiên 9: Lục Tiết Tạng Tượng Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=6917",
+    "title" : "01:55:17 Thiên 10: Ngũ Tạng Sinh Thành Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=7615",
+    "title" : "02:06:55 Thiên 11: Ngũ Tạng Biệt Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=7922",
+    "title" : "02:12:02 Thiên 12: Dị Pháp Phương Nghi Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=8255",
+    "title" : "02:17:35 Thiên 13: Di Tinh Biến Khí Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=8842",
+    "title" : "02:27:22 Thiên 14: Thang Dịch Giao Lễ Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13613-hoang-de-noi-kinh-to-van-thuviensach.vn.mp3?t=9189",
+    "title" : "02:33:09 Thiên 15: Ngọc Bản Luận Yếu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

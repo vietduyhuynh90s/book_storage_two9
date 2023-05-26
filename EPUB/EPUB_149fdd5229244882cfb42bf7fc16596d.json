@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuong-gia-do-thai-bac-thay-kinh-doanh-7898.html",
+    "title" : "THƯƠNG GIA DO THÁI BẬC THẦY KINH DOANH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Đông Triết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Dân tộc Do Thái là một dân tộc rất giàu có về tài năng và trí tuệ. Họ gặt hái rất nhiều thành công trong nhiều lĩnh vực trí tuệ. Ví dụ, trong lĩnh vực tư tưởng có Marx, Einstein…; trong lĩnh vực chính trị, có cựu ngoại trưởng Mỹ Kissinger, thủ tướng Áo Bruno Kreisky, thủ tướng Na Uy Grew Brondenvald…; trong lĩnh vực giải trí có Barbara Streisand, Mandy Patinkin, Larry King…; trong lĩnh vực điện ảnh có Woody Allen, anh em nhà Marx, Billy Crytal… Nhưng ít ai biết rằng, người Do Thái còn cực kỳ xuất sắc trong lĩnh vực kinh tế, tài chính, thương mại. Trong hơn 2000 năm qua, dân tộc Do Thái phải sống lưu vong khắp nơi trên thế giới, phải đối mặt với họa diệt chủng, bị các dân tộc khác kì thị xua đuổi, thậm chí là sát hại. Vậy bằng cách nào mà người Do Thái lại có được những thành tựu nổi bật? Để tìm câu trả lời này chúng ta phải tìm hiểu về truyền thống văn hóa dân tộc Do Thái, Truyền thống tốt đẹp mà người Do Thái luôn gìn giữ đó là tôn trọng lời hứa, coi trọng tri thức, không ngừng học tập, không ngừng sáng tạo, biết coi trọng thời gian, quan niệm về tiền bạc rất thoáng, biết biến trí tuệ thành của cải.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_149fdd5229244882cfb42bf7fc16596d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_149fdd5229244882cfb42bf7fc16596d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7898-thuong-gia-do-thai-bac-thay-kinh-doanh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7898-thuong-gia-do-thai-bac-thay-kinh-doanh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

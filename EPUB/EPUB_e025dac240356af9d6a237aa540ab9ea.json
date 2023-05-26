@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/aq-chi-so-vuot-kho-2082.html",
+    "title" : "AQ - CHỈ SỐ VƯỢT KHÓ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Paul G. Stoltz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Điều gì tạo nên những con người thành công và điều gì quyết định sự thất bại? Và liệu những người cảm thấy mình đã phải bó tay trước số phận có thể thay đổi được bản thân và tìm lại được thành công cho mình? Với AQ - Chỉ số vượt khó, tiến sĩ Paul G.Stoltz sẽ giúp bạn trả lời những câu hỏi này một cách hết sức khoa học, thuyết phục. Trong chúng ta hẳn ai cũng đã từng có lúc cảm thấy bất lực, tuyệt vọng trước những khó khăn, trở ngại trên đường đời. Có những người vượt được qua thử thách, học được những bài học quý báu để trưởng thành hơn, cứng cáp hơn, mạnh mẽ hơn. Nhưng cũng có những người gục ngã, đánh mất bản thân, thậm chí đánh mất luôn cả cuộc đời mình. Yếu tố nào tạo nên sự khác biệt ấy? Điều gì tạo nên những con người thành công và điều gì quyết định sự thất bại? Và liệu những người cảm thấy mình đã phải bó tay trước số phận có thể thay đổi được bản thân và tìm lại được thành công cho mình? Với AQ - Chỉ số vượt khó, tiến sĩ Paul G.Stoltz sẽ giúp bạn trả lời những câu hỏi này một cách hết sức khoa học, thuyết phục. Quan trọng hơn cả, cuốn sách sẽ giúp người đọc tìm lại được nguồn nghị lực bên trong để kiên cường chiến đấu và chiến thắng. Bằng những kiến thức, kỹ năng lĩnh hội được từ AQ - Chỉ số vượt khó, bạn không những sẽ cải thiện được bản thân mà còn có thể giúp những người khác, cũng như chính tổ chức của mình tiến lên phía trước.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e025dac240356af9d6a237aa540ab9ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e025dac240356af9d6a237aa540ab9ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2082-aq-chi-so-vuot-kho-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2082-aq-chi-so-vuot-kho-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

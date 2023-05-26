@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/biet-hai-long-671.html",
+    "title" : "BIẾT HÀI LÒNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Leo Babauta",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Cẩn thận với dịch giả Thỏa thuận Nguồn gốc của vấn đề Sự hài lòng: Là gì và tại sao Con đường dẫn đến sự hài lòng Những giấc mơ tan vỡ Quảng cáo và những giấc mơ tan vỡ Hãy yêu chính mình Nơi bắt nguồn hành phúc Hạnh phúc từ bên trong Phản ứng tiêu cực với những hành động của người xung quanh Đừng ràng buộc giá trị của bản thân với hành động của người khác Biết hài lòng trong quan hệ Tự tạo niềm vui và gặp gỡ mọi người Đố kị Các kỹ thuật chấp nhận bản thân Những câu hỏi thường gặp Kết Tóm tắt các bước hành động Thỏa thuận Đây không phải là quyển sách mà bạn xem qua rồi để sang một bên. Sách cũng không phải nói về các triết lí chung chung, hay khuyên răn gì về cuộc sống cả. Và sách cũng không phải dụ dỗ bạn tham gia một chương trình nào hết. Vậy thì nó là gì? Đây là một quyển sách hướng đến hành động. Sách được viết để bạn: * Đọc trong 1 giờ. Không phải đọc sơ sơ rồi bỏ đó, mà là đọc thực sự. * Biến phương pháp thành hành động. Ngay lập tức. * Luyện tập kĩ năng hằng ngày, mỗi ngày ít phút thôi. Trong thời gian ngắn, bạn sẽ có các kĩ năng cơ bản giúp bản thân biết hài lòng, ít giận dữ và ít stress hơn trước nhiều. Nghe khá hay nhỉ? Nếu bạn thích những thứ mà sách này sẽ mang lại, hãy thỏa thuận thế này: * Bạn sẽ làm 3 điều đã nói ở trên. * Bạn cũng đồng ý tắt hết mấy thứ linh tinh trên laptop và cho bản thân mình 1 tiếng đồng hồ tập trung đọc sách. * Tôi đồng ý sẽ viết ngắn gọn để tiết kiệm thời gian cho bạn, và sẽ hướng dẫn bạn một vài kĩ năng thực sự hữu dụng. Chỉ thế thôi. Tôi rất vui vì bạn đã đọc tới đây. Cảm ơn bạn rất nhiều</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_04e001c288694ce6295a66e37feabc8c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_04e001c288694ce6295a66e37feabc8c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/671-biet-hai-long-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/671-biet-hai-long-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

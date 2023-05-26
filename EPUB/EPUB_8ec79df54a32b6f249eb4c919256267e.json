@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-mat-cua-hanh-phuc-323.html",
+    "title" : "BÍ MẬT CỦA HẠNH PHÚC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Niven",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Ước mơ lớn nhất của con người là cảm nhận và tìm được ý nghĩa, hạnh phúc của cuộc sống” Hạnh phúc là biết luôn khám phá cuộc sống mới mẻ từng ngày. Hạnh phúc là cảm nhận hồn nhiên cái đẹp cuộc sống từ những điều đang diễn ra quanh ta như bản thân nó vốn từng có. Hạnh phúc là được sống, chia sẻ với những người bạn chân thành. Hạnh phúc là có một tâm hồn trong sáng, một trái tim thuần khiết, không vị kỷ, ghét ghen. Hạnh phúc là biết mỉm cười với chính mình, nâng đỡ người khác chứ không phải chế giễu họ. Hạnh phúc là tìm ra được giá trị niềm vui được cho hơn là chỉ muốn nhận. Hạnh phúc là sống vị tha và biết nhìn nhận lỗi lầm để bước tiếp sau những lần vấp ngã. Hạnh phúc là biết cách chế ngự cái tôi và cái của tôi khi cần thiết. Hạnh phúc là dám yêu, được yêu và dám sống cho một tình yêu chân thành, cho dù chỉ từ một phía. Hạnh phúc là biết gìn giữ, tìm được sức mạnh tinh thần từ những kỷ niệm, ký ức yêu thương ngay cả khi nó không còn hiện diện trong hiện tại. Hạnh phúc tìm được đôi khi không chỉ từ những nụ cười mà còn là giọt nước mắt trên bờ vai tin cậy. Hạnh phúc là mong muốn được học hỏi, sáng tạo tìm ra những giá trị mới, hơn là ước muốn được dạy bảo người khác. Hạnh phúc là tìm được niềm vui công việc, biết ước mơ, làm được những điều mình thích và biết mỉm cười trước những thất bại, nghịch cảnh. Hạnh phúc là biết nhận ra được ý nghĩa những điều giản dị, những giá trị vĩnh hằng của cuộc sống. - First News</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8ec79df54a32b6f249eb4c919256267e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8ec79df54a32b6f249eb4c919256267e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/323-bi-mat-cua-hanh-phuc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/323-bi-mat-cua-hanh-phuc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

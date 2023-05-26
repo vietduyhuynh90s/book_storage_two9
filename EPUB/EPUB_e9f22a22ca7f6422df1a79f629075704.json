@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tong-hop-than-thoai-viet-nam-1189.html",
+    "title" : "TỔNG HỢP THẦN THOẠI VIỆT NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Truyện thần thoại Việt Nam là tập hợp những truyện kể dân gian về các vị thần, các nhân vật anh hùng, các nhân vật sáng tạo văn hóa, phản ánh quan niệm của người thời cổ về nguồn gốc thế giới và đời sống con người, muôn loài. Truyện thần thoại Việt Nam là thể loại tự sự viết bằng văn xuôi, kể lại sự tích các vị thần sáng tạo ra thế giới tự nhiên và văn hóa, phản ánh nhận thức, cách hình dung của người thời cổ về nguồn gốc của thế giới và đời sống con người. Có thể nói truyện thần thoại được xây dựng bằng những hình ảnh,chi tiết không có thực mà chỉ là hư ảo do con người tưởng ra dựa trên quan niệm về sự tiến hóa loài người mà sau này chỉ có các nhà khoa học mới giải thích được. Đó là những quan niệm theo lối duy vật từ thời xa xưa khi bắt đầu có loài người trên Trái Đất. Nhằm phản ánh quá trình sáng tạo văn học con người thời cổ đại.</p><p>Phân loại</p><p>Kết luận</p><p>Thần thoại đã tạo nên cho con người Việt Nam nếp cảm, nếp nghĩ, nếp tư duy đầy hình tượng phóng đại và khoáng đạt. Nhà nghiên cứu người Nga M.N. Tkachốp đã có nhận xét xác đáng rằng: \"Những quan điểm thần linh siêu nhiên vốn là tư duy truyền thống của người Việt Nam từ thời xa xưa và được bắt nguồn chính từ thần thoại. Những lời giải cho sự \"kì lạ\" không phải là quá hiếm hoi, và đã nằm trong những hoàn cảnh đã tạo nên nó. Một người Việt Nam dù sinh ra trong gia đình làm nghề cày ruộng hay một gia đình quý tộc thì từ tấm bé đều biết ánh sáng loé lên của tia chớp và tiếng sấm là dấu hiệu thần Sấm đang đến, vung lưỡi tầm sét của mình để thực hiện ý muốn của ông Trời trừng phạt một kẻ nào đó phạm tội ác. Anh ta biết rằng cơn gió mát mẻ và trận cuồng phong dữ dội là do bởi chiếc quạt lông của thần Gió cụt đầu mà ra, còn con rồng khổng lồ đang dồn đuổi đám mây mưa trên bầu trời chính là thần Mưa. Còn nếu ông Thần Nông xuất hiện trong giấc mơ của ai đó một cách vui vẻ thì có nghĩa là mùa màng thất bát đang đón chờ anh ta, còn nếu thần xuất hiện trong bộ dạng phờ phạc thì là sự báo trước một mùa màng bội thu... Trong mỗi dòng sông, trong những cánh rừng rậm và hang núi, đang sống những vị thần mà mọi người đều biết rõ tập tục và thói quen của họ\"</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e9f22a22ca7f6422df1a79f629075704.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e9f22a22ca7f6422df1a79f629075704.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1189-tong-hop-than-thoai-viet-nam-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1189-tong-hop-than-thoai-viet-nam-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

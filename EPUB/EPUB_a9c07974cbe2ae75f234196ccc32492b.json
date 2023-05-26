@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cot-tuy-cua-dao-phat-426.html",
+    "title" : "CỐT TỦY CỦA ĐẠO PHẬT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Daisetz Teitaro Suzuki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vâng Thánh Chỉ của Thiên Hoàng, tác giả có thuyết trình hai bài giảng Cốt tủy của đạo Phật tại Hoàng Cung trong hai ngày 23 và 24 tháng 4 năm 1946. Bài giảng liền sau đó được dịch ra tiếng Anh; và ông Christmas Humphreys, Hội Trưởng Hội Phật Học Luân Đôn đem bản thảo về Luân Đôn, và cho ấn hành đầu năm nay Tuy nhiên, tác giả vẫn không vừa ý lắm với bản dịch đầu, nên sang xuân nầy đem ra duyệt lại. Trong khi làm công việc ấy, một ý nghĩ đến với tác giả: tại sao không mở rộng nội dung ra để bạn đọc Tây phương có thể hiểu được nhiều hơn? Nghĩ sao tác giả làm vậy. Phần chánh yếu trình bày trong hai bài giảng đầu được giữ nguyên ở đây, nhưng có vài văn liệu mới được thêm vào, nhất là bản dịch một bài luận giải ngắn về giáo lý Hoa Nghiêm nhan đề Con Sư Tử Vàng; ngoài ra, phần luận về giáo lý sai biệt và vô sai biệt hoặc trí phân biệt và vô phân biệt cũng cần được trình bày lại tường tận hơn lần đầu. Đó là một trong những điểm chủ yếu của pháp Phật nhưng hơi khó hiểu cho bạn đọc Tây phương chưa quen lối tư tưởng Đại Thừa như người Đông phương chúng tôi. Tác giả trân trọng ghi ơn sâu xa hai ông Lewis Bush và giáo sư R.H. Blyth đã ưu ái soát kĩ lại bản thảo. Tác giả cũng xin đặc biệt cảm tạ giáo sư Blyth đã giúp cho những lời phê bình và khuyên nhủ hữu ích. Daiseiz Teitaro Suzuki (Linh-Mộc-Đế Thái-Lan) Kamakura, Nhật Bản Tháng 4, 1947</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_a9c07974cbe2ae75f234196ccc32492b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_a9c07974cbe2ae75f234196ccc32492b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/426-cot-tuy-cua-dao-phat-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/426-cot-tuy-cua-dao-phat-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

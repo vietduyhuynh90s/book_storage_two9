@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhieu-cach-song-1104.html",
+    "title" : "NHIỀU CÁCH SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Quỳnh Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhiều cách sống của nhà văn 8X Nguyễn Quỳnh Trang, cũng như tác phẩm của những nhà văn trẻ khác, đề cập đến sự hoang mang của giới trẻ - “căn bệnh” phổ biến hiện nay. Lâm Lâm, một phóng viên trẻ tuổi có đời tư phức tạp, có cơ hội được tiếp xúc với những người trẻ làm nghệ thuật ở Hà Nội và thành phố Hồ Chí Minh. Đằng sau những buổi triển lãm muôn sắc màu của hội họa, của nghệ thuật trình diễn và sắp đặt là một thế giới phức tạp, có phần điên rồ của mỗi cá nhân. Bản thân Lâm Lâm cũng bị cuốn vào bức tranh sáng tối ấy, với cậu bạn trai người Mĩ, những người bạn thân thiết của cô hay một vài người làm nghệ thuật đi lướt qua cuộc sống của Lâm Lâm. Cô đồng cảm với họ, nhìn thấu niềm say mê, nỗi dằn vặt về mặt tinh thần của họ thể hiện qua các tác phẩm hội họa đương đại. Song song với những trải nghiệm trong đời sống của mình, Lâm Lâm có cơ hội va chạm với một thế giới của tình yêu đồng giới, của những bạn trẻ mang những ưu tư, nỗi khát khao ám ảnh vượt lên những quy chuẩn thông thường trong hội họa. Qua đó, một cái nhìn đa chiều về thế giới nội tâm phức tạp của con người đã dần hình thành trong suy nghĩ của Lâm Lâm. “Cứ cho, có nhiều cách sống và nhiều cách chết để sống”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5f534756e75a900fffd5d7fc9504088c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5f534756e75a900fffd5d7fc9504088c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1104-nhieu-cach-song-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1104-nhieu-cach-song-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

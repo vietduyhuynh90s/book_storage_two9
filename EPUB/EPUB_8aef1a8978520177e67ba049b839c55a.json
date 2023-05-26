@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-con-duong-cua-anh-sang-tap-2-1132.html",
+    "title" : "NHỮNG CON ĐƯỜNG CỦA ÁNH SÁNG - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trịnh Xuân Thuận",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những con đường của ánh sáng được coi là bản sử thi về cuộc hành trình của con người đi vào vương quốc ánh sáng và giải mã những bí mật của nó. Và trong cuốn sách này tác giả đã thảo luận về ánh sáng, và liên qua tới nó là bóng tối, trên nhiều phương diện bao gồm tầm quan trọng của nó đối với sự sống, đối với khoa học, sự diễn giải ánh sáng của bộ não, nghệ thuật của các họa sĩ thuộc trường phái ấn tượng, việc sử dụng ánh sáng trong kiến trúc và các khía cạnh tâm linh của ánh sáng. Ánh sáng là người bạn tri kỉ của tôi. Trong công việc của nhà vật lý thiên văn, tôi thường xuyên phải làm việc với nó. Nó là phương tiện đặc ân mà tôi có để đối thoại với vũ trụ. Các hạt có năng lượng cao phát ra từ các cơn hấp hối bùng nổ của các ngôi sao nặng, mà người ta gọi là các “tia vũ trụ”, hay các sóng hấp dẫn, các sóng độ cong của không gian được tạo ra từ sự co mạnh ở lõi của một khôi sao nặng để trở thành nơi giam cầm ánh sáng - một lỗ đen -, hay từ chuyển động điên cuồng của một cặp lỗ đen nhảy múa quanh nhau, đều mang đến cho chúng ta rất nhiều thông tin mới lạ về không gian xa xôi. Nhưng không phải các tia vũ trụ, cũng chẳng phải các sóng hấp dẫn là các sứ giả chính của vũ trụ. Chính ánh sáng mới là cái đảm nhiệm vai trò này. Không còn nghi ngờ gì nữa, phần lớn các thông tin về vũ trụ mà chúng ta biết được đều là nhờ sự giúp đỡ hữu hiệu và trung thành của ánh sáng. Đó là sứ giả tuyệt vời nhất của vũ trụ. Chính ánh sáng cho phép chúng ta giao tiếp và kết nối với vũ trụ. Chính ánh sáng đã chuyển tải những đoạn nhạc và các nốt rời rạc của cái giai điệu bí ẩn của vũ trụ mà con người kỳ công tái dựng với tất cả vẻ đẹp tráng lệ của nó</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8aef1a8978520177e67ba049b839c55a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8aef1a8978520177e67ba049b839c55a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1132-nhung-con-duong-cua-anh-sang-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1132-nhung-con-duong-cua-anh-sang-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

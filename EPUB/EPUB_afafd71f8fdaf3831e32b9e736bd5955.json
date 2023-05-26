@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dung-day-lan-nua-13528.html",
+    "title" : "ĐỨNG DẬY LẦN NỮA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dale Carnegie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhiều năm về trước, tôi tình cờ đọc được một cuốn sách có tên Những câu cách ngôn về cuộc đời của Carnegie. Những câu nói giản dị nhưng hàm chứa triết lí phong phú trong sách đã thu hút tôi. Carnegie chủ trương xây dựng một thái độ sống tích cực, đề xướng phát huy những ưu điểm trong tính cách, khai phá tiềm năng, bồi dưỡng nhân sinh quan tích cực. Kinh nghiệm thành công của ông đã ảnh hưởng tới toàn thế giới trong suốt hơn nửa thế kỉ qua, vô số người đã học hỏi được những điều hữu ích với bản thân từ đó. Những câu cách ngôn kinh điển này luôn có ích cho sự phát triển của chúng ta. Xã hội hiện nay tuy phát triển với tốc độ nhanh chóng, khoa học kĩ thuật, kinh tế đều không ngừng tiến bộ, nhưng cạnh tranh cũng ngày càng khốc liệt. Trong bối cảnh như vậy, chúng ta cần học hỏi kinh nghiệm của người đi trước để có thể phát triển tốt hơn, nâng cao tố chất tự thân, khiến bản thân thực hiện được những mục tiêu to lớn hơn trong cuộc đời. Cuốn sách này đúc rút những tinh tuý trong lí thuyết thành công của Carnegie, đồng thời giải thích chúng một cách tường tận qua các câu chuyện thú vị, nội dung phong phú và ngụ ý sâu sắc, chắc chắn sẽ đem lại cho độc giả nhiều điều bổ ích. Luôn kiên trì, không từ bỏ dễ dàng là một trong những tinh tuý mấu chốt trong lí thuyết thành công của Carnegie, bởi đó là điều kiện bắt buộc để thành công. Khi mới xuất bản sách, Carnegie cũng từng trải qua nhiều lần thất bại, nhưng ông tin vào năng lực của bản thân, đồng thời kiên trì với quan điểm của mình, nhờ đó đạt được thành công. “Kiên trì bền chí, vượt qua giới hạn” sẽ giúp chúng ta tạo ra được một cuộc sống vui vẻ và thành công!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_afafd71f8fdaf3831e32b9e736bd5955.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_afafd71f8fdaf3831e32b9e736bd5955.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13528-dung-day-lan-nua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13528-dung-day-lan-nua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

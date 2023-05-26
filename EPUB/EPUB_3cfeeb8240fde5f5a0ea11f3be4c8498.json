@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/5-buoc-giai-ma-giac-mo-585.html",
+    "title" : "5 BƯỚC GIẢI MÃ GIẤC MƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gillian Holloway",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục 1. Chương 01. “Tôi tự hỏi giấc mơ ấy có ý nghĩa gì...” 2. Chương 02. Điều chỉnh thấu kính, nhìn vào bên trong 3. Chương 03. Nhật ký giấc mơ: Công cụ ghi nhớ 4. Chương 04. Ngôn ngữ của giấc mơ 5. Chương 05. Kỹ thuật 5 bước 6. Chương 06. Các biểu tượng và ẩn dụ điển hình 7. Chương 07. Chìa khóa đến các biểu tượng 8. Chương 08. Những giấc mơ phi thường 9. Chương 09. “Nhà máy giấc mơ thân mến…” − Cột tin tư vấn hằng đêm của bạn 10. Chương 10. Chia sẻ giấc mơ với người khác 11. Chương 11. Từ đây ta đi đâu 12. Thư mục trích dẫn và tài liệu tham khảo</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3cfeeb8240fde5f5a0ea11f3be4c8498.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3cfeeb8240fde5f5a0ea11f3be4c8498.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/585-5-buoc-giai-ma-giac-mo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/585-5-buoc-giai-ma-giac-mo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
