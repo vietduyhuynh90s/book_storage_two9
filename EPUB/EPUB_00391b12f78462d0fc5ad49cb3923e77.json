@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dia-nguc-du-ky-7758.html",
+    "title" : "ĐỊA NGỤC DU KÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thánh Hiền Đường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Địa Ngục Du Ký nguyên bản viết bằng chữ Nho do Thánh Hiền Đường ở Đài Trung thuộc Đài Loan phụ đồng. Trước tác đăng tải trên bán nguyệt san Thánh Hiền từ số 10 đến số 55 ấn tống lần thứ nhất năm 1979. Hội Ái Hữu Vô Vi được phép phiên dịch năm 1980 và phổ biến năm 1982. Thiên Đường Hữu Lộ Vô Nhân Vấn Địa Ngục Vô Môn Hữu Khách Tầm Thiên Đường có lối không ai hỏi, Địa Ngục cửa cài lắm khách thăm!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_00391b12f78462d0fc5ad49cb3923e77.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_00391b12f78462d0fc5ad49cb3923e77.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7758-dia-nguc-du-ky-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7758-dia-nguc-du-ky-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
