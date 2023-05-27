@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mua-thang-11-13972.html",
+    "title" : "MƯA THÁNG 11",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Audio8X",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mưa. Lại mưa. Cũng phải thôi, tháng 11 rồi mà. Chỉ không hiểu tại sao trước giờ tôi thích mưa, mà tại sao cơn mưa hôm nay lại khác xưa quá.Trong đầu cứ lảng vảng câu hỏi: Do you need some time,On your own? Do you need some time, All alone? Có những lúc tôi chỉ muốn ở một mình, chỉ có mình và cơn mưa mà thôi. Không cần ai bên cạnh,có lẽ vì thế mà thích mưa từ lúc nào chẳng rõ. Cứ một mình ngồi lẵng lẽ nghe November Rain, thỉnh thoảng hát theo khe khẽ. Vậy mà cũng bài hát ấy, hôm nay lại có cảm xúc khác hẳn, có lẽ con người ta chẳng bao giờ hiểu hết một bài hát khi người ta không sống trong hoàn cảnh của bài hát đó.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_dafd45ef17fd5809cabf36f72a8c1ac0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_dafd45ef17fd5809cabf36f72a8c1ac0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13972-mua-thang-11-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Mưa Tháng 11 (Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13972-mua-thang-11-thuviensach.vn.mp3?t=351",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:05:51 Mưa Tháng 11 (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13972-mua-thang-11-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Mưa Tháng 11 (Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13972-mua-thang-11-thuviensach.vn.mp3?t=351",
+    "title" : "00:05:51 Mưa Tháng 11 (Phần 2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

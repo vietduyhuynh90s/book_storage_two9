@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/9-dieu-ban-nen-chap-nhan-de-song-thanh-than-nhe-long-13882.html",
+    "title" : "9 ĐIỀU BẠN NÊN CHẤP NHẬN ĐỂ SỐNG THANH THẢN NHẸ LÒNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đời người luôn xuất hiện những sự cố ngoài ý muốn, chúng thậm chí khiến cho con người không thể chịu đựng được, ví dụ như động đất, lũ lụt… Luôn có những tai nạn vượt xa khả năng của con người, vừa phút trước vui vẻ hân hoan, phút sau bi kịch có thể đã xảy ra. Có người nói, hãy yêu nhau thật nhiều, hãy trân trọng nâng niu cuộc sống, bởi lẽ bạn mãi mãi sẽ chẳng thể nào biết được những phút giây sau, chuyện gì sẽ xảy ra. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c677af3c1941f99f4a8b356d84ce5a44.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c677af3c1941f99f4a8b356d84ce5a44.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13882-9-dieu-ban-nen-chap-nhan-de-song-thanh-than-nhe-long-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13882-9-dieu-ban-nen-chap-nhan-de-song-thanh-than-nhe-long-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

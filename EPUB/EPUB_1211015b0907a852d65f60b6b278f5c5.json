@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khi-ke-ton-thuong-lai-lam-dau-nguoi-khac-13954.html",
+    "title" : "KHI KẺ TỔN THƯƠNG LẠI LÀM ĐAU NGƯỜI KHÁC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Anh còn nhớ hay đã quên, em thì vẫn nhớ, nhớ đến đau lòng. Dẫu biết cuộc đời là chuyến đi, anh chỉ là vị khách thoáng qua trên hành trình của em. Vậy mà sao em vẫn mãi lưu luyến mãi cái vị khách đã xuống xe từ lâu kia. Vị khách chỉ xem em như một chặng đường bước qua để đi tìm hạnh phúc riêng mình. Có những nỗi đau vẫn dai dẳng hoài. Người ra đi từ lâu rồi mà người ở lại vẫn chưa hết nhớ thương. Yêu làm chi cho đau lòng đến thế. Thương làm chi cho lòng mãi vấn vương. Nếu yêu rồi buông dễ dàng như lên rồi xuống xe thì hay biết mấy anh nhỉ. Để lúc này đây em sẽ bình yên mà ngủ một giấc thật ngon. Sáng mai thức giấc em vẫn là cô gái xinh đẹp, đầy tự tin. Nhưng cuộc đời thật trêu ngươi con người ta, chỉ một lần gặp gỡ vô tình là đã yêu nhau từ giây phút đó, chỉ bên nhau những ngày tháng ngắn ngủi của cuộc đời vậy mà chẳng thể quên. Thương nhớ, nhớ thương mãi như vậy sao anh. Bao lâu em mới có thể quên được anh, quên đi nỗi đau này. Thời gian vẫn trôi, sao nỗi đau vẫn cứ ở lại. Người đời thường nói càng yêu càng đau, người yêu nhiều sẽ là người đau nhiều hơn. Đúng vậy, và em vẫn là người đau hơn trong cuộc tình của chúng mình. Nếu từ bỏ dễ dàng như thế thì liệu rằng có phải là yêu. Và trong cuộc tình này anh có từng yêu em. Đường đời còn dài, nhưng có lẽ gặp lại nhau là chuyện không thể. Nếu có duyên gặp lại nhau câu đầu tiên em sẽ hỏi anh “Anh đã từng yêu em không?”. Tác giả: Zoie Phan, Hoa bỉ ngạn Giọng đọc: Bạch Dương Thực hiện: Hằng Nga Thiết kế: Hương Giang</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1211015b0907a852d65f60b6b278f5c5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1211015b0907a852d65f60b6b278f5c5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13954-khi-ke-ton-thuong-lai-lam-dau-nguoi-khac-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13954-khi-ke-ton-thuong-lai-lam-dau-nguoi-khac-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

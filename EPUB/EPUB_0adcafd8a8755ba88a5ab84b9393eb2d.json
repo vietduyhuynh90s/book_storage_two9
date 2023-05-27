@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chi-can-biet-dung-mot-thu-chung-ta-se-co-cuoc-song-an-nhien-den-het-doi-13910.html",
+    "title" : "CHỈ CẦN BIẾT ĐÚNG MỘT THỨ, CHÚNG TA SẼ CÓ CUỘC SỐNG AN NHIÊN ĐẾN HẾT ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cổ nhân nói rằng: \"Nhà có giàu đến mấy, tài sản có nhiều đến mấy thì một ngày cũng chỉ ăn đến 3 bữa cơm; Nhà có rộng đến mấy, thì đi ngủ cũng chỉ cần đến 1 phòng.\" Con người chúng ta, liệu có phải cần thật nhiều tiền, phải thật giàu có mới cảm thấy vui vẻ? Câu trả lời là không. Giọng đọc: Titi</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_0adcafd8a8755ba88a5ab84b9393eb2d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_0adcafd8a8755ba88a5ab84b9393eb2d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13910-chi-can-biet-dung-mot-thu-chung-ta-se-co-cuoc-song-an-nhien-den-het-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13910-chi-can-biet-dung-mot-thu-chung-ta-se-co-cuoc-song-an-nhien-den-het-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

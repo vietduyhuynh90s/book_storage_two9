@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-dan-ong-cam-va-cau-chuyen-dang-suy-ngam-ngay-cuoi-nam-13918.html",
+    "title" : "NGƯỜI ĐÀN ÔNG CÂM VÀ CÂU CHUYỆN ĐÁNG SUY NGẪM NGÀY CUỐI NĂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong cuộc sống, đôi lúc cần phải tìm cách thoát ra vòng xoáy hiện đại, đứng một góc nào đó nhìn lại những gì đang trôi rất nhanh ngoài kia, để biết mình là người may mắn thế nào và cố gắng hoàn thiện bản thân từng ngày nhằm mang đến những điều tốt đẹp, ý nghĩa cho cuộc đời. Giọng đọc: Sand</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_47138894235fdef88461ae0540c45ef0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_47138894235fdef88461ae0540c45ef0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13918-nguoi-dan-ong-cam-va-cau-chuyen-dang-suy-ngam-ngay-cuoi-nam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13918-nguoi-dan-ong-cam-va-cau-chuyen-dang-suy-ngam-ngay-cuoi-nam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/song-o-doi-dung-qua-san-si-chi-can-lam-tot-viec-cua-minh-la-du-13923.html",
+    "title" : "SỐNG Ở ĐỜI ĐỪNG QUÁ SÂN SI, CHỈ CẦN LÀM TỐT VIỆC CỦA MÌNH LÀ ĐỦ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Có một sự thật là, chúng ta luôn mang theo mặt nạ để đối diện với tình yêu, luôn muốn biểu hiện ra mặt tốt đẹp nhất của bản thân mình. Cho đến khi hai người càng thân thiết hơn, liền cảm giác thấy đối phương đã thay đổi. Kỳ thực, họ không hề thay đổi, chỉ là chúng ta đang tiến đến bề mặt chân thực nhất của họ, nên mới cảm thấy bị mất phương hướng. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1203cccaed99b5b8a16ab124145be0f3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1203cccaed99b5b8a16ab124145be0f3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13923-song-o-doi-dung-qua-san-si-chi-can-lam-tot-viec-cua-minh-la-du-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13923-song-o-doi-dung-qua-san-si-chi-can-lam-tot-viec-cua-minh-la-du-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
