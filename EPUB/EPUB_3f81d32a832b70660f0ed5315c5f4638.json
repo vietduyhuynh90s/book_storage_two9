@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/yeu-mot-nguoi-con-gai-nhay-cam-nhu-om-tron-nhanh-xuong-rong-day-gai-13953.html",
+    "title" : "YÊU MỘT NGƯỜI CON GÁI NHẠY CẢM NHƯ ÔM TRỌN NHÁNH XƯƠNG RỒNG ĐẦY GAI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Hôm nay anh rất mệt” “Em cũng thế” “Mình chia tay được không?” Tôi cũng chẳng nhớ nổi lúc ấy cô ấy trả lời thế nào. Chỉ biết rằng ngay hôm sau thì cô ấy dọn ra khỏi nhà tôi. Chúng tôi sau đó cũng vẫn nhắn tin chào hỏi nhau, nhưng tất cả chỉ dừng lại ở mức bạn bè. Tôi biết em còn yêu tôi, em cũng biết tôi còn yêu em. Nhưng chúng tôi vẫn chọn im lặng, vì chúng tôi không còn khả năng lo lắng cho đối phương như những ngày xưa cũ. Sau đó em cũng chẳng hẹn hò với ai cả. Em nói với tôi rằng hình như không ai bao bọc được cho những sự mẫn cảm đó của em trong cảm xúc. Và em đã chọn ôm trọn nó một mình suốt 5 năm trời.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3f81d32a832b70660f0ed5315c5f4638.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3f81d32a832b70660f0ed5315c5f4638.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13953-yeu-mot-nguoi-con-gai-nhay-cam-nhu-om-tron-nhanh-xuong-rong-day-gai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13953-yeu-mot-nguoi-con-gai-nhay-cam-nhu-om-tron-nhanh-xuong-rong-day-gai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

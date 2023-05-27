@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-phap-hoa-giang-giai-1775.html",
+    "title" : "KINH PHÁP HOA GIẢNG GIẢI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Diệu Pháp Liên Hoa có thể nói là bộ kinh nổi tiếng nhất trong khu vườn kinh điển Phật giáo Đại thừa. Kinh đạt đến địa vị tột cùng của nó là vua của tất cả các kinh vì kinh ẩn chứa rất nhiều ý nghĩa sâu sắc có lẽ vượt ra ngoài tầm tư duy, suy luận của con người bình thường và có công năng đưa người tu thẳng đến cứu cánh tối thượng là thành Phật. Trong kho tàng kinh điển Đại thừa, kinh Pháp Hoa được truyền bá rất sớm và rất rộng rãi vào khoảng 700 năm sau ngày đức Phật nhập diệt. Nếu dựa theo Hán tạng, kinh Pháp Hoa có tất cả bảy quyển bao gồm hai mươi tám phẩm và có trên sáu vạn chữ với nghĩa lý thâm sâu huyền diệu và được diễn tả như là một tác phẩm nghệ thuật dưới dạng một vỡ kịch kết hợp tư tưởng rất chặt chẻ trải suốt chiều dài của kinh. Tuy kinh có dài, ý nghĩa sâu xa, nhưng nội dung vẫn không ra ngoài bảy chữ “Khai, thị, ngộ, nhập Tri Kiến Phật”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7ca21ab0f21b68d382a82b4ae91c4025.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7ca21ab0f21b68d382a82b4ae91c4025.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1775-kinh-phap-hoa-giang-giai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1775-kinh-phap-hoa-giang-giai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

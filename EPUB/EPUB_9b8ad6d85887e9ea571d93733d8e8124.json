@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/uoc-hen-voi-su-song-154.html",
+    "title" : "ƯỚC HẸN VỚI SỰ SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Chánh văn.. 3 I. 3 II.. 5 Về chủ đề kinh... 8 Nguyên tắc, phương pháp hành trì.. 18 Không ghét bỏ thế gian và xã hội.. 18 Sống một mình đem lại sự giàu có về nội tâm.. 20 Nội kết.. 22 Hiện tại cũng làm bằng quá khứ... 23 Đừng tưởng tới tương lai. 24 Quá khứ và tương lai nằm cả trong hiện tại.. 26 Sự sống nằm trong hiện tại. 30 Nếp sống an lạc và tự do. 34 Vượt thoát sinh tử. 35 Phụ đính.. 38</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_9b8ad6d85887e9ea571d93733d8e8124.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_9b8ad6d85887e9ea571d93733d8e8124.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/154-uoc-hen-voi-su-song-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/154-uoc-hen-voi-su-song-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

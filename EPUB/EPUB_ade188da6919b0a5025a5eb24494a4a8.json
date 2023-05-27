@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dau-ai-doi-minh-duoc-mai-13939.html",
+    "title" : "ĐÂU AI ĐỢI MÌNH ĐƯỢC MÃI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Không ai có thể đi mãi một con đường, không ai có thể chắc chắn rằng người yêu ta sẽ mãi đứng một nơi để đợi ta trở về, vì thế đừng để ai đó đợi ta quá lâu, hãy trở về khi còn có thể, tình yêu và cuộc đời luôn cần ta viết nên một cái kết trọn vẹn nhất. Người ta thường dùng sự chờ đợi làm thước đo cho tình yêu. Một người yêu bạn chưa chắc sẽ đợi được bạn nhưng một người đợi được bạn chắc chắn là người rất yêu bạn. Đằng sau sự chờ đợi đó là cả sự đánh đổi, đó là những năm tháng thanh xuân đằng đẵng và mòn mỏi, lặng nhìn yêu thương cứ dần tuột khỏi kẽ tay. Người ta thường khuyên khi yêu ai đừng hy vọng quá nhiều và chờ đợi người tình quá lâu. Nhưng hơn tất cả là lời khuyên dành cho người ra đi, đừng để ai đó phải đợi mình quá lâu. Bởi vì chẳng có ai đứng mãi một chỗ để đợi một người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ade188da6919b0a5025a5eb24494a4a8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ade188da6919b0a5025a5eb24494a4a8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13939-dau-ai-doi-minh-duoc-mai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13939-dau-ai-doi-minh-duoc-mai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

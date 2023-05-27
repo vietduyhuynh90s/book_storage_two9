@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tu-bay-gio-em-se-song-vi-em-13958.html",
+    "title" : "TỪ BÂY GIỜ EM SẼ SỐNG VÌ EM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Em không rõ chuyện xảy ra từ khi nào? Em luôn nghĩ mình cần phải cố gắng hơn, bao dung hơn, bớt ích kỷ đi, vun đắp thêm cho mối quan hệ này Nhưng nhìn lại thì hình như chỉ mình em tự đa tình, tự cố gắng, tự động viên bản thân còn anh thì như một chuyến tàu vội vã chẳng bao giờ chờ đợi ai cả. Sau bao năm tháng gom góp thất vọng và nỗi buồn, em giàu to. Cảm ơn anh, sau 7 năm cuối cùng cũng nói ra điều đó, điều mà em luôn trốn tránh và không dám đối diện, bằng cách đau đớn và tàn nhẫn nhất: “Anh không hề yêu em, em chỉ là người anh chọn để tưởng tượng thành cô ấy, anh vĩnh viễn không thể nào quên được cô ấy, cũng vĩnh viễn không thể nào yêu em. Anh xin lỗi”. Chắc anh cảm thấy có lỗi với em và không đủ can đảm để nói khi tỉnh táo, nên anh uống rất nhiều rượu. Vậy đấy, chỉ một câu đó thôi, đã khiến bảy năm cố gắng của em tan thành mây khói, anh chán giả vờ giả vịt rằng anh yêu em rồi đúng không? Anh cảm thấy thảm thương thay cuộc đời em đúng không? Rõ ràng người tỏ tình với em trước là anh, theo đuổi em trước cũng là anh và đến cuối cùng bỏ em cũng là anh. Anh là ai mà có quyền quyết định cuộc đời em như vậy? Bài viết: Nếu em đến trước liệu anh có yêu em Tác giả: Hương Nguyễn Giọng đọc: Hà Diễm Thực hiện: Hằng Nga Thiết kế: Hương Giang</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_a23a94b7e1e0bca7f285d48478794621.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_a23a94b7e1e0bca7f285d48478794621.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13958-tu-bay-gio-em-se-song-vi-em-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13958-tu-bay-gio-em-se-song-vi-em-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

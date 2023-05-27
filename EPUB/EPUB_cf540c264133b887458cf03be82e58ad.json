@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/7-dieu-khong-nen-cau-khi-di-le-chua-13880.html",
+    "title" : "7 ĐIỀU KHÔNG NÊN CẦU KHI ĐI LỄ CHÙA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người đi lễ chùa không nên cầu thoát khỏi bệnh tật vì như vậy sẽ sinh ra tham niệm, có thể dẫn đến phạm giới. Bệnh tật là do nghiệp, không phải cầu mà khỏi được. Muốn thoái khỏi nỗi thống khổ bệnh tật thì nên thực hành giác ngộ, làm cho tâm không bệnh. Nhà Phật cho rằng việc hành thiện, tu dưỡng tâm tính mới có thể đẩy lùi căn nguyên bệnh tật cũng như mọi đau khổ trong kiếp người. Giọng đọc: Titi</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_cf540c264133b887458cf03be82e58ad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_cf540c264133b887458cf03be82e58ad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13880-7-dieu-khong-nen-cau-khi-di-le-chua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13880-7-dieu-khong-nen-cau-khi-di-le-chua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
