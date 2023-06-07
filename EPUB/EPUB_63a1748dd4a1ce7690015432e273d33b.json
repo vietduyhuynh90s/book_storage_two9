@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bien_20431.html",
+    "title" : "Biển",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Anh Quốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 25177,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_63a1748dd4a1ce7690015432e273d33b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_63a1748dd4a1ce7690015432e273d33b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bien1/Bien%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "Bien 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "Bien 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "Bien 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Bien 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Bien 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Bien 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Bien 7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bien1/Bien%201.mp3",
+    "title" : "Bien 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%202.mp3",
+    "title" : "Bien 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%203.mp3",
+    "title" : "Bien 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%204.mp3",
+    "title" : "Bien 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%205.mp3",
+    "title" : "Bien 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%206.mp3",
+    "title" : "Bien 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien1/Bien%207.mp3",
+    "title" : "Bien 7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

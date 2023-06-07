@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-von-don-thuan_20341.html",
+    "title" : "Sống Vốn Đơn Thuần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Tử Khải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 5098,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ed2a60eef1dcf045fe4746b56b8b4d13.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ed2a60eef1dcf045fe4746b56b8b4d13.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/y-2mate.com-sach-noi-song-von-don-thuan-chuong-1-phong-tu-khai/y2mate.com%20-%20S%C3%A1ch%20n%C3%B3i%20S%E1%BB%91ng%20V%E1%BB%91n%20%C4%90%C6%A1n%20Thu%E1%BA%A7n%20%20Ch%C6%B0%C6%A1ng%201%20%20Phong%20T%E1%BB%AD%20Kh%E1%BA%A3i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5098,
+    "title" : "y2mate.com - Sách nói Sống Vốn Đơn Thuần  Chương 1  Phong Tử Khải",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/y-2mate.com-sach-noi-song-von-don-thuan-chuong-1-phong-tu-khai/y2mate.com%20-%20S%C3%A1ch%20n%C3%B3i%20S%E1%BB%91ng%20V%E1%BB%91n%20%C4%90%C6%A1n%20Thu%E1%BA%A7n%20%20Ch%C6%B0%C6%A1ng%201%20%20Phong%20T%E1%BB%AD%20Kh%E1%BA%A3i.mp3",
+    "title" : "y2mate.com - Sách nói Sống Vốn Đơn Thuần  Chương 1  Phong Tử Khải",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
