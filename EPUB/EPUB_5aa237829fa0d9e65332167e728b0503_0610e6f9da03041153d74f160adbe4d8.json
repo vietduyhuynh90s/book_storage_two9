@@ -1,0 +1,68 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyento.com/truyen-tranh/cach-thuc-sinh-ton-cua-phao-hoi-khue-nu-468520",
+    "title" : "Cách Thức Sinh Tồn Của Pháo Hôi Khuê Nữ - Chapter 175",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-09",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 174,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage9/main/IMAGE/IMAGE_5aa237829fa0d9e65332167e728b0503_0610e6f9da03041153d74f160adbe4d8_017a8637098e7a5f08959e32178760f1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=k9EyabM5W7zJHZVV8enc9x5mOZr29+UJ3UUi8tfx3WSwAyq87Uw2/d7hGYp5k+vB0MO1KmgQpDc+fHVB3Kf37mFwXVpa9zJYDGpmZWZkyv9+0xLSocTfones/js0yFciyv7GZjfDvh0jicsuJfeMhIQrPCBpZt+yBJWYBFPOJ3OnTcicBZ8fv4UmwIn3QRD3",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage9/main/IMAGE/IMAGE_5aa237829fa0d9e65332167e728b0503_0610e6f9da03041153d74f160adbe4d8_79c847070af19d5551755c6ab923be17.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=k9EyabM5W7zJHZVV8enc9x5mOZr29+UJ3UUi8tfx3WSwAyq87Uw2/d7hGYp5k+vB0MO1KmgQpDc+fHVB3Kf37mFwXVpa9zJYDGpmZWZkyv9+0xLSocTfones/js0yFciyv7GZjfDvh0jicsuJfeMhOQaXwUXmrA4PsJTUVXxOTIlEAcaOw8IXP1qFN1oY/v2",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
