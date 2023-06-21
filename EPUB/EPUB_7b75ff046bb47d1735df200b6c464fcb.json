@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nga-ba_20418.html",
+    "title" : "Ngã Ba",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Việt Nga",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 28655,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7b75ff046bb47d1735df200b6c464fcb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7b75ff046bb47d1735df200b6c464fcb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Ngaba 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "Ngaba 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "Ngaba 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "Ngaba 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "Ngaba 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "Ngaba 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "Ngaba 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3581,
+    "title" : "Ngaba 8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%201.mp3",
+    "title" : "Ngaba 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%202.mp3",
+    "title" : "Ngaba 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%203.mp3",
+    "title" : "Ngaba 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%204.mp3",
+    "title" : "Ngaba 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%205.mp3",
+    "title" : "Ngaba 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%206.mp3",
+    "title" : "Ngaba 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%207.mp3",
+    "title" : "Ngaba 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngaba-5/Ngaba%208.mp3",
+    "title" : "Ngaba 8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
