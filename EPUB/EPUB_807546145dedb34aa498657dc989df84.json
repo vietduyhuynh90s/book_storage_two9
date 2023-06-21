@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-tap-truyen-ngan-vu-bang-14031.html",
+    "title" : "TUYỂN TẬP TRUYỆN NGẮN VŨ BẰNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Bằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một thời gian dài, Vũ Bằng âm thầm chịu tiếng là nhà vǎn quay lưng lại với kháng chiến, là di cư vào nam theo giặc... Mãi đến tháng 3 nǎm 2000, Cục Chính trị thuộc Tổng cục 2 Bộ Quốc Phòng mới có vǎn bản xác nhận nhà vǎn Vũ Bằng là chiến sĩ quân báo. Trong hơn 40 năm cầm bút, Vũ Bằng đã để lại cho đời gần 100 cuốn sách, trong đó có hàng ngàn trang sách vǎn học lấp lánh tài hoa và chứa chan lòng nhân ái. Vũ Bằng Tuyển Tập - Xin trân trọng giới thiệu cùng bạn đọc các tác phẩm đặc sắc của nhà văn tài hoa này.*** Vũ Bằng (3/6/1913 - 7/4/1984), tên thật là Vũ Đăng Bằng, là một nhà văn, nhà báo nổi tiếng của Việt Nam. Ông là người có sở trường về viết truyện ngắn, tùy bút, bút ký,... Ông đã vào Sài Gòn sau 1954 để làm báo và hoạt động tình báo. Ngoài bút hiệu Vũ Bằng, ông còn ký với các bút hiệu khác: Tiêu Liêu, Vịt Con, Thiên Thư, Vạn Lý Trình, Lê Tâm, Hoàng Thị Trâm... Các tác phẩm</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_807546145dedb34aa498657dc989df84.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_807546145dedb34aa498657dc989df84.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14031-tuyen-tap-truyen-ngan-vu-bang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14031-tuyen-tap-truyen-ngan-vu-bang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
