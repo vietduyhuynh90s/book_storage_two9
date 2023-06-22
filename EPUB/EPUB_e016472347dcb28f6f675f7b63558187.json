@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/buc-thu-hoi-han-14072.html",
+    "title" : "BỨC THƯ HỐI HẬN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi viết văn, ông lấy tên tự ghép với họ là Hồ Biểu Chánh, trở thành một bút danh bất hủ, được nhiều người biết đến và quí mến hơn tên tộc Hồ Văn Trung của ông. Ông sáng tác văn học rất nhiều và để lại hơn 100 tác phẩm gồm tiểu thuyết và các thể loại khác, như: nghiên cứu, phê bình văn học, sáng tác tuồng hát cùng các bản dịch văn học cổ điển Trung Quốc như Tình sử, Kim cổ kỳ quan... đóng góp rất nhiều cho sự phát triển của nền văn học Việt Nam hiện đại. Tiểu thuyết của ông thuộc về thời kỳ đầu của văn học chữ quốc ngữ, cốt truyện đơn giản, triết lý chủ đạo là thiện thắng ác, ở hiền gặp lành, điểm đặc biệt là rất Nam Bộ, từ giọng văn đến miêu tả con người. Ông có phóng tác một số tiểu thuyết Pháp. Hồ Biểu Chánh sở trường về viết văn xuôi tự sự. Đề tài phần lớn là cuộc sống Nam Bộ từ nông thôn đến thành thị những năm đầu thế kỷ 20 với những xáo trộn xã hội do cuộc đấu tranh giữa mới và cũ. Cách diễn đạt của ông nôm na, bình dị. Ông đã có những đóng góp to lớn vào sự hình thành thể lọai tiểu thuyết trên chặng đường phôi thai. Ông để lại một khối lượng sáng tác không nhỏ: 64 tiểu thuyết, 12 tập truyện ngắn và truyện kể, 12 vở hài kịch và ca kịch, 5 tập thơ và truyện thơ, 8 tập ký, 28 tập khảo cứu-phê bình. Ngoài ra, còn có các bài diễn thuyết và 2 tác phẩm dịch.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e016472347dcb28f6f675f7b63558187.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e016472347dcb28f6f675f7b63558187.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14072-buc-thu-hoi-han-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14072-buc-thu-hoi-han-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

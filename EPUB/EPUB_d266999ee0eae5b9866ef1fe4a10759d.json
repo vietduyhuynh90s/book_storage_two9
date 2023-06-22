@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/304-chuyen-nhung-nguoi-thao-chay-1345.html",
+    "title" : "30/4 CHUYỆN NHỮNG NGƯỜI THÁO CHẠY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Lĩnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>30-4 Chuyện những người tháo chạy của nhà văn Kim Lĩnh là một tác phẩm viết về những ngày cuối cùng của chế độ Mỹ-Ngụy Sài Gòn. Thông qua nhân vật hai nhân vật chính: Hòa và Thái, tác giả đã miêu tả cuộc di tản đầy mất mát và đau thương của những người lính, sĩ quan Ngụy và những người dân vô tội từ cửa biển Tư Hiền đến Sài Gòn, xuyên suốt con đường vào Nam. Trên con đường tháo chạy đó, một bộ phận không nhỏ đã có những chuyển biến trong tư tưởng nhận thức để nhận ra được bản chất của chế độ Ngụy quân, Ngụy quyền...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d266999ee0eae5b9866ef1fe4a10759d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d266999ee0eae5b9866ef1fe4a10759d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Biển Máu Trên Cửa Sông - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=3081",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:51:21 Nổi Loạn Tại Đà Nẵng - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=5522",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:32:02 Tẩu Thoát Khỏi Tam Kỳ - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=7912",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:11:52 Tử Thủ Hay Lừa Đảo - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=11125",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:05:25 Những Cố Gắng Điên Rồ - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=13897",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:51:37 Bản Chất Bỉ Ổi - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=16313",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:31:53 Lũ Cướp Biển - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=18051",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:00:51 Hy Vọng Sụp Đổ - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=20704",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:45:04 Đất Bằng Sóng Dậy - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=23298",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:28:18 Trong Tay Lũ Sát Nhân - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=25807",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:10:07 Man Rợ Và Kinh Hoàng - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=29676",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:14:36 Chống Lại Bạo Tàn - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=32483",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:01:23 Đâu Bạn Đâu Thù - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=35596",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:53:16 Bãi Biển Bình Tuy - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=37815",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:30:15 Tiểu Thuyết Hay - Phần Kết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Biển Máu Trên Cửa Sông - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=3081",
+    "title" : "00:51:21 Nổi Loạn Tại Đà Nẵng - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=5522",
+    "title" : "01:32:02 Tẩu Thoát Khỏi Tam Kỳ - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=7912",
+    "title" : "02:11:52 Tử Thủ Hay Lừa Đảo - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=11125",
+    "title" : "03:05:25 Những Cố Gắng Điên Rồ - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=13897",
+    "title" : "03:51:37 Bản Chất Bỉ Ổi - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=16313",
+    "title" : "04:31:53 Lũ Cướp Biển - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=18051",
+    "title" : "05:00:51 Hy Vọng Sụp Đổ - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=20704",
+    "title" : "05:45:04 Đất Bằng Sóng Dậy - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=23298",
+    "title" : "06:28:18 Trong Tay Lũ Sát Nhân - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=25807",
+    "title" : "07:10:07 Man Rợ Và Kinh Hoàng - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=29676",
+    "title" : "08:14:36 Chống Lại Bạo Tàn - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=32483",
+    "title" : "09:01:23 Đâu Bạn Đâu Thù - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=35596",
+    "title" : "09:53:16 Bãi Biển Bình Tuy - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1345-304-chuyen-nhung-nguoi-thao-chay-thuviensach.vn.mp3?t=37815",
+    "title" : "10:30:15 Tiểu Thuyết Hay - Phần Kết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

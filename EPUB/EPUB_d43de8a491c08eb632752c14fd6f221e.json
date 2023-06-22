@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tram-tich-tuyen-tap-truyen-ngan-14036.html",
+    "title" : "TRẦM TÍCH - TUYỂN TẬP TRUYỆN NGẮN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tổng hợp các truyện ngắn, tiểu thuyết trong chương trình Sách giáo khoa được thể hiện bởi các giọng đọc hàng đầu Việt Nam. Những tựa sách nói hay nhất mọi thời đại như Đắc nhân tâm, Đàn Ông Sao Hỏa, Đàn Bà Sao Kim… Những bộ tiểu thuyết của Quỳnh Dao, Hồ Biểu Chánh, Kim Dung được thể hiện bởi sự diễn xuất tài tình của các diễn viên lồng tiếng sẽ đem đến cho khán thính giả những cảm xúc chân thật và tinh tế nhất.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d43de8a491c08eb632752c14fd6f221e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d43de8a491c08eb632752c14fd6f221e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14036-tram-tich-tuyen-tap-truyen-ngan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14036-tram-tich-tuyen-tap-truyen-ngan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

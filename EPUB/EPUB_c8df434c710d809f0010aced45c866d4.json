@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-loi-cha-me-khong-nen-noi-2126.html",
+    "title" : "NHỮNG LỜI CHA MẸ KHÔNG NÊN NÓI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Maki Shino",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Tôi đã ghê tởm chính mình vì đã đánh đứa con trai nhỏ của mìn. Bọn trẻ thật biết cách làm ta phát điên. Con ngủ rồi nằm khóc vì hoang mang và ân hận vô cùng” - hơn một lời chia sẻ đến từ đáy lòng của những vị phụ huynh. Đã đến lúc bạn nên làm chủ cảm xúc của mình trong suốt quá trình nuôi dạy con trẻ. Nóng giận là bản năng, kiềm chế mới là bản lĩnh. Đừng để nóng giận điều khiển cách bạn dạy con bởi lời nói ra, hay một cú tát không bao giờ lấy lại được. Phía sau đó là sự ân hận, tự trách của nhiều ông bố bà mẹ. Cuốn sách Những Lời Cha Mẹ Không Nên Nói: Đừng Để Nóng Giận Điều Khiển Cách Bạn Dạy Con của tác giả Maki Shino đưa ra nguyên nhân, giải pháp cho hàng triệu ba mẹ trên khắp thế giới kiểm soát cơn giận và nuôi dạy con thành tài trong niềm vui hạnh phúc, tự hào.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c8df434c710d809f0010aced45c866d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c8df434c710d809f0010aced45c866d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2126-nhung-loi-cha-me-khong-nen-noi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2126-nhung-loi-cha-me-khong-nen-noi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

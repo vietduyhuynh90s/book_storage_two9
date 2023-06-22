@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/giap-mat-cuoc-doi-881.html",
+    "title" : "GIÁP MẶT CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jiddu Krishnamurti",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>GẶP GỠ CUỘC SỐNG J. KRISHNAMURTI Lời dịch: Ông Không MỤC LỤC GIỚI THIỆU PHẦN I: NHỮNG BÀI ĐỌC NGẮN Cái hồ Chết đi mọi thứ ngày hôm qua Cái vườn Vấn đề của sống Cây sồi Tự do là trật tự Thông minh và hành động tức khắc Con sông Sự liên hệ là gì? Cái trí tầm thường Cô đơn Cái bình nước không bao giờ có thể được đổ đầy Bản chất của sự Khiêm tốn Thiền định và Tình yêu Thiền định và Trải nghiệm Gửi một người trẻ Tình yêu không là Suy nghĩ Sự liên hệ có nghĩa gì? Vẻ đẹp là nguy hiểm PHẦN II: CÂU HỎI VÀ TRẢ LỜI Thiền định và Khoảnh khắc không thời gian Sợ hãi và Rối loạn Trạng thái của không Biết Tình yêu, Tình dục và Sống tôn giáo Một phỏng vấn trên truyền hình Khả năng lắng nghe Một thâm nhập vào tình bằng hữu Vẻ đẹp là gì? Tự do khỏi những Quyến luyến Nếu Người ta là Thế giới Hung hăng Ý muốn và Ham muốn Nơi Hiểu biết không được cần đến Đừng Van xin Sự Giúp đỡ Mục đích những Trường học của Krishnamurti Đương đầu với Xã hội Làm thế nào gặp gỡ Cuộc sống Đòi hỏi của Xã hội PHẦN III: NHỮNG NÓI CHUYỆN Một Cái trí tôn giáo là gì? Những Vấn đề của Tuổi trẻ Một Chất lượng của Cái trí không phân chia Tình yêu không thể được dạy bảo Hiểu rõ sự đau khổ Cái trí thanh thản Ánh sáng của Từ bi Về Thiền định Tự do Vượt khỏi sự Suy nghĩ và Thời gian Thời gian, Hành dộng và Sợ hãi Liệu có một Ý nghĩa đối với Sống? Một Cái trí bất động Sự kết thúc của Đau khổ là Tình yêu Vẻ đẹp, Đau khổ và Tình yêu</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ab658e805b1fd6e5e8815aea0cf62f5c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ab658e805b1fd6e5e8815aea0cf62f5c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Giáp Mặt Cuộc Đời - Bàn Về Sợ Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=1284",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:21:24 Giáp Mặt Cuộc Đời - Bàn Về Kỷ Luật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=2697",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:44:57 Giáp Mặt Cuộc Đời - Bàn Về Uy Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=4238",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:10:38 Giáp Mặt Cuộc Đời - Tìm Hiểu Về Cuộc Đời",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Giáp Mặt Cuộc Đời - Bàn Về Sợ Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=1284",
+    "title" : "00:21:24 Giáp Mặt Cuộc Đời - Bàn Về Kỷ Luật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=2697",
+    "title" : "00:44:57 Giáp Mặt Cuộc Đời - Bàn Về Uy Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/881-giap-mat-cuoc-doi-thuviensach.vn.mp3?t=4238",
+    "title" : "01:10:38 Giáp Mặt Cuộc Đời - Tìm Hiểu Về Cuộc Đời",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

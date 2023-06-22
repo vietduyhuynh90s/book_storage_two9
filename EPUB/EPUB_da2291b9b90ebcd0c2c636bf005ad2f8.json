@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thay-doi-suy-nghi-thay-doi-cuoc-doi-6925.html",
+    "title" : "THAY ĐỔI SUY NGHĨ, THAY ĐỔI CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đức Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bước đột phá đầu tiên trong cuộc đời bắt đầu xảy ra khi bạn nhận ra rằng có thể học mọi thứ bạn muốn để đạt được mọi mục tiêu bạn đặt ra cho mình. Bước đột phá thứ hai là khi bạn nhận ra rằng bạn thực sự chịu trách nhiệm về bản thân mình và những điều xảy ra. Không ai làm bất cứ điều gì cho bạn cả. Nếu bạn muốn thứ gì đó, nó thực sự xứng đáng để bạn làm những điều cần thiết để có được nó. Nếu gặp rắc rối hay trở ngại, nó xứng đáng để bạn giải quyết hay vượt qua. Bạn là chính bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_da2291b9b90ebcd0c2c636bf005ad2f8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_da2291b9b90ebcd0c2c636bf005ad2f8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/6925-thay-doi-suy-nghi-thay-doi-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/6925-thay-doi-suy-nghi-thay-doi-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

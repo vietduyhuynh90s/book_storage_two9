@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mon-ngon-ha-noi-1364.html",
+    "title" : "MÓN NGON HÀ NỘI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Bằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vào khoảng năm tàn tháng hết, ở miền Nam nước Việt có những buổi tối đìu hiu lạnh như mùa thu đất Bắc. Gió buồn đuổi lá rụng trên hè. Mây bạc nặng nề trôi đi chầm chậm như chia mối buồn của khách thiên lý tương tư. Người xa nhà đột nhiên thấy trống trải trong lòng. Lê bước chân trên những nẻo đường xa lạ, y thấy tiếc nhớ một cái gì không mất hẳn, nhưng không còn thấy. Nhớ vẩn vơ, buồn nhẹ nhẹ. Cái buồn không se sắt, cái nhớ không day dứt, nhưng chính cái buồn và cái nhớ đó mới thực làm cho người ta nhọc mệt, thẫn thờ. Lòng người, cũng như cánh hoa, chóng già đi vì thế. Người ta không nặng lắm về hiện tại, nhưng thiết tha với quá khứ hơn. Một tiếng dế ở chân tường, một ngọn gió vàng heo hắt, hay một tiếng lá đụng cành trâm đều nhắc nhở ta những kỷ niệm xa xôi, dìu dịu. Ngày xưa, người cung nữ ở trong tiêu phòng lạnh ngắt thấy xe dê thì nhớ đến lúc được quân vương ấp ủ thương yêu. Tiếng con ý nhi gợi lại ở trong lòng người chinh phụ buổi người tráng sĩ \"lâm hành\". Tại kinh đô Trương Hàn thấy lá ngô rụng giếng thu thì sực nhớ đến rau thuần, cá lư và muốn treo ấn trở về quê cũ. \"Gió thu một tiếng bên tai, Thuần, lư sực nhớ đến mùi Giang Nam. Đôi khi cũng mang bệnh nhớ nhung, người viết sách này vào lúc năm tàn hầu hết cũng ưa nghĩ đến một vài kỷ niệm xa xưa. Một chén trà sen do nhà ướp; mấy cái bánh Tô Châu nhấm nháp vào một hôm mát trời; một nồi cơm gạo tám ăn với thịt rim; bát canh cần bốc khói xanh nghi ngút; mấy quả cà Nghệ giòn tan hay mẻ cốm Vòng ăn với chuối tiêu trứng cuốc... tất cả những thứ đó, gợi cho ta một nỗi thèm tiếc mờ mờ, như làm rung động tới những nơi thầm kín nhất của lòng. Những lúc đó ta không thể không liên tưởng tới những ngày dịu ngọt bên cạnh mẹ già, vợ dại dưới cái mái nhà cũ kỹ rêu phong. Ngọn đèn không sáng lóe nhưng đủ soi một cách thân mật vào những mái tóc thân yêu; tiếng ca hát không nhiều nhưng đủ làm cho tim ta ấm áp; mà bữa cơm tuy là thanh đạm, nhưng đủ để cho ta ngon miệng hơn là ăn vây, ăn yến. Đi trong gió lạnh lùng, tôi nhớ đến những buổi sum họp êm đềm, tôi nhớ đến những bữa cơm thân mật, tôi nhớ đến những miếng ngon gia dụng và đêm đêm tôi đã ghi những nhận xét và cảm xúc đó lên trên mặt giấy. Hợp với những bài đã viết trước đây, cuốn sách nhỏ bé này không có tham vọng gì hơn là ghi lại được nỗi buồn nhớ xa xôi và gửi gắm một chút tình cho ai ai, ở Trung, Bắc cũng như Nam, mang nặng trong lòng những biệt ly xứ sở.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7cfc2d24f576c8e8482bcac45147e3c2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7cfc2d24f576c8e8482bcac45147e3c2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Miếng Ngon Hà Nội - Bánh Đúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=604",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:10:04 Miếng Ngon Hà Nội - Rươi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=2059",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:34:19 Miếng Ngon Hà Nội - Phở Gà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=2311",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:38:31 Miếng Ngon Hà Nội - Phở Bò",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=3444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:24 Miếng Ngon Hà Nội - Quà Bún.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=4420",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:13:40 Miếng Ngon Hà Nội - Gỏi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=5145",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:25:45 Miếng Ngon Hà Nội - Cháo Lòng, Tiết Canh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=6368",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:46:08 Miếng Ngon Hà Nội - Chả Cá",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Miếng Ngon Hà Nội - Bánh Đúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=604",
+    "title" : "00:10:04 Miếng Ngon Hà Nội - Rươi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=2059",
+    "title" : "00:34:19 Miếng Ngon Hà Nội - Phở Gà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=2311",
+    "title" : "00:38:31 Miếng Ngon Hà Nội - Phở Bò",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=3444",
+    "title" : "00:57:24 Miếng Ngon Hà Nội - Quà Bún.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=4420",
+    "title" : "01:13:40 Miếng Ngon Hà Nội - Gỏi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=5145",
+    "title" : "01:25:45 Miếng Ngon Hà Nội - Cháo Lòng, Tiết Canh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1364-mon-ngon-ha-noi-thuviensach.vn.mp3?t=6368",
+    "title" : "01:46:08 Miếng Ngon Hà Nội - Chả Cá",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

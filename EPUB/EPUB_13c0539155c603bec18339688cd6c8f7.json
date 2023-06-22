@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/luc-van-tien-7821.html",
+    "title" : "LỤC VÂN TIÊN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Chiểu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sơ lược tác giả NGUYỄN ĐÌNH CHIỂU (1822 - 1888) Ông là nhà thơ lớn của miền Nam vào nửa cuối thế kỷ 19, được nhân dân yêu mến gọi là Đồ Chiểu. Dù tài hoa nhưng cuộc đời ông lại không may gặp nhiều bất trắc. Sau khi mẹ mất vào năm 1848, ông lâm cảnh mù lòa. Dẫu vậy, ông vẫn cống hiến cho đời bằng việc dạy học, làm thuốc và đặc biệt là dùng ngòi bút mộc mạc, đậm hồn Nam Bộ để tiếp thêm sức mạnh tinh thần cho cuộc chiến tranh chống thực dân Pháp xâm lược của nhân dân ta. Giữa Lục Vân Tiên và cuộc đời Nguyễn Đình Chiểu có những nét tương đồng lớn, do vậy nhiều nhà nghiên cứu cho rằng cụ Đồ Chiểu đã mượn nét bút hồn thơ để bày tỏ niềm ước ao, khát vọng và lý tưởng mà bản thân ông hằng mong muốn, tuy nhiên lại bị cảnh mù lòa và sự loạn ly của thời cuộc ngăn cản: “Chở bao nhiêu đạo thuyền không khẳm, Đâm mấy thằng gian bút chẳng tà!” Giới thiệu tác phẩm Lục Vân Tiên là một tác phẩm truyện nôm nổi tiếng của Nguyễn Đình Chiểu, được sáng tác theo thể lục bát vào đầu những năm 50 của thế kỷ 19 và được Trương Vĩnh Ký cho xuất bản lần đầu tiên vào năm 1889. Đây là một trong những sáng tác có vị trí cao của văn học miền Nam Việt Nam. Tác phẩm được dịch giả Abel des Michels chuyển ngữ sang tiếng Pháp với tên gọi Lục Vân Tiên cổ tích truyện- Histoire de Luc Van Tien năm 1899. Truyện Lục Vân Tiên (mà người miền Nam thường gọi là thơ Lục Vân Tiên) là một cuốn về luân lý, cốt bàn đạo làm người với quan niệm văn dĩ tải đạo. Tác giả muốn đem gương người xưa vào tác phẩm để mà khuyên người ta về cương thường - đạo nghĩa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_13c0539155c603bec18339688cd6c8f7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_13c0539155c603bec18339688cd6c8f7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7821-luc-van-tien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7821-luc-van-tien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thoi-xa-vang-14069.html",
+    "title" : "THỜI XA VẮNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Lựu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Công cuộc đổi mới đất nước vừa được mở ra thì ngay lập tức văn học đã ghi được dấu ấn bất ngờ bằng tác phẩm Thời xa vắng của Lê Lựu. Ông viết từ mình, rút ruột mình ra mà kể chuyện mình, chuyện một người nhưng là chuyện của nhiều người, chuyện của một thế hệ, chuyện của một thời. Cái thời đó tác giả gọi là “Thời xa vắng” nhưng thật ra vẫn chưa qua. Đó là cái thời nhân vật Giang Minh Sài sống không phải là mình, nửa đời trước sống cho cái mình không có, nửa đời sau sống chạy theo cái không phải của mình. Nhân vật văn chương này đã được nhớ tên, được coi như một định ngữ chỉ một kiểu người, một kiểu sống, điều này rất ít có trong văn chương nhiều năm trước đó vốn chỉ có hình tượng nhân vật tập thể mà không thể gọi tên một nhân vật cụ thể nào. Thời xa vắng đã được đón đọc nồng nhiệt, ai đọc cũng thấy mình trong đó, và được giới phê bình coi là tác phẩm mở đầu cho một xu hướng của văn học đổi mới - xu hướng nhận thức lại thực tại. - Nhà LLPB Phạm Xuân Nguyên - Thời xa vắng là một tiểu thuyết tiêu biểu trong đời viết văn của nhà văn Lê Lựu. Tác phẩm ông chứa một dung lượng lớn chặng đường lịch sử 30 năm oai hùng của dân tộc, từ buổi lập nước đến lúc giải phóng toàn bộ đất nước. Lịch sử được khái quát bằng tiểu thuyết thông qua số phận của anh nông dân Giang Minh Sài: học giỏi, là niềm hy vọng, tự hào của cả gia đình và dòng họ. Nhưng cũng chính niềm tự hào đó cũng đã đặt lên vai cậu bé Sài một thứ áp lực vô hình, lúc nào cũng phải học phải làm theo những điều mà mọi người xung quanh cho là \"tốt nhất\". Lấy vợ cũng phải do cha mẹ chọn, ngủ với vợ cũng vì để tránh cái án kỷ luật làm ô nhục danh tiếng gia đì Là một người lính với vẻ ngoài thô mộc, khô khan nhưng thực chất bên trong con người Sài lại là một người đang vùng vẫy với niềm khao khát được yêu, được sống với cảm xúc thực sự của mình. Hơn nữa tác phẩm còn có nhiều tầng nhiều lớp với nhưng trăn trở rất đáng suy ngẫm của tác giả.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7fbbfa911e7fe88d85513845ea992078.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7fbbfa911e7fe88d85513845ea992078.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14069-thoi-xa-vang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14069-thoi-xa-vang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

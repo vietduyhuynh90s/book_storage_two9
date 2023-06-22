@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mua-he-do-lua-1432.html",
+    "title" : "MÙA HÈ ĐỎ LỬA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Nhật Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mùa hè đỏ lửa là nhan đề thiên tùy bút do tác giả Phan Nhật Nam thực hiện tháng 03 năm 1973 tại Quảng Trị, Sáng Tạo xuất bản năm 1972 và Hiện Đại tái bản năm 1973 đều tại Sài Gòn. Theo tự thuật, vào thời điểm khởi thảo - tháng 04 năm 1972, tác giả theo Lữ đoàn II Nhảy Dù đổ bộ xuống đồi Charlie (nơi được lính đặt biệt danh “nồi cơm điện National” vì mức độ quyết liệt) nhằm cắt đứt tuyến tiếp tế qua quốc lộ 14 của các sư đoàn cộng quân. Sau đó, nhân vật xưng Tôi lại theo nhiệm vụ tiếp ứng Tiểu đoàn I Thủy Quân Lục Chiến giải phóng quốc lộ 1 và toàn tỉnh Quảng Trị tới hết tháng 03 năm 1973. Tác phẩm được gửi in tại nhà Sáng Tạo ở đô thành Sài Gòn trong năm 1973 và liên tục được các san hành xã khác nhau tái bản, trở thành ấn phẩm chiến tranh ăn khách và gây ấn tượng nhất thập niên 1970 ở cả hai miền Việt Nam. Tới thời điểm 30 tháng 04 năm 1975, các nhà in này thậm chí chưa thanh toán hết nhuận bút cho tác giả. Sau sự kiện Tháng Tư Đen, Mùa hè đỏ lửa cùng mọi tác phẩm kí danh Phan Nhật Nam bị đem ra đường phố đốt trong “chiến dịch bài trừ văn hóa phẩm đồi trụy” năm 1978. Tuy nhiên, những ấn bản khác vẫn tồn tại ở nhiều thư viện tư thục nên nội dung không hề mai một theo thời đại. Ở thập niên 1980, tác phẩm lại được các nhà san hành hải ngoại cho tái xuất cả nguyên bản và dịch bản, đồng thời nội dung được đưa vào tàng trữ tại thư khố Đại học Michigan. Đến năm 1998, nhân kỉ niệm Ngày Quân Lực Việt Nam Cộng Hòa, tác giả Phan Nhật Nam bổ sung trong bản in mới các bài tựa để củng cố chiều sâu tác phẩm và tới nay được công nhận là bản lưu hành chính thức. Bản ấn loát tác phẩm Mùa hè đỏ lửa được chia thành 4 chương, xen 2 bài phi lộ. Tác phẩm tiếp nối phong cách Dấu binh lửa nhưng chủ đích khắc họa rõ hơn những mặt người thời chiến. Hiện thực chiến tranh tuy tàn khốc nhưng không bi lụy, thậm chí có những đoạn kể truyện rất tếu đời lính. Trong ấn bản cuối cùng năm 1998, tác giả đã hiệu chính tác phẩm theo thi pháp ca khúc Người ở lại Charlie của nhạc sĩ Trần Thiện Thanh và thi phẩm Chiều trên phá Tam Giang của thi sĩ Tô Thùy Yên, mà ở thời điểm Mùa hè đỏ lửa mới phát hành, những bài này chưa công bố.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_4056e30c5953f8e28853e9c9ef407bcf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_4056e30c5953f8e28853e9c9ef407bcf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1432-mua-he-do-lua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1432-mua-he-do-lua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

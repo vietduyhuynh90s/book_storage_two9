@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mai-mai-tuoi-20-1505.html",
+    "title" : "MÃI MÃI TUỔI 20",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Văn Thạc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhiều lúc mình cũng không ngờ nổi rằng mình đã đến đây. Không ngờ rằng trên mũ là một ngôi sao. Trên cổ áo là quân hàm đỏ. Cuộc đời bộ đội đến với mình tự nhiên quá, bình thản quá và cũng đột ngột quá. Thế là thế nào? Cách đây ít lâu, mình còn là sinh viên. Bây giờ thì xa vời lắm rồi những ngày cắp sách lên giảng đường, nghe thầy Đường, thầy Đạo... Không biết bao giờ mình sẽ trở lại những ngày như thế. Hay chẳng còn bao giờ nữa! Có thể lắm. Mình đã lớn rồi. Học bao lâu mà đã làm được gì đâu, đã sống được gì đâu? Chỉ còm cõi vì trang sách, gầy xác đi vì mộng mị hão huyền.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8548d91b52e01f0970e45bfc119a8b7b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8548d91b52e01f0970e45bfc119a8b7b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Mãi Mãi Tuổi Hai Mươi - Phần 1/5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=5260",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:27:40 Mãi Mãi Tuổi Hai Mươi - Phần 2/5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=9862",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:44:22 Mãi Mãi Tuổi Hai Mươi - Phần 3/5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=14240",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:57:20 Mãi Mãi Tuổi Hai Mươi - Phần 4/5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=19362",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:42 Mãi Mãi Tuổi Hai Mươi - Phần 5/5 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Mãi Mãi Tuổi Hai Mươi - Phần 1/5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=5260",
+    "title" : "01:27:40 Mãi Mãi Tuổi Hai Mươi - Phần 2/5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=9862",
+    "title" : "02:44:22 Mãi Mãi Tuổi Hai Mươi - Phần 3/5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=14240",
+    "title" : "03:57:20 Mãi Mãi Tuổi Hai Mươi - Phần 4/5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1505-mai-mai-tuoi-20-thuviensach.vn.mp3?t=19362",
+    "title" : "05:22:42 Mãi Mãi Tuổi Hai Mươi - Phần 5/5 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-loi-day-bi-mat-hang-ngay-8340.html",
+    "title" : "NHỮNG LỜI DẠY BÍ MẬT HÀNG NGÀY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Rhonda Byrne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>365 NGÀY DẠY HỌC TRUYỀN CẢM HỨNG TRONG BÀN TAY CỦA BẠN Trên khắp thế giới, The Secret đã giúp hàng triệu người sống cuộc sống như mơ của họ. Về sức khỏe cá nhân, sự nghiệp, tiền bạc, các mối quan hệ - trong mọi khía cạnh của cuộc sống - hàng triệu người đã thay đổi cuộc sống của họ bằng cách sử dụng các nguyên tắc vượt thời gian được Rhonda Byrne mở khóa trong bộ phim và cuốn sách cực kỳ thành công, “The Secret”. Gần đây hơn từ Bí mật đã xuất hiện Lịch bí mật hàng ngày và Bí mật hàng ngày giảng dạy, kết hợp nhiều hiểu biết hơn cho mỗi ngày và xây dựng tuyệt vời về sự thật mạnh mẽ của Bí mật. Giờ đây, những thông điệp hấp dẫn này - do Rhonda Byrne đích thân tạo ra để mang đến cho bạn sự rõ ràng, hiểu biết và thông thái mới mỗi ngày - có sẵn trực tiếp trên điện thoại hoặc máy tính bảng của bạn. Giờ đây, bạn có thể mang theo những lời dạy khôn ngoan nhất, hấp dẫn nhất của The Secret bên mình mọi lúc mọi nơi và truy cập chúng bất cứ khi nào bạn muốn! Ứng dụng Bí mật hàng ngày đưa ấn bản đã in vào một tầng bình lưu khác, cho phép bạn đọc Bí mật hàng ngày khi đang di chuyển và sống Bí mật 24/7, 365 ngày một năm. Bạn sẽ có 365 ngày giảng dạy đầy cảm hứng ngay trên điện thoại hoặc máy tính bảng của mình. Bạn thậm chí có thể đánh dấu và chia sẻ những đoạn văn yêu thích của mình. Ứng dụng Bí mật dạy hàng ngày - hiểu biết của bạn về Bí mật sắp mở rộng theo cấp số nhân! Bạn sẽ thực sự trở thành người tạo ra cuộc sống của bạn. ** Xin lưu ý: Bài giảng Hàng ngày của bạn không bao giờ hết hạn. Khi bạn đến cuối lịch 365 ngày, sẽ quay lại ngày đầu tiên để bạn thưởng thức lại những lời dạy của mình. **</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_13b200edc4196199b3b3ffe6ea31accc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_13b200edc4196199b3b3ffe6ea31accc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8340-nhung-loi-day-bi-mat-hang-ngay-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8340-nhung-loi-day-bi-mat-hang-ngay-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chu-be-thoat-nan-dam-tau-8801.html",
+    "title" : "CHÚ BÉ THOÁT NẠN ĐẮM TÀU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jules Verne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu thuyết \"Chú bé thoát nạn đắm tàu\" ra mắt bạn đọc Pháp năm 1885. Đây là cuốn tiểu thuyết duy nhất mà Jules Verne, nhà văn Pháp nổi tiếng thế giới về loại tiểu thuyết khoa học viễn tưởng và phiêu lưu mạo hiểm, viết chung với một tác giả khác. Jules Verne (1828-1905), nhà văn nổi tiếng chuyên viết về đề tài khoa học viễn tưởng. Ông đã để lại một di sản văn học - khoa học lớn: năm mươi bảy tác phẩm này đã đưa chúng ta vào thế giới thiên nhiên muôn màu, muôn vẻ. Và đồng tác giả của Jules Verne là André Laurie, nhà văn, nhà chính luận nổi tiếng, người đã tham gia tích cực vào công xã Paris. Jules Verne nổi tiếng ngay từ tác phẩm đầu tay của mình. Sách của ông được dịch ra nhiều thứ tiếng nước ngoài, phát hành rộng rãi khắp nơi và được đông đảo mọi người, nhất là giới trẻ, háo hức đón đọc. Trong những năm 1970, so với các tác giả khác, số sách của J. Verne được xuất bản đứng hàng thứ ba trên thế giới. Không phải ngẫu nhiên mà ông được mệnh danh là \"người bạn đường bất tử của tuổi trẻ.\" Nội dung chủ yếu của tiểu thuyết kể về số phận của một chú bé mới bảy, tám tháng tuổi, tình cờ sống sót trong vụ đắm tàu \"Cintia\". Chú được người đánh cá nghèo Nauy tìm thấy trong một chiếc nôi để trên phao bị sóng biển đánh trôi vào một vịnh biển, và đem về nuôi nấng, đặt tên là Erik. Erik lớn lên, được ăn học đầy đủ, cậu luôn tìm hiểu về thân thế của mình. Cậu đã vượt qua rất nhiều trở ngại, thử thách do thiên nhiên hà khắc, sự xảo quyệt và ti tiện của những kẻ bất nhân gây ra, quyết tâm đạt mục đích của mình... Hình tượng Erik trong tiểu thuyết đã chinh phục người đọc từ trang đầu tiên. Chàng thanh niên thông minh, tỏ rõ tính cách mạnh mẽ, dũng cảm trong mọi hành động, vững vàng vượt qua mọi thử thách gay go, trở thành một người anh hùng thật sự.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7a9f12732bc34de52d2521e3445ba378.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7a9f12732bc34de52d2521e3445ba378.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8801-chu-be-thoat-nan-dam-tau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8801-chu-be-thoat-nan-dam-tau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

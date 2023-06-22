@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/me-tu-hong-10769.html",
+    "title" : "ME TƯ HỒNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Tiến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hơn trăm năm rồi, người ta vẫn muốn đặt câu hỏi: Cô Tư Hồng là người có công hay có tội? Dựa trên các trang tư liệu, giai thoại dân gian về cuộc đời của người đàn bà có tính cách mạnh mẽ, quyết liệt nhưng cũng nữ tính, báo chí trước đây đã khai thác các khía cạnh khác nhau với những góc nhìn khác nhau, đôi khi đối nghịch. Cô Tư Hồng là người nổi danh khắp Bắc Kỳ cuối thế kỷ XIX, đầu thế kỷ XX vì trúng thầu phá tường thành Hà Nội năm 1894 - một sự kiện đụng chạm đến di sản “cung điện nghìn năm” của nhiều triều đại lẫn tổn thương tinh thần sĩ phu Bắc Hà trong hoàn cảnh thuộc địa. Nhưng đời cô Tư Hồng còn nhiều câu chuyện đình đám khác: mở công ty buôn bán đầu tiên của người Việt, làm từ thiện, lấy chồng Tàu, chồng Tây. Xinh đẹp, khêu gợi, thông minh đến độ tinh quái và làm đàn ông say mê, cuộc đời cô Tư Hồng vẫn còn đầy bí ẩn như một huyền thoại đất Hà thành. 120 năm sau, hiện ở Hà Nội vẫn tồn tại những công trình liên quan đến cô Tư Hồng quanh hồ Hoàn Kiếm hay khu phố Tây, chẳng hạn như hai chiếc ghế đá đầu tiên nơi công cộng của Hà thành ở 16 Lê Thái Tổ ngày nay hay khu nhà ở phố Quán Sứ, trường Việt Đức… Tiểu thuyết Me Tư Hồng của Nguyễn Ngọc Tiến dựa theo cuộc đời của cô Tư Hồng, có sự hư cấu mang “hình dáng tiểu thuyết chân dung”. Tuy nhiên cùng với nhân vật cô Tư Hồng, rất nhiều nhân vật khác trong tiểu thuyết là những người có thật. Bên cạnh đó hoàn cảnh lịch sử trong tiểu thuyết, địa danh, thời gian xảy ra sự kiện… cũng đã được ghi trong chính sử và dã sử, vì vậy có thể gọi Me Tư Hồng là tiểu thuyết tư liệu. Đây là một cố gắng nhìn lại con người và xã hội cách chúng ta đã hơn một thế kỷ. Qua tiểu thuyết Me Tư Hồng, người đọc nhận diện được một xã hội Việt Nam vào thời điểm đã suy vong các giá trị cũ, và cả nỗi bi kịch của con người trong sự va chạm giữa đạo đức truyền thống và văn minh vật chất tân thời, một bi kịch vẫn đậm tính thời sự.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_22d883acc99bfc516dfe52e547d88772.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_22d883acc99bfc516dfe52e547d88772.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10769-me-tu-hong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10769-me-tu-hong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

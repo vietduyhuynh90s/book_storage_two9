@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ngon-ngu-co-the-thong-minh-14054.html",
+    "title" : "NGÔN NGỮ CƠ THỂ THÔNG MINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Max A. Egger",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những gì được nói ra thường không thể hiện ý nghĩa chúng có, gần 70% giao tiếp của chúng ta là giao tiếp không lời! Nếu bạn muốn xây dựng mối quan hệ, tạo ra một ấn tượng tích cực và trở thành một người giao tiếp hiệu quả toàn diện, quyển sách Ngôn ngữ cơ thể thông minh này là thiết yếu để bạn hiểu được ‘ý tại ngôn ngoại’. Được viết bởi một nhà tâm lý học quản lý quốc tế, Ngôn ngữ cơ thể thông minhsẽ chỉ cho bạn biết cách hiểu được những phức tạp của ngôn ngữ cơ thể và làm thế nào để tối đa hóa kỹ năng giao tiếp cá nhân trong tất cả các mối quan hệ của bạn - trong cuộc sống và trong công việc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7cab1d7142ba7131bce4df2520dac9b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7cab1d7142ba7131bce4df2520dac9b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14054-ngon-ngu-co-the-thong-minh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14054-ngon-ngu-co-the-thong-minh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

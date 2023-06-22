@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-1324.html",
+    "title" : "XÁCH BA LÔ LÊN VÀ ĐI - TẬP 2: ĐỪNG CHẾT Ở CHÂU PHI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huyền Chip",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Những ai yêu mến Huyền Chip và theo dõi cuộc hành trình của châu Á của cô trong tập một “Xách ba lô lên và Đi” - “Châu Á là nhà. Đừng khóc!” có lẽ đã đủ kinh ngạc trước cái máu phiêu lưu của cô bạn nhỏ bé này. Đến tập hai, “Đừng chết ở châu Phi”, bạn đọc còn thấm thía hơn trước sự liều lĩnh của Chip. Chỉ có lòng can đảm lấp đầy trong ba lô, Chip hăng hái lên đường ngược xuôi châu Phi hoang dã. Đi dọc châu Phi một mình mặc những lời cảnh báo từ anh bạn thân Asher, Huyền Chip trải qua cung đường nguy hiểm nhất, đối mặt với cô đơn đến cùng cực, với cái đói, khát và căn bệnh thế kỷ. Cô trải qua những khó khăn mà mình chưa bao giờ tưởng tượng ra, những thách thức đã trở thành nỗi ám ảnh: bị sáu tên cướp cầm dao dí vào cổ, dân địa phương dai dẳng đeo bám xin tiền… Tuy nhiên, những điều đó không hạ gục được cô bạn nhỏ bé này và châu Phi vẫn là nơi cô mang nợ. Trái tim ấm áp của con người châu Phi khiến tất cả của vùng đất này trở thành nỗi nhớ day dứt trong Huyền. Với “Đừng chết ở châu Phi”, Huyền Chip vẫn cho thấy sự đơn giản, chân thật trong cách viết. Sự thẳng thắn của của một kẻ ưa mạo hiểm pha lẫn chất lãng mạn giúp “Xách ba lô lên và Đi” có sức hút đặc biệt. Trải nghiệm của cô ở châu Phi sẽ thêm lửa cho những ai muốn vượt qua giới hạn của bản thân và bước ra ngoài thế giới để khám phá chính mình.” --- Viết cho Bim, Hy vọng một ngày nào đó khi lớn lên, em sẽ hiểu điều chị muốn gửi gắm đến em qua quyển sách này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_155771141c6e81fc2bf73a9e9c4967e2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_155771141c6e81fc2bf73a9e9c4967e2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Mở Đầu - I Have A Dream",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=786",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:13:06 1: This Time For Africa - 2: Alice Ở Xử Sở Thần Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=1875",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:31:15 3: Tìm Việc Ở Addis Ababa - 4: Thịt Sống Mềm Mềm, Lành Lạnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=2741",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:45:41 5: Quyết Tâm Vào South Omo - 6: Ngày 1: Konso-Keyto-Key Afar-Jinka",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=3553",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:59:13 7: Ngày 2: Làng Người Mursi - 8: Key Afar",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=4196",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:09:56 9: Lễ Hội Nhảy Bò Của Người Banna - 10: Konso-Abar Minch-Addis Ababa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=5272",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:27:52 11: Đi Bộ Lên Phía Bắc - 12: Người Việt Ở Bahir Dar",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=6094",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:41:34 13: Bahir Bar-Gondar: Bị Lừa Ở Gondar - 14: Lalibela-Bebauch-Addis Ababa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=6754",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:34 15: Chip Sẽ Đi Nhờ Xe Dọc Châu Phi - 16: Con Đường Nguy Hiểm Nhất Châu Phi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=8042",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:14:02 17: Nếu Bạn Sống Được Thì Tôi Cũng Sống Được - 18: Denis",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=8864",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:27:44 19: Sống Chung Với Aids - 20: Chiến Dịch Chim Hồng Hạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=9826",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:43:46 21: Mombasa - 22: Chút Dư Vị Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=10715",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:58:35 23: Thiên Đường Hải Tặc Lamu - 24: Ngày Dài Nhất Cuộc Đời Mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=11956",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:19:16 25: Chip Đối Đầu Châu Phi - 26: Đi Lánh Nạn Ở Kilifi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=12439",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:27:19 27: Tạm Biệt Mombasa - 28: Gái Sòng Bạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=13111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:38:31 29: Một Dar Khác - 30: Arusha Và Zanzibar",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=13850",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:50:50 31: Chán Ngán Dar Es Salaam - 32: Làm Bà Mai Ở Dodoma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=14603",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:03:23 33: Tảng Đá Biết Nói Ở Iringa - 34: Ăn Tết Ở Châu Phi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=15141",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:12:21 35: Vượt Biên Vào Malawi - 36: Anh Chàng Buôn Xăng Lậu Và Cô Nàng Nhập Cư Bất Hợp Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=15768",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:22:48 37: Bạn Cũ Ở Nkhata Bay - 38: Lilongwe - Blantyre",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=16493",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:34:53 39: Tên Em Là Aisha - 40: Như Chưa Từng Đặt Chân Vào Malawi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=17339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:48:59 41: Dù Gì Thì Hôm Nay Cũng Là Một Ngày Mới - 42: Zambia Hoang Dã",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=17935",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:58:55 43: Phan Cuồng Bóng Đá Zambia - 44: Làm Việc Ở Zambia Hay Howard Và Những Người Bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=18970",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:16:10 45: Đen Tình Đỏ Bạc - 46: Vua Của Barotseland",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=20082",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:34:42 47: Ta Có Bình Xịt Hơi Cay, Ta Không Sợ Ai Hết - 48: Thác Ngonye",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=21017",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:50:17 49: Khói Mây Dậy Sấm - 50: Sang Zimbabwe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=21806",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:03:26 51: Harare, Thủ Đô Đẹp Nhất Của Châu Phi - 52: Lẻn Vào Great Zimbabwe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=22805",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:20:05 53: Phía Đông Zimbabwe - 54: Chimanimani",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=24807",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:53:27 55: Những Thị Trấn Đắt Đỏ Ở Mozambique - 56: Người Việt Nam Ở Mozambique - 57: Có Bước Chân Trở Về",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Mở Đầu - I Have A Dream",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=786",
+    "title" : "00:13:06 1: This Time For Africa - 2: Alice Ở Xử Sở Thần Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=1875",
+    "title" : "00:31:15 3: Tìm Việc Ở Addis Ababa - 4: Thịt Sống Mềm Mềm, Lành Lạnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=2741",
+    "title" : "00:45:41 5: Quyết Tâm Vào South Omo - 6: Ngày 1: Konso-Keyto-Key Afar-Jinka",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=3553",
+    "title" : "00:59:13 7: Ngày 2: Làng Người Mursi - 8: Key Afar",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=4196",
+    "title" : "01:09:56 9: Lễ Hội Nhảy Bò Của Người Banna - 10: Konso-Abar Minch-Addis Ababa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=5272",
+    "title" : "01:27:52 11: Đi Bộ Lên Phía Bắc - 12: Người Việt Ở Bahir Dar",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=6094",
+    "title" : "01:41:34 13: Bahir Bar-Gondar: Bị Lừa Ở Gondar - 14: Lalibela-Bebauch-Addis Ababa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=6754",
+    "title" : "01:52:34 15: Chip Sẽ Đi Nhờ Xe Dọc Châu Phi - 16: Con Đường Nguy Hiểm Nhất Châu Phi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=8042",
+    "title" : "02:14:02 17: Nếu Bạn Sống Được Thì Tôi Cũng Sống Được - 18: Denis",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=8864",
+    "title" : "02:27:44 19: Sống Chung Với Aids - 20: Chiến Dịch Chim Hồng Hạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=9826",
+    "title" : "02:43:46 21: Mombasa - 22: Chút Dư Vị Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=10715",
+    "title" : "02:58:35 23: Thiên Đường Hải Tặc Lamu - 24: Ngày Dài Nhất Cuộc Đời Mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=11956",
+    "title" : "03:19:16 25: Chip Đối Đầu Châu Phi - 26: Đi Lánh Nạn Ở Kilifi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=12439",
+    "title" : "03:27:19 27: Tạm Biệt Mombasa - 28: Gái Sòng Bạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=13111",
+    "title" : "03:38:31 29: Một Dar Khác - 30: Arusha Và Zanzibar",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=13850",
+    "title" : "03:50:50 31: Chán Ngán Dar Es Salaam - 32: Làm Bà Mai Ở Dodoma",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=14603",
+    "title" : "04:03:23 33: Tảng Đá Biết Nói Ở Iringa - 34: Ăn Tết Ở Châu Phi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=15141",
+    "title" : "04:12:21 35: Vượt Biên Vào Malawi - 36: Anh Chàng Buôn Xăng Lậu Và Cô Nàng Nhập Cư Bất Hợp Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=15768",
+    "title" : "04:22:48 37: Bạn Cũ Ở Nkhata Bay - 38: Lilongwe - Blantyre",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=16493",
+    "title" : "04:34:53 39: Tên Em Là Aisha - 40: Như Chưa Từng Đặt Chân Vào Malawi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=17339",
+    "title" : "04:48:59 41: Dù Gì Thì Hôm Nay Cũng Là Một Ngày Mới - 42: Zambia Hoang Dã",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=17935",
+    "title" : "04:58:55 43: Phan Cuồng Bóng Đá Zambia - 44: Làm Việc Ở Zambia Hay Howard Và Những Người Bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=18970",
+    "title" : "05:16:10 45: Đen Tình Đỏ Bạc - 46: Vua Của Barotseland",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=20082",
+    "title" : "05:34:42 47: Ta Có Bình Xịt Hơi Cay, Ta Không Sợ Ai Hết - 48: Thác Ngonye",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=21017",
+    "title" : "05:50:17 49: Khói Mây Dậy Sấm - 50: Sang Zimbabwe",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=21806",
+    "title" : "06:03:26 51: Harare, Thủ Đô Đẹp Nhất Của Châu Phi - 52: Lẻn Vào Great Zimbabwe",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=22805",
+    "title" : "06:20:05 53: Phía Đông Zimbabwe - 54: Chimanimani",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1324-xach-ba-lo-len-va-di-tap-2-dung-chet-o-chau-phi-thuviensach.vn.mp3?t=24807",
+    "title" : "06:53:27 55: Những Thị Trấn Đắt Đỏ Ở Mozambique - 56: Người Việt Nam Ở Mozambique - 57: Có Bước Chân Trở Về",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

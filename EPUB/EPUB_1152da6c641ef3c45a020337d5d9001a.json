@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vu-tru-va-con-nguoi-241.html",
+    "title" : "VŨ TRỤ VÀ CON NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Neverland",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vũ Trụ và Con Người. Ebook được tổng hợp từ 11 tập sách của dịch giả BẠCH LIÊN mang tên: “Những chỗ khó khăn trong khoa minh triết gọi là thông thiên học”. Bộ sách bao gồm các chủ đề sau: Tập 1: VŨ TRỤ VÀ THƯỢNG ĐẾ Tập 2: THÁI DƯƠNG HỆ CỦA CHÚNG TA Tập 3: DÃY ĐỊA CẦU CỦA CHÚNG TA Tập 4: NGUYÊN TỬ CĂN BẢN HỒNG TRẦN VÀ KIM QUANG TUYẾN Tập 5: HỒN KHÓM KIM THẠCH, THẢO MỘC, CẦM THÚ Tập 6: SỰ SANH HÓA CÁC GIỐNG DÂN TRÊN DÃY ĐỊA CẦU Tập 7: TẠI SAO SỰ TIẾN HÓA CỦA DÂN CHÚNG TRÊN ĐỊA CẦU KHÔNG ĐỒNG BỰC VỚI NHAU? Tập 8: QUẦN TIÊN HỘI VÀ SỰ CAI TRỊ THẾ GIAN Tập 9: VÀI SỰ NHẬN XÉT về HỎA TINH - THỦY TINH Tập 10: HỎA HẦU KHÁI LUẬN Tập 12: VÀI ĐIỂM CHÍNH TRONG TÂM THỨC HỌC</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1152da6c641ef3c45a020337d5d9001a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1152da6c641ef3c45a020337d5d9001a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/241-vu-tru-va-con-nguoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/241-vu-tru-va-con-nguoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

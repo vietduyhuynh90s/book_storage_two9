@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tri-tue-gia-tao-internet-da-lam-gi-chung-ta-1690.html",
+    "title" : "TRÍ TUỆ GIẢ TẠO - INTERNET ĐÃ LÀM GÌ CHÚNG TA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nicholas Carr",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách “Trí Tuệ Giả Tạo - Internet Đã Làm Gì Chúng Ta” của tác giả Nicholas Carr nằm trong top các tác phẩm best-seller về chủ đề khoa học - khám phá và được đề cử giải Pulitzer, cuốn sách được xem như là mồi lửa cho cuộc tranh luận dường như sẽ chẳng bao giờ chấm dứt về sức mạnh lẫn mối họa của công nghệ. Bao hàm trong nó cả lịch sử trí tuệ, khoa học phổ thông và phê phán văn hóa, Trí tuệ giả tạo tỏa sáng rực rỡ với những câu chuyện minh họa đậm nét khiến độc giả không thể nào quên, bên cạnh những câu hỏi sâu sắc mà nó đặt ra về nền tảng tinh thần của chúng ta ngày nay. Tác giả cuốn sách, Ông là ai: Nicholas Carr là tác giả của những cuốn sách nổi tiếng về công nghệ gồm The Shallows (Trí tuệ giả tạo), The Big Switch (Chuyển đổi lớn), và Does IT Matter? (IT đã hết thời?). Là cựu tổng biên tập của tạp chí Harvard Business Review, từng được đề cử giải thưởng cao quý Pulitzer, từ trước đến nay ông vẫn luôn thành công trong vai trò diễn giả và tác giả nhiều bài viết về công nghệ, kinh tế và văn hóa trên những tờ báo và tạp chí nổi tiếng như New York Times, Wall Street Journal, The Atlantic, Wired…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_cdcd204d4377b300585fa3ad93e9d441.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_cdcd204d4377b300585fa3ad93e9d441.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=103",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:01:43 Mở Đầu: Con Chó Giữ Nhà Và Tên Trộm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=500",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:08:20 Chương 1: Hal Và Tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=1850",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:30:50 Chương 2: Đường Sinh Tồn- Tản Mạn: Bộ Não Nghĩ Gì Khi Nó Nghĩ Về Chính Nó",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=3960",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:00 Chương 3: Công Cụ Tư Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=6011",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:40:11 Chương 4: Sâu Trong Trang Giấy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=8104",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:15:04 Tản Mạn Về Lee De Forest Và Phát Minh Audion Tuyệt Vời Của Ông - Chương 5: Phương Tiện Có Bản Chất Tổng Quát Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=10362",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:52:42 Chương 6: Hình Ảnh Thật Sự Của Một Cuốn Sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=12067",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:21:07 Chương 7: Bộ Não Của Người Tung Hứng - Tản Mạn Về Xu Thế Iq",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=15719",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:21:59 Chương 8: Giáo Hội Google",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=18888",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:14:48 Chương 9: Tìm Kiếm, Trí Nhớ - Tản Mạn Về Quá Trình Viết Cuốn Sách Này",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=21310",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:55:10 Chương 10: Một Thứ Như Tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=23800",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:36:40 Lời Kết: Yếu Tố Con Người",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=103",
+    "title" : "00:01:43 Mở Đầu: Con Chó Giữ Nhà Và Tên Trộm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=500",
+    "title" : "00:08:20 Chương 1: Hal Và Tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=1850",
+    "title" : "00:30:50 Chương 2: Đường Sinh Tồn- Tản Mạn: Bộ Não Nghĩ Gì Khi Nó Nghĩ Về Chính Nó",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=3960",
+    "title" : "01:06:00 Chương 3: Công Cụ Tư Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=6011",
+    "title" : "01:40:11 Chương 4: Sâu Trong Trang Giấy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=8104",
+    "title" : "02:15:04 Tản Mạn Về Lee De Forest Và Phát Minh Audion Tuyệt Vời Của Ông - Chương 5: Phương Tiện Có Bản Chất Tổng Quát Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=10362",
+    "title" : "02:52:42 Chương 6: Hình Ảnh Thật Sự Của Một Cuốn Sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=12067",
+    "title" : "03:21:07 Chương 7: Bộ Não Của Người Tung Hứng - Tản Mạn Về Xu Thế Iq",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=15719",
+    "title" : "04:21:59 Chương 8: Giáo Hội Google",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=18888",
+    "title" : "05:14:48 Chương 9: Tìm Kiếm, Trí Nhớ - Tản Mạn Về Quá Trình Viết Cuốn Sách Này",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=21310",
+    "title" : "05:55:10 Chương 10: Một Thứ Như Tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1690-tri-tue-gia-tao-internet-da-lam-gi-chung-ta-thuviensach.vn.mp3?t=23800",
+    "title" : "06:36:40 Lời Kết: Yếu Tố Con Người",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

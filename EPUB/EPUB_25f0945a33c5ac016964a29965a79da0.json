@@ -1,0 +1,461 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dich-kinh-tuong-giai-di-cao-quyen-thuong-1290.html",
+    "title" : "DỊCH KINH TƯỜNG GIẢI (DI CẢO) - QUYỂN THƯỢNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Giang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Dịch kinh Tường Giải là bộ sách phân tích và giải thích đầy đủ 64 quẻ của kinh Dịch theo tinh thần khoa học. Tác giả đã vận dụng các kiến thức của khoa học tự nhiên cũng như xã hội hiện đại để phân tích, tổng hợp và lý giải, chứng minh kinh Dịch thể hiện sự vận hành các quy luật tự nhiên của vũ trụ và quy luật vận động các hiện tượng xã hội từ cổ chí kim.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_25f0945a33c5ac016964a29965a79da0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_25f0945a33c5ac016964a29965a79da0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Dịch Kinh Tường Giải - Dẫn Nhập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=6702",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:42 Dịch Kinh Tường Giải - Luân Lý Của Dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=10057",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:37 Dịch Kinh Tường Giải - Bát Thuần Kiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=13111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:38:31 Dịch Kinh Tường Giải - Bát Thuần Khôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=15892",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:24:52 Dịch Kinh Tường Giải - Thủy Lôi Truân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=17610",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:53:30 Dịch Kinh Tường Giải - Sơn Thủy Mông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=19087",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:18:07 Dịch Kinh Tường Giải - Thủy Thiên Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=20028",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:33:48 Dịch Kinh Tường Giải - Thiên Thủy Tụng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=21452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:57:32 Dịch Kinh Tường Giải - Địa Thủy Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=22599",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:16:39 Dịch Kinh Tường Giải - Thủy Địa Tỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=23699",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:34:59 Dịch Kinh Tường Giải - Phong Thiên Tiểu Súc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=24523",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:48:43 Dịch Kinh Tường Giải - Thiên Trạch Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=25843",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:10:43 Dịch Kinh Tường Giải - Địa Thiên Thái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=27052",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:30:52 Dịch Kinh Tường Giải - Thiên Địa Bĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=28310",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:51:50 Dịch Kinh Tường Giải - Thiên Hỏa Đồng Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=29442",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:10:42 Dịch Kinh Tường Giải - Hoả Thiên Đại Hữu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=30720",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:32:00 Dịch Kinh Tường Giải - Địa Sơn Khiêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=31917",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:51:57 Dịch Kinh Tường Giải - Lôi Địa Dự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=33113",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:11:53 Dịch Kinh Tường Giải - Trạch Lôi Tùy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=34648",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:37:28 Dịch Kinh Tường Giải - Địa Trạch Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=35865",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:57:45 Dịch Kinh Tường Giải - Phong Địa Quán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=36627",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:10:27 Dịch Kinh Tường Giải - Hỏa Lôi Phê Hạp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=37647",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:27:27 Dịch Kinh Tường Giải - Sơn Hỏa Bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=39445",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:57:25 Dịch Kinh Tường Giải - Sơn Địa Bác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=40647",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:17:27 Dịch Kinh Tường Giải - Địa Lôi Phục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=41507",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:31:47 Dịch Kinh Tường Giải - Thiên Lôi Vô Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=42965",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:56:05 Dịch Kinh Tường Giải - Sơn Thiên Đại Súc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=43902",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:11:42 Dịch Kinh Tường Giải - Sơn Lôi Di",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=45538",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:38:58 Dịch Kinh Tường Giải - Bát Thuần Khảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=46663",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:57:43 Dịch Kinh Tường Giải - Bát Thuần Ly",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=47862",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:17:42 Dịch Kinh Tường Giải - Trạch Sơn Hàm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=48721",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:32:01 Dịch Kinh Tường Giải - Lôi Phong Hằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=50123",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:55:23 Dịch Kinh Tường Giải - Thiên Sơn Độn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=50919",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:08:39 Dịch Kinh Tường Giải - Lôi Thiên Đại Tráng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=51510",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:18:30 Dịch Kinh Tường Giải - Hỏa Địa Tấn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Dịch Kinh Tường Giải - Dẫn Nhập",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=6702",
+    "title" : "01:51:42 Dịch Kinh Tường Giải - Luân Lý Của Dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=10057",
+    "title" : "02:47:37 Dịch Kinh Tường Giải - Bát Thuần Kiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=13111",
+    "title" : "03:38:31 Dịch Kinh Tường Giải - Bát Thuần Khôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=15892",
+    "title" : "04:24:52 Dịch Kinh Tường Giải - Thủy Lôi Truân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=17610",
+    "title" : "04:53:30 Dịch Kinh Tường Giải - Sơn Thủy Mông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=19087",
+    "title" : "05:18:07 Dịch Kinh Tường Giải - Thủy Thiên Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=20028",
+    "title" : "05:33:48 Dịch Kinh Tường Giải - Thiên Thủy Tụng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=21452",
+    "title" : "05:57:32 Dịch Kinh Tường Giải - Địa Thủy Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=22599",
+    "title" : "06:16:39 Dịch Kinh Tường Giải - Thủy Địa Tỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=23699",
+    "title" : "06:34:59 Dịch Kinh Tường Giải - Phong Thiên Tiểu Súc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=24523",
+    "title" : "06:48:43 Dịch Kinh Tường Giải - Thiên Trạch Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=25843",
+    "title" : "07:10:43 Dịch Kinh Tường Giải - Địa Thiên Thái",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=27052",
+    "title" : "07:30:52 Dịch Kinh Tường Giải - Thiên Địa Bĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=28310",
+    "title" : "07:51:50 Dịch Kinh Tường Giải - Thiên Hỏa Đồng Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=29442",
+    "title" : "08:10:42 Dịch Kinh Tường Giải - Hoả Thiên Đại Hữu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=30720",
+    "title" : "08:32:00 Dịch Kinh Tường Giải - Địa Sơn Khiêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=31917",
+    "title" : "08:51:57 Dịch Kinh Tường Giải - Lôi Địa Dự",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=33113",
+    "title" : "09:11:53 Dịch Kinh Tường Giải - Trạch Lôi Tùy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=34648",
+    "title" : "09:37:28 Dịch Kinh Tường Giải - Địa Trạch Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=35865",
+    "title" : "09:57:45 Dịch Kinh Tường Giải - Phong Địa Quán",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=36627",
+    "title" : "10:10:27 Dịch Kinh Tường Giải - Hỏa Lôi Phê Hạp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=37647",
+    "title" : "10:27:27 Dịch Kinh Tường Giải - Sơn Hỏa Bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=39445",
+    "title" : "10:57:25 Dịch Kinh Tường Giải - Sơn Địa Bác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=40647",
+    "title" : "11:17:27 Dịch Kinh Tường Giải - Địa Lôi Phục",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=41507",
+    "title" : "11:31:47 Dịch Kinh Tường Giải - Thiên Lôi Vô Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=42965",
+    "title" : "11:56:05 Dịch Kinh Tường Giải - Sơn Thiên Đại Súc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=43902",
+    "title" : "12:11:42 Dịch Kinh Tường Giải - Sơn Lôi Di",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=45538",
+    "title" : "12:38:58 Dịch Kinh Tường Giải - Bát Thuần Khảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=46663",
+    "title" : "12:57:43 Dịch Kinh Tường Giải - Bát Thuần Ly",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=47862",
+    "title" : "13:17:42 Dịch Kinh Tường Giải - Trạch Sơn Hàm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=48721",
+    "title" : "13:32:01 Dịch Kinh Tường Giải - Lôi Phong Hằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=50123",
+    "title" : "13:55:23 Dịch Kinh Tường Giải - Thiên Sơn Độn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=50919",
+    "title" : "14:08:39 Dịch Kinh Tường Giải - Lôi Thiên Đại Tráng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1290-dich-kinh-tuong-giai-di-cao-quyen-thuong-thuviensach.vn.mp3?t=51510",
+    "title" : "14:18:30 Dịch Kinh Tường Giải - Hỏa Địa Tấn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
