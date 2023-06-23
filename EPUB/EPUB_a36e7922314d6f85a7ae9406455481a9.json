@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-doi-duc-phat-14097.html",
+    "title" : "CUỘC ĐỜI ĐỨC PHẬT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sīlacāra",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Một con người phi thường đã xuất hiện trên thế gian này, vì lợi ích cho số đông, vì lòng bi mẫn, vì sự tốt đẹp, vì lợi ích và hạnh phúc cho chư Thiên và loài Người.” - đó là những lời ca tụng về sự ra đời của đức Phật Thích Ca Mâu Ni trong kinh A Hàm. Sự xuất hiện của đức Phật trong cõi đời này đã đem lại cho nhân loại một kho tàng minh triết quý giá, những lời dạy của Ngài mở ra một cánh cửa hạnh phúc, bình an cho những ai có nhân duyên thực hành “đến để mà thấy”. Hơn hết, cuộc đời ngài là một bài học vĩ đại về nền tảng đạo đức, tinh thần từ bi và trí tuệ. Vì thể cuộc đời đức Phật luôn là nguồn cảm hứng bất tận cho các tác phẩm văn học - nghệ thuật, là đề tài hấp dẫn cho những nhà nghiên cứu. Minh chứng cho điều này là sự ra đời của vô số các tác phẩm điêu khắc, hội họa, điện ảnh, âm nhạc,…cũng như những đầu sách lịch sử, nghiên cứu có giá trị về cuộc đời của một bậc hiền triết vĩ đại. “Cuộc đời Đức Phật” của Ohta Hisashi là một trong những tác phẩm như thế. Với cách thể hiện đổi mới, cuộc đời đức Phật được kể lại bằng hình thức truyện tranh khiến người đọc dễ dàng hình dung được bối cảnh, không gian, hình ảnh của câu chuyện. Đồng thời, chính hình ảnh sẽ là một yếu tố góp phần khiến nội dung được khắc sâu trong tâm trí bạn đọc hơn so với những kênh chữ đơn thuần. Ngôn từ trong sách được sử dụng đơn giản, dễ hiểu không quá nhiều những thuật ngữ Phật giáo sẽ rất phù hợp cho những ai chưa có nhiều sự tìm hiểu về đức Phật.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_a36e7922314d6f85a7ae9406455481a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_a36e7922314d6f85a7ae9406455481a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Cuộc Đời Đức Phật - Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=1146",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:19:06 Cuộc Đời Đức Phật - Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=1996",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:16 Cuộc Đời Đức Phật - Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=3154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:52:34 Cuộc Đời Đức Phật - Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=4406",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:13:26 Cuộc Đời Đức Phật - Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=5901",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:38:21 Cuộc Đời Đức Phật - Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=7045",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:57:25 Cuộc Đời Đức Phật - Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=8357",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:19:17 Cuộc Đời Đức Phật - Tập 08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Cuộc Đời Đức Phật - Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=1146",
+    "title" : "00:19:06 Cuộc Đời Đức Phật - Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=1996",
+    "title" : "00:33:16 Cuộc Đời Đức Phật - Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=3154",
+    "title" : "00:52:34 Cuộc Đời Đức Phật - Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=4406",
+    "title" : "01:13:26 Cuộc Đời Đức Phật - Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=5901",
+    "title" : "01:38:21 Cuộc Đời Đức Phật - Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=7045",
+    "title" : "01:57:25 Cuộc Đời Đức Phật - Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14097-cuoc-doi-duc-phat-thuviensach.vn.mp3?t=8357",
+    "title" : "02:19:17 Cuộc Đời Đức Phật - Tập 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nang-co-don-buon-den-la-14001.html",
+    "title" : "NẮNG CÔ ĐƠN BUỒN ĐẾN LẠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Audio8X",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8c2787d1649a6952fc56cd0fbf10f56c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8c2787d1649a6952fc56cd0fbf10f56c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14001-nang-co-don-buon-den-la-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Nắng Cô Đơn Nắng Buồn Đến Lạ (Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14001-nang-co-don-buon-den-la-thuviensach.vn.mp3?t=491",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:08:11 Nắng Cô Đơn Nắng Buồn Đến Lạ (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14001-nang-co-don-buon-den-la-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Nắng Cô Đơn Nắng Buồn Đến Lạ (Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14001-nang-co-don-buon-den-la-thuviensach.vn.mp3?t=491",
+    "title" : "00:08:11 Nắng Cô Đơn Nắng Buồn Đến Lạ (Phần 2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

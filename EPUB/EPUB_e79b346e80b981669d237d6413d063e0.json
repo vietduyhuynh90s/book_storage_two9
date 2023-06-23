@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/pham-cach-cha-me-14090.html",
+    "title" : "PHẨM CÁCH CHA MẸ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bando Mariko",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bà Bando Mariko là nhà bình luận và chủ tịch hội đồng đời thứ 5 Đại học nữ sinh Showa, trải qua các chức vụ như tổng lãnh sự tại lãnh sự quán Nhật Bản ở thành phố Brisbane nước Úc (tổng lãnh sự nữ đầu tiên), trưởng phòng bình đẳng nam nữ trong phủ thủ tướng, cục trưởng bình đẳng năm nữ phủ nội các. Cuốn sách Phẩm cách cha mẹ của tác giả Bando Mariko gồm 7 chương: Giáo dục sinh mệnh (bắt đầu từ lời chào hỏi, đến việc cả gia đình cùng ăn cơm, cùng con ca hát, đọc sách, khám phá thiên nhiên); Giáo dục phép tắc cư xử (cho con giúp đỡ cha mẹ, tạo cho con thói quen sinh hoạt tốt…); Giáo dục nhân tính (luôn giữ lời hứa, khiêm tốn vừa phải, giúp con tự tin…); Sự tiếp xúc với trường học, Giáo dục trẻ tuổi teen; Cách tiếp cận thông tin; Duy trì mối quan hệ giữa cha mẹ và con cái khi các con đã trưởng thành; Sự kì vọng của cha mẹ đối với con cái là rất nhiều nhưng theo tác giả, phần lớn cha mẹ đều mong con mình trở thành thành viên của xã hội có thể sống độc lập, và có cuộc sống hạnh phúc: “Cha mẹ vì quá yêu thương con mà có xu hướng chăm sóc con quá mức nhưng việc nuôi dạy con để con có thể tự làm được những việc của bản thân là một trong những mục tiêu cơ bản của việc nuôi dạy con. Tự lập không phải là sự cô độc. Khi trẻ có thể sống mà không cần dựa dẫm vào người khác thì trẻ cũng sẽ có thể giúp đỡ những người khác bằng chính năng lực đó. Nếu như trẻ chỉ tiếp nhận sự giúp đỡ của người khác không thôi thì sẽ không thể hình thành được năng lực ấy.” Lẽ sống và giá trị quan của cha mẹ sẽ phần nào thể hiện qua việc nuôi dạy con cái. Quá trình nuôi dạy con cái cũng là quá trình cha mẹ hoàn thiện mình hơn. Vì vậy trước khi kì vọng ở con cái cha mẹ phải là người có phẩm cách. Bando Mariko rất quan tâm đến việc trau dồi tiếng mẹ đẻ và tạo thói quen đọc sách cho con ngay từ khi con còn nhỏ. Dù có đang cư trú ở nước ngoài đi chăng nữa thì cha mẹ Nhật cũng nên dùng tiếng mẹ đẻ trong gia đình. Bà cho rằng “trẻ con rất cần sử dụng tiếng Nhật cho thật chuẩn. Bởi vì nếu như trẻ không sử dụng tiếng Nhật chuẩn thì có khả năng “identity”, thứ là nền tảng cho sự tồn tại của bản thân sẽ bị mất đi” “Nếu như không có nền tảng tốt thì tòa nhà lộng lẫy xây trên đó cũng không thể nào vững được”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e79b346e80b981669d237d6413d063e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e79b346e80b981669d237d6413d063e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14090-pham-cach-cha-me-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14090-pham-cach-cha-me-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

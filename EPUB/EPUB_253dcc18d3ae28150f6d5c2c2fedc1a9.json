@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoi-am-giang-sinh-14000.html",
+    "title" : "HƠI ẤM GIÁNG SINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Audio8X",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_253dcc18d3ae28150f6d5c2c2fedc1a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_253dcc18d3ae28150f6d5c2c2fedc1a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14000-hoi-am-giang-sinh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hơi Ấm Giáng Sinh (Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14000-hoi-am-giang-sinh-thuviensach.vn.mp3?t=718",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:11:58 Hơi Ấm Giáng Sinh (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14000-hoi-am-giang-sinh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hơi Ấm Giáng Sinh (Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14000-hoi-am-giang-sinh-thuviensach.vn.mp3?t=718",
+    "title" : "00:11:58 Hơi Ấm Giáng Sinh (Phần 2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
