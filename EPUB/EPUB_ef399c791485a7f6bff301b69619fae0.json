@@ -1,0 +1,773 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hac-tay-du-muc-than-ky.html",
+    "title" : "Hắc Tây Du – Mục Thần Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trạch Thư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 216226,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ef399c791485a7f6bff301b69619fae0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ef399c791485a7f6bff301b69619fae0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/HacTayDu/H%E1%BA%AFc%20T%C3%A2y%20Du%20T%E1%BA%ADp%20trailer%202%20-%20T%E1%BA%ADp%201%20_%2011h00%20ng%C3%A0y%2018_12_2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 32,
+    "title" : "Hắc Tây Du Tập trailer 2 - Tập 1 _ 11h00 ngày 18_12_2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%201%5D%20H%E1%BA%AFc%20T%C3%A2y%20Du%20-%20V%C3%B9ng%20%C4%90%E1%BA%A5t%20B%E1%BB%8B%20Th%E1%BA%A7n%20Nguy%E1%BB%81n%20R%E1%BB%A7a%20_%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3176,
+    "title" : "[PHẦN 1] Hắc Tây Du - Vùng Đất Bị Thần Nguyền Rủa _ Truyện Tiên Hiệp Cực Hay _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2011%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%C3%A2u%20M%E1%BB%9Bi%20L%C3%A0%20Ki%E1%BA%BFm%20Ph%C3%A1p%20M%E1%BA%A1nh%20Nh%E1%BA%A5t%20Thi%C3%AAn%20H%E1%BA%A1%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "[PHẦN 11] HẮC TÂY DU - Đâu Mới Là Kiếm Pháp Mạnh Nhất Thiên Hạ - Siêu phẩm tiên hiệp _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2017%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Gi%E1%BA%BFt%20V%C3%A0o%20B%C3%B3ng%20T%E1%BB%91i%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Hay%20Kinh%20Kh%E1%BB%A7ng%20%20do%20MC%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "[PHẦN 17] HẮC TÂY DU - Giết Vào Bóng Tối _ Siêu Phẩm Hay Kinh Khủng  do MC Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/M%E1%BA%B9%20Gh%E1%BA%BB%20Con%20Ch%E1%BB%93ng%20T%E1%BA%ADp%2021_%20M%E1%BA%B9%20Thi%C3%AAn%20V%E1%BB%8B%20m%C3%A0y%20%C4%91%E1%BB%ABng%20h%C3%B2ng%20%C4%83n%20K%E1%BA%B9o%20Big%20spool%20vs%20Hubba%20bubba%20%E2%9D%A4%20KN%20CHENO.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 302,
+    "title" : "Mẹ Ghẻ Con Chồng Tập 21_ Mẹ Thiên Vị mày đừng hòng ăn Kẹo Big spool vs Hubba bubba ❤ KN CHENO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2044%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20S%E1%BB%91%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20ch%C3%BAc%20m%E1%BB%ABng%20n%C4%83m%20m%E1%BB%9Bi%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "[PHẦN 44] HẮC TÂY DU - Số đặc biệt chúc mừng năm mới _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2052%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ho%C3%A0ng%20%C4%90%E1%BA%BF%20vs%20Nh%C6%B0%20Lai%20-%20H%E1%BB%99i%20T%E1%BB%A5%20Anh%20T%C3%A0i%20_%20Ti%C3%AAn%20Hi%E1%BB%87p%20%C4%90%E1%BB%89nh%20C%E1%BA%A5p%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "[PHẦN 52] HẮC TÂY DU - Hoàng Đế vs Như Lai - Hội Tụ Anh Tài _ Tiên Hiệp Đỉnh Cấp _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2053%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Chi%E1%BA%BFn%20Th%E1%BA%A7n%20Tr%E1%BA%A3m%20Ho%C3%A0ng%20_%20S%E1%BB%91%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20c%E1%BA%A3m%20%C6%A1n%20%20fan%20ch%C3%A2n%20ch%C3%ADnh%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3761,
+    "title" : "[PHẦN 53] HẮC TÂY DU - Chiến Thần Trảm Hoàng _ Số đặc biệt cảm ơn  fan chân chính _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2054%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BA%A7n%20Y%20%C4%90%E1%BA%A1i%20Chi%E1%BA%BFn%20_%20S%E1%BB%91%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20-%20Ti%E1%BA%BFn%20Phong%20l%C3%BAc%20n%C3%A0o%20c%C5%A9ng%20y%C3%AAu%20fan%20c%E1%BB%A7a%20m%C3%ACnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3499,
+    "title" : "[PHẦN 54] HẮC TÂY DU - Thần Y Đại Chiến _ Số đặc biệt - Tiến Phong lúc nào cũng yêu fan của mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2012%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%C3%A1nh%20Tan%20360%20Ph%C3%B2ng%20Thi%C3%AAn%20Ma%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Do%20Ti%E1%BA%BFn%20Phong%20di%E1%BB%85n%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3724,
+    "title" : "[PHẦN 12] HẮC TÂY DU - Đánh Tan 360 Phòng Thiên Ma _ Siêu Phẩm Tiên Hiệp Do Tiến Phong diễn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%202%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ng%C5%A9%20Qu%C3%A1i%20Tu%E1%BB%95i%20T%C3%B4m%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3298,
+    "title" : "[PHẦN 2] Quá Hay với HẮC TÂY DU - Ngũ Quái Tuổi Tôm _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%203%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Khai%20M%E1%BB%9F%20Th%E1%BA%A7n%20T%C3%A0ng%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "[PHẦN 3] Quá Hay với HẮC TÂY DU - Khai Mở Thần Tàng _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%204%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Y%C3%AAu%20N%E1%BB%AF%20Trong%20Th%E1%BA%A7n%20Mi%E1%BA%BFu%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "[PHẦN 4] Quá Hay với HẮC TÂY DU - Yêu Nữ Trong Thần Miếu _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2045%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Di%E1%BB%87t%20Gi%C3%A1o%20Ch%E1%BB%A7%20Thi%C3%AAn%20Ma%20Gi%C3%A1o%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%20201%20_MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4233,
+    "title" : "[PHẦN 45] HẮC TÂY DU - Diệt Giáo Chủ Thiên Ma Giáo _ Siêu phẩm tiên hiệp hay nhất 201 _MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2046%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Nh%E1%BA%A5t%20ki%E1%BA%BFm%20khai%20ho%C3%A0ng%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%20201%20_MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "[PHẦN 46] HẮC TÂY DU - Nhất kiếm khai hoàng _ Siêu phẩm tiên hiệp hay nhất 201 _MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%205%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ba%CC%81%20Th%C3%AA%CC%89%20Th%C6%B0%CC%81c%20Ti%CC%89nh%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "[PHẦN 5] Quá Hay với HẮC TÂY DU - Bá Thể Thức Tỉnh _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%206%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ph%C3%A1%20Th%E1%BA%A7n%20T%C3%A2m%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3262,
+    "title" : "[PHẦN 6] Quá Hay với HẮC TÂY DU - Phá Thần Tâm _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%207%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Qu%C3%A1%20Kh%E1%BB%A9%20C%E1%BB%A7a%20Th%E1%BA%A7n%20Th%C6%B0%C6%A1ng_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3395,
+    "title" : "[PHẦN 7] Quá Hay với HẮC TÂY DU - Quá Khứ Của Thần Thương_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%208%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Gi%C3%A1c%20Ng%E1%BB%99_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "[PHẦN 8] Quá Hay với HẮC TÂY DU - Giác Ngộ_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%209%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Tam%20Hi%E1%BB%87p%20Tr%E1%BB%AB%20Y%C3%AAu_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "[PHẦN 9] HẮC TÂY DU - Tam Hiệp Trừ Yêu_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2010%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BB%AD%20S%E1%BB%A9c%20V%E1%BB%9Bi%20Thi%C3%AAn%20Ma_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "[PHẦN 10] HẮC TÂY DU - Thử Sức Với Thiên Ma_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2013%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C3%81c%20T%C4%83ng%20vs%20H%E1%BA%AFc%20Ph%E1%BA%ADt%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20%C4%91%C3%A1ng%20mong%20ch%E1%BB%9D%20nh%E1%BA%A5t%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4088,
+    "title" : "[PHẦN 13] HẮC TÂY DU - Ác Tăng vs Hắc Phật _ Siêu phẩm tiên hiệp đáng mong chờ nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2014%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BA%A1i%20Chi%E1%BA%BFn%20Long%20Th%C3%A0nh%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20%C4%91%C3%A1ng%20mong%20ch%E1%BB%9D%20nh%E1%BA%A5t%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5963,
+    "title" : "[PHẦN 14] HẮC TÂY DU - Đại Chiến Long Thành _ Siêu phẩm tiên hiệp đáng mong chờ nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2015%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Long%20Th%C3%A0nh%20%C4%90%E1%BB%95i%20Ch%E1%BB%A7%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20L%C3%A0m%20M%C6%B0a%20l%C3%A0m%20gi%C3%B3%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20n%C4%83m%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "[PHẦN 15] HẮC TÂY DU - Long Thành Đổi Chủ _ Siêu Phẩm Tiên Hiệp Làm Mưa làm gió thị trường năm 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2016%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C3%81m%20Gi%E1%BB%9Bi%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20L%C3%A0m%20M%C6%B0a%20l%C3%A0m%20gi%C3%B3%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20n%C4%83m%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "[PHẦN 16] HẮC TÂY DU - Ám Giới _ Siêu Phẩm Tiên Hiệp Làm Mưa làm gió thị trường năm 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2018%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ki%E1%BA%BFm%20B%E1%BA%A1t%20Qu%E1%BA%A7n%20Ma%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019%20_%20%20MC%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3453,
+    "title" : "[PHẦN 18] HẮC TÂY DU - Kiếm Bạt Quần Ma _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019 _  MC Tiến Phong kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2019%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20D%E1%BB%9Di%20Th%C3%B4n%20-%20L%E1%BB%85%20Tr%C6%B0%E1%BB%9Fng%20Th%C3%A0nh%20%C4%90%C3%A1ng%20Nh%E1%BB%9B%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3108,
+    "title" : "[PHẦN 19] HẮC TÂY DU - Dời Thôn - Lễ Trưởng Thành Đáng Nhớ _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2020%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%C4%90%E1%BA%A1o%20C%E1%BB%A7a%20Th%C3%A1nh%20Nh%C3%A2n%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "[PHẦN 20] HẮC TÂY DU -Đạo Của Thánh Nhân _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2021%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Huy%E1%BA%BFt%20%C3%81n%20L%E1%BB%87%20Ch%C3%A2u%20Th%C3%A0nh%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20c%E1%BB%A7a%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "[PHẦN 21] HẮC TÂY DU - Huyết Án Lệ Châu Thành _ Siêu phẩm tiên hiệp hay nhất 2019 của MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2022%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ph%E1%BB%91%20%C4%90%C3%A8n%20%C4%90%E1%BB%8F%20C%E1%BB%A7a%20Thi%C3%AAn%20Ma%20Gi%C3%A1o%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20_MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3065,
+    "title" : "[PHẦN 22] HẮC TÂY DU - Phố Đèn Đỏ Của Thiên Ma Giáo _ Siêu Phẩm Truyện Tiên Hiệp 2019 _MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2023%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20H%C3%ACnh%20D%C3%A1ng%20K%E1%BB%B3%20Qu%E1%BA%B7c%20c%E1%BB%A7a%20H%E1%BB%8Fa%20Th%E1%BA%A7n%20T%C3%A0ng%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3398,
+    "title" : "[PHẦN 23] HẮC TÂY DU - Hình Dáng Kỳ Quặc của Hỏa Thần Tàng _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2024%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BB%AD%20Th%C3%A1ch%20C%E1%BB%A7a%20T%E1%BB%95%20S%C6%B0%20Thi%C3%AAn%20Ma%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "[PHẦN 24] HẮC TÂY DU - Thử Thách Của Tổ Sư Thiên Ma _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2025%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20V%C3%B4%20%C4%90%E1%BB%8Bch%20Ng%C5%A9%20Di%E1%BB%87u%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3408,
+    "title" : "[PHẦN 25] HẮC TÂY DU - Vô Địch Ngũ Diệu _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2026%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1o%20H%E1%BB%93%20Ly%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "[PHẦN 26] HẮC TÂY DU - Cường Đạo Hồ Ly _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2027%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%E1%BB%ADu%20Long%20%C4%90%E1%BA%BF%20V%C6%B0%C6%A1ng%20C%C3%B4ng%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2800,
+    "title" : "[PHẦN 27] HẮC TÂY DU - Cửu Long Đế Vương Công - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2028%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ph%C3%A1%20%C4%90%E1%BA%A1o%20T%C3%A2m%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3961,
+    "title" : "[PHẦN 28] HẮC TÂY DU - Phá Đạo Tâm - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2029%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ti%E1%BB%83u%20Th%E1%BA%A7n%20Y%20Si%C3%AAu%20Qu%E1%BA%ADy%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4279,
+    "title" : "[PHẦN 29] HẮC TÂY DU - Tiểu Thần Y Siêu Quậy - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2030%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20V%C3%B5%20Kh%E1%BA%A3%20H%C3%A3n%20C%E1%BB%A7a%20%C4%90%E1%BA%A1i%20M%E1%BA%A1c-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3380,
+    "title" : "[PHẦN 30] HẮC TÂY DU - Võ Khả Hãn Của Đại Mạc- Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2031%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BA%A1i%20N%C3%A1o%20Ho%C3%A0ng%20Kim%20Cung-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "[PHẦN 31] HẮC TÂY DU - Đại Náo Hoàng Kim Cung- Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2032%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C3%B4ng%20Ph%C3%A1%20Ho%C3%A0ng%20Kim%20Cung%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "[PHẦN 32] HẮC TÂY DU - Công Phá Hoàng Kim Cung _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2033%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90o%E1%BA%A1t%20X%C3%A1%20Th%C3%A0nh%20Ng%E1%BB%A5y%20Th%E1%BA%A7n%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "[PHẦN 33] HẮC TÂY DU - Đoạt Xá Thành Ngụy Thần _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2034%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ti%E1%BB%81u%20Phu%20Truy%E1%BB%81n%20%C4%90%E1%BA%A1o%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "[PHẦN 34] HẮC TÂY DU - Tiều Phu Truyền Đạo _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2035%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BA%A1o%20Ch%C3%ADch%20Ho%C3%A0n%20L%C6%B0%C6%A1ng%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4586,
+    "title" : "[PHẦN 35] HẮC TÂY DU - Đạo Chích Hoàn Lương _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2036%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BB%AD%20Th%C3%A1ch%20C%E1%BB%A7a%20Qu%E1%BB%91c%20S%C6%B0%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "[PHẦN 36] HẮC TÂY DU - Thử Thách Của Quốc Sư _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2037%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C3%B5i%20%C3%82m%20T%E1%BA%ADp%20K%C3%ADch%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "[PHẦN 37] HẮC TÂY DU - Cõi Âm Tập Kích _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2038%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ma%20V%C6%B0%C6%A1ng%20Gi%C3%A1ng%20L%C3%A2m%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "[PHẦN 38] HẮC TÂY DU - Ma Vương Giáng Lâm _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2039%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Hi%E1%BB%87n%20nguy%C3%AAn%20h%C3%ACnh%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2313,
+    "title" : "[PHẦN 39] HẮC TÂY DU - Hiện nguyên hình - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2040%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3%20C%C3%B4%20%C4%90%C6%A1n%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "[PHẦN 40] HẮC TÂY DU - Cường Giả Cô Đơn - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2041%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%C3%B4%20Thi%C3%AAn%20%E1%BA%A8n%20N%E1%BA%A5p%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "[PHẦN 41] HẮC TÂY DU - Đô Thiên Ẩn Nấp - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2042%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ng%C6%B0%E1%BB%9Di%20G%E1%BB%8Di%20Ma%20%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "[PHẦN 42] HẮC TÂY DU - Người Gọi Ma  - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2043%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Vu%20T%C3%B4n%20L%C3%A2u%20La%20Cung%20%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5338,
+    "title" : "[PHẦN 43] HẮC TÂY DU - Vu Tôn Lâu La Cung  - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2047%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BB%93%20S%C3%A1t%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "[PHẦN 47] HẮC TÂY DU - Đồ Sát _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2048%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20V%C3%B9ng%20C%E1%BA%A5m%20Qu%E1%BB%B7%20Ng%E1%BB%A5c_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3651,
+    "title" : "[PHẦN 48] HẮC TÂY DU - Vùng Cấm Quỷ Ngục_ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2049%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Nh%C3%A2n%20Ho%C3%A0ng%20%C4%90%E1%BB%9Di%20K%E1%BA%BF%20Ti%E1%BA%BFp_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "[PHẦN 49] HẮC TÂY DU - Nhân Hoàng Đời Kế Tiếp_ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A8N%2050%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ho%E1%BA%A3%20C%E1%BB%91t%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20do%20MC%20Ti%E1%BA%BFn%20Phong%20di%E1%BB%85n%20k%E1%BB%83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "[PHẨN 50] HẮC TÂY DU - Hoả Cốt _ Siêu phẩm tiên hiệp hay nhất 2019 do MC Tiến Phong diễn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5B%20PH%E1%BA%A6N%2051%5D%20si%C3%AAu%20ph%E1%BA%A9m%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ma%20T%C3%A2m%20%C4%91%E1%BA%A5u%20Ph%E1%BA%ADt%20T%C3%A2m%20_%20Truy%E1%BB%87n%20ti%C3%AAn%20hi%E1%BB%87p%20hay%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "[ PHẦN 51] siêu phẩm HẮC TÂY DU - Ma Tâm đấu Phật Tâm _ Truyện tiên hiệp hay 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2055%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Vu%20Ph%C3%A1p%20Gi%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20%C4%91%E1%BB%89nh%20c%E1%BA%A5p%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "[PHẦN 55] HẮC TÂY DU - Vu Pháp Giết Người _ Cực phẩm tiên hiệp đỉnh cấp 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2056%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BB%99c%20T%C3%BAy%20-%20C%E1%BB%B1c%20ph%E1%BA%A9m%20trong%20c%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "[PHẦN 56] HẮC TÂY DU - Độc Túy - Cực phẩm trong cực phẩm tiên hiệp 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2057%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BA%A7n%20Ph%C3%A1%20Ho%E1%BA%A1i%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20b%C3%A1%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "[PHẦN 57] HẮC TÂY DU - Thần Phá Hoại _ Cực phẩm tiên hiệp bá nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2059%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Linh%20Binh%20%C4%90%E1%BB%87%20Nh%E1%BB%8B_%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20trong%20c%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "[PHẦN 59] HẮC TÂY DU - Linh Binh Đệ Nhị_ _ Cực phẩm trong cực phẩm tiên hiệp 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2060%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ki%E1%BA%BFm%20Th%E1%BA%A7n%20V%C3%B4%20%C6%AFu%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3773,
+    "title" : "[PHẦN 60] HẮC TÂY DU - Kiếm Thần Vô Ưu _ Cực phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/HacTayDu/H%E1%BA%AFc%20T%C3%A2y%20Du%20T%E1%BA%ADp%20trailer%202%20-%20T%E1%BA%ADp%201%20_%2011h00%20ng%C3%A0y%2018_12_2018.mp3",
+    "title" : "Hắc Tây Du Tập trailer 2 - Tập 1 _ 11h00 ngày 18_12_2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%201%5D%20H%E1%BA%AFc%20T%C3%A2y%20Du%20-%20V%C3%B9ng%20%C4%90%E1%BA%A5t%20B%E1%BB%8B%20Th%E1%BA%A7n%20Nguy%E1%BB%81n%20R%E1%BB%A7a%20_%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 1] Hắc Tây Du - Vùng Đất Bị Thần Nguyền Rủa _ Truyện Tiên Hiệp Cực Hay _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2011%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%C3%A2u%20M%E1%BB%9Bi%20L%C3%A0%20Ki%E1%BA%BFm%20Ph%C3%A1p%20M%E1%BA%A1nh%20Nh%E1%BA%A5t%20Thi%C3%AAn%20H%E1%BA%A1%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 11] HẮC TÂY DU - Đâu Mới Là Kiếm Pháp Mạnh Nhất Thiên Hạ - Siêu phẩm tiên hiệp _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2017%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Gi%E1%BA%BFt%20V%C3%A0o%20B%C3%B3ng%20T%E1%BB%91i%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Hay%20Kinh%20Kh%E1%BB%A7ng%20%20do%20MC%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 17] HẮC TÂY DU - Giết Vào Bóng Tối _ Siêu Phẩm Hay Kinh Khủng  do MC Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/M%E1%BA%B9%20Gh%E1%BA%BB%20Con%20Ch%E1%BB%93ng%20T%E1%BA%ADp%2021_%20M%E1%BA%B9%20Thi%C3%AAn%20V%E1%BB%8B%20m%C3%A0y%20%C4%91%E1%BB%ABng%20h%C3%B2ng%20%C4%83n%20K%E1%BA%B9o%20Big%20spool%20vs%20Hubba%20bubba%20%E2%9D%A4%20KN%20CHENO.mp3",
+    "title" : "Mẹ Ghẻ Con Chồng Tập 21_ Mẹ Thiên Vị mày đừng hòng ăn Kẹo Big spool vs Hubba bubba ❤ KN CHENO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2044%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20S%E1%BB%91%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20ch%C3%BAc%20m%E1%BB%ABng%20n%C4%83m%20m%E1%BB%9Bi%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 44] HẮC TÂY DU - Số đặc biệt chúc mừng năm mới _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2052%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ho%C3%A0ng%20%C4%90%E1%BA%BF%20vs%20Nh%C6%B0%20Lai%20-%20H%E1%BB%99i%20T%E1%BB%A5%20Anh%20T%C3%A0i%20_%20Ti%C3%AAn%20Hi%E1%BB%87p%20%C4%90%E1%BB%89nh%20C%E1%BA%A5p%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 52] HẮC TÂY DU - Hoàng Đế vs Như Lai - Hội Tụ Anh Tài _ Tiên Hiệp Đỉnh Cấp _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2053%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Chi%E1%BA%BFn%20Th%E1%BA%A7n%20Tr%E1%BA%A3m%20Ho%C3%A0ng%20_%20S%E1%BB%91%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20c%E1%BA%A3m%20%C6%A1n%20%20fan%20ch%C3%A2n%20ch%C3%ADnh%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 53] HẮC TÂY DU - Chiến Thần Trảm Hoàng _ Số đặc biệt cảm ơn  fan chân chính _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2054%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BA%A7n%20Y%20%C4%90%E1%BA%A1i%20Chi%E1%BA%BFn%20_%20S%E1%BB%91%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20-%20Ti%E1%BA%BFn%20Phong%20l%C3%BAc%20n%C3%A0o%20c%C5%A9ng%20y%C3%AAu%20fan%20c%E1%BB%A7a%20m%C3%ACnh.mp3",
+    "title" : "[PHẦN 54] HẮC TÂY DU - Thần Y Đại Chiến _ Số đặc biệt - Tiến Phong lúc nào cũng yêu fan của mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2012%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%C3%A1nh%20Tan%20360%20Ph%C3%B2ng%20Thi%C3%AAn%20Ma%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Do%20Ti%E1%BA%BFn%20Phong%20di%E1%BB%85n%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 12] HẮC TÂY DU - Đánh Tan 360 Phòng Thiên Ma _ Siêu Phẩm Tiên Hiệp Do Tiến Phong diễn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%202%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ng%C5%A9%20Qu%C3%A1i%20Tu%E1%BB%95i%20T%C3%B4m%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 2] Quá Hay với HẮC TÂY DU - Ngũ Quái Tuổi Tôm _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%203%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Khai%20M%E1%BB%9F%20Th%E1%BA%A7n%20T%C3%A0ng%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 3] Quá Hay với HẮC TÂY DU - Khai Mở Thần Tàng _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%204%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Y%C3%AAu%20N%E1%BB%AF%20Trong%20Th%E1%BA%A7n%20Mi%E1%BA%BFu%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 4] Quá Hay với HẮC TÂY DU - Yêu Nữ Trong Thần Miếu _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2045%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Di%E1%BB%87t%20Gi%C3%A1o%20Ch%E1%BB%A7%20Thi%C3%AAn%20Ma%20Gi%C3%A1o%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%20201%20_MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 45] HẮC TÂY DU - Diệt Giáo Chủ Thiên Ma Giáo _ Siêu phẩm tiên hiệp hay nhất 201 _MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2046%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Nh%E1%BA%A5t%20ki%E1%BA%BFm%20khai%20ho%C3%A0ng%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%20201%20_MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 46] HẮC TÂY DU - Nhất kiếm khai hoàng _ Siêu phẩm tiên hiệp hay nhất 201 _MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%205%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ba%CC%81%20Th%C3%AA%CC%89%20Th%C6%B0%CC%81c%20Ti%CC%89nh%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 5] Quá Hay với HẮC TÂY DU - Bá Thể Thức Tỉnh _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%206%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ph%C3%A1%20Th%E1%BA%A7n%20T%C3%A2m%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 6] Quá Hay với HẮC TÂY DU - Phá Thần Tâm _ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%207%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Qu%C3%A1%20Kh%E1%BB%A9%20C%E1%BB%A7a%20Th%E1%BA%A7n%20Th%C6%B0%C6%A1ng_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 7] Quá Hay với HẮC TÂY DU - Quá Khứ Của Thần Thương_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%208%5D%20Qu%C3%A1%20Hay%20v%E1%BB%9Bi%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Gi%C3%A1c%20Ng%E1%BB%99_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 8] Quá Hay với HẮC TÂY DU - Giác Ngộ_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%209%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Tam%20Hi%E1%BB%87p%20Tr%E1%BB%AB%20Y%C3%AAu_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 9] HẮC TÂY DU - Tam Hiệp Trừ Yêu_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2010%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BB%AD%20S%E1%BB%A9c%20V%E1%BB%9Bi%20Thi%C3%AAn%20Ma_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20do%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 10] HẮC TÂY DU - Thử Sức Với Thiên Ma_ Siêu Phẩm Tiên Hiệp 2019 do Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2013%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C3%81c%20T%C4%83ng%20vs%20H%E1%BA%AFc%20Ph%E1%BA%ADt%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20%C4%91%C3%A1ng%20mong%20ch%E1%BB%9D%20nh%E1%BA%A5t%202019.mp3",
+    "title" : "[PHẦN 13] HẮC TÂY DU - Ác Tăng vs Hắc Phật _ Siêu phẩm tiên hiệp đáng mong chờ nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2014%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BA%A1i%20Chi%E1%BA%BFn%20Long%20Th%C3%A0nh%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20%C4%91%C3%A1ng%20mong%20ch%E1%BB%9D%20nh%E1%BA%A5t%202019.mp3",
+    "title" : "[PHẦN 14] HẮC TÂY DU - Đại Chiến Long Thành _ Siêu phẩm tiên hiệp đáng mong chờ nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2015%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Long%20Th%C3%A0nh%20%C4%90%E1%BB%95i%20Ch%E1%BB%A7%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20L%C3%A0m%20M%C6%B0a%20l%C3%A0m%20gi%C3%B3%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20n%C4%83m%202019.mp3",
+    "title" : "[PHẦN 15] HẮC TÂY DU - Long Thành Đổi Chủ _ Siêu Phẩm Tiên Hiệp Làm Mưa làm gió thị trường năm 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2016%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C3%81m%20Gi%E1%BB%9Bi%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20L%C3%A0m%20M%C6%B0a%20l%C3%A0m%20gi%C3%B3%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20n%C4%83m%202019.mp3",
+    "title" : "[PHẦN 16] HẮC TÂY DU - Ám Giới _ Siêu Phẩm Tiên Hiệp Làm Mưa làm gió thị trường năm 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2018%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ki%E1%BA%BFm%20B%E1%BA%A1t%20Qu%E1%BA%A7n%20Ma%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019%20_%20%20MC%20Ti%E1%BA%BFn%20Phong%20k%E1%BB%83.mp3",
+    "title" : "[PHẦN 18] HẮC TÂY DU - Kiếm Bạt Quần Ma _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019 _  MC Tiến Phong kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2019%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20D%E1%BB%9Di%20Th%C3%B4n%20-%20L%E1%BB%85%20Tr%C6%B0%E1%BB%9Fng%20Th%C3%A0nh%20%C4%90%C3%A1ng%20Nh%E1%BB%9B%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "title" : "[PHẦN 19] HẮC TÂY DU - Dời Thôn - Lễ Trưởng Thành Đáng Nhớ _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2020%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%C4%90%E1%BA%A1o%20C%E1%BB%A7a%20Th%C3%A1nh%20Nh%C3%A2n%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 20] HẮC TÂY DU -Đạo Của Thánh Nhân _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2021%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Huy%E1%BA%BFt%20%C3%81n%20L%E1%BB%87%20Ch%C3%A2u%20Th%C3%A0nh%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20c%E1%BB%A7a%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 21] HẮC TÂY DU - Huyết Án Lệ Châu Thành _ Siêu phẩm tiên hiệp hay nhất 2019 của MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2022%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ph%E1%BB%91%20%C4%90%C3%A8n%20%C4%90%E1%BB%8F%20C%E1%BB%A7a%20Thi%C3%AAn%20Ma%20Gi%C3%A1o%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202019%20_MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 22] HẮC TÂY DU - Phố Đèn Đỏ Của Thiên Ma Giáo _ Siêu Phẩm Truyện Tiên Hiệp 2019 _MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2023%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20H%C3%ACnh%20D%C3%A1ng%20K%E1%BB%B3%20Qu%E1%BA%B7c%20c%E1%BB%A7a%20H%E1%BB%8Fa%20Th%E1%BA%A7n%20T%C3%A0ng%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "title" : "[PHẦN 23] HẮC TÂY DU - Hình Dáng Kỳ Quặc của Hỏa Thần Tàng _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2024%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BB%AD%20Th%C3%A1ch%20C%E1%BB%A7a%20T%E1%BB%95%20S%C6%B0%20Thi%C3%AAn%20Ma%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "title" : "[PHẦN 24] HẮC TÂY DU - Thử Thách Của Tổ Sư Thiên Ma _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2025%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20V%C3%B4%20%C4%90%E1%BB%8Bch%20Ng%C5%A9%20Di%E1%BB%87u%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "title" : "[PHẦN 25] HẮC TÂY DU - Vô Địch Ngũ Diệu _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2026%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1o%20H%E1%BB%93%20Ly%20_%20Si%C3%AAu%20Ph%E1%BA%A9m%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202019.mp3",
+    "title" : "[PHẦN 26] HẮC TÂY DU - Cường Đạo Hồ Ly _ Siêu Phẩm Tiên Hiệp Hay Nhất 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2027%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%E1%BB%ADu%20Long%20%C4%90%E1%BA%BF%20V%C6%B0%C6%A1ng%20C%C3%B4ng%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 27] HẮC TÂY DU - Cửu Long Đế Vương Công - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2028%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ph%C3%A1%20%C4%90%E1%BA%A1o%20T%C3%A2m%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 28] HẮC TÂY DU - Phá Đạo Tâm - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2029%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ti%E1%BB%83u%20Th%E1%BA%A7n%20Y%20Si%C3%AAu%20Qu%E1%BA%ADy%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 29] HẮC TÂY DU - Tiểu Thần Y Siêu Quậy - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2030%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20V%C3%B5%20Kh%E1%BA%A3%20H%C3%A3n%20C%E1%BB%A7a%20%C4%90%E1%BA%A1i%20M%E1%BA%A1c-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 30] HẮC TÂY DU - Võ Khả Hãn Của Đại Mạc- Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2031%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BA%A1i%20N%C3%A1o%20Ho%C3%A0ng%20Kim%20Cung-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 31] HẮC TÂY DU - Đại Náo Hoàng Kim Cung- Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2032%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C3%B4ng%20Ph%C3%A1%20Ho%C3%A0ng%20Kim%20Cung%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 32] HẮC TÂY DU - Công Phá Hoàng Kim Cung _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2033%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90o%E1%BA%A1t%20X%C3%A1%20Th%C3%A0nh%20Ng%E1%BB%A5y%20Th%E1%BA%A7n%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 33] HẮC TÂY DU - Đoạt Xá Thành Ngụy Thần _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2034%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ti%E1%BB%81u%20Phu%20Truy%E1%BB%81n%20%C4%90%E1%BA%A1o%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 34] HẮC TÂY DU - Tiều Phu Truyền Đạo _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2035%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BA%A1o%20Ch%C3%ADch%20Ho%C3%A0n%20L%C6%B0%C6%A1ng%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 35] HẮC TÂY DU - Đạo Chích Hoàn Lương _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2036%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BB%AD%20Th%C3%A1ch%20C%E1%BB%A7a%20Qu%E1%BB%91c%20S%C6%B0%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 36] HẮC TÂY DU - Thử Thách Của Quốc Sư _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2037%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C3%B5i%20%C3%82m%20T%E1%BA%ADp%20K%C3%ADch%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 37] HẮC TÂY DU - Cõi Âm Tập Kích _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2038%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ma%20V%C6%B0%C6%A1ng%20Gi%C3%A1ng%20L%C3%A2m%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 38] HẮC TÂY DU - Ma Vương Giáng Lâm _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2039%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Hi%E1%BB%87n%20nguy%C3%AAn%20h%C3%ACnh%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 39] HẮC TÂY DU - Hiện nguyên hình - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2040%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20C%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3%20C%C3%B4%20%C4%90%C6%A1n%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 40] HẮC TÂY DU - Cường Giả Cô Đơn - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2041%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%C3%B4%20Thi%C3%AAn%20%E1%BA%A8n%20N%E1%BA%A5p%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 41] HẮC TÂY DU - Đô Thiên Ẩn Nấp - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2042%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ng%C6%B0%E1%BB%9Di%20G%E1%BB%8Di%20Ma%20%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 42] HẮC TÂY DU - Người Gọi Ma  - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2043%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Vu%20T%C3%B4n%20L%C3%A2u%20La%20Cung%20%20-%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 43] HẮC TÂY DU - Vu Tôn Lâu La Cung  - Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2047%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BB%93%20S%C3%A1t%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 47] HẮC TÂY DU - Đồ Sát _ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2048%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20V%C3%B9ng%20C%E1%BA%A5m%20Qu%E1%BB%B7%20Ng%E1%BB%A5c_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 48] HẮC TÂY DU - Vùng Cấm Quỷ Ngục_ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2049%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Nh%C3%A2n%20Ho%C3%A0ng%20%C4%90%E1%BB%9Di%20K%E1%BA%BF%20Ti%E1%BA%BFp_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 49] HẮC TÂY DU - Nhân Hoàng Đời Kế Tiếp_ Siêu phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A8N%2050%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ho%E1%BA%A3%20C%E1%BB%91t%20_%20Si%C3%AAu%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20do%20MC%20Ti%E1%BA%BFn%20Phong%20di%E1%BB%85n%20k%E1%BB%83.mp3",
+    "title" : "[PHẨN 50] HẮC TÂY DU - Hoả Cốt _ Siêu phẩm tiên hiệp hay nhất 2019 do MC Tiến Phong diễn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5B%20PH%E1%BA%A6N%2051%5D%20si%C3%AAu%20ph%E1%BA%A9m%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ma%20T%C3%A2m%20%C4%91%E1%BA%A5u%20Ph%E1%BA%ADt%20T%C3%A2m%20_%20Truy%E1%BB%87n%20ti%C3%AAn%20hi%E1%BB%87p%20hay%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[ PHẦN 51] siêu phẩm HẮC TÂY DU - Ma Tâm đấu Phật Tâm _ Truyện tiên hiệp hay 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2055%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Vu%20Ph%C3%A1p%20Gi%E1%BA%BFt%20Ng%C6%B0%E1%BB%9Di%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20%C4%91%E1%BB%89nh%20c%E1%BA%A5p%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 55] HẮC TÂY DU - Vu Pháp Giết Người _ Cực phẩm tiên hiệp đỉnh cấp 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2056%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20%C4%90%E1%BB%99c%20T%C3%BAy%20-%20C%E1%BB%B1c%20ph%E1%BA%A9m%20trong%20c%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 56] HẮC TÂY DU - Độc Túy - Cực phẩm trong cực phẩm tiên hiệp 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2057%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Th%E1%BA%A7n%20Ph%C3%A1%20Ho%E1%BA%A1i%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20b%C3%A1%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 57] HẮC TÂY DU - Thần Phá Hoại _ Cực phẩm tiên hiệp bá nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2059%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Linh%20Binh%20%C4%90%E1%BB%87%20Nh%E1%BB%8B_%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20trong%20c%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 59] HẮC TÂY DU - Linh Binh Đệ Nhị_ _ Cực phẩm trong cực phẩm tiên hiệp 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HacTayDu/%5BPH%E1%BA%A6N%2060%5D%20H%E1%BA%AEC%20T%C3%82Y%20DU%20-%20Ki%E1%BA%BFm%20Th%E1%BA%A7n%20V%C3%B4%20%C6%AFu%20_%20C%E1%BB%B1c%20ph%E1%BA%A9m%20ti%C3%AAn%20hi%E1%BB%87p%20hay%20nh%E1%BA%A5t%202019%20_%20MC%20Ti%E1%BA%BFn%20Phong.mp3",
+    "title" : "[PHẦN 60] HẮC TÂY DU - Kiếm Thần Vô Ưu _ Cực phẩm tiên hiệp hay nhất 2019 _ MC Tiến Phong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
