@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-toc-dai.html",
+    "title" : "Quỷ Tóc Dài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 66797,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_290b309dd0fd8c858fd81694f819eb44.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_290b309dd0fd8c858fd81694f819eb44.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "quy-toc-dai-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2998,
+    "title" : "quy-toc-dai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "quy-toc-dai-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2791,
+    "title" : "quy-toc-dai-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "quy-toc-dai-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2780,
+    "title" : "quy-toc-dai-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2755,
+    "title" : "quy-toc-dai-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "quy-toc-dai-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2784,
+    "title" : "quy-toc-dai-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "quy-toc-dai-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2776,
+    "title" : "quy-toc-dai-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "quy-toc-dai-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2672,
+    "title" : "quy-toc-dai-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "quy-toc-dai-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2817,
+    "title" : "quy-toc-dai-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2652,
+    "title" : "quy-toc-dai-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "quy-toc-dai-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2798,
+    "title" : "quy-toc-dai-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "quy-toc-dai-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2720,
+    "title" : "quy-toc-dai-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "quy-toc-dai-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "quy-toc-dai-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2869,
+    "title" : "quy-toc-dai-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2789,
+    "title" : "quy-toc-dai-tap-24",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-1.mp3",
+    "title" : "quy-toc-dai-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-2.mp3",
+    "title" : "quy-toc-dai-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-3.mp3",
+    "title" : "quy-toc-dai-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-4.mp3",
+    "title" : "quy-toc-dai-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-5.mp3",
+    "title" : "quy-toc-dai-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-6.mp3",
+    "title" : "quy-toc-dai-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-7.mp3",
+    "title" : "quy-toc-dai-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-8.mp3",
+    "title" : "quy-toc-dai-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-9.mp3",
+    "title" : "quy-toc-dai-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-10.mp3",
+    "title" : "quy-toc-dai-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-11.mp3",
+    "title" : "quy-toc-dai-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-12.mp3",
+    "title" : "quy-toc-dai-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-13.mp3",
+    "title" : "quy-toc-dai-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-14.mp3",
+    "title" : "quy-toc-dai-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-15.mp3",
+    "title" : "quy-toc-dai-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-16.mp3",
+    "title" : "quy-toc-dai-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-17.mp3",
+    "title" : "quy-toc-dai-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-18.mp3",
+    "title" : "quy-toc-dai-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-19.mp3",
+    "title" : "quy-toc-dai-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-20.mp3",
+    "title" : "quy-toc-dai-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-21.mp3",
+    "title" : "quy-toc-dai-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-22.mp3",
+    "title" : "quy-toc-dai-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-23.mp3",
+    "title" : "quy-toc-dai-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-toc-dai/quy-toc-dai-tap-24.mp3",
+    "title" : "quy-toc-dai-tap-24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/huyet-le-song-sinh.html",
+    "title" : "Huyết Lệ Song Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoài Thương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11109,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_24d320bbfa35fbe36c4bdcddcf68ee7b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_24d320bbfa35fbe36c4bdcddcf68ee7b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyet-le-song-sinh/huyet-le-song-sinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5964,
+    "title" : "huyet-le-song-sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-le-song-sinh/huyet-le-song-sinh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5145,
+    "title" : "huyet-le-song-sinh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyet-le-song-sinh/huyet-le-song-sinh.mp3",
+    "title" : "huyet-le-song-sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-le-song-sinh/huyet-le-song-sinh-tap-2.mp3",
+    "title" : "huyet-le-song-sinh-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/an-tet-trong-nghia-dia.html",
+    "title" : "Ăn Tết Trong Nghĩa Địa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đại Thất Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7105,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d88f0ce59e5a19bfa1e227da5d7d2891.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d88f0ce59e5a19bfa1e227da5d7d2891.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-tet-trong-nghia-dia/an-tet-trong-nghia-dia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7105,
+    "title" : "an-tet-trong-nghia-dia",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-tet-trong-nghia-dia/an-tet-trong-nghia-dia.mp3",
+    "title" : "an-tet-trong-nghia-dia",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

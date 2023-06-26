@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mua-he-ky-quai.html",
+    "title" : "Mùa Hè Kỳ Quái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kinh Hỷ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 14550,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_8445cdc102e860ed6f26d467dcb1adb6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_8445cdc102e860ed6f26d467dcb1adb6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mua-he-ky-quai/mua-he-ky-quai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8053,
+    "title" : "mua-he-ky-quai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mua-he-ky-quai/mua-he-ky-quai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6497,
+    "title" : "mua-he-ky-quai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mua-he-ky-quai/mua-he-ky-quai.mp3",
+    "title" : "mua-he-ky-quai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mua-he-ky-quai/mua-he-ky-quai-tap-2.mp3",
+    "title" : "mua-he-ky-quai-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

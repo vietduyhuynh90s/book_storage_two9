@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ma-ga-tay-bac.html",
+    "title" : "Ma Gà Tây Bắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 20400,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_0799c1cc1f66ef546117a578d27d6593.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_0799c1cc1f66ef546117a578d27d6593.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-ga-tay-bac/ma-ga-tay-bac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6590,
+    "title" : "ma-ga-tay-bac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ga-tay-bac/ma-ga-tay-bac-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5865,
+    "title" : "ma-ga-tay-bac-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-ga-tay-bac/ma-ga-tay-bac-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7945,
+    "title" : "ma-ga-tay-bac-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-ga-tay-bac/ma-ga-tay-bac.mp3",
+    "title" : "ma-ga-tay-bac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ga-tay-bac/ma-ga-tay-bac-tap-2.mp3",
+    "title" : "ma-ga-tay-bac-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-ga-tay-bac/ma-ga-tay-bac-tap-3.mp3",
+    "title" : "ma-ga-tay-bac-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ky-tuc-xa-dai-hoc-y.html",
+    "title" : "Ký Túc Xá Đại Học Y",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mộc Mộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 8147,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5a9228acb1e98305066c93305febf8c5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5a9228acb1e98305066c93305febf8c5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kytucxadaihocyNTM/ky-tuc-xa-dai-hoc-y-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4282,
+    "title" : "ky-tuc-xa-dai-hoc-y-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kytucxadaihocyNTM/ky-tuc-xa-dai-hoc-y-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3865,
+    "title" : "ky-tuc-xa-dai-hoc-y-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kytucxadaihocyNTM/ky-tuc-xa-dai-hoc-y-tap-1.mp3",
+    "title" : "ky-tuc-xa-dai-hoc-y-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kytucxadaihocyNTM/ky-tuc-xa-dai-hoc-y-tap-2.mp3",
+    "title" : "ky-tuc-xa-dai-hoc-y-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

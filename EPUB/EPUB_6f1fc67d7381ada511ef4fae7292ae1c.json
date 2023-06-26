@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/con-quy-an-ban.html",
+    "title" : "Con Quỷ Ăn Bẩn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Kun",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 12769,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6f1fc67d7381ada511ef4fae7292ae1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6f1fc67d7381ada511ef4fae7292ae1c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-quy-an-ban/con-quy-an-ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7300,
+    "title" : "con-quy-an-ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-quy-an-ban/con-quy-an-ban-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5469,
+    "title" : "con-quy-an-ban-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-quy-an-ban/con-quy-an-ban.mp3",
+    "title" : "con-quy-an-ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-quy-an-ban/con-quy-an-ban-tap-2.mp3",
+    "title" : "con-quy-an-ban-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

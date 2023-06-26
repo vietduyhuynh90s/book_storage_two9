@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/trang-mau.html",
+    "title" : "Trăng Máu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Ngọc Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 20855,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3cf1b9e741fc18ef130cf1fb770776a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3cf1b9e741fc18ef130cf1fb770776a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trang-mau/trang-mau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4072,
+    "title" : "trang-mau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4244,
+    "title" : "trang-mau-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4123,
+    "title" : "trang-mau-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4266,
+    "title" : "trang-mau-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4150,
+    "title" : "trang-mau-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trang-mau/trang-mau.mp3",
+    "title" : "trang-mau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-2.mp3",
+    "title" : "trang-mau-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-3.mp3",
+    "title" : "trang-mau-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-4.mp3",
+    "title" : "trang-mau-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-mau/trang-mau-tap-5.mp3",
+    "title" : "trang-mau-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

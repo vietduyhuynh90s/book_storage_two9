@@ -1,0 +1,2069 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/pham-nhan-tu-tien.html",
+    "title" : "Phàm nhân tu tiên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vong Ngữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 565302,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_292c27acd37e866c6a2014a7b5aad178.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_292c27acd37e866c6a2014a7b5aad178.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20232--236%20%5BPh%E1%BA%A7n%2037%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3316,
+    "title" : "Phàm Nhân Tu Tiên - Chương 232--236 [Phần 37] - Audio Truyện Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2093%5D%20Ch%C6%B0%C6%A1ng%20526-535%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5295,
+    "title" : "Phàm Nhân Tu Tiên [Phần 93] Chương 526-535 - Truyện Tiên Hiệp Audio Hay Nhất 2018 MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20126%20-130%20%5BPh%E1%BA%A7n%2018%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3028,
+    "title" : "Phàm Nhân Tu Tiên Chương 126 -130 [Phần 18] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20115%5D%20Ch%C6%B0%C6%A1ng%20661-%20667%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20%C4%90%E1%BB%89nh%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4056,
+    "title" : "Phàm Nhân Tu Tiên [Phần 115] Chương 661- 667 - Truyện Tiên Hiệp Hay Tuyệt Đỉnh 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20330-334%20%5BPh%E1%BA%A7n%2055%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "Phàm Nhân Tu Tiên - Chương 330-334 [Phần 55] Audio Truyện Tiên Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20237-241%20%5BPh%E1%BA%A7n%2038%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "Phàm Nhân Tu Tiên - Chương 237-241 [Phần 38] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20306-310%20%5BPh%E1%BA%A7n%2051%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "Phàm Nhân Tu Tiên - Chương 306-310 [Phần 51] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20121-125%20%5BPh%E1%BA%A7n%2017%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2628,
+    "title" : "Phàm Nhân Tu Tiên - Chương 121-125 [Phần 17] - Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20268-273%20%5BPh%E1%BA%A7n%2044%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "Phàm Nhân Tu Tiên - Chương 268-273 [Phần 44] Audio Truyện Tiên Hiệp Mới Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20124%5D%20Ch%C6%B0%C6%A1ng%20714-719%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Truy%E1%BB%87n%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "Phàm Nhân Tu Tiên [Phần 124] Chương 714-719 - MC Trần Vân Audio Tiên Hiệp Truyện 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2094%5D%20Ch%C6%B0%C6%A1ng%20536-538%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "Phàm Nhân Tu Tiên [Phần 94] Chương 536-538 - Truyện Tiên Hiệp Audio Vong Ngữ Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20144-148%20%5BPh%E1%BA%A7n%2022%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2833,
+    "title" : "Phàm Nhân Tu Tiên - Chương 144-148 [Phần 22] - Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20344-349%20%5BPh%E1%BA%A7n%2058%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3579,
+    "title" : "Phàm Nhân Tu Tiên - Chương 344-349 [Phần 58] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2091-97%20%5BPh%E1%BA%A7n%2013%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3108,
+    "title" : "Phàm Nhân Tu Tiên - Chương 91-97 [Phần 13] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20146%5D%20Ch%C6%B0%C6%A1ng%20827-832%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4269,
+    "title" : "Phàm Nhân Tu Tiên [Phần 146] Chương 827-832 - MC Trần Vân Truyện Audio Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20113%5D%20Ch%C6%B0%C6%A1ng%20652-654%20-%20Top%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1770,
+    "title" : "Phàm Nhân Tu Tiên [Phần 113] Chương 652-654 - Top Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20116-120%20%5BPh%E1%BA%A7n%2016%5D%20-Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2274,
+    "title" : "Phàm Nhân Tu Tiên - Chương 116-120 [Phần 16] -Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20111%5D%20Ch%C6%B0%C6%A1ng%20640-645%20-%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Phàm Nhân Tu Tiên [Phần 111] Chương 640-645 - Truyện Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20283-287%20%5BPh%E1%BA%A7n%2047%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2930,
+    "title" : "Phàm Nhân Tu Tiên - Chương 283-287 [Phần 47] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20315-319%20%5BPh%E1%BA%A7n%2053%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2812,
+    "title" : "Phàm Nhân Tu Tiên - Chương 315-319 [Phần 53] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20350-354%20%5BPh%E1%BA%A7n%2059%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2918,
+    "title" : "Phàm Nhân Tu Tiên - Chương 350-354 [Phần 59] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2092%5D%20Ch%C6%B0%C6%A1ng%20520-525%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "Phàm Nhân Tu Tiên [Phần 92] Chương 520-525 - Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20123%5D%20Ch%C6%B0%C6%A1ng%20709-713%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2902,
+    "title" : "Phàm Nhân Tu Tiên [Phần 123] Chương 709-713 - MC Trần Vân Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2098%5D%20Ch%C6%B0%C6%A1ng%20557-563%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "Phàm Nhân Tu Tiên [Phần 98] Chương 557-563 - Truyện Tiên Hiệp Audio Hay Nhất 2018 Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20134%5D%20Ch%C6%B0%C6%A1ng%20767-771%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "Phàm Nhân Tu Tiên [Phần 134] Chương 767-771 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2073%5D%20Ch%C6%B0%C6%A1ng%20414-419%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "Phàm Nhân Tu Tiên [Phần 73] Chương 414-419 - MC Trần Vân Audio Truyện Tiên Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20108%5D%20Ch%C6%B0%C6%A1ng%20621-626%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "Phàm Nhân Tu Tiên [Phần 108] Chương 621-626 - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20118%5D%20Ch%C6%B0%C6%A1ng%20681-685%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Phàm Nhân Tu Tiên [Phần 118] Chương 681-685 - Trần Vân Audio Truyện Tiên Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20355-358%20%5BPh%E1%BA%A7n%2060%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2363,
+    "title" : "Phàm Nhân Tu Tiên - Chương 355-358 [Phần 60] Audio Truyện Tiên Hiệp Vong Ngữ 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20109%5D%20Ch%C6%B0%C6%A1ng%20627-633%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4055,
+    "title" : "Phàm Nhân Tu Tiên [Phần 109] Chương 627-633 - Truyện Tiên Hiệp Audio Vong Ngữ Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2072%5D%20Ch%C6%B0%C6%A1ng%20410-414%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "Phàm Nhân Tu Tiên [Phần 72] Chương 410-414 - MC Trần Vân Truyện Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20126%5D%20Ch%C6%B0%C6%A1ng%20725-728%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2482,
+    "title" : "Phàm Nhân Tu Tiên [Phần 126] Chương 725-728 - MC Trần Vân Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20120%5D%20Ch%C6%B0%C6%A1ng%20691-696%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3384,
+    "title" : "Phàm Nhân Tu Tiên [Phần 120] Chương 691-696 - Trần Vân Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2091%5D%20Ch%C6%B0%C6%A1ng%20514-519%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%202018%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "Phàm Nhân Tu Tiên [Phần 91] Chương 514-519 - Truyện Tiên Hiệp Audio 2018 MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20131-135%20%5BPh%E1%BA%A7n%2019%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3007,
+    "title" : "Phàm Nhân Tu Tiên Chương 131-135 [Phần 19] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20292-298%20%5BPh%E1%BA%A7n%2049%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3638,
+    "title" : "Phàm Nhân Tu Tiên - Chương 292-298 [Phần 49] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20299-305%20%5BPh%E1%BA%A7n%2050%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4221,
+    "title" : "Phàm Nhân Tu Tiên - Chương 299-305 [Phần 50] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20100%5D%20Ch%C6%B0%C6%A1ng%20571-577%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3262,
+    "title" : "Phàm Nhân Tu Tiên [Phần 100] Chương 571-577 - Truyện Tiên Hiệp Audio Hay Tuyệt Vời 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20213-218%20%5BPh%E1%BA%A7n%2033%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "Phàm Nhân Tu Tiên - Chương 213-218 [Phần 33] - Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2096%5D%20Ch%C6%B0%C6%A1ng%20545-550%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "Phàm Nhân Tu Tiên [Phần 96] Chương 545-550 - Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20385-388%20%5BPh%E1%BA%A7n%2067%5D%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "Phàm Nhân Tu Tiên - Chương 385-388 [Phần 67] Mc Trần Vân - Audio Truyện Tiên Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20102%5D%20Ch%C6%B0%C6%A1ng%20583-589%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018%20c%E1%BB%A7a%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "Phàm Nhân Tu Tiên [Phần 102] Chương 583-589 - Audio Truyện Tiên Hiệp Hay Nhất 2018 của Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20311-314%20%5BPh%E1%BA%A7n%2052%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2424,
+    "title" : "Phàm Nhân Tu Tiên - Chương 311-314 [Phần 52] Audio Truyện Tiên Hiệp Vong Ngữ 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ph%E1%BA%A7n%20161%20-%20Ch%C6%B0%C6%A1ng%20902-908%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4736,
+    "title" : "Phàm Nhân Tu Tiên - Phần 161 - Chương 902-908 - Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20129%5D%20Ch%C6%B0%C6%A1ng%20736-743%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Truy%E1%BB%87n%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5702,
+    "title" : "Phàm Nhân Tu Tiên [Phần 129] Chương 736-743 - MC Trần Vân Audio Tiên Hiệp Truyện 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20133%5D%20Ch%C6%B0%C6%A1ng%20761-766%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "Phàm Nhân Tu Tiên [Phần 133] Chương 761-766 - MC Trần Vân Audio Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2076%5D%20Ch%C6%B0%C6%A1ng%20430-433%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "Phàm Nhân Tu Tiên [Phần 76] Chương 430-433 - MC Trần Vân - Truyện Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20143%5D%20Ch%C6%B0%C6%A1ng%20812-817%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Phàm Nhân Tu Tiên [Phần 143] Chương 812-817 - MC Trần Vân Audio Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2089%5D%20Ch%C6%B0%C6%A1ng%20503-509%20-Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3140,
+    "title" : "Phàm Nhân Tu Tiên [Phần 89] Chương 503-509 -Truyện Tiên Hiệp Vong Ngữ 2018 Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20141%5D%20Ch%C6%B0%C6%A1ng%20804-807%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2849,
+    "title" : "Phàm Nhân Tu Tiên [Phần 141] Chương 804-807 - MC Trần Vân Audio Kiếm Hiệp Tiên Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2098-105%20%5BPh%E1%BA%A7n%2014%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "Phàm Nhân Tu Tiên - Chương 98-105 [Phần 14] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20117%5D%20Ch%C6%B0%C6%A1ng%20674-680%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Phàm Nhân Tu Tiên [Phần 117] Chương 674-680 - Trần Vân Audio Truyện Tiên Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2087%5D%20Ch%C6%B0%C6%A1ng%20492-497%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "Phàm Nhân Tu Tiên [Phần 87] Chương 492-497 - MC Trần Vân Truyện Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20257-262%20%5BPh%E1%BA%A7n%2042%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20M%E1%BB%9Bi%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "Phàm Nhân Tu Tiên - Chương 257-262 [Phần 42] Audio Truyện Tiên Hiệp Mới Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2097%5D%20Ch%C6%B0%C6%A1ng%20551-556%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Ph%C3%A1t%20Tr%E1%BB%B1c%20Ti%E1%BA%BFp%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Phàm Nhân Tu Tiên [Phần 97] Chương 551-556 - Trần Vân Phát Trực Tiếp Audio Truyện Tiên Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20130%5D%20Ch%C6%B0%C6%A1ng%20744-749%20-%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%202018%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4086,
+    "title" : "Phàm Nhân Tu Tiên [Phần 130] Chương 744-749 - Mc Trần Vân Audio Tiên Hiệp 2018 Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20112%5D%20Ch%C6%B0%C6%A1ng%20646-651%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3502,
+    "title" : "Phàm Nhân Tu Tiên [Phần 112] Chương 646-651 - Truyện Tiên Hiệp Vong Ngữ Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20139%5D%20Ch%C6%B0%C6%A1ng%20794-798%20-%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3534,
+    "title" : "Phàm Nhân Tu Tiên [Phần 139] Chương 794-798 - Mc Trần Vân Truyện Kiếm Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2074%5D%20Ch%C6%B0%C6%A1ng%20420-425%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "Phàm Nhân Tu Tiên [Phần 74] Chương 420-425 - MC Trần Vân Truyện Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20288-292%20%5BPh%E1%BA%A7n%2048%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2793,
+    "title" : "Phàm Nhân Tu Tiên - Chương 288-292 [Phần 48] Audio Truyện Tiên Hiệp Cực Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20136-140%20%5BPh%E1%BA%A7n%2020%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Phàm Nhân Tu Tiên Chương 136-140 [Phần 20] - Audio Truyện Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20278-282%20%5BPh%E1%BA%A7n%2046%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2980,
+    "title" : "Phàm Nhân Tu Tiên - Chương 278-282 [Phần 46] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20219-221%20%5BPh%E1%BA%A7n%2034%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "Phàm Nhân Tu Tiên - Chương 219-221 [Phần 34] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20110%5D%20Ch%C6%B0%C6%A1ng%20634-639%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3505,
+    "title" : "Phàm Nhân Tu Tiên [Phần 110] Chương 634-639 - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20125%5D%20Ch%C6%B0%C6%A1ng%20719-724%20-%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3143,
+    "title" : "Phàm Nhân Tu Tiên [Phần 125] Chương 719-724 - Mc Trần Vân Audio Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20335-338%20%5BPh%E1%BA%A7n%2056%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2578,
+    "title" : "Phàm Nhân Tu Tiên - Chương 335-338 [Phần 56] Audio Truyện Tiên Hiệp Kiếm Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20369-372%20%5BPh%E1%BA%A7n%2063%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Kinh%20%C4%90i%E1%BB%83n%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2399,
+    "title" : "Phàm Nhân Tu Tiên - Chương 369-372 [Phần 63] MC Trần Vân - Truyện Tiên Hiệp Hay Kinh Điển 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20381-384%20%5BPh%E1%BA%A7n%2066%5D%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2310,
+    "title" : "Phàm Nhân Tu Tiên - Chương 381-384 [Phần 66] Mc Trần Vân - Audio Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20103%5D%20Ch%C6%B0%C6%A1ng%20590-595%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "Phàm Nhân Tu Tiên [Phần 103] Chương 590-595 - Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2086%5D%20Ch%C6%B0%C6%A1ng%20487-491%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "Phàm Nhân Tu Tiên [Phần 86] Chương 487-491 - MC Trần Vân - Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20101%5D%20Ch%C6%B0%C6%A1ng%20577%20582%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3552,
+    "title" : "Phàm Nhân Tu Tiên [Phần 101] Chương 577 582 Audio Truyện Tiên Hiệp 2018 Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20138%5D%20Ch%C6%B0%C6%A1ng%20789-793%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "Phàm Nhân Tu Tiên [Phần 138] Chương 789-793 - MC Trần Vân Truyện Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20144%5D%20Ch%C6%B0%C6%A1ng%20818-821%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2591,
+    "title" : "Phàm Nhân Tu Tiên [Phần 144] Chương 818-821 - MC Trần Vân Tiên Hiệp Audio Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20242-246%20%5BPh%E1%BA%A7n%2039%5D%20-%20Audio%20Truy%E1%BB%87n%20Tu%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3502,
+    "title" : "Phàm Nhân Tu Tiên - Chương 242-246 [Phần 39] - Audio Truyện Tuên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20_%20Ph%E1%BA%A7n%20149%20_%20Ch%C6%B0%C6%A1ng%20843-848%20_%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3885,
+    "title" : "Phàm Nhân Tu Tiên _ Phần 149 _ Chương 843-848 _ Audio Truyện Tiên Hiệp Kiếm Hiệp 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20209-212%20%5BPh%E1%BA%A7n%2032%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20M%E1%BB%9Bi%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "Phàm Nhân Tu Tiên - Chương 209-212 [Phần 32] - Audio Truyện Tiên Hiệp Mới 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20252-256%20%5BPh%E1%BA%A7n%2041%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3131,
+    "title" : "Phàm Nhân Tu Tiên - Chương 252-256 [Phần 41] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20128%5D%20Ch%C6%B0%C6%A1ng%20733-735%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1970,
+    "title" : "Phàm Nhân Tu Tiên [Phần 128] Chương 733-735 - MC Trần Vân Truyện Tiên Hiệp Audio Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2064%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "Phàm Nhân Tu Tiên [Phần 64] MC Trần Vân - Truyện Tiên Hiệp Kiếm Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2065%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1700,
+    "title" : "Phàm Nhân Tu Tiên [Phần 65] MC Trần Vân - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20148%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Audio%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3039,
+    "title" : "Phàm Nhân Tu Tiên [Phần 148] MC Trần Vân - Truyện Audio Kiếm Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20153%20__%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "Phàm Nhân Tu Tiên __ Phần 153 __ MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20P.167%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "Phàm Nhân Tu Tiên P.167 - MC Trần Vân - Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20168%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Phàm Nhân Tu Tiên [Phần 168] MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20169%20__%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "Phàm Nhân Tu Tiên __ Phần 169 __ Truyện Tiên Hiệp Hay Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/PhmNhnTuTinphn170Update.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3824,
+    "title" : "PhmNhnTuTinphn170Update",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%2051-54%20%5BPh%E1%BA%A7n%207%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20Qu%E1%BA%A3%20%C4%90%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1927,
+    "title" : "Phàm Nhân Tu Tiên Chương 51-54 [Phần 7] - Audio Truyện Tiên Hiệp Hay Nhất Quả Đất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2055-60%20%5BPh%E1%BA%A7n%208%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "Phàm Nhân Tu Tiên - Chương 55-60 [Phần 8] - MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2061-66%20%5BPh%E1%BA%A7n%209%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay%20Kh%C3%B4ng%20Th%E1%BB%83%20B%E1%BB%8F%20Qua%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2753,
+    "title" : "Phàm Nhân Tu Tiên - Chương 61-66 [Phần 9] - Truyện Tiên Hiệp Cực Hay Không Thể Bỏ Qua - MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2043%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "Phàm Nhân Tu Tiên [Phần 43] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2067%2075%20%5BPh%E1%BA%A7n%2010%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4065,
+    "title" : "Phàm Nhân Tu Tiên - Chương 67 75 [Phần 10] - MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2076-80%20%5BPh%E1%BA%A7n%2011%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2106,
+    "title" : "Phàm Nhân Tu Tiên - Chương 76-80 [Phần 11] - MC Trần Vân - Audio Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2081-90%20%5BPh%E1%BA%A7n%2012%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4371,
+    "title" : "Phàm Nhân Tu Tiên - Chương 81-90 [Phần 12] - MC Trần Vân - Audio Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%201%5D%20-%20Ch%C6%B0%C6%A1ng%201-9%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4791,
+    "title" : "Phàm Nhân Tu Tiên [Phần 1] - Chương 1-9 - MC Trần Vân - Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/T%E1%BA%ADp%20154%20__%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "Tập 154 __ Phàm Nhân Tu Tiên __ Truyện Tiên Hiệp Hay 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20106-115%20%5BPh%E1%BA%A7n%2015%5D%20-%20Audio%20Nghe%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4303,
+    "title" : "Phàm Nhân Tu Tiên - Chương 106-115 [Phần 15] - Audio Nghe Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20141-%20143%20%5BPh%E1%BA%A7n%2021%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1709,
+    "title" : "Phàm Nhân Tu Tiên Chương 141- 143 [Phần 21] - Audio Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20149-154%20%5BPh%E1%BA%A7n%2023%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "Phàm Nhân Tu Tiên - Chương 149-154 [Phần 23] - Truyện Tiên Hiệp Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20155-160%20%5BPh%E1%BA%A7n%2024%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20Qu%E1%BA%A3%20%C4%90%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "Phàm Nhân Tu Tiên - Chương 155-160 [Phần 24] - Truyện Tiên Hiệp Hay Nhất Quả Đất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20161-171%20%5BPh%E1%BA%A7n%2025%5D%20-%20Truy%C3%AAn%20Ti%C3%AAn%20Hi%E1%BB%87p%20Tuy%E1%BB%87t%20Hay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6733,
+    "title" : "Phàm Nhân Tu Tiên - Chương 161-171 [Phần 25] - Truyên Tiên Hiệp Tuyệt Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20172%20-174%20-%20%5BPh%E1%BA%A7n%2026%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1670,
+    "title" : "Phàm Nhân Tu Tiên Chương 172 -174 - [Phần 26] - Truyện Tiên Hiệp Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20175-178%20%5BPh%E1%BA%A7n%2027%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2142,
+    "title" : "Phàm Nhân Tu Tiên Chương 175-178 [Phần 27] - Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20179-187%20%5BPh%E1%BA%A7n%2028%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4790,
+    "title" : "Phàm Nhân Tu Tiên - Chương 179-187 [Phần 28] - Audio Truyện Tiên Hiệp Hay Tuyệt Vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20188-193%20%5BPh%E1%BA%A7n%2029%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3359,
+    "title" : "Phàm Nhân Tu Tiên - Chương 188-193 [Phần 29] - Audio Truyện Tiên Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20194-199%20%5BPh%E1%BA%A7n%2030%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20K%E1%BB%B3%20Hot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "Phàm Nhân Tu Tiên - Chương 194-199 [Phần 30] - Truyện Tiên Hiệp Cực Kỳ Hot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20200-208%20%5BPh%E1%BA%A7n%2031%5D%20-%20%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Tuy%E1%BB%87t%20Hay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5974,
+    "title" : "Phàm Nhân Tu Tiên - Chương 200-208 [Phần 31] -  Audio Truyện Tiên Hiệp Tuyệt Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20222-227%20%5BPh%E1%BA%A7n%2035%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3782,
+    "title" : "Phàm Nhân Tu Tiên - Chương 222-227 [Phần 35] - Truyện Tiên Hiệp Audio Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20228-231%20%5BPh%E1%BA%A7n%2036%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2604,
+    "title" : "Phàm Nhân Tu Tiên - Chương 228-231 [Phần 36] - Audio Truyện Tiên Hiệp Hay Tuyệt Vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20247-251%20%5BPh%E1%BA%A7n%2040%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3250,
+    "title" : "Phàm Nhân Tu Tiên - Chương 247-251 [Phần 40] Audio Truyện Tiên Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20274-277%20%5BPh%E1%BA%A7n%2045%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2682,
+    "title" : "Phàm Nhân Tu Tiên - Chương 274-277 [Phần 45] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20320-329%20%5BPh%E1%BA%A7n%2054%5DPh%C3%A0m%20%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6197,
+    "title" : "Phàm Nhân Tu Tiên - Chương 320-329 [Phần 54]Phàm  Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20339-343%20%5BPh%E1%BA%A7n%2057%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3008,
+    "title" : "Phàm Nhân Tu Tiên - Chương 339-343 [Phần 57] Audio Truyện Tiên Hiệp Kiếm Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20359-363%20%5BPh%E1%BA%A7n%2061%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20ph%C3%A1t%20tr%E1%BB%B1c%20ti%E1%BA%BFp.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "Phàm Nhân Tu Tiên - Chương 359-363 [Phần 61] MC Trần Vân phát trực tiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20364-369%20%5BPh%E1%BA%A7n%2062%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Kinh%20%C4%90i%E1%BB%83n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Phàm Nhân Tu Tiên - Chương 364-369 [Phần 62] MC Trần Vân - Truyện Tiên Hiệp Hay Kinh Điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2068%5D%20Ch%C6%B0%C6%A1ng%20385-394%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "Phàm Nhân Tu Tiên [Phần 68] Chương 385-394 - MC Trần Vân - Audio Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2069%5D%20Ch%C6%B0%C6%A1ng%20395-399%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3008,
+    "title" : "Phàm Nhân Tu Tiên [Phần 69] Chương 395-399 - MC Trần Vân - Truyện Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2070%5D%20Ch%C6%B0%C6%A1ng%20399-403%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2478,
+    "title" : "Phàm Nhân Tu Tiên [Phần 70] Chương 399-403 - MC Trần Vân - Audio Tiên Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2071%5D%20Ch%C6%B0%C6%A1ng%20405-409%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2916,
+    "title" : "Phàm Nhân Tu Tiên [Phần 71] Chương 405-409 - MC Trần Vân - Audio Truyện Tiên Hiệp Hay Tuyệt Vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2075%5D%20Ch%C6%B0%C6%A1ng%20425-429%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2388,
+    "title" : "Phàm Nhân Tu Tiên [Phần 75] Chương 425-429 - MC Trần Vân Truyện Audio Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2077%5D%20Ch%C6%B0%C6%A1ng%20434-437%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2170,
+    "title" : "Phàm Nhân Tu Tiên [Phần 77] Chương 434-437 - MC Trần Vân - Audio Truyện Tiên Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5B%5BPh%E1%BA%A7n%2078%5D%20Ch%C6%B0%C6%A1ng%20438-442%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2744,
+    "title" : "Phàm Nhân Tu Tiên [[Phần 78] Chương 438-442 - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2079%5D%20Ch%C6%B0%C6%A1ng%20442-447%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "Phàm Nhân Tu Tiên [Phần 79] Chương 442-447 - MC Trần Vân Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2080%5D%20Ch%C6%B0%C6%A1ng%20448-452%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Full.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2788,
+    "title" : "Phàm Nhân Tu Tiên [Phần 80] Chương 448-452 - Audio Truyện Tiên Hiệp Vong Ngữ Full",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2081%5D%20Ch%C6%B0%C6%A1ng%20453-457%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3194,
+    "title" : "Phàm Nhân Tu Tiên [Phần 81] Chương 453-457 - MC Trần Vân Truyện Tiên Hiệp Vong Ngữ Hot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2082%5D%20Ch%C6%B0%C6%A1ng%20457-465%20__%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4774,
+    "title" : "Phàm Nhân Tu Tiên [Phần 82] Chương 457-465 __ MC Trần Vân - Truyện Audio Tiên Hiệp Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2083%5D%20Ch%C6%B0%C6%A1ng%20466-471%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "Phàm Nhân Tu Tiên [Phần 83] Chương 466-471 - MC Trần Vân Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2084%5D%20Ch%C6%B0%C6%A1ng%20472-479%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4432,
+    "title" : "Phàm Nhân Tu Tiên [Phần 84] Chương 472-479 - MC Trần Vân Audio Truyện Tiên Hiệp Kiếm Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2085%5D%20Ch%C6%B0%C6%A1ng%20480-486%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4120,
+    "title" : "Phàm Nhân Tu Tiên [Phần 85] Chương 480-486 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2088%5D%20Ch%C6%B0%C6%A1ng%20498-502%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2772,
+    "title" : "Phàm Nhân Tu Tiên [Phần 88] Chương 498-502 - Truyện Tiên Hiệp Hay Nhất Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2090%5D%20Ch%C6%B0%C6%A1ng%20509-513%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "Phàm Nhân Tu Tiên [Phần 90] Chương 509-513 - Truyện Tiên Hiệp Audio MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2095%5D%20Ch%C6%B0%C6%A1ng%20539-544%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3304,
+    "title" : "Phàm Nhân Tu Tiên [Phần 95] Chương 539-544 - Truyện Tiên Hiệp Audio Hay Nhất Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2099%5D%20Ch%C6%B0%C6%A1ng%20564-570%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20M%E1%BB%8Di%20Th%E1%BB%9Di%20%C4%90%E1%BA%A1i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Phàm Nhân Tu Tiên [Phần 99] Chương 564-570 - Audio Truyện Tiên Hiệp Hay Nhất Mọi Thời Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20104%5D%20Ch%C6%B0%C6%A1ng%20596-600%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20C%E1%BB%A7a%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "Phàm Nhân Tu Tiên [Phần 104] Chương 596-600 - Truyện Tiên Hiệp Hay Nhất Của Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20105%5D%20Ch%C6%B0%C6%A1ng%20601-606%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3222,
+    "title" : "Phàm Nhân Tu Tiên [Phần 105] Chương 601-606 - Truyện Tiên Hiệp Audio Hay Tuyệt Vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20107%5D%20Ch%C6%B0%C6%A1ng%20612-620%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5033,
+    "title" : "Phàm Nhân Tu Tiên [Phần 107] Chương 612-620 - Truyện Tiên Hiệp Vong Ngữ Hay Nhất Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20114%5D%20Ch%C6%B0%C6%A1ng%20655-660%20-%20Top%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3620,
+    "title" : "Phàm Nhân Tu Tiên [Phần 114] Chương 655-660 - Top Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20116%5D%20Ch%C6%B0%C6%A1ng%20668-673%20-%20Top%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20M%E1%BB%8Di%20Th%E1%BB%9Di%20%C4%90%E1%BA%A1i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "Phàm Nhân Tu Tiên [Phần 116] Chương 668-673 - Top Truyện Tiên Hiệp Hay Nhất Mọi Thời Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20119%5D%20Ch%C6%B0%C6%A1ng%20686-690%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2883,
+    "title" : "Phàm Nhân Tu Tiên [Phần 119] Chương 686-690 - MC Trần Vân Audio Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20121%5D%20Ch%C6%B0%C6%A1ng%20697-702%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "Phàm Nhân Tu Tiên [Phần 121] Chương 697-702 - Trần Vân Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20122%5D%20Ch%C6%B0%C6%A1ng%20703-708%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "Phàm Nhân Tu Tiên [Phần 122] Chương 703-708 - MC Trần Vân Truyện Tiên Hiệp Audio Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20127%5D%20Ch%C6%B0%C6%A1ng%20729-732%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "Phàm Nhân Tu Tiên [Phần 127] Chương 729-732 - MC Trần Vân Truyện Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20131%5D%20Ch%C6%B0%C6%A1ng%20750-754%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3384,
+    "title" : "Phàm Nhân Tu Tiên [Phần 131] Chương 750-754 - MC Trần Vân Audio Tiên Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20132%5D%20Ch%C6%B0%C6%A1ng%20755-760%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4023,
+    "title" : "Phàm Nhân Tu Tiên [Phần 132] Chương 755-760 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20135%5D%20Ch%C6%B0%C6%A1ng%20772-776%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "Phàm Nhân Tu Tiên [Phần 135] Chương 772-776 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20136%5D%20Ch%C6%B0%C6%A1ng%20777-781%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20C%E1%BB%A7a%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "Phàm Nhân Tu Tiên [Phần 136] Chương 777-781 - MC Trần Vân Audio Tiên Hiệp Hay Nhất Của Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20137%5D%20Ch%C6%B0%C6%A1ng%20782-788%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4956,
+    "title" : "Phàm Nhân Tu Tiên [Phần 137] Chương 782-788 - MC Trần Vân Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20140%5D%20Ch%C6%B0%C6%A1ng%20799-803%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "Phàm Nhân Tu Tiên [Phần 140] Chương 799-803 - MC Trần Vân Đọc Truyện Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20142%5D%20Ch%C6%B0%C6%A1ng%20808-811%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "Phàm Nhân Tu Tiên [Phần 142] Chương 808-811 - MC Trần Vân Truyện Kiếm Hiệp Audio Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20145%5D%20Ch%C6%B0%C6%A1ng%20822-826%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "Phàm Nhân Tu Tiên [Phần 145] Chương 822-826 - MC Trần Vân Truyện Tiên Hiệp Kiếm Hiệp Audio Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20147%5D%20Ch%C6%B0%C6%A1ng%20833-838%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4121,
+    "title" : "Phàm Nhân Tu Tiên [Phần 147] Chương 833-838 - MC Trần Vân Truyện Kiếm Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%28Ph%E1%BA%A7n%20150%29%20Ch%C6%B0%C6%A1ng%20849-853.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "Phàm Nhân Tu Tiên (Phần 150) Chương 849-853",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20151%5D%20Ch%C6%B0%C6%A1ng%20854-858%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Phàm Nhân Tu Tiên [Phần 151] Chương 854-858 - MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20152%5D%20Ch%C6%B0%C6%A1ng%20859-863%20-%20Gi%E1%BB%8Dng%20%C4%90%E1%BB%8Dc%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3527,
+    "title" : "Phàm Nhân Tu Tiên [Phần 152] Chương 859-863 - Giọng Đọc MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%23%20Ph%E1%BA%A7n%20155%20%23%20Ch%C6%B0%C6%A1ng%20873-876.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2842,
+    "title" : "Phàm Nhân Tu Tiên # Phần 155 # Chương 873-876",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/%5BPh%E1%BA%A7n%20156%5D%20%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%20%5BCh%C6%B0%C6%A1ng%20877-880%5D%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2805,
+    "title" : "[Phần 156]  Phàm Nhân Tu Tiên  [Chương 877-880] Truyện Tiên Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20_%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20_%20Ph%E1%BA%A7n%20157%20_%20Ch%C6%B0%C6%A1ng%20881-886%20_MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4063,
+    "title" : "Truyện Tiên Hiệp _ Phàm Nhân Tu Tiên _ Phần 157 _ Chương 881-886 _MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20158%20__%20Ch%C6%B0%C6%A1ng%20887-891%20__%20%C4%90%E1%BB%89nh%20Cao%20C%E1%BB%A7a%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4545,
+    "title" : "Phàm Nhân Tu Tiên __ Phần 158 __ Chương 887-891 __ Đỉnh Cao Của Truyện Tiên Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20159%20__%20Ch%C6%B0%C6%A1ng%20892-896%20__%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "Phàm Nhân Tu Tiên __ Phần 159 __ Chương 892-896 __ Truyện Tiên Hiệp Vong Ngữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ti%C3%AAn%20Hi%E1%BB%87p%20__%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20160%20__%20Ch%C6%B0%C6%A1ng%20897-901%20__%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "Tiên Hiệp __ Phàm Nhân Tu Tiên __ Phần 160 __ Chương 897-901 __ MC Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Truy%E1%BB%87n_%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20162%20__%20Ch%C6%B0%C6%A1ng%20909~915%20__MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4858,
+    "title" : "Truyện_ Phàm Nhân Tu Tiên __ Phần 162 __ Chương 909~915 __MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20-%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20_%20Ph%E1%BA%A7n%20163%20_%20Ch%C6%B0%C6%A1ng%20915-920.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "Truyện Tiên Hiệp Hay - Phàm Nhân Tu Tiên _ Phần 163 _ Chương 915-920",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5B%20Ph%E1%BA%A7n%20164%20%5D%20Ch%C6%B0%C6%A1ng%20921-924%20-%20T%C3%A1c%20gi%E1%BA%A3_%20Vong%20Ng%E1%BB%AF%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2964,
+    "title" : "Phàm Nhân Tu Tiên [ Phần 164 ] Chương 921-924 - Tác giả_ Vong Ngữ - Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20165%20__%20Ch%C6%B0%C6%A1ng%20925%20929.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3498,
+    "title" : "Phàm Nhân Tu Tiên __ Phần 165 __ Chương 925 929",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Tien%20Hi%E1%BB%87p_%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20166%5D%20Ch%C6%B0%C6%A1ng%20930-935.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3977,
+    "title" : "Tien Hiệp_ Phàm Nhân Tu Tiên [Phần 166] Chương 930-935",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%202%5D%20-%20Ch%C6%B0%C6%A1ng%2010-18%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4205,
+    "title" : "Phàm Nhân Tu Tiên [Phần 2] - Chương 10-18 - MC Trần Vân - Truyện Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%203%5D%20-%20Ch%C6%B0%C6%A1ng%2019-27%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hot%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4500,
+    "title" : "Phàm Nhân Tu Tiên [Phần 3] - Chương 19-27 - MC Trần Vân - Tiên Hiệp Hot 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ph%E1%BA%A7n%204%20Ch%C6%B0%C6%A1ng%2028%2036%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "Phàm Nhân Tu Tiên Phần 4 Chương 28 36 MC Trần Vân Tiên Hiệp Hay Nhất 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2043-50%20%5BPh%E1%BA%A7n%206%5D%20-%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "Phàm Nhân Tu Tiên - Chương 43-50 [Phần 6] - Tiên Hiệp Hay Tuyệt Vời 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%205%5D%20Ch%C6%B0%C6%A1ng%2037-42%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hot%202018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "Phàm Nhân Tu Tiên [Phần 5] Chương 37-42 - MC Trần Vân - Truyện Tiên Hiệp Hot 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20232--236%20%5BPh%E1%BA%A7n%2037%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 232--236 [Phần 37] - Audio Truyện Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2093%5D%20Ch%C6%B0%C6%A1ng%20526-535%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 93] Chương 526-535 - Truyện Tiên Hiệp Audio Hay Nhất 2018 MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20126%20-130%20%5BPh%E1%BA%A7n%2018%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên Chương 126 -130 [Phần 18] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20115%5D%20Ch%C6%B0%C6%A1ng%20661-%20667%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20%C4%90%E1%BB%89nh%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 115] Chương 661- 667 - Truyện Tiên Hiệp Hay Tuyệt Đỉnh 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20330-334%20%5BPh%E1%BA%A7n%2055%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 330-334 [Phần 55] Audio Truyện Tiên Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20237-241%20%5BPh%E1%BA%A7n%2038%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 237-241 [Phần 38] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20306-310%20%5BPh%E1%BA%A7n%2051%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 306-310 [Phần 51] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20121-125%20%5BPh%E1%BA%A7n%2017%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 121-125 [Phần 17] - Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20268-273%20%5BPh%E1%BA%A7n%2044%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20M%E1%BB%9Bi%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 268-273 [Phần 44] Audio Truyện Tiên Hiệp Mới Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20124%5D%20Ch%C6%B0%C6%A1ng%20714-719%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Truy%E1%BB%87n%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 124] Chương 714-719 - MC Trần Vân Audio Tiên Hiệp Truyện 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2094%5D%20Ch%C6%B0%C6%A1ng%20536-538%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 94] Chương 536-538 - Truyện Tiên Hiệp Audio Vong Ngữ Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20144-148%20%5BPh%E1%BA%A7n%2022%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 144-148 [Phần 22] - Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20344-349%20%5BPh%E1%BA%A7n%2058%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 344-349 [Phần 58] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2091-97%20%5BPh%E1%BA%A7n%2013%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 91-97 [Phần 13] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20146%5D%20Ch%C6%B0%C6%A1ng%20827-832%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 146] Chương 827-832 - MC Trần Vân Truyện Audio Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20113%5D%20Ch%C6%B0%C6%A1ng%20652-654%20-%20Top%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 113] Chương 652-654 - Top Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20116-120%20%5BPh%E1%BA%A7n%2016%5D%20-Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 116-120 [Phần 16] -Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20111%5D%20Ch%C6%B0%C6%A1ng%20640-645%20-%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 111] Chương 640-645 - Truyện Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20283-287%20%5BPh%E1%BA%A7n%2047%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 283-287 [Phần 47] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20315-319%20%5BPh%E1%BA%A7n%2053%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 315-319 [Phần 53] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20350-354%20%5BPh%E1%BA%A7n%2059%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 350-354 [Phần 59] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2092%5D%20Ch%C6%B0%C6%A1ng%20520-525%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 92] Chương 520-525 - Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20123%5D%20Ch%C6%B0%C6%A1ng%20709-713%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 123] Chương 709-713 - MC Trần Vân Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2098%5D%20Ch%C6%B0%C6%A1ng%20557-563%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 98] Chương 557-563 - Truyện Tiên Hiệp Audio Hay Nhất 2018 Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20134%5D%20Ch%C6%B0%C6%A1ng%20767-771%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 134] Chương 767-771 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2073%5D%20Ch%C6%B0%C6%A1ng%20414-419%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 73] Chương 414-419 - MC Trần Vân Audio Truyện Tiên Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20108%5D%20Ch%C6%B0%C6%A1ng%20621-626%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 108] Chương 621-626 - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20118%5D%20Ch%C6%B0%C6%A1ng%20681-685%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 118] Chương 681-685 - Trần Vân Audio Truyện Tiên Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20355-358%20%5BPh%E1%BA%A7n%2060%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 355-358 [Phần 60] Audio Truyện Tiên Hiệp Vong Ngữ 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20109%5D%20Ch%C6%B0%C6%A1ng%20627-633%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 109] Chương 627-633 - Truyện Tiên Hiệp Audio Vong Ngữ Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2072%5D%20Ch%C6%B0%C6%A1ng%20410-414%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 72] Chương 410-414 - MC Trần Vân Truyện Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20126%5D%20Ch%C6%B0%C6%A1ng%20725-728%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 126] Chương 725-728 - MC Trần Vân Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20120%5D%20Ch%C6%B0%C6%A1ng%20691-696%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 120] Chương 691-696 - Trần Vân Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2091%5D%20Ch%C6%B0%C6%A1ng%20514-519%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%202018%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 91] Chương 514-519 - Truyện Tiên Hiệp Audio 2018 MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20131-135%20%5BPh%E1%BA%A7n%2019%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên Chương 131-135 [Phần 19] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20292-298%20%5BPh%E1%BA%A7n%2049%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 292-298 [Phần 49] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20299-305%20%5BPh%E1%BA%A7n%2050%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 299-305 [Phần 50] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20100%5D%20Ch%C6%B0%C6%A1ng%20571-577%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 100] Chương 571-577 - Truyện Tiên Hiệp Audio Hay Tuyệt Vời 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20213-218%20%5BPh%E1%BA%A7n%2033%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 213-218 [Phần 33] - Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2096%5D%20Ch%C6%B0%C6%A1ng%20545-550%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 96] Chương 545-550 - Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20385-388%20%5BPh%E1%BA%A7n%2067%5D%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 385-388 [Phần 67] Mc Trần Vân - Audio Truyện Tiên Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20102%5D%20Ch%C6%B0%C6%A1ng%20583-589%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018%20c%E1%BB%A7a%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 102] Chương 583-589 - Audio Truyện Tiên Hiệp Hay Nhất 2018 của Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20311-314%20%5BPh%E1%BA%A7n%2052%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 311-314 [Phần 52] Audio Truyện Tiên Hiệp Vong Ngữ 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ph%E1%BA%A7n%20161%20-%20Ch%C6%B0%C6%A1ng%20902-908%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Phần 161 - Chương 902-908 - Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20129%5D%20Ch%C6%B0%C6%A1ng%20736-743%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Truy%E1%BB%87n%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 129] Chương 736-743 - MC Trần Vân Audio Tiên Hiệp Truyện 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20133%5D%20Ch%C6%B0%C6%A1ng%20761-766%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 133] Chương 761-766 - MC Trần Vân Audio Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2076%5D%20Ch%C6%B0%C6%A1ng%20430-433%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 76] Chương 430-433 - MC Trần Vân - Truyện Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20143%5D%20Ch%C6%B0%C6%A1ng%20812-817%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 143] Chương 812-817 - MC Trần Vân Audio Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2089%5D%20Ch%C6%B0%C6%A1ng%20503-509%20-Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%202018%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 89] Chương 503-509 -Truyện Tiên Hiệp Vong Ngữ 2018 Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20141%5D%20Ch%C6%B0%C6%A1ng%20804-807%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 141] Chương 804-807 - MC Trần Vân Audio Kiếm Hiệp Tiên Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2098-105%20%5BPh%E1%BA%A7n%2014%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 98-105 [Phần 14] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20117%5D%20Ch%C6%B0%C6%A1ng%20674-680%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 117] Chương 674-680 - Trần Vân Audio Truyện Tiên Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2087%5D%20Ch%C6%B0%C6%A1ng%20492-497%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 87] Chương 492-497 - MC Trần Vân Truyện Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20257-262%20%5BPh%E1%BA%A7n%2042%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20M%E1%BB%9Bi%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 257-262 [Phần 42] Audio Truyện Tiên Hiệp Mới Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2097%5D%20Ch%C6%B0%C6%A1ng%20551-556%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Ph%C3%A1t%20Tr%E1%BB%B1c%20Ti%E1%BA%BFp%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 97] Chương 551-556 - Trần Vân Phát Trực Tiếp Audio Truyện Tiên Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20130%5D%20Ch%C6%B0%C6%A1ng%20744-749%20-%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%202018%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 130] Chương 744-749 - Mc Trần Vân Audio Tiên Hiệp 2018 Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20112%5D%20Ch%C6%B0%C6%A1ng%20646-651%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 112] Chương 646-651 - Truyện Tiên Hiệp Vong Ngữ Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20139%5D%20Ch%C6%B0%C6%A1ng%20794-798%20-%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 139] Chương 794-798 - Mc Trần Vân Truyện Kiếm Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2074%5D%20Ch%C6%B0%C6%A1ng%20420-425%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 74] Chương 420-425 - MC Trần Vân Truyện Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20288-292%20%5BPh%E1%BA%A7n%2048%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 288-292 [Phần 48] Audio Truyện Tiên Hiệp Cực Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20136-140%20%5BPh%E1%BA%A7n%2020%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên Chương 136-140 [Phần 20] - Audio Truyện Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20278-282%20%5BPh%E1%BA%A7n%2046%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 278-282 [Phần 46] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20219-221%20%5BPh%E1%BA%A7n%2034%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 219-221 [Phần 34] - Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20110%5D%20Ch%C6%B0%C6%A1ng%20634-639%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 110] Chương 634-639 - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20125%5D%20Ch%C6%B0%C6%A1ng%20719-724%20-%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 125] Chương 719-724 - Mc Trần Vân Audio Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20335-338%20%5BPh%E1%BA%A7n%2056%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 335-338 [Phần 56] Audio Truyện Tiên Hiệp Kiếm Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20369-372%20%5BPh%E1%BA%A7n%2063%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Kinh%20%C4%90i%E1%BB%83n%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 369-372 [Phần 63] MC Trần Vân - Truyện Tiên Hiệp Hay Kinh Điển 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20381-384%20%5BPh%E1%BA%A7n%2066%5D%20Mc%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 381-384 [Phần 66] Mc Trần Vân - Audio Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20103%5D%20Ch%C6%B0%C6%A1ng%20590-595%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 103] Chương 590-595 - Truyện Tiên Hiệp Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2086%5D%20Ch%C6%B0%C6%A1ng%20487-491%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 86] Chương 487-491 - MC Trần Vân - Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20101%5D%20Ch%C6%B0%C6%A1ng%20577%20582%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%202018%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 101] Chương 577 582 Audio Truyện Tiên Hiệp 2018 Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20138%5D%20Ch%C6%B0%C6%A1ng%20789-793%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 138] Chương 789-793 - MC Trần Vân Truyện Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20144%5D%20Ch%C6%B0%C6%A1ng%20818-821%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 144] Chương 818-821 - MC Trần Vân Tiên Hiệp Audio Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20242-246%20%5BPh%E1%BA%A7n%2039%5D%20-%20Audio%20Truy%E1%BB%87n%20Tu%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 242-246 [Phần 39] - Audio Truyện Tuên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20_%20Ph%E1%BA%A7n%20149%20_%20Ch%C6%B0%C6%A1ng%20843-848%20_%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên _ Phần 149 _ Chương 843-848 _ Audio Truyện Tiên Hiệp Kiếm Hiệp 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20209-212%20%5BPh%E1%BA%A7n%2032%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20M%E1%BB%9Bi%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 209-212 [Phần 32] - Audio Truyện Tiên Hiệp Mới 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20252-256%20%5BPh%E1%BA%A7n%2041%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 252-256 [Phần 41] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20128%5D%20Ch%C6%B0%C6%A1ng%20733-735%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 128] Chương 733-735 - MC Trần Vân Truyện Tiên Hiệp Audio Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2064%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 64] MC Trần Vân - Truyện Tiên Hiệp Kiếm Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2065%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 65] MC Trần Vân - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20148%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Audio%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 148] MC Trần Vân - Truyện Audio Kiếm Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20153%20__%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Phàm Nhân Tu Tiên __ Phần 153 __ MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20P.167%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên P.167 - MC Trần Vân - Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20168%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 168] MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20169%20__%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên __ Phần 169 __ Truyện Tiên Hiệp Hay Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/PhmNhnTuTinphn170Update.mp3",
+    "title" : "PhmNhnTuTinphn170Update",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%2051-54%20%5BPh%E1%BA%A7n%207%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20Qu%E1%BA%A3%20%C4%90%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên Chương 51-54 [Phần 7] - Audio Truyện Tiên Hiệp Hay Nhất Quả Đất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2055-60%20%5BPh%E1%BA%A7n%208%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 55-60 [Phần 8] - MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2061-66%20%5BPh%E1%BA%A7n%209%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay%20Kh%C3%B4ng%20Th%E1%BB%83%20B%E1%BB%8F%20Qua%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 61-66 [Phần 9] - Truyện Tiên Hiệp Cực Hay Không Thể Bỏ Qua - MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2043%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 43] Audio Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2067%2075%20%5BPh%E1%BA%A7n%2010%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 67 75 [Phần 10] - MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2076-80%20%5BPh%E1%BA%A7n%2011%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 76-80 [Phần 11] - MC Trần Vân - Audio Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2081-90%20%5BPh%E1%BA%A7n%2012%5D%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 81-90 [Phần 12] - MC Trần Vân - Audio Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%201%5D%20-%20Ch%C6%B0%C6%A1ng%201-9%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 1] - Chương 1-9 - MC Trần Vân - Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/T%E1%BA%ADp%20154%20__%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%202018.mp3",
+    "title" : "Tập 154 __ Phàm Nhân Tu Tiên __ Truyện Tiên Hiệp Hay 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20106-115%20%5BPh%E1%BA%A7n%2015%5D%20-%20Audio%20Nghe%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 106-115 [Phần 15] - Audio Nghe Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20141-%20143%20%5BPh%E1%BA%A7n%2021%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên Chương 141- 143 [Phần 21] - Audio Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20149-154%20%5BPh%E1%BA%A7n%2023%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 149-154 [Phần 23] - Truyện Tiên Hiệp Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20155-160%20%5BPh%E1%BA%A7n%2024%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20Qu%E1%BA%A3%20%C4%90%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 155-160 [Phần 24] - Truyện Tiên Hiệp Hay Nhất Quả Đất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20161-171%20%5BPh%E1%BA%A7n%2025%5D%20-%20Truy%C3%AAn%20Ti%C3%AAn%20Hi%E1%BB%87p%20Tuy%E1%BB%87t%20Hay.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 161-171 [Phần 25] - Truyên Tiên Hiệp Tuyệt Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20172%20-174%20-%20%5BPh%E1%BA%A7n%2026%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20Hay.mp3",
+    "title" : "Phàm Nhân Tu Tiên Chương 172 -174 - [Phần 26] - Truyện Tiên Hiệp Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ch%C6%B0%C6%A1ng%20175-178%20%5BPh%E1%BA%A7n%2027%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên Chương 175-178 [Phần 27] - Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20179-187%20%5BPh%E1%BA%A7n%2028%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 179-187 [Phần 28] - Audio Truyện Tiên Hiệp Hay Tuyệt Vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20188-193%20%5BPh%E1%BA%A7n%2029%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 188-193 [Phần 29] - Audio Truyện Tiên Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20194-199%20%5BPh%E1%BA%A7n%2030%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20C%E1%BB%B1c%20K%E1%BB%B3%20Hot.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 194-199 [Phần 30] - Truyện Tiên Hiệp Cực Kỳ Hot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20200-208%20%5BPh%E1%BA%A7n%2031%5D%20-%20%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Tuy%E1%BB%87t%20Hay.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 200-208 [Phần 31] -  Audio Truyện Tiên Hiệp Tuyệt Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20222-227%20%5BPh%E1%BA%A7n%2035%5D%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 222-227 [Phần 35] - Truyện Tiên Hiệp Audio Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20228-231%20%5BPh%E1%BA%A7n%2036%5D%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 228-231 [Phần 36] - Audio Truyện Tiên Hiệp Hay Tuyệt Vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20247-251%20%5BPh%E1%BA%A7n%2040%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 247-251 [Phần 40] Audio Truyện Tiên Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20274-277%20%5BPh%E1%BA%A7n%2045%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 274-277 [Phần 45] Audio Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20320-329%20%5BPh%E1%BA%A7n%2054%5DPh%C3%A0m%20%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 320-329 [Phần 54]Phàm  Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20339-343%20%5BPh%E1%BA%A7n%2057%5D%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 339-343 [Phần 57] Audio Truyện Tiên Hiệp Kiếm Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20359-363%20%5BPh%E1%BA%A7n%2061%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20ph%C3%A1t%20tr%E1%BB%B1c%20ti%E1%BA%BFp.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 359-363 [Phần 61] MC Trần Vân phát trực tiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%20364-369%20%5BPh%E1%BA%A7n%2062%5D%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Kinh%20%C4%90i%E1%BB%83n.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 364-369 [Phần 62] MC Trần Vân - Truyện Tiên Hiệp Hay Kinh Điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2068%5D%20Ch%C6%B0%C6%A1ng%20385-394%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 68] Chương 385-394 - MC Trần Vân - Audio Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2069%5D%20Ch%C6%B0%C6%A1ng%20395-399%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 69] Chương 395-399 - MC Trần Vân - Truyện Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2070%5D%20Ch%C6%B0%C6%A1ng%20399-403%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 70] Chương 399-403 - MC Trần Vân - Audio Tiên Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2071%5D%20Ch%C6%B0%C6%A1ng%20405-409%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 71] Chương 405-409 - MC Trần Vân - Audio Truyện Tiên Hiệp Hay Tuyệt Vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2075%5D%20Ch%C6%B0%C6%A1ng%20425-429%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 75] Chương 425-429 - MC Trần Vân Truyện Audio Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2077%5D%20Ch%C6%B0%C6%A1ng%20434-437%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 77] Chương 434-437 - MC Trần Vân - Audio Truyện Tiên Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5B%5BPh%E1%BA%A7n%2078%5D%20Ch%C6%B0%C6%A1ng%20438-442%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [[Phần 78] Chương 438-442 - Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2079%5D%20Ch%C6%B0%C6%A1ng%20442-447%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 79] Chương 442-447 - MC Trần Vân Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2080%5D%20Ch%C6%B0%C6%A1ng%20448-452%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Full.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 80] Chương 448-452 - Audio Truyện Tiên Hiệp Vong Ngữ Full",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2081%5D%20Ch%C6%B0%C6%A1ng%20453-457%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hot.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 81] Chương 453-457 - MC Trần Vân Truyện Tiên Hiệp Vong Ngữ Hot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2082%5D%20Ch%C6%B0%C6%A1ng%20457-465%20__%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 82] Chương 457-465 __ MC Trần Vân - Truyện Audio Tiên Hiệp Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2083%5D%20Ch%C6%B0%C6%A1ng%20466-471%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 83] Chương 466-471 - MC Trần Vân Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2084%5D%20Ch%C6%B0%C6%A1ng%20472-479%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 84] Chương 472-479 - MC Trần Vân Audio Truyện Tiên Hiệp Kiếm Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2085%5D%20Ch%C6%B0%C6%A1ng%20480-486%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 85] Chương 480-486 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2088%5D%20Ch%C6%B0%C6%A1ng%20498-502%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 88] Chương 498-502 - Truyện Tiên Hiệp Hay Nhất Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2090%5D%20Ch%C6%B0%C6%A1ng%20509-513%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 90] Chương 509-513 - Truyện Tiên Hiệp Audio MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2095%5D%20Ch%C6%B0%C6%A1ng%20539-544%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 95] Chương 539-544 - Truyện Tiên Hiệp Audio Hay Nhất Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%2099%5D%20Ch%C6%B0%C6%A1ng%20564-570%20-%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20M%E1%BB%8Di%20Th%E1%BB%9Di%20%C4%90%E1%BA%A1i.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 99] Chương 564-570 - Audio Truyện Tiên Hiệp Hay Nhất Mọi Thời Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20104%5D%20Ch%C6%B0%C6%A1ng%20596-600%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20C%E1%BB%A7a%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 104] Chương 596-600 - Truyện Tiên Hiệp Hay Nhất Của Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20105%5D%20Ch%C6%B0%C6%A1ng%20601-606%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 105] Chương 601-606 - Truyện Tiên Hiệp Audio Hay Tuyệt Vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20107%5D%20Ch%C6%B0%C6%A1ng%20612-620%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 107] Chương 612-620 - Truyện Tiên Hiệp Vong Ngữ Hay Nhất Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20114%5D%20Ch%C6%B0%C6%A1ng%20655-660%20-%20Top%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 114] Chương 655-660 - Top Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20116%5D%20Ch%C6%B0%C6%A1ng%20668-673%20-%20Top%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20M%E1%BB%8Di%20Th%E1%BB%9Di%20%C4%90%E1%BA%A1i.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 116] Chương 668-673 - Top Truyện Tiên Hiệp Hay Nhất Mọi Thời Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20119%5D%20Ch%C6%B0%C6%A1ng%20686-690%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 119] Chương 686-690 - MC Trần Vân Audio Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20121%5D%20Ch%C6%B0%C6%A1ng%20697-702%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 121] Chương 697-702 - Trần Vân Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20122%5D%20Ch%C6%B0%C6%A1ng%20703-708%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 122] Chương 703-708 - MC Trần Vân Truyện Tiên Hiệp Audio Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20127%5D%20Ch%C6%B0%C6%A1ng%20729-732%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 127] Chương 729-732 - MC Trần Vân Truyện Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20131%5D%20Ch%C6%B0%C6%A1ng%20750-754%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 131] Chương 750-754 - MC Trần Vân Audio Tiên Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20132%5D%20Ch%C6%B0%C6%A1ng%20755-760%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 132] Chương 755-760 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20135%5D%20Ch%C6%B0%C6%A1ng%20772-776%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 135] Chương 772-776 - MC Trần Vân Audio Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20136%5D%20Ch%C6%B0%C6%A1ng%20777-781%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%20C%E1%BB%A7a%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 136] Chương 777-781 - MC Trần Vân Audio Tiên Hiệp Hay Nhất Của Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20137%5D%20Ch%C6%B0%C6%A1ng%20782-788%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Audio%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 137] Chương 782-788 - MC Trần Vân Audio Truyện Tiên Hiệp Vong Ngữ Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20140%5D%20Ch%C6%B0%C6%A1ng%20799-803%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 140] Chương 799-803 - MC Trần Vân Đọc Truyện Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20142%5D%20Ch%C6%B0%C6%A1ng%20808-811%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 142] Chương 808-811 - MC Trần Vân Truyện Kiếm Hiệp Audio Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20145%5D%20Ch%C6%B0%C6%A1ng%20822-826%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Audio%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 145] Chương 822-826 - MC Trần Vân Truyện Tiên Hiệp Kiếm Hiệp Audio Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20147%5D%20Ch%C6%B0%C6%A1ng%20833-838%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 147] Chương 833-838 - MC Trần Vân Truyện Kiếm Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%28Ph%E1%BA%A7n%20150%29%20Ch%C6%B0%C6%A1ng%20849-853.mp3",
+    "title" : "Phàm Nhân Tu Tiên (Phần 150) Chương 849-853",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20151%5D%20Ch%C6%B0%C6%A1ng%20854-858%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 151] Chương 854-858 - MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20152%5D%20Ch%C6%B0%C6%A1ng%20859-863%20-%20Gi%E1%BB%8Dng%20%C4%90%E1%BB%8Dc%20MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 152] Chương 859-863 - Giọng Đọc MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%23%20Ph%E1%BA%A7n%20155%20%23%20Ch%C6%B0%C6%A1ng%20873-876.mp3",
+    "title" : "Phàm Nhân Tu Tiên # Phần 155 # Chương 873-876",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/%5BPh%E1%BA%A7n%20156%5D%20%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%20%5BCh%C6%B0%C6%A1ng%20877-880%5D%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "[Phần 156]  Phàm Nhân Tu Tiên  [Chương 877-880] Truyện Tiên Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20_%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20_%20Ph%E1%BA%A7n%20157%20_%20Ch%C6%B0%C6%A1ng%20881-886%20_MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Truyện Tiên Hiệp _ Phàm Nhân Tu Tiên _ Phần 157 _ Chương 881-886 _MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20158%20__%20Ch%C6%B0%C6%A1ng%20887-891%20__%20%C4%90%E1%BB%89nh%20Cao%20C%E1%BB%A7a%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p.mp3",
+    "title" : "Phàm Nhân Tu Tiên __ Phần 158 __ Chương 887-891 __ Đỉnh Cao Của Truyện Tiên Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20159%20__%20Ch%C6%B0%C6%A1ng%20892-896%20__%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Vong%20Ng%E1%BB%AF.mp3",
+    "title" : "Phàm Nhân Tu Tiên __ Phần 159 __ Chương 892-896 __ Truyện Tiên Hiệp Vong Ngữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ti%C3%AAn%20Hi%E1%BB%87p%20__%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20160%20__%20Ch%C6%B0%C6%A1ng%20897-901%20__%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Tiên Hiệp __ Phàm Nhân Tu Tiên __ Phần 160 __ Chương 897-901 __ MC Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Truy%E1%BB%87n_%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20162%20__%20Ch%C6%B0%C6%A1ng%20909~915%20__MC%20Tr%E1%BA%A7n%20V%C3%A2n.mp3",
+    "title" : "Truyện_ Phàm Nhân Tu Tiên __ Phần 162 __ Chương 909~915 __MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20-%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20_%20Ph%E1%BA%A7n%20163%20_%20Ch%C6%B0%C6%A1ng%20915-920.mp3",
+    "title" : "Truyện Tiên Hiệp Hay - Phàm Nhân Tu Tiên _ Phần 163 _ Chương 915-920",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5B%20Ph%E1%BA%A7n%20164%20%5D%20Ch%C6%B0%C6%A1ng%20921-924%20-%20T%C3%A1c%20gi%E1%BA%A3_%20Vong%20Ng%E1%BB%AF%20-%20Tr%E1%BA%A7n%20V%C3%A2n%20Di%E1%BB%85n%20%C4%90%E1%BB%8Dc.mp3",
+    "title" : "Phàm Nhân Tu Tiên [ Phần 164 ] Chương 921-924 - Tác giả_ Vong Ngữ - Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20__%20Ph%E1%BA%A7n%20165%20__%20Ch%C6%B0%C6%A1ng%20925%20929.mp3",
+    "title" : "Phàm Nhân Tu Tiên __ Phần 165 __ Chương 925 929",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Tien%20Hi%E1%BB%87p_%20Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%20166%5D%20Ch%C6%B0%C6%A1ng%20930-935.mp3",
+    "title" : "Tien Hiệp_ Phàm Nhân Tu Tiên [Phần 166] Chương 930-935",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%202%5D%20-%20Ch%C6%B0%C6%A1ng%2010-18%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 2] - Chương 10-18 - MC Trần Vân - Truyện Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%203%5D%20-%20Ch%C6%B0%C6%A1ng%2019-27%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hot%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 3] - Chương 19-27 - MC Trần Vân - Tiên Hiệp Hot 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20Ph%E1%BA%A7n%204%20Ch%C6%B0%C6%A1ng%2028%2036%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Nh%E1%BA%A5t%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên Phần 4 Chương 28 36 MC Trần Vân Tiên Hiệp Hay Nhất 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20-%20Ch%C6%B0%C6%A1ng%2043-50%20%5BPh%E1%BA%A7n%206%5D%20-%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hay%20Tuy%E1%BB%87t%20V%E1%BB%9Di%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên - Chương 43-50 [Phần 6] - Tiên Hiệp Hay Tuyệt Vời 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phamnhantrutien/Ph%C3%A0m%20Nh%C3%A2n%20Tu%20Ti%C3%AAn%20%5BPh%E1%BA%A7n%205%5D%20Ch%C6%B0%C6%A1ng%2037-42%20-%20MC%20Tr%E1%BA%A7n%20V%C3%A2n%20-%20Truy%E1%BB%87n%20Ti%C3%AAn%20Hi%E1%BB%87p%20Hot%202018.mp3",
+    "title" : "Phàm Nhân Tu Tiên [Phần 5] Chương 37-42 - MC Trần Vân - Truyện Tiên Hiệp Hot 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

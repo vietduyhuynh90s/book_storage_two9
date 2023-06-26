@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lieu-thi.html",
+    "title" : "Liễu Thi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Mỹ Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 75541,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_0fa514cf709f7717bae8b6df20bf30c4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_0fa514cf709f7717bae8b6df20bf30c4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4761,
+    "title" : "lieu-thi-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4958,
+    "title" : "lieu-thi-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4795,
+    "title" : "lieu-thi-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4947,
+    "title" : "lieu-thi-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4531,
+    "title" : "lieu-thi-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4524,
+    "title" : "lieu-thi-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4605,
+    "title" : "lieu-thi-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4945,
+    "title" : "lieu-thi-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4590,
+    "title" : "lieu-thi-phan-2-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4835,
+    "title" : "lieu-thi-phan-2-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4237,
+    "title" : "lieu-thi-phan-2-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4312,
+    "title" : "lieu-thi-phan-2-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4341,
+    "title" : "lieu-thi-phan-2-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4363,
+    "title" : "lieu-thi-phan-2-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5156,
+    "title" : "lieu-thi-phan-2-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5641,
+    "title" : "lieu-thi-phan-2-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-1.mp3",
+    "title" : "lieu-thi-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-2.mp3",
+    "title" : "lieu-thi-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-3.mp3",
+    "title" : "lieu-thi-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-4.mp3",
+    "title" : "lieu-thi-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-5.mp3",
+    "title" : "lieu-thi-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-6.mp3",
+    "title" : "lieu-thi-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-7.mp3",
+    "title" : "lieu-thi-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-tap-8.mp3",
+    "title" : "lieu-thi-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-1.mp3",
+    "title" : "lieu-thi-phan-2-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-2.mp3",
+    "title" : "lieu-thi-phan-2-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-3.mp3",
+    "title" : "lieu-thi-phan-2-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-4.mp3",
+    "title" : "lieu-thi-phan-2-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-5.mp3",
+    "title" : "lieu-thi-phan-2-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-6.mp3",
+    "title" : "lieu-thi-phan-2-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-7.mp3",
+    "title" : "lieu-thi-phan-2-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-thi-full/lieu-thi-phan-2-tap-8.mp3",
+    "title" : "lieu-thi-phan-2-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

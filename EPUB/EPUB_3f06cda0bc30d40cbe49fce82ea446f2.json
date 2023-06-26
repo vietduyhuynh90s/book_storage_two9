@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/giao-thuong-coi-am.html",
+    "title" : "Giao Thương Cõi Âm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 32714,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3f06cda0bc30d40cbe49fce82ea446f2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3f06cda0bc30d40cbe49fce82ea446f2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4192,
+    "title" : "giao-thuong-coi-am",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "giao-thuong-coi-am-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4033,
+    "title" : "giao-thuong-coi-am-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3921,
+    "title" : "giao-thuong-coi-am-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3886,
+    "title" : "giao-thuong-coi-am-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4075,
+    "title" : "giao-thuong-coi-am-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4418,
+    "title" : "giao-thuong-coi-am-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4301,
+    "title" : "giao-thuong-coi-am-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am.mp3",
+    "title" : "giao-thuong-coi-am",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-2.mp3",
+    "title" : "giao-thuong-coi-am-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-3.mp3",
+    "title" : "giao-thuong-coi-am-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-4.mp3",
+    "title" : "giao-thuong-coi-am-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-5.mp3",
+    "title" : "giao-thuong-coi-am-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-6.mp3",
+    "title" : "giao-thuong-coi-am-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-7.mp3",
+    "title" : "giao-thuong-coi-am-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-thuong-coi-am/giao-thuong-coi-am-tap-8.mp3",
+    "title" : "giao-thuong-coi-am-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
