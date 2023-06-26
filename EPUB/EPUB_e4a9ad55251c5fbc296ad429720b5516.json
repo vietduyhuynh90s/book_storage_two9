@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-hon-c-het-troi.html",
+    "title" : "Oan Hồn C.hết Trôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Danh Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 6616,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_e4a9ad55251c5fbc296ad429720b5516.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_e4a9ad55251c5fbc296ad429720b5516.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-c-het-troi/oan-hon-c-het-troi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "oan-hon-c-het-troi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-c-het-troi/oan-hon-c-het-troi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3125,
+    "title" : "oan-hon-c-het-troi-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-c-het-troi/oan-hon-c-het-troi.mp3",
+    "title" : "oan-hon-c-het-troi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-c-het-troi/oan-hon-c-het-troi-tap-2.mp3",
+    "title" : "oan-hon-c-het-troi-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

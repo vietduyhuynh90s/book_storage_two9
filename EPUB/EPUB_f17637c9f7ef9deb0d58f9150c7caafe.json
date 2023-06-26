@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tieu-lan-dau-bach-long.html",
+    "title" : "Tiểu Lân Đấu Bạch Long",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Khoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11579,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f17637c9f7ef9deb0d58f9150c7caafe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f17637c9f7ef9deb0d58f9150c7caafe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tieu-lan-quyet-dau-bach-long/tieu-lan-quyet-dau-bach-long.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5914,
+    "title" : "tieu-lan-quyet-dau-bach-long",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-lan-quyet-dau-bach-long/tieu-lan-quyet-dau-bach-long-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5665,
+    "title" : "tieu-lan-quyet-dau-bach-long-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tieu-lan-quyet-dau-bach-long/tieu-lan-quyet-dau-bach-long.mp3",
+    "title" : "tieu-lan-quyet-dau-bach-long",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-lan-quyet-dau-bach-long/tieu-lan-quyet-dau-bach-long-tap-2.mp3",
+    "title" : "tieu-lan-quyet-dau-bach-long-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

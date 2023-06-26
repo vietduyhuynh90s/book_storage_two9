@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/sat-huong-quynh.html",
+    "title" : "Sát hương quỳnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọc Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1d0149e00c6fb039c38de965271d0aab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1d0149e00c6fb039c38de965271d0aab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801502.us.archive.org/23/items/sat-huong-quynh/SatHuongQuynh_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sát hương quỳnh tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/23/items/sat-huong-quynh/SatHuongQuynh_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sát hương quỳnh tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/23/items/sat-huong-quynh/SatHuongQuynh_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Sát hương quỳnh tập 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801502.us.archive.org/23/items/sat-huong-quynh/SatHuongQuynh_01.mp3",
+    "title" : "Sát hương quỳnh tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/23/items/sat-huong-quynh/SatHuongQuynh_02.mp3",
+    "title" : "Sát hương quỳnh tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/23/items/sat-huong-quynh/SatHuongQuynh_03.mp3",
+    "title" : "Sát hương quỳnh tập 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

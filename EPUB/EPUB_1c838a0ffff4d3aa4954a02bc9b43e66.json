@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mot-nen-nhang-series-ke-chuyen-ma-huynh-lap.html",
+    "title" : "Một Nén Nhang – Series Kể Chuyện Ma Huỳnh Lập",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đang cập nhập",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1c838a0ffff4d3aa4954a02bc9b43e66.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1c838a0ffff4d3aa4954a02bc9b43e66.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-tram-xa-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma Trạm Xá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/mo-sau-nha-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Mộ Sau Nhà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/cung-co-hon-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cúng Cô Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/nha-tro-co-ma-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhà Trọ Có Ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-cay-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma Cây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/duyen-am-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Duyên Âm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-da-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma Da",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/muon-xac-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Mượn Xác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/buoi-tiec-ma-am-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Buổi Tiệc Ma Ám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-bup-be-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma Búp Bê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-tram-xa-tap-1.mp3",
+    "title" : "Ma Trạm Xá",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/mo-sau-nha-tap-2.mp3",
+    "title" : "Mộ Sau Nhà",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/cung-co-hon-tap-3.mp3",
+    "title" : "Cúng Cô Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/nha-tro-co-ma-tap-4.mp3",
+    "title" : "Nhà Trọ Có Ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-cay-tap-5.mp3",
+    "title" : "Ma Cây",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/duyen-am-tap-6.mp3",
+    "title" : "Duyên Âm",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-da-tap-7.mp3",
+    "title" : "Ma Da",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/muon-xac-tap-8.mp3",
+    "title" : "Mượn Xác",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/buoi-tiec-ma-am-tap-9.mp3",
+    "title" : "Buổi Tiệc Ma Ám",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/11/items/mot-nen-nhang/ma-bup-be-tap-10.mp3",
+    "title" : "Ma Búp Bê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

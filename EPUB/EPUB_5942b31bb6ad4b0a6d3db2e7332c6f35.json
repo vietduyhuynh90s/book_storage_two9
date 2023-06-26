@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ma-cho.html",
+    "title" : "Ma chó",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Ngọc Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5942b31bb6ad4b0a6d3db2e7332c6f35.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5942b31bb6ad4b0a6d3db2e7332c6f35.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ma chó tập 8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_01.mp3",
+    "title" : "Ma chó tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_02.mp3",
+    "title" : "Ma chó tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_03.mp3",
+    "title" : "Ma chó tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_04.mp3",
+    "title" : "Ma chó tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_05.mp3",
+    "title" : "Ma chó tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_06.mp3",
+    "title" : "Ma chó tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_07.mp3",
+    "title" : "Ma chó tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801403.us.archive.org/1/items/ma-cho-full/MaCho_08.mp3",
+    "title" : "Ma chó tập 8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mien-tay-ky-truyen.html",
+    "title" : "Miền Tây Kỳ Truyện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dash Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 20986,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_11fc4457fd7dc06704cea2233f515a90.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_11fc4457fd7dc06704cea2233f515a90.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4010,
+    "title" : "mien-tay-ky-truyen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4476,
+    "title" : "mien-tay-ky-truyen-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4033,
+    "title" : "mien-tay-ky-truyen-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4409,
+    "title" : "mien-tay-ky-truyen-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4058,
+    "title" : "mien-tay-ky-truyen-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen.mp3",
+    "title" : "mien-tay-ky-truyen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-2.mp3",
+    "title" : "mien-tay-ky-truyen-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-3.mp3",
+    "title" : "mien-tay-ky-truyen-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-4.mp3",
+    "title" : "mien-tay-ky-truyen-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mien-tay-ky-truyen/mien-tay-ky-truyen-tap-5.mp3",
+    "title" : "mien-tay-ky-truyen-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

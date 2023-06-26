@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngam-ngai-tim-tram-2.html",
+    "title" : "Ngậm Ngải Tìm Trầm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thanh Hùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 13770,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_859c271a9a199663d92f4ca6e0db1906.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_859c271a9a199663d92f4ca6e0db1906.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "ngam-ngai-tim-tram",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3079,
+    "title" : "ngam-ngai-tim-tram-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "ngam-ngai-tim-tram-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3434,
+    "title" : "ngam-ngai-tim-tram-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram.mp3",
+    "title" : "ngam-ngai-tim-tram",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram-tap-2.mp3",
+    "title" : "ngam-ngai-tim-tram-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram-tap-3.mp3",
+    "title" : "ngam-ngai-tim-tram-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-ngai-tim-tram_202201/ngam-ngai-tim-tram-tap-4.mp3",
+    "title" : "ngam-ngai-tim-tram-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

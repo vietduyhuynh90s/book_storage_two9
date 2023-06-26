@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thanh-dia-tara.html",
+    "title" : "Thánh Địa Tara",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tĩnh Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 86191,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1ceaa215fedbbee93895ec7d8e2052c2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1ceaa215fedbbee93895ec7d8e2052c2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4496,
+    "title" : "thanh-dia-tara-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "thanh-dia-tara-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4224,
+    "title" : "thanh-dia-tara-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4440,
+    "title" : "thanh-dia-tara-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4321,
+    "title" : "thanh-dia-tara-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4102,
+    "title" : "thanh-dia-tara-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4459,
+    "title" : "thanh-dia-tara-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4008,
+    "title" : "thanh-dia-tara-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "thanh-dia-tara-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5094,
+    "title" : "thanh-dia-tara-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "thanh-dia-tara-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4265,
+    "title" : "thanh-dia-tara-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4141,
+    "title" : "thanh-dia-tara-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4127,
+    "title" : "thanh-dia-tara-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4162,
+    "title" : "thanh-dia-tara-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4239,
+    "title" : "thanh-dia-tara-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4186,
+    "title" : "thanh-dia-tara-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4576,
+    "title" : "thanh-dia-tara-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4966,
+    "title" : "thanh-dia-tara-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4946,
+    "title" : "thanh-dia-tara-tap-20",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-1.mp3",
+    "title" : "thanh-dia-tara-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-2.mp3",
+    "title" : "thanh-dia-tara-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-3.mp3",
+    "title" : "thanh-dia-tara-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-4.mp3",
+    "title" : "thanh-dia-tara-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-5.mp3",
+    "title" : "thanh-dia-tara-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-6.mp3",
+    "title" : "thanh-dia-tara-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-7.mp3",
+    "title" : "thanh-dia-tara-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-8.mp3",
+    "title" : "thanh-dia-tara-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-9.mp3",
+    "title" : "thanh-dia-tara-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-10.mp3",
+    "title" : "thanh-dia-tara-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-11.mp3",
+    "title" : "thanh-dia-tara-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-12.mp3",
+    "title" : "thanh-dia-tara-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-13.mp3",
+    "title" : "thanh-dia-tara-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-14.mp3",
+    "title" : "thanh-dia-tara-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-15.mp3",
+    "title" : "thanh-dia-tara-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-16.mp3",
+    "title" : "thanh-dia-tara-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-17.mp3",
+    "title" : "thanh-dia-tara-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-18.mp3",
+    "title" : "thanh-dia-tara-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-19.mp3",
+    "title" : "thanh-dia-tara-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-dia-tara/thanh-dia-tara-tap-20.mp3",
+    "title" : "thanh-dia-tara-tap-20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

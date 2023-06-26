@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tro-treu-phan-doi.html",
+    "title" : "Trớ Trêu Phận Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Văn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 14837,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_2450956d74f80f06c505875b0b4a9def.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_2450956d74f80f06c505875b0b4a9def.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mo-da-linh-nam/mo-da-linh-nam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "mo-da-linh-nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-da-linh-nam/tro-treu-phan-doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8152,
+    "title" : "tro-treu-phan-doi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-da-linh-nam/dao-quan-tap-136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2810,
+    "title" : "dao-quan-tap-136",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mo-da-linh-nam/mo-da-linh-nam.mp3",
+    "title" : "mo-da-linh-nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-da-linh-nam/tro-treu-phan-doi.mp3",
+    "title" : "tro-treu-phan-doi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-da-linh-nam/dao-quan-tap-136.mp3",
+    "title" : "dao-quan-tap-136",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/am-duong-su.html",
+    "title" : "Âm Dương Sư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hàn Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ab9d2517294dea530522a4fe117768f9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ab9d2517294dea530522a4fe117768f9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Âm dương sư tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Âm dương sư tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Âm dương sư tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Âm dương sư tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Âm dương sư tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Âm dương sư tập 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-1.mp3",
+    "title" : "Âm dương sư tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-2.mp3",
+    "title" : "Âm dương sư tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-3.mp3",
+    "title" : "Âm dương sư tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-4.mp3",
+    "title" : "Âm dương sư tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-5.mp3",
+    "title" : "Âm dương sư tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801401.us.archive.org/3/items/am-duong-su_202008/am-duong-su-tap-6.mp3",
+    "title" : "Âm dương sư tập 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

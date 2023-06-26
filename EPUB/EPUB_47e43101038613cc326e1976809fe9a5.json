@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-mo-diet-quy.html",
+    "title" : "Thầy Mo Diệt Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 15832,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_47e43101038613cc326e1976809fe9a5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_47e43101038613cc326e1976809fe9a5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-mo-diet-quy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "thay-mo-diet-quy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-quy-diet-mo-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "thay-quy-diet-mo-quy-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-mo-diet-quy-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4045,
+    "title" : "thay-mo-diet-quy-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-mo-diet-quy-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3974,
+    "title" : "thay-mo-diet-quy-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-mo-diet-quy.mp3",
+    "title" : "thay-mo-diet-quy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-quy-diet-mo-quy-tap-2.mp3",
+    "title" : "thay-quy-diet-mo-quy-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-mo-diet-quy-tap-3.mp3",
+    "title" : "thay-mo-diet-quy-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-mo-diet-quy/thay-mo-diet-quy-tap-4.mp3",
+    "title" : "thay-mo-diet-quy-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

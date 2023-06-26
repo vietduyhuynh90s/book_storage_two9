@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-nghiet-ngay-mua-gio.html",
+    "title" : "Oán Nghiệt Ngày Mưa Gió",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ninh Ka",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 4725,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c2269f32d46587ce8bb6b8f7bab21307.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c2269f32d46587ce8bb6b8f7bab21307.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-nghiet-ngay-mua-gio/oan-nghiet-ngay-mua-gio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4725,
+    "title" : "oan-nghiet-ngay-mua-gio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-nghiet-ngay-mua-gio/oan-nghiet-ngay-mua-gio.mp3",
+    "title" : "oan-nghiet-ngay-mua-gio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
