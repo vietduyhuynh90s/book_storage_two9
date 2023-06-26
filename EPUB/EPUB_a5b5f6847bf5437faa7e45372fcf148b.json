@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/x-ac-ai-treo-ngoai-cong.html",
+    "title" : "X.ác Ai Treo Ngoài Cổng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạnh Ninh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 3913,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_a5b5f6847bf5437faa7e45372fcf148b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_a5b5f6847bf5437faa7e45372fcf148b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/x-ac-ai-treo-ngoai-cong/x-ac-ai-treo-ngoai-cong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3913,
+    "title" : "x-ac-ai-treo-ngoai-cong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/x-ac-ai-treo-ngoai-cong/x-ac-ai-treo-ngoai-cong.mp3",
+    "title" : "x-ac-ai-treo-ngoai-cong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

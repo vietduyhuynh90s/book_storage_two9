@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/con-quy-trong-chua.html",
+    "title" : "Con Quỷ Trong Chùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 6601,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_eb8ffa6d60a638d9b4dca30333e26701.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_eb8ffa6d60a638d9b4dca30333e26701.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-quy-trong-chua/con-quy-trong-chua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3280,
+    "title" : "con-quy-trong-chua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-quy-trong-chua/con-quy-trong-chua-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "con-quy-trong-chua-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-quy-trong-chua/con-quy-trong-chua.mp3",
+    "title" : "con-quy-trong-chua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-quy-trong-chua/con-quy-trong-chua-tap-2.mp3",
+    "title" : "con-quy-trong-chua-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

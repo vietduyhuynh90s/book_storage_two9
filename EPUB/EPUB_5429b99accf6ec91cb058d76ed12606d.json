@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/12h17.html",
+    "title" : "12h17",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 59938,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_5429b99accf6ec91cb058d76ed12606d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_5429b99accf6ec91cb058d76ed12606d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/12h-17/12h17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4421,
+    "title" : "12h17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "12h17-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "12h17-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "12h17-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4076,
+    "title" : "12h17-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4026,
+    "title" : "12h17-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "12h17-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "12h17-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3759,
+    "title" : "12h17-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "12h17-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "12h17-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "12h17-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "12h17-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "12h17-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4924,
+    "title" : "12h17-tap-15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/12h-17/12h17.mp3",
+    "title" : "12h17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-2.mp3",
+    "title" : "12h17-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-3.mp3",
+    "title" : "12h17-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-4.mp3",
+    "title" : "12h17-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-5.mp3",
+    "title" : "12h17-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-6.mp3",
+    "title" : "12h17-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-7.mp3",
+    "title" : "12h17-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-8.mp3",
+    "title" : "12h17-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-9.mp3",
+    "title" : "12h17-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-10.mp3",
+    "title" : "12h17-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-11.mp3",
+    "title" : "12h17-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-12.mp3",
+    "title" : "12h17-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-13.mp3",
+    "title" : "12h17-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-14.mp3",
+    "title" : "12h17-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/12h-17/12h17-tap-15.mp3",
+    "title" : "12h17-tap-15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

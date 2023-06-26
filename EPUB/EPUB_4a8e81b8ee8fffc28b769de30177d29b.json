@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tinh-ban-am-duong.html",
+    "title" : "Tình Bạn Âm Dương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 8218,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_4a8e81b8ee8fffc28b769de30177d29b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_4a8e81b8ee8fffc28b769de30177d29b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-ban-am-duong/tinh-ban-am-duong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4197,
+    "title" : "tinh-ban-am-duong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-ban-am-duong/tinh-ban-am-duong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4021,
+    "title" : "tinh-ban-am-duong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-ban-am-duong/tinh-ban-am-duong.mp3",
+    "title" : "tinh-ban-am-duong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-ban-am-duong/tinh-ban-am-duong-tap-2.mp3",
+    "title" : "tinh-ban-am-duong-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-tam-bat-ma.html",
+    "title" : "Thầy Tâm Bắt Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tâm Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7193,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_12ae7490cca12e13466281e3a399f1f4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_12ae7490cca12e13466281e3a399f1f4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-tam-bat-ma/thay-tam-bat-ma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "thay-tam-bat-ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-tam-bat-ma/thay-tam-bat-ma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "thay-tam-bat-ma-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-tam-bat-ma/thay-tam-bat-ma.mp3",
+    "title" : "thay-tam-bat-ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-tam-bat-ma/thay-tam-bat-ma-tap-2.mp3",
+    "title" : "thay-tam-bat-ma-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

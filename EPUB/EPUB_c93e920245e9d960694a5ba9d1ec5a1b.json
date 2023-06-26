@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/loi-nguyen-ngoc-bich.html",
+    "title" : "Lời Nguyền Ngọc Bích",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 10592,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c93e920245e9d960694a5ba9d1ec5a1b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c93e920245e9d960694a5ba9d1ec5a1b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-ngoc-bich/loi-nguyen-ngoc-bich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "loi-nguyen-ngoc-bich",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-ngoc-bich/loi-nguyen-ngoc-bich-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "loi-nguyen-ngoc-bich-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-ngoc-bich/loi-nguyen-ngoc-bich-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "loi-nguyen-ngoc-bich-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-ngoc-bich/loi-nguyen-ngoc-bich.mp3",
+    "title" : "loi-nguyen-ngoc-bich",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-ngoc-bich/loi-nguyen-ngoc-bich-tap-2.mp3",
+    "title" : "loi-nguyen-ngoc-bich-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-ngoc-bich/loi-nguyen-ngoc-bich-tap-3.mp3",
+    "title" : "loi-nguyen-ngoc-bich-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

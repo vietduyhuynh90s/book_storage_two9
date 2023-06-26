@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/gieng-oan-hon.html",
+    "title" : "Giếng Oan Hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7213,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_1fd72339dd8c69180d9d054f9ada6be6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_1fd72339dd8c69180d9d054f9ada6be6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gieng-oan-hon/gieng-oan-hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3394,
+    "title" : "gieng-oan-hon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieng-oan-hon/gieng-oan-hon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "gieng-oan-hon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gieng-oan-hon/gieng-oan-hon.mp3",
+    "title" : "gieng-oan-hon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieng-oan-hon/gieng-oan-hon-tap-2.mp3",
+    "title" : "gieng-oan-hon-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vong-tay-ma.html",
+    "title" : "Vòng Tay Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 27437,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_48e9ffb8c1e25b2dd1d18d5af1751f24.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_48e9ffb8c1e25b2dd1d18d5af1751f24.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "vong-tay-ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "vong-tay-ma-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "vong-tay-ma-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "vong-tay-ma-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3131,
+    "title" : "vong-tay-ma-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3228,
+    "title" : "vong-tay-ma-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3251,
+    "title" : "vong-tay-ma-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-am-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4841,
+    "title" : "vong-tay-ma-am-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma.mp3",
+    "title" : "vong-tay-ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-2.mp3",
+    "title" : "vong-tay-ma-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-3.mp3",
+    "title" : "vong-tay-ma-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-4.mp3",
+    "title" : "vong-tay-ma-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-5.mp3",
+    "title" : "vong-tay-ma-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-6.mp3",
+    "title" : "vong-tay-ma-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-tap-7.mp3",
+    "title" : "vong-tay-ma-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-tay-ma/vong-tay-ma-am-tap-8.mp3",
+    "title" : "vong-tay-ma-am-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
