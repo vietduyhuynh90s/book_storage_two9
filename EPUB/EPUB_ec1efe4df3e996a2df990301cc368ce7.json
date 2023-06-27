@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nuoc-mat-cha-gia-2.html",
+    "title" : "Nước Mắt Cha Già",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Thanh An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 4087,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ec1efe4df3e996a2df990301cc368ce7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ec1efe4df3e996a2df990301cc368ce7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nuoc-mat-cha-gia_202303/nuoc-mat-cha-gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "nuoc-mat-cha-gia",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nuoc-mat-cha-gia_202303/nuoc-mat-cha-gia.mp3",
+    "title" : "nuoc-mat-cha-gia",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

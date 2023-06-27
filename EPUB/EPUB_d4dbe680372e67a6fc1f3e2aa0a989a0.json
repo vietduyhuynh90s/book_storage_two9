@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doi-dep-bi-ma-am.html",
+    "title" : "Đôi Dép Bị Ma Ám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thuận Thiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 3541,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_d4dbe680372e67a6fc1f3e2aa0a989a0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_d4dbe680372e67a6fc1f3e2aa0a989a0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doi-dep-bi-ma-am/doi-dep-bi-ma-am.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3541,
+    "title" : "doi-dep-bi-ma-am",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doi-dep-bi-ma-am/doi-dep-bi-ma-am.mp3",
+    "title" : "doi-dep-bi-ma-am",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

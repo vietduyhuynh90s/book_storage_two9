@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ma-thuoc-doc.html",
+    "title" : "Ma Thuốc Độc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 21533,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f51499553ccfe7ec01de77e2f82ea8ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f51499553ccfe7ec01de77e2f82ea8ae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4213,
+    "title" : "ma-thuoc-doc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4186,
+    "title" : "ma-thuoc-doc-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4464,
+    "title" : "ma-thuoc-doc-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4472,
+    "title" : "ma-thuoc-doc-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4198,
+    "title" : "ma-thuoc-doc-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc.mp3",
+    "title" : "ma-thuoc-doc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-2.mp3",
+    "title" : "ma-thuoc-doc-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-3.mp3",
+    "title" : "ma-thuoc-doc-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-4.mp3",
+    "title" : "ma-thuoc-doc-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-thuoc-doc/ma-thuoc-doc-tap-5.mp3",
+    "title" : "ma-thuoc-doc-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

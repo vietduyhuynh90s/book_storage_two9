@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/kiep-nan-yeu-tinh.html",
+    "title" : "Kiếp Nạn Yêu Tinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 19802,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_72758f29b6942f9879f6551baec6d123.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_72758f29b6942f9879f6551baec6d123.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3880,
+    "title" : "kiep-nan-yeu-tinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "kiep-nan-yeu-tinh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "kiep-nan-yeu-tinh-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "kiep-nan-yeu-tinh-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4229,
+    "title" : "kiep-nan-yeu-tinh-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh.mp3",
+    "title" : "kiep-nan-yeu-tinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-2.mp3",
+    "title" : "kiep-nan-yeu-tinh-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-3.mp3",
+    "title" : "kiep-nan-yeu-tinh-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-4.mp3",
+    "title" : "kiep-nan-yeu-tinh-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kiep-nan-yeu-tinh/kiep-nan-yeu-tinh-tap-5.mp3",
+    "title" : "kiep-nan-yeu-tinh-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

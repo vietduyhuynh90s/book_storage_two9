@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-du-trong-ta.html",
+    "title" : "Quỷ Dữ Trong Ta",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Huỳnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11115,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3ec0ef4c1840d1823c4e6830d33b5a36.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3ec0ef4c1840d1823c4e6830d33b5a36.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-du-trong-ta/quy-du-trong-ta.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5085,
+    "title" : "quy-du-trong-ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-du-trong-ta/quy-du-trong-ta-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6030,
+    "title" : "quy-du-trong-ta-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-du-trong-ta/quy-du-trong-ta.mp3",
+    "title" : "quy-du-trong-ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-du-trong-ta/quy-du-trong-ta-tap-2.mp3",
+    "title" : "quy-du-trong-ta-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

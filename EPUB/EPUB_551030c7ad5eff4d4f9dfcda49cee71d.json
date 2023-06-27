@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/sao-quy-giang-the-2.html",
+    "title" : "Sao Quỷ Giáng Thế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 19506,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_551030c7ad5eff4d4f9dfcda49cee71d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_551030c7ad5eff4d4f9dfcda49cee71d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3998,
+    "title" : "sao-quy-giang-the",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4020,
+    "title" : "sao-quy-giang-the-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4023,
+    "title" : "sao-quy-giang-the-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "sao-quy-giang-the-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "sao-quy-giang-the-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the.mp3",
+    "title" : "sao-quy-giang-the",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-2.mp3",
+    "title" : "sao-quy-giang-the-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-3.mp3",
+    "title" : "sao-quy-giang-the-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-4.mp3",
+    "title" : "sao-quy-giang-the-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sao-quy-giang-the_202110/sao-quy-giang-the-tap-5.mp3",
+    "title" : "sao-quy-giang-the-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nguoi-thu-mo-gia.html",
+    "title" : "Người Thủ Mộ Già",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Nhật Kha",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 15830,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_0805a0e7ade3a22585a7437a114a67b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_0805a0e7ade3a22585a7437a114a67b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-thu-mo-gia-NTM/nguoi-thu-mo-gia-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5223,
+    "title" : "nguoi-thu-mo-gia-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-thu-mo-gia-NTM/nguoi-thu-mo-gia-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4681,
+    "title" : "nguoi-thu-mo-gia-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-thu-mo-gia-NTM/nguoi-thu-mo-gia-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5926,
+    "title" : "nguoi-thu-mo-gia-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-thu-mo-gia-NTM/nguoi-thu-mo-gia-tap-1.mp3",
+    "title" : "nguoi-thu-mo-gia-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-thu-mo-gia-NTM/nguoi-thu-mo-gia-tap-2.mp3",
+    "title" : "nguoi-thu-mo-gia-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-thu-mo-gia-NTM/nguoi-thu-mo-gia-tap-3.mp3",
+    "title" : "nguoi-thu-mo-gia-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

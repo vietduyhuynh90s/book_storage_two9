@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lenh-denh-nghe-thay-cung.html",
+    "title" : "Lênh Đênh Nghề Thầy Cúng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhà Văn Bố Láo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 13326,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_577d3632f99edd8122523ab5c9f985be.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_577d3632f99edd8122523ab5c9f985be.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lenh-denh-nghe-thay-cung/lenh-denh-nghe-thay-cung-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6702,
+    "title" : "lenh-denh-nghe-thay-cung-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lenh-denh-nghe-thay-cung/lenh-denh-nghe-thay-cung-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6624,
+    "title" : "lenh-denh-nghe-thay-cung-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lenh-denh-nghe-thay-cung/lenh-denh-nghe-thay-cung-tap-1.mp3",
+    "title" : "lenh-denh-nghe-thay-cung-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lenh-denh-nghe-thay-cung/lenh-denh-nghe-thay-cung-tap-2.mp3",
+    "title" : "lenh-denh-nghe-thay-cung-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

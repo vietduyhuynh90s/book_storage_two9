@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/trang-quynh-bat-quy.html",
+    "title" : "Trạng Quỳnh Bắt Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhà Văn Bố Láo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10831,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_4662798049c8d9d040686e3ac5675c1d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_4662798049c8d9d040686e3ac5675c1d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trang-quynh-bat-quy/trang-quynh-bat-quy-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5131,
+    "title" : "trang-quynh-bat-quy-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trang-quynh-bat-quy/trang-quynh-bat-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "trang-quynh-bat-quy-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trang-quynh-bat-quy/trang-quynh-bat-quy-tap-1.mp3",
+    "title" : "trang-quynh-bat-quy-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trang-quynh-bat-quy/trang-quynh-bat-quy-tap-2.mp3",
+    "title" : "trang-quynh-bat-quy-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

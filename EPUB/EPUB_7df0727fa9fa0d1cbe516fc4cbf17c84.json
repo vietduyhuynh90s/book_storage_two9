@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/am-binh-nghiep-qua.html",
+    "title" : "Âm Binh Nghiệp Quả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phi Hưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10220,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7df0727fa9fa0d1cbe516fc4cbf17c84.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7df0727fa9fa0d1cbe516fc4cbf17c84.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-binh-nghiep-qua-full/am-binh-nghiep-qua-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4330,
+    "title" : "am-binh-nghiep-qua-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-binh-nghiep-qua-full/am-binh-nghiep-qua-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5890,
+    "title" : "am-binh-nghiep-qua-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-binh-nghiep-qua-full/am-binh-nghiep-qua-tap-1.mp3",
+    "title" : "am-binh-nghiep-qua-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-binh-nghiep-qua-full/am-binh-nghiep-qua-tap-2.mp3",
+    "title" : "am-binh-nghiep-qua-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

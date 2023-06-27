@@ -1,0 +1,1313 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chuyen-nam-xua.html",
+    "title" : "Chuyện năm xưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Ngạn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 700648,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_27c1c9dbd2adafa4b87b5c58c0a0e056.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_27c1c9dbd2adafa4b87b5c58c0a0e056.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7370,
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6984,
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8246,
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8053,
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6579,
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7318,
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2001%20-%20Ai%20C%C5%A9ng%20C%E1%BA%A7n%20Ph%E1%BA%A3i%20C%C3%B3%20M%E1%BB%99t%20B%C3%A0%20M%E1%BA%B9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "Audiobook 01 - Ai Cũng Cần Phải Có Một Bà Mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2002%20-%20L%E1%BA%A1%20Gi%C6%B0%E1%BB%9Dng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3383,
+    "title" : "Audiobook 02 - Lạ Giường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2003%20-%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20B%C3%A0%20%C4%90i%20B%C3%AAn%20T%C3%B4i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "Audiobook 03 - Người Đàn Bà Đi Bên Tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2004%20-%20M%E1%BB%99t%20L%E1%BA%A7n%20R%E1%BB%93i%20Th%C3%B4i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "Audiobook 04 - Một Lần Rồi Thôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2005%20-%20D%E1%BA%A5u%20Ch%C3%A2n%20X%C6%B0a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4273,
+    "title" : "Audiobook 05 - Dấu Chân Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2007%20-%20Ven%20R%E1%BB%ABng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 239,
+    "title" : "Audiobook 07 - Ven Rừng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2008%20-%20Chung%20Quanh%20T%C3%B4i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3789,
+    "title" : "Audiobook 08 - Chung Quanh Tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2009%20-%20B%C6%B0%E1%BB%9Bc%20Ch%C3%A2n%20Ng%C6%B0%E1%BB%9Di%20T%C3%ACnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "Audiobook 09 - Bước Chân Người Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2010%20-%20Qua%20%C4%90%C6%B0%E1%BB%9Dng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "Audiobook 10 - Qua Đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2011%20-%20V%C3%A1ch%20T%C6%B0%E1%BB%9Dng%20C%C5%A9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3824,
+    "title" : "Audiobook 11 - Vách Tường Cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2012%20-%20Ph%C3%B2ng%20M%E1%BA%A1c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "Audiobook 12 - Phòng Mạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2014%20-%20Bi%E1%BB%83n%20V%E1%BA%ABn%20%C4%90%E1%BB%A3i%20Ch%E1%BB%9D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "Audiobook 14 - Biển Vẫn Đợi Chờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2015%20-%20T%C3%A2m%20B%E1%BB%87nh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "Audiobook 15 - Tâm Bệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2016%20-%20T%C3%ACnh%20Mu%E1%BB%99n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Audiobook 16 - Tình Muộn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2017%20-%20D%E1%BA%A5u%20V%E1%BA%BFt%20%C3%82n%20T%C3%ACnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "Audiobook 17 - Dấu Vết Ân Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2018%20-%20D%E1%BB%91c%20Cao%20V%E1%BB%9Di%20V%E1%BB%A3i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "Audiobook 18 - Dốc Cao Vời Vợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2019%20-%20Ph%C3%B2ng%20T%E1%BA%AFm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2959,
+    "title" : "Audiobook 19 - Phòng Tắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2020%20-%20R%E1%BB%93i%20%C4%90%E1%BA%BFn%20M%E1%BB%99t%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3085,
+    "title" : "Audiobook 20 - Rồi Đến Một Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2021%20-%20C%C3%A2y%20Tr%E1%BB%A9ng%20C%C3%A1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3091,
+    "title" : "Audiobook 21 - Cây Trứng Cá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2022%20-%20Nh%E1%BB%8Bp%20C%E1%BA%A7u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3075,
+    "title" : "Audiobook 22 - Nhịp Cầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2023%20-%20%C4%90i%20Th%C3%AAm%20M%E1%BB%99t%20B%C6%B0%E1%BB%9Bc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3448,
+    "title" : "Audiobook 23 - Đi Thêm Một Bước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2024%20-%20K%E1%BB%83%20M%E1%BB%99t%20Chuy%E1%BB%87n%20T%C3%ACnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "Audiobook 24 - Kể Một Chuyện Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2025%20-%20M%E1%BB%99t%20L%E1%BA%A7n%20H%E1%BA%A1nh%20Ph%C3%BAc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "Audiobook 25 - Một Lần Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2026%20-%20Ngo%E1%BA%A1i%20T%C3%ACnh%20%28Gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20Vi%E1%BB%87t%20Ti%E1%BA%BFn%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2588,
+    "title" : "Audiobook 26 - Ngoại Tình (Giọng đọc Việt Tiến)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2028%20-%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20B%C3%A0%20%C4%90i%20Tr%C6%B0%E1%BB%9Bc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3924,
+    "title" : "Audiobook 28 - Người Đàn Bà Đi Trước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2029%20-%20D%C3%B2ng%20%C4%90%E1%BB%9Di%20L%E1%BA%B7ng%20L%E1%BA%BD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3976,
+    "title" : "Audiobook 29 - Dòng Đời Lặng Lẽ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2030%20-%20Ch%C3%BAt%20K%E1%BB%B7%20Ni%E1%BB%87m%20X%C6%B0a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "Audiobook 30 - Chút Kỷ Niệm Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2032%20-%20M%C6%B0a%20Trong%20B%C3%B3ng%20%C4%90%C3%AAm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4082,
+    "title" : "Audiobook 32 - Mưa Trong Bóng Đêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2033%20-%20D%E1%BB%91c%20%C4%90%E1%BB%A9ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3554,
+    "title" : "Audiobook 33 - Dốc Đứng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2035%20-%20G%E1%BA%B7p%20G%E1%BB%A1%20L%E1%BA%A7n%20%C4%90%E1%BA%A7u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "Audiobook 35 - Gặp Gỡ Lần Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2036%20-%20Gi%C3%A3%20T%E1%BB%AB%20S%C3%A2n%20Kh%E1%BA%A5u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "Audiobook 36 - Giã Từ Sân Khấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2037%20-%20T%C3%A0u%20V%E1%BB%81%20Mi%E1%BB%81n%20Xu%C3%B4i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3498,
+    "title" : "Audiobook 37 - Tàu Về Miền Xuôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2038%20-%20M%C3%A2y%20%C4%90en.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3913,
+    "title" : "Audiobook 38 - Mây Đen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2040%20-%20M%C3%B3n%20Qu%C3%A0%20Cu%E1%BB%91i%20N%C4%83m.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3274,
+    "title" : "Audiobook 40 - Món Quà Cuối Năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2041%20-%20Ng%C3%A0y%20Tr%E1%BB%9F%20L%E1%BA%A1i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4063,
+    "title" : "Audiobook 41 - Ngày Trở Lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2042%20-%20Th%E1%BB%9Di%20V%E1%BA%ADn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "Audiobook 42 - Thời Vận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2043%20-%20B%C3%AAn%20H%C3%A0nh%20Lang%20To%C3%A0%20%C3%81n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3260,
+    "title" : "Audiobook 43 - Bên Hành Lang Toà Án",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2044%20-%20M%C3%A0u%20C%E1%BB%8F%20%C3%9Aa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 21115,
+    "title" : "Audiobook 44 - Màu Cỏ Úa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2045%20-%20D%C3%B2ng%20S%C3%B4ng%20H%E1%BB%9D%20H%E1%BB%AFng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4079,
+    "title" : "Audiobook 45 - Dòng Sông Hờ Hững",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2046%20-%20Trong%20S%C3%A2n%20Tr%C6%B0%E1%BB%9Dng%20Ng%C3%A0y%20%E1%BA%A4y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "Audiobook 46 - Trong Sân Trường Ngày Ấy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2047%20-%20Khu%20Ph%E1%BB%91%20Ch%E1%BB%A3%20Tr%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3534,
+    "title" : "Audiobook 47 - Khu Phố Chợ Trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2048%20-%20N%E1%BB%97i%20Mong%20%C4%90%E1%BB%A3i%20Kh%E1%BB%91n%20C%C3%B9ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "Audiobook 48 - Nỗi Mong Đợi Khốn Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2050%20-%20Ti%E1%BA%BFng%20Qu%E1%BA%A1%20R%C3%A9o%20Vong%20H%E1%BB%93n%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "Audiobook 50 - Tiếng Quạ Réo Vong Hồn (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2051%20-%20%C4%90%C3%AAm%20Trong%20C%C4%83n%20Nh%C3%A0%20Hoang%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "Audiobook 51 - Đêm Trong Căn Nhà Hoang (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2052%20-%20B%C3%A3i%20%C4%90%E1%BA%A5t%20Hoang%20Sau%20Nh%C3%A0%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4762,
+    "title" : "Audiobook 52 - Bãi Đất Hoang Sau Nhà (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2053%20-%20Ng%C3%B4i%20M%E1%BB%99%20M%E1%BB%9Bi%20%C4%90%E1%BA%AFp%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4246,
+    "title" : "Audiobook 53 - Ngôi Mộ Mới Đắp (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2056%20-%20B%C3%B3ng%20Ng%C6%B0%E1%BB%9Di%20D%C6%B0%E1%BB%9Bi%20Tr%C4%83ng%20%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8255,
+    "title" : "Audiobook 56 - Bóng Người Dưới Trăng  (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2057%20-%20M%C3%A1i%20%E1%BA%A4m.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "Audiobook 57 - Mái Ấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2060%20-%20%C4%90a%20Th%C3%AA.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7242,
+    "title" : "Audiobook 60 - Đa Thê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2061%20-%20C%C3%B5i%20%C3%82m.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7252,
+    "title" : "Audiobook 61 - Cõi Âm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2063%20-%20%C4%90%C3%AAm%20V%E1%BA%AFng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6724,
+    "title" : "Audiobook 63 - Đêm Vắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2064%20-%20H%E1%BB%93n%20V%E1%BB%81%20Trong%20Gi%C3%B3%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6910,
+    "title" : "Audiobook 64 - Hồn Về Trong Gió (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2065%20-%20N%E1%BB%97i%20S%E1%BA%A7u%20S%C3%A2u%20K%C3%ADn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7012,
+    "title" : "Audiobook 65 - Nỗi Sầu Sâu Kín",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2066%20-%20M%C6%B0a%20B%C3%AAn%20Ch%E1%BB%93ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7913,
+    "title" : "Audiobook 66 - Mưa Bên Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2067%20-%20%C4%90%C3%AAm%20Kh%C3%B4ng%20Tr%C4%83ng%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4532,
+    "title" : "Audiobook 67 - Đêm Không Trăng (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2069%20-%20B%C3%B3ng%20Ma%20B%C3%AAn%20C%E1%BB%ADa%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Audiobook 69 - Bóng Ma Bên Cửa (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2070%20-%20B%C3%B9a%20Y%C3%AAu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7133,
+    "title" : "Audiobook 70 - Bùa Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2077%20-%20Ng%C3%B4i%20Nh%C3%A0%20Phong%20Th%E1%BB%A7y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7877,
+    "title" : "Audiobook 77 - Ngôi Nhà Phong Thủy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2078%20-%20G%C3%A0%20Tr%E1%BB%91ng%20Nu%C3%B4i%20Con.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7547,
+    "title" : "Audiobook 78 - Gà Trống Nuôi Con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2079%20-%20Chuy%E1%BB%87n%20N%C4%83m%20X%C6%B0a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7095,
+    "title" : "Audiobook 79 - Chuyện Năm Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2081%20-%20Casino.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 21611,
+    "title" : "Audiobook 81 - Casino",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2082%20-%20N%C6%B0%E1%BB%9Bc%20M%E1%BA%AFt%20%C4%90%C3%A0n%20%C3%94ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8153,
+    "title" : "Audiobook 82 - Nước Mắt Đàn Ông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2083%20-%20%C4%90%E1%BB%A3i%20Ng%C3%A0y%20Ly%20H%C3%B4n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6858,
+    "title" : "Audiobook 83 - Đợi Ngày Ly Hôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2084%20-%20Ngh%E1%BB%81%20Tay%20Tr%C3%A1i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7567,
+    "title" : "Audiobook 84 - Nghề Tay Trái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2085%20-%20Kh%C3%BAc%20Quanh%20M%E1%BB%99t%20Chuy%E1%BB%87n%20T%C3%ACnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7262,
+    "title" : "Audiobook 85 - Khúc Quanh Một Chuyện Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2086%20-%20May%20M%C3%A0%20C%C3%B3%20Em.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 21159,
+    "title" : "Audiobook 86 - May Mà Có Em",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2088%20-%20Ng%C6%B0%E1%BB%9Di%20Kh%C3%A1ch%20L%E1%BA%A1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6852,
+    "title" : "Audiobook 88 - Người Khách Lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2091%20-%20%C4%90%C3%AAm%20D%C3%A0i%20V%C3%B4%20T%E1%BA%ADn%20%28Truy%E1%BB%87n%20Ma%20Nh%E1%BA%B9%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13171,
+    "title" : "Audiobook 91 - Đêm Dài Vô Tận (Truyện Ma Nhẹ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2092%20-%20%C4%90%E1%BB%A9c%20M%E1%BA%B9%20%C4%90%E1%BA%BFn%20V%E1%BB%9Bi%20Th%E1%BA%BF%20Gian.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6808,
+    "title" : "Audiobook 92 - Đức Mẹ Đến Với Thế Gian",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2093%20-%20Ng%C3%B4i%20M%E1%BB%99%20B%C3%AAn%20S%C3%B4ng%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "Audiobook 93 - Ngôi Mộ Bên Sông (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4063,
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3977,
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4080,
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4009,
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3841,
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2031%20-%20%C4%90%E1%BA%BFm%20Nh%E1%BB%AFng%20M%E1%BA%A3nh%20T%C3%ACnh%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3877,
+    "title" : "Audiobook 31 - Đếm Những Mảnh Tình - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2031%20-%20%C4%90%E1%BA%BFm%20Nh%E1%BB%AFng%20M%E1%BA%A3nh%20T%C3%ACnh%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "Audiobook 31 - Đếm Những Mảnh Tình - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2031%20-%20%C4%90%E1%BA%BFm%20Nh%E1%BB%AFng%20M%E1%BA%A3nh%20T%C3%ACnh%20-%20Ph%E1%BA%A7n%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3847,
+    "title" : "Audiobook 31 - Đếm Những Mảnh Tình - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2034%20-%20Sau%20L%E1%BA%A7n%20C%E1%BB%ADa%20Kh%C3%A9p%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10717,
+    "title" : "Audiobook 34 - Sau Lần Cửa Khép - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2034%20-%20Sau%20L%E1%BA%A7n%20C%E1%BB%ADa%20Kh%C3%A9p%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10820,
+    "title" : "Audiobook 34 - Sau Lần Cửa Khép - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2049%20-%20Ng%C3%A0y%20Bu%E1%BB%93n%20C%C5%A9ng%20Qua%20Mau%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9572,
+    "title" : "Audiobook 49 - Ngày Buồn Cũng Qua Mau - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2049%20-%20Ng%C3%A0y%20Bu%E1%BB%93n%20C%C5%A9ng%20Qua%20Mau%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9224,
+    "title" : "Audiobook 49 - Ngày Buồn Cũng Qua Mau - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2058%20-%20Nh%C3%ACn%20Quanh%20M%E1%BB%99t%20M%C3%ACnh%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11542,
+    "title" : "Audiobook 58 - Nhìn Quanh Một Mình - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2058%20-%20Nh%C3%ACn%20Quanh%20M%E1%BB%99t%20M%C3%ACnh%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11537,
+    "title" : "Audiobook 58 - Nhìn Quanh Một Mình - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2059%20-%20N%C6%B0%E1%BB%9Bc%20%C4%90%E1%BB%A5c%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11129,
+    "title" : "Audiobook 59 - Nước Đục - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2059%20-%20N%C6%B0%E1%BB%9Bc%20%C4%90%E1%BB%A5c%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11171,
+    "title" : "Audiobook 59 - Nước Đục - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2062%20-%20Quay%20Trong%20C%C6%A1n%20L%E1%BB%91c%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10916,
+    "title" : "Audiobook 62 - Quay Trong Cơn Lốc - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2062%20-%20Quay%20Trong%20C%C6%A1n%20L%E1%BB%91c%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10878,
+    "title" : "Audiobook 62 - Quay Trong Cơn Lốc - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2072%20-%20D%C3%B2ng%20M%E1%BB%B1c%20C%C5%A9%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11097,
+    "title" : "Audiobook 72 - Dòng Mực Cũ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2072%20-%20D%C3%B2ng%20M%E1%BB%B1c%20C%C5%A9%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10462,
+    "title" : "Audiobook 72 - Dòng Mực Cũ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2087%20-%20H%E1%BB%93ng%20Nhan%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13624,
+    "title" : "Audiobook 87 - Hồng Nhan - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2087%20-%20H%E1%BB%93ng%20Nhan%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15431,
+    "title" : "Audiobook 87 - Hồng Nhan - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2089%20-%20Gi%E1%BA%A5c%20M%C6%A1%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16764,
+    "title" : "Audiobook 89 - Giấc Mơ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2090%20-%20Gi%E1%BA%A5c%20M%C6%A1%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15613,
+    "title" : "Audiobook 90 - Giấc Mơ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2080%20-%20C%C4%83n%20Nh%C3%A0%20S%E1%BB%91%2024%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7901,
+    "title" : "Audiobook 80 - Căn Nhà Số 24 (Truyện Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11962,
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11674,
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11290,
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11332,
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%206.mp3",
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%204.mp3",
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%203.mp3",
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%205.mp3",
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2068%2B71%2B73%2B74%2B75%2B76%20%20-%20Vi%E1%BB%87t%20Ki%E1%BB%81u%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 68+71+73+74+75+76  - Việt Kiều - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2001%20-%20Ai%20C%C5%A9ng%20C%E1%BA%A7n%20Ph%E1%BA%A3i%20C%C3%B3%20M%E1%BB%99t%20B%C3%A0%20M%E1%BA%B9.mp3",
+    "title" : "Audiobook 01 - Ai Cũng Cần Phải Có Một Bà Mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2002%20-%20L%E1%BA%A1%20Gi%C6%B0%E1%BB%9Dng.mp3",
+    "title" : "Audiobook 02 - Lạ Giường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2003%20-%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20B%C3%A0%20%C4%90i%20B%C3%AAn%20T%C3%B4i.mp3",
+    "title" : "Audiobook 03 - Người Đàn Bà Đi Bên Tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2004%20-%20M%E1%BB%99t%20L%E1%BA%A7n%20R%E1%BB%93i%20Th%C3%B4i.mp3",
+    "title" : "Audiobook 04 - Một Lần Rồi Thôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2005%20-%20D%E1%BA%A5u%20Ch%C3%A2n%20X%C6%B0a.mp3",
+    "title" : "Audiobook 05 - Dấu Chân Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2007%20-%20Ven%20R%E1%BB%ABng.mp3",
+    "title" : "Audiobook 07 - Ven Rừng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2008%20-%20Chung%20Quanh%20T%C3%B4i.mp3",
+    "title" : "Audiobook 08 - Chung Quanh Tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2009%20-%20B%C6%B0%E1%BB%9Bc%20Ch%C3%A2n%20Ng%C6%B0%E1%BB%9Di%20T%C3%ACnh.mp3",
+    "title" : "Audiobook 09 - Bước Chân Người Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2010%20-%20Qua%20%C4%90%C6%B0%E1%BB%9Dng.mp3",
+    "title" : "Audiobook 10 - Qua Đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2011%20-%20V%C3%A1ch%20T%C6%B0%E1%BB%9Dng%20C%C5%A9.mp3",
+    "title" : "Audiobook 11 - Vách Tường Cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2012%20-%20Ph%C3%B2ng%20M%E1%BA%A1c.mp3",
+    "title" : "Audiobook 12 - Phòng Mạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2014%20-%20Bi%E1%BB%83n%20V%E1%BA%ABn%20%C4%90%E1%BB%A3i%20Ch%E1%BB%9D.mp3",
+    "title" : "Audiobook 14 - Biển Vẫn Đợi Chờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2015%20-%20T%C3%A2m%20B%E1%BB%87nh.mp3",
+    "title" : "Audiobook 15 - Tâm Bệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2016%20-%20T%C3%ACnh%20Mu%E1%BB%99n.mp3",
+    "title" : "Audiobook 16 - Tình Muộn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2017%20-%20D%E1%BA%A5u%20V%E1%BA%BFt%20%C3%82n%20T%C3%ACnh.mp3",
+    "title" : "Audiobook 17 - Dấu Vết Ân Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2018%20-%20D%E1%BB%91c%20Cao%20V%E1%BB%9Di%20V%E1%BB%A3i.mp3",
+    "title" : "Audiobook 18 - Dốc Cao Vời Vợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2019%20-%20Ph%C3%B2ng%20T%E1%BA%AFm.mp3",
+    "title" : "Audiobook 19 - Phòng Tắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2020%20-%20R%E1%BB%93i%20%C4%90%E1%BA%BFn%20M%E1%BB%99t%20Ng%C3%A0y.mp3",
+    "title" : "Audiobook 20 - Rồi Đến Một Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2021%20-%20C%C3%A2y%20Tr%E1%BB%A9ng%20C%C3%A1.mp3",
+    "title" : "Audiobook 21 - Cây Trứng Cá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2022%20-%20Nh%E1%BB%8Bp%20C%E1%BA%A7u.mp3",
+    "title" : "Audiobook 22 - Nhịp Cầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2023%20-%20%C4%90i%20Th%C3%AAm%20M%E1%BB%99t%20B%C6%B0%E1%BB%9Bc.mp3",
+    "title" : "Audiobook 23 - Đi Thêm Một Bước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2024%20-%20K%E1%BB%83%20M%E1%BB%99t%20Chuy%E1%BB%87n%20T%C3%ACnh.mp3",
+    "title" : "Audiobook 24 - Kể Một Chuyện Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2025%20-%20M%E1%BB%99t%20L%E1%BA%A7n%20H%E1%BA%A1nh%20Ph%C3%BAc.mp3",
+    "title" : "Audiobook 25 - Một Lần Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2026%20-%20Ngo%E1%BA%A1i%20T%C3%ACnh%20%28Gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20Vi%E1%BB%87t%20Ti%E1%BA%BFn%29.mp3",
+    "title" : "Audiobook 26 - Ngoại Tình (Giọng đọc Việt Tiến)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2028%20-%20Ng%C6%B0%E1%BB%9Di%20%C4%90%C3%A0n%20B%C3%A0%20%C4%90i%20Tr%C6%B0%E1%BB%9Bc.mp3",
+    "title" : "Audiobook 28 - Người Đàn Bà Đi Trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2029%20-%20D%C3%B2ng%20%C4%90%E1%BB%9Di%20L%E1%BA%B7ng%20L%E1%BA%BD.mp3",
+    "title" : "Audiobook 29 - Dòng Đời Lặng Lẽ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2030%20-%20Ch%C3%BAt%20K%E1%BB%B7%20Ni%E1%BB%87m%20X%C6%B0a.mp3",
+    "title" : "Audiobook 30 - Chút Kỷ Niệm Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2032%20-%20M%C6%B0a%20Trong%20B%C3%B3ng%20%C4%90%C3%AAm.mp3",
+    "title" : "Audiobook 32 - Mưa Trong Bóng Đêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2033%20-%20D%E1%BB%91c%20%C4%90%E1%BB%A9ng.mp3",
+    "title" : "Audiobook 33 - Dốc Đứng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2035%20-%20G%E1%BA%B7p%20G%E1%BB%A1%20L%E1%BA%A7n%20%C4%90%E1%BA%A7u.mp3",
+    "title" : "Audiobook 35 - Gặp Gỡ Lần Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2036%20-%20Gi%C3%A3%20T%E1%BB%AB%20S%C3%A2n%20Kh%E1%BA%A5u.mp3",
+    "title" : "Audiobook 36 - Giã Từ Sân Khấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2037%20-%20T%C3%A0u%20V%E1%BB%81%20Mi%E1%BB%81n%20Xu%C3%B4i.mp3",
+    "title" : "Audiobook 37 - Tàu Về Miền Xuôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2038%20-%20M%C3%A2y%20%C4%90en.mp3",
+    "title" : "Audiobook 38 - Mây Đen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2040%20-%20M%C3%B3n%20Qu%C3%A0%20Cu%E1%BB%91i%20N%C4%83m.mp3",
+    "title" : "Audiobook 40 - Món Quà Cuối Năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2041%20-%20Ng%C3%A0y%20Tr%E1%BB%9F%20L%E1%BA%A1i.mp3",
+    "title" : "Audiobook 41 - Ngày Trở Lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2042%20-%20Th%E1%BB%9Di%20V%E1%BA%ADn.mp3",
+    "title" : "Audiobook 42 - Thời Vận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2043%20-%20B%C3%AAn%20H%C3%A0nh%20Lang%20To%C3%A0%20%C3%81n.mp3",
+    "title" : "Audiobook 43 - Bên Hành Lang Toà Án",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2044%20-%20M%C3%A0u%20C%E1%BB%8F%20%C3%9Aa.mp3",
+    "title" : "Audiobook 44 - Màu Cỏ Úa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2045%20-%20D%C3%B2ng%20S%C3%B4ng%20H%E1%BB%9D%20H%E1%BB%AFng.mp3",
+    "title" : "Audiobook 45 - Dòng Sông Hờ Hững",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2046%20-%20Trong%20S%C3%A2n%20Tr%C6%B0%E1%BB%9Dng%20Ng%C3%A0y%20%E1%BA%A4y.mp3",
+    "title" : "Audiobook 46 - Trong Sân Trường Ngày Ấy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2047%20-%20Khu%20Ph%E1%BB%91%20Ch%E1%BB%A3%20Tr%E1%BB%9Di.mp3",
+    "title" : "Audiobook 47 - Khu Phố Chợ Trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2048%20-%20N%E1%BB%97i%20Mong%20%C4%90%E1%BB%A3i%20Kh%E1%BB%91n%20C%C3%B9ng.mp3",
+    "title" : "Audiobook 48 - Nỗi Mong Đợi Khốn Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2050%20-%20Ti%E1%BA%BFng%20Qu%E1%BA%A1%20R%C3%A9o%20Vong%20H%E1%BB%93n%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 50 - Tiếng Quạ Réo Vong Hồn (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2051%20-%20%C4%90%C3%AAm%20Trong%20C%C4%83n%20Nh%C3%A0%20Hoang%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 51 - Đêm Trong Căn Nhà Hoang (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2052%20-%20B%C3%A3i%20%C4%90%E1%BA%A5t%20Hoang%20Sau%20Nh%C3%A0%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 52 - Bãi Đất Hoang Sau Nhà (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2053%20-%20Ng%C3%B4i%20M%E1%BB%99%20M%E1%BB%9Bi%20%C4%90%E1%BA%AFp%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 53 - Ngôi Mộ Mới Đắp (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2056%20-%20B%C3%B3ng%20Ng%C6%B0%E1%BB%9Di%20D%C6%B0%E1%BB%9Bi%20Tr%C4%83ng%20%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 56 - Bóng Người Dưới Trăng  (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2057%20-%20M%C3%A1i%20%E1%BA%A4m.mp3",
+    "title" : "Audiobook 57 - Mái Ấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2060%20-%20%C4%90a%20Th%C3%AA.mp3",
+    "title" : "Audiobook 60 - Đa Thê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2061%20-%20C%C3%B5i%20%C3%82m.mp3",
+    "title" : "Audiobook 61 - Cõi Âm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2063%20-%20%C4%90%C3%AAm%20V%E1%BA%AFng.mp3",
+    "title" : "Audiobook 63 - Đêm Vắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2064%20-%20H%E1%BB%93n%20V%E1%BB%81%20Trong%20Gi%C3%B3%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 64 - Hồn Về Trong Gió (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2065%20-%20N%E1%BB%97i%20S%E1%BA%A7u%20S%C3%A2u%20K%C3%ADn.mp3",
+    "title" : "Audiobook 65 - Nỗi Sầu Sâu Kín",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2066%20-%20M%C6%B0a%20B%C3%AAn%20Ch%E1%BB%93ng.mp3",
+    "title" : "Audiobook 66 - Mưa Bên Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2067%20-%20%C4%90%C3%AAm%20Kh%C3%B4ng%20Tr%C4%83ng%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 67 - Đêm Không Trăng (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2069%20-%20B%C3%B3ng%20Ma%20B%C3%AAn%20C%E1%BB%ADa%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 69 - Bóng Ma Bên Cửa (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2070%20-%20B%C3%B9a%20Y%C3%AAu.mp3",
+    "title" : "Audiobook 70 - Bùa Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2077%20-%20Ng%C3%B4i%20Nh%C3%A0%20Phong%20Th%E1%BB%A7y.mp3",
+    "title" : "Audiobook 77 - Ngôi Nhà Phong Thủy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2078%20-%20G%C3%A0%20Tr%E1%BB%91ng%20Nu%C3%B4i%20Con.mp3",
+    "title" : "Audiobook 78 - Gà Trống Nuôi Con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2079%20-%20Chuy%E1%BB%87n%20N%C4%83m%20X%C6%B0a.mp3",
+    "title" : "Audiobook 79 - Chuyện Năm Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2081%20-%20Casino.mp3",
+    "title" : "Audiobook 81 - Casino",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2082%20-%20N%C6%B0%E1%BB%9Bc%20M%E1%BA%AFt%20%C4%90%C3%A0n%20%C3%94ng.mp3",
+    "title" : "Audiobook 82 - Nước Mắt Đàn Ông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2083%20-%20%C4%90%E1%BB%A3i%20Ng%C3%A0y%20Ly%20H%C3%B4n.mp3",
+    "title" : "Audiobook 83 - Đợi Ngày Ly Hôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2084%20-%20Ngh%E1%BB%81%20Tay%20Tr%C3%A1i.mp3",
+    "title" : "Audiobook 84 - Nghề Tay Trái",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2085%20-%20Kh%C3%BAc%20Quanh%20M%E1%BB%99t%20Chuy%E1%BB%87n%20T%C3%ACnh.mp3",
+    "title" : "Audiobook 85 - Khúc Quanh Một Chuyện Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2086%20-%20May%20M%C3%A0%20C%C3%B3%20Em.mp3",
+    "title" : "Audiobook 86 - May Mà Có Em",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2088%20-%20Ng%C6%B0%E1%BB%9Di%20Kh%C3%A1ch%20L%E1%BA%A1.mp3",
+    "title" : "Audiobook 88 - Người Khách Lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2091%20-%20%C4%90%C3%AAm%20D%C3%A0i%20V%C3%B4%20T%E1%BA%ADn%20%28Truy%E1%BB%87n%20Ma%20Nh%E1%BA%B9%29.mp3",
+    "title" : "Audiobook 91 - Đêm Dài Vô Tận (Truyện Ma Nhẹ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2092%20-%20%C4%90%E1%BB%A9c%20M%E1%BA%B9%20%C4%90%E1%BA%BFn%20V%E1%BB%9Bi%20Th%E1%BA%BF%20Gian.mp3",
+    "title" : "Audiobook 92 - Đức Mẹ Đến Với Thế Gian",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2093%20-%20Ng%C3%B4i%20M%E1%BB%99%20B%C3%AAn%20S%C3%B4ng%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 93 - Ngôi Mộ Bên Sông (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%203.mp3",
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%204.mp3",
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%205.mp3",
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2027%20-%20C%C3%B5i%20%C4%90%C3%AAm%20-%20Ph%E1%BA%A7n%206.mp3",
+    "title" : "Audiobook 27 - Cõi Đêm - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2031%20-%20%C4%90%E1%BA%BFm%20Nh%E1%BB%AFng%20M%E1%BA%A3nh%20T%C3%ACnh%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 31 - Đếm Những Mảnh Tình - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2031%20-%20%C4%90%E1%BA%BFm%20Nh%E1%BB%AFng%20M%E1%BA%A3nh%20T%C3%ACnh%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 31 - Đếm Những Mảnh Tình - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2031%20-%20%C4%90%E1%BA%BFm%20Nh%E1%BB%AFng%20M%E1%BA%A3nh%20T%C3%ACnh%20-%20Ph%E1%BA%A7n%203.mp3",
+    "title" : "Audiobook 31 - Đếm Những Mảnh Tình - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2034%20-%20Sau%20L%E1%BA%A7n%20C%E1%BB%ADa%20Kh%C3%A9p%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 34 - Sau Lần Cửa Khép - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2034%20-%20Sau%20L%E1%BA%A7n%20C%E1%BB%ADa%20Kh%C3%A9p%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 34 - Sau Lần Cửa Khép - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2049%20-%20Ng%C3%A0y%20Bu%E1%BB%93n%20C%C5%A9ng%20Qua%20Mau%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 49 - Ngày Buồn Cũng Qua Mau - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2049%20-%20Ng%C3%A0y%20Bu%E1%BB%93n%20C%C5%A9ng%20Qua%20Mau%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 49 - Ngày Buồn Cũng Qua Mau - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2058%20-%20Nh%C3%ACn%20Quanh%20M%E1%BB%99t%20M%C3%ACnh%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 58 - Nhìn Quanh Một Mình - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2058%20-%20Nh%C3%ACn%20Quanh%20M%E1%BB%99t%20M%C3%ACnh%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 58 - Nhìn Quanh Một Mình - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2059%20-%20N%C6%B0%E1%BB%9Bc%20%C4%90%E1%BB%A5c%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 59 - Nước Đục - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2059%20-%20N%C6%B0%E1%BB%9Bc%20%C4%90%E1%BB%A5c%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 59 - Nước Đục - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2062%20-%20Quay%20Trong%20C%C6%A1n%20L%E1%BB%91c%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 62 - Quay Trong Cơn Lốc - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2062%20-%20Quay%20Trong%20C%C6%A1n%20L%E1%BB%91c%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 62 - Quay Trong Cơn Lốc - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2072%20-%20D%C3%B2ng%20M%E1%BB%B1c%20C%C5%A9%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 72 - Dòng Mực Cũ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2072%20-%20D%C3%B2ng%20M%E1%BB%B1c%20C%C5%A9%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 72 - Dòng Mực Cũ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2087%20-%20H%E1%BB%93ng%20Nhan%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 87 - Hồng Nhan - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2087%20-%20H%E1%BB%93ng%20Nhan%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 87 - Hồng Nhan - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2089%20-%20Gi%E1%BA%A5c%20M%C6%A1%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 89 - Giấc Mơ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2090%20-%20Gi%E1%BA%A5c%20M%C6%A1%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 90 - Giấc Mơ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2080%20-%20C%C4%83n%20Nh%C3%A0%20S%E1%BB%91%2024%20%28Truy%E1%BB%87n%20Ma%29.mp3",
+    "title" : "Audiobook 80 - Căn Nhà Số 24 (Truyện Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%201.mp3",
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%202.mp3",
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%203.mp3",
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyenngocnganfull/Audiobook%2054%2B55%20-%20X%C3%B3m%20%C4%90%E1%BA%A1o%20-%20Ph%E1%BA%A7n%204.mp3",
+    "title" : "Audiobook 54+55 - Xóm Đạo - Phần 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

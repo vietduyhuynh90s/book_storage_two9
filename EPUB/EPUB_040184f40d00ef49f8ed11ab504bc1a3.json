@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tran-trieu-huyen-ky.html",
+    "title" : "Trần Triều Huyền Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam King",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 42438,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_040184f40d00ef49f8ed11ab504bc1a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_040184f40d00ef49f8ed11ab504bc1a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5725,
+    "title" : "tran-trieu-huyen-ky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4651,
+    "title" : "tran-trieu-huyen-ky-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4694,
+    "title" : "tran-trieu-huyen-ky-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4365,
+    "title" : "tran-trieu-huyen-ky-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4290,
+    "title" : "tran-trieu-huyen-ky-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4405,
+    "title" : "tran-trieu-huyen-ky-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4526,
+    "title" : "tran-trieu-huyen-ky-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "tran-trieu-huyen-ky-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6113,
+    "title" : "tran-trieu-huyen-ky-tap-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky.mp3",
+    "title" : "tran-trieu-huyen-ky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-2.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-3.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-4.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-5.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-6.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-7.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-8.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-trieu-huyen-ky/tran-trieu-huyen-ky-tap-9.mp3",
+    "title" : "tran-trieu-huyen-ky-tap-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

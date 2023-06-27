@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hon-ma-luong-thien.html",
+    "title" : "Hồn Ma Lương Thiện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Trân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 8525,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6e818fe95db2018e4cdb4bdc51e2cf4a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6e818fe95db2018e4cdb4bdc51e2cf4a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hon-ma-luong-thien/hon-ma-luong-thien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3956,
+    "title" : "hon-ma-luong-thien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hon-ma-luong-thien/hon-ma-luong-thien-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4569,
+    "title" : "hon-ma-luong-thien-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hon-ma-luong-thien/hon-ma-luong-thien.mp3",
+    "title" : "hon-ma-luong-thien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hon-ma-luong-thien/hon-ma-luong-thien-tap-2.mp3",
+    "title" : "hon-ma-luong-thien-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

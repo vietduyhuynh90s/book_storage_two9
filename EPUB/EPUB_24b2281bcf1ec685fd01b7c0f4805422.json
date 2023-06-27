@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dat-doc-mo-hoang-2.html",
+    "title" : "Đất Độc Mồ Hoang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12107,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_24b2281bcf1ec685fd01b7c0f4805422.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_24b2281bcf1ec685fd01b7c0f4805422.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/datdocmohoang_202108/datdocmohoang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4074,
+    "title" : "datdocmohoang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/datdocmohoang_202108/datdocmohoang_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "datdocmohoang_2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/datdocmohoang_202108/datdocmohoang_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "datdocmohoang_3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/datdocmohoang_202108/datdocmohoang.mp3",
+    "title" : "datdocmohoang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/datdocmohoang_202108/datdocmohoang_2.mp3",
+    "title" : "datdocmohoang_2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/datdocmohoang_202108/datdocmohoang_3.mp3",
+    "title" : "datdocmohoang_3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

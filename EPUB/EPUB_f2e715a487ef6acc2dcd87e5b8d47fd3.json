@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hon-trong-dem-mua.html",
+    "title" : "Hồn Trong Đêm Mưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Châu Khương Thịnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 6311,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f2e715a487ef6acc2dcd87e5b8d47fd3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f2e715a487ef6acc2dcd87e5b8d47fd3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hon-ba-gia-bao-oan-ido/hon-ba-gia-bao-oan-ido.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6311,
+    "title" : "hon-ba-gia-bao-oan-ido",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hon-ba-gia-bao-oan-ido/hon-ba-gia-bao-oan-ido.mp3",
+    "title" : "hon-ba-gia-bao-oan-ido",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

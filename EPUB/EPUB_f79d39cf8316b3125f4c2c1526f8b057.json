@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lao-tam-lao-tu-yem-dong-ma.html",
+    "title" : "Lão Tam Lão Tứ Yểm Động Mả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lương Duy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10485,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f79d39cf8316b3125f4c2c1526f8b057.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f79d39cf8316b3125f4c2c1526f8b057.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/laotamlaotuyemdongma_202108/laotamlaotuyemdongma_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4845,
+    "title" : "laotamlaotuyemdongma_1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/laotamlaotuyemdongma_202108/laotamlaotuyemdongma_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5640,
+    "title" : "laotamlaotuyemdongma_2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/laotamlaotuyemdongma_202108/laotamlaotuyemdongma_1.mp3",
+    "title" : "laotamlaotuyemdongma_1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/laotamlaotuyemdongma_202108/laotamlaotuyemdongma_2.mp3",
+    "title" : "laotamlaotuyemdongma_2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

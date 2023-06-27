@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ly-truong-lang-nhat-phuong.html",
+    "title" : "Lý Trưởng Làng Nhất Phương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 5475,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_42a190a8a93c0ecb0e291ade0e820f2d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_42a190a8a93c0ecb0e291ade0e820f2d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ly-truong-lang-nhat-phuong/ly-truong-lang-nhat-phuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5475,
+    "title" : "ly-truong-lang-nhat-phuong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ly-truong-lang-nhat-phuong/ly-truong-lang-nhat-phuong.mp3",
+    "title" : "ly-truong-lang-nhat-phuong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
