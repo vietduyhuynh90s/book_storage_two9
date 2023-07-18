@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-07-18",
     "duration" : 19158,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,65 +36,125 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-1.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_0b9c481e61152a2ada2f32345dbb64ad_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3900,
-    "title" : "nha-lanh-1",
+    "duration" : 0,
+    "title" : "nha-lanh-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-2.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_0b9c481e61152a2ada2f32345dbb64ad_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3900,
-    "title" : "nha-lanh-2",
+    "duration" : 0,
+    "title" : "nha-lanh-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-3.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_f309fa5a264d3f4b7bd85ceccd9a74eb_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3900,
-    "title" : "nha-lanh-3",
+    "duration" : 0,
+    "title" : "nha-lanh-2 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-4.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_f309fa5a264d3f4b7bd85ceccd9a74eb_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3900,
-    "title" : "nha-lanh-4",
+    "duration" : 0,
+    "title" : "nha-lanh-2 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-5.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_3d3a21bdb54daf9ba0ba67aec8ea08fc_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3558,
-    "title" : "nha-lanh-5",
+    "duration" : 0,
+    "title" : "nha-lanh-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_3d3a21bdb54daf9ba0ba67aec8ea08fc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nha-lanh-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_e04ba684b17f7a94ed712151d304b50a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nha-lanh-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_e04ba684b17f7a94ed712151d304b50a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nha-lanh-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_cd57cbd40fe2bc6a9fc686da2166f36f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nha-lanh-5 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_cd57cbd40fe2bc6a9fc686da2166f36f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nha-lanh-5 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-1.mp3",
-    "title" : "nha-lanh-1",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_0b9c481e61152a2ada2f32345dbb64ad_1.mp3",
+    "title" : "nha-lanh-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-2.mp3",
-    "title" : "nha-lanh-2",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_0b9c481e61152a2ada2f32345dbb64ad_2.mp3",
+    "title" : "nha-lanh-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-3.mp3",
-    "title" : "nha-lanh-3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_f309fa5a264d3f4b7bd85ceccd9a74eb_1.mp3",
+    "title" : "nha-lanh-2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-4.mp3",
-    "title" : "nha-lanh-4",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_f309fa5a264d3f4b7bd85ceccd9a74eb_2.mp3",
+    "title" : "nha-lanh-2 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nha-lanh-1/nha-lanh-5.mp3",
-    "title" : "nha-lanh-5",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_3d3a21bdb54daf9ba0ba67aec8ea08fc_1.mp3",
+    "title" : "nha-lanh-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_3d3a21bdb54daf9ba0ba67aec8ea08fc_2.mp3",
+    "title" : "nha-lanh-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_e04ba684b17f7a94ed712151d304b50a_1.mp3",
+    "title" : "nha-lanh-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_e04ba684b17f7a94ed712151d304b50a_2.mp3",
+    "title" : "nha-lanh-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_cd57cbd40fe2bc6a9fc686da2166f36f_1.mp3",
+    "title" : "nha-lanh-5 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_ea909c215033e610e51c1cce118b2263_cd57cbd40fe2bc6a9fc686da2166f36f_2.mp3",
+    "title" : "nha-lanh-5 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
