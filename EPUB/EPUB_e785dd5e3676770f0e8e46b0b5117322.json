@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-06-22",
+    "published" : "2023-07-21",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,221 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://thuviensach.vn/img/audio/2129-bat-nha-tam-kinh-osho-thuviensach.vn.mp3?t=0",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
-    "title" : "00:00:00 Bát Nhã Tâm Kinh - Phần 1/2",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://thuviensach.vn/img/audio/2129-bat-nha-tam-kinh-osho-thuviensach.vn.mp3?t=21913",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
-    "title" : "06:05:13 Bát Nhã Tâm Kinh - Phần 2/2",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (9)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (10)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://thuviensach.vn/img/audio/2129-bat-nha-tam-kinh-osho-thuviensach.vn.mp3?t=0",
-    "title" : "00:00:00 Bát Nhã Tâm Kinh - Phần 1/2",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_1.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://thuviensach.vn/img/audio/2129-bat-nha-tam-kinh-osho-thuviensach.vn.mp3?t=21913",
-    "title" : "06:05:13 Bát Nhã Tâm Kinh - Phần 2/2",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_2.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_3.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_4.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_5.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_6.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_7.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_d66ac524556b755fad36dbf6492740db_8.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 1/2 (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_1.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_2.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_3.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_4.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_5.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_6.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_7.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_8.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_9.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (9)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_e785dd5e3676770f0e8e46b0b5117322_93191c2c4b979e004cfd82b8d7b54a78_10.mp3",
+    "title" : " Bát Nhã Tâm Kinh - Phần 2/2 (10)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
