@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/duoi-mai-ngoi-don-so-14412.html",
+    "title" : "DƯỚI MÁI NGÓI ĐƠN SƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Như Ngọc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Về tên truyện: “Hoành môn chi hạ” là câu đầu tiên trong Kinh Thi phần Quốc phong, Trần phong, dịch nghĩa đen là bắc gỗ ngang làm cổng nhà. Nghĩa bóng ám chỉ ngôi nhà đơn sơ. Văn án Sau khi bị từ hôn, nữ hoàng tộc Tê Trì gả cho Phục Đình tuy xuất thân bần hàn nhưng lại nắm giữ binh quyền trong tay. Hai người một Nam một Bắc, yên ổn làm đôi phu thê trên danh nghĩa một thời gian dài. Cho đến một hôm nào đó, Tê Trì vạn dặm tìm chồng, bắt đầu điên cuồng dốc hết vốn liếng tiền bạc lên người phu quân mình… Đôi ta vốn chẳng có duyên, duyên này vì thiếp vung tiền mà nên. Một trong những tác giả mị thích là Thiên Như Ngọc. Thường thì truyện cổ đại bạn này hay về thời Nam Bắc triều, Ngụy Tấn,… và nữ thường rất cường, nam tính, lấn lướt nam chính, các bạn nam thì yêu nghiệt, lụy tình bị ngược tơi tả, phong cách triều đấu cũng tương đối mệt óc. Bỗng đâu tác giả đổi gió, không viết kiểu triều đình đấu đá, không viết nữ cường cân cả thiên hạ và đặc biệt không viết nam chính công tử lộng lẫy chói loà, giảo hoạt yêu nghiệt cao quý. Bạn ý đổi sang viết nữ dịu dàng yểu điệu, nam tướng quân xuất thân nhà nghèo cục súc không hiểu phong tình, còn kêu chị em đừng ném đá nam chính thô lỗ nữa, nghèo không phải cái tội:))) Phong cách truyện cũng thiên về điền văn, diễn biến tình cảm từ tốn, tuyến nhân vật giản lược, chủ yếu là quá trình va chạm và tìm hiểu yêu thương nhau của cặp chính, tình tiết cũng chầm chậm tinh tế như nước chảy, thực sự là đào sâu về tình cảm nên diễn biến chậm từ ánh mắt đến cái chạm tay luôn. Thành thử ra đây lại là bộ hợp ý mị nhất của Thiên Như Ngọc, hành văn lưu loát, tinh tế và giàu sức gợi, nội dung đơn giản mà khai thác tình cảm sâu sắc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6216290fc791d2c4e5df5e56238017cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6216290fc791d2c4e5df5e56238017cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Dưới Mái Ngói Đơn Sơ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=2461",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:41:01 Dưới Mái Ngói Đơn Sơ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=5044",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:24:04 Dưới Mái Ngói Đơn Sơ - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=8789",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:26:29 Dưới Mái Ngói Đơn Sơ - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=12406",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:26:46 Dưới Mái Ngói Đơn Sơ - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=16038",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:27:18 Dưới Mái Ngói Đơn Sơ - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=19675",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:27:55 Dưới Mái Ngói Đơn Sơ - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=23634",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:33:54 Dưới Mái Ngói Đơn Sơ - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=27218",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:33:38 Dưới Mái Ngói Đơn Sơ - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=30244",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:24:04 Dưới Mái Ngói Đơn Sơ - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=33535",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:18:55 Dưới Mái Ngói Đơn Sơ - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=37292",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:21:32 Dưới Mái Ngói Đơn Sơ - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=41129",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:25:29 Dưới Mái Ngói Đơn Sơ - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=44781",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:26:21 Dưới Mái Ngói Đơn Sơ - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=48652",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:30:52 Dưới Mái Ngói Đơn Sơ - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=52441",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:34:01 Dưới Mái Ngói Đơn Sơ - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=56008",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:33:28 Dưới Mái Ngói Đơn Sơ - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=59668",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:34:28 Dưới Mái Ngói Đơn Sơ - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=63400",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:36:40 Dưới Mái Ngói Đơn Sơ - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=66925",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:35:25 Dưới Mái Ngói Đơn Sơ - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=70623",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:37:03 Dưới Mái Ngói Đơn Sơ - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=74299",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:38:19 Dưới Mái Ngói Đơn Sơ - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=77760",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:36:00 Dưới Mái Ngói Đơn Sơ - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=81108",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:31:48 Dưới Mái Ngói Đơn Sơ - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=84502",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:28:22 Dưới Mái Ngói Đơn Sơ - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=88281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:31:21 Dưới Mái Ngói Đơn Sơ - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=91835",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:30:35 Dưới Mái Ngói Đơn Sơ - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=95361",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:29:21 Dưới Mái Ngói Đơn Sơ - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=98971",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:29:31 Dưới Mái Ngói Đơn Sơ - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=102744",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:32:24 Dưới Mái Ngói Đơn Sơ - Phần 30 - End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Dưới Mái Ngói Đơn Sơ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=2461",
+    "title" : "00:41:01 Dưới Mái Ngói Đơn Sơ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=5044",
+    "title" : "01:24:04 Dưới Mái Ngói Đơn Sơ - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=8789",
+    "title" : "02:26:29 Dưới Mái Ngói Đơn Sơ - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=12406",
+    "title" : "03:26:46 Dưới Mái Ngói Đơn Sơ - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=16038",
+    "title" : "04:27:18 Dưới Mái Ngói Đơn Sơ - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=19675",
+    "title" : "05:27:55 Dưới Mái Ngói Đơn Sơ - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=23634",
+    "title" : "06:33:54 Dưới Mái Ngói Đơn Sơ - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=27218",
+    "title" : "07:33:38 Dưới Mái Ngói Đơn Sơ - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=30244",
+    "title" : "08:24:04 Dưới Mái Ngói Đơn Sơ - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=33535",
+    "title" : "09:18:55 Dưới Mái Ngói Đơn Sơ - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=37292",
+    "title" : "10:21:32 Dưới Mái Ngói Đơn Sơ - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=41129",
+    "title" : "11:25:29 Dưới Mái Ngói Đơn Sơ - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=44781",
+    "title" : "12:26:21 Dưới Mái Ngói Đơn Sơ - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=48652",
+    "title" : "13:30:52 Dưới Mái Ngói Đơn Sơ - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=52441",
+    "title" : "14:34:01 Dưới Mái Ngói Đơn Sơ - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=56008",
+    "title" : "15:33:28 Dưới Mái Ngói Đơn Sơ - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=59668",
+    "title" : "16:34:28 Dưới Mái Ngói Đơn Sơ - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=63400",
+    "title" : "17:36:40 Dưới Mái Ngói Đơn Sơ - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=66925",
+    "title" : "18:35:25 Dưới Mái Ngói Đơn Sơ - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=70623",
+    "title" : "19:37:03 Dưới Mái Ngói Đơn Sơ - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=74299",
+    "title" : "20:38:19 Dưới Mái Ngói Đơn Sơ - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=77760",
+    "title" : "21:36:00 Dưới Mái Ngói Đơn Sơ - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=81108",
+    "title" : "22:31:48 Dưới Mái Ngói Đơn Sơ - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=84502",
+    "title" : "23:28:22 Dưới Mái Ngói Đơn Sơ - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=88281",
+    "title" : "24:31:21 Dưới Mái Ngói Đơn Sơ - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=91835",
+    "title" : "25:30:35 Dưới Mái Ngói Đơn Sơ - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=95361",
+    "title" : "26:29:21 Dưới Mái Ngói Đơn Sơ - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=98971",
+    "title" : "27:29:31 Dưới Mái Ngói Đơn Sơ - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14412-duoi-mai-ngoi-don-so-thuviensach.vn.mp3?t=102744",
+    "title" : "28:32:24 Dưới Mái Ngói Đơn Sơ - Phần 30 - End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cang-binh-tinh-cang-hanh-phuc-14253.html",
+    "title" : "CÀNG BÌNH TĨNH CÀNG HẠNH PHÚC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vãn Tình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách “Càng Bình Tĩnh Càng Hạnh Phúc” của tác giả Vãn Tình là một nguồn cảm hứng và sự chỉ dẫn giúp chúng ta khám phá sức mạnh của bình tĩnh và tìm thấy niềm hạnh phúc sâu thẳm bên trong mình. Trong cuộc sống phức tạp và đầy áp lực hiện nay, việc đạt được trạng thái bình tĩnh và an lạc dường như trở thành một thử thách khó khăn. Tuy nhiên, Vãn Tình đã tổng hợp những trải nghiệm cá nhân và những hiểu biết sâu sắc để chia sẻ với độc giả về cách chúng ta có thể tạo ra bình tĩnh và hạnh phúc trong cuộc sống hàng ngày. Qua những trang sách, bạn sẽ khám phá các chiến lược và phương pháp thực tế để duy trì bình tĩnh trong mọi tình huống. Vãn Tình không chỉ chia sẻ những lời khuyên hữu ích mà còn đưa ra các bài học quý giá từ cuộc sống thực tế, nhằm giúp bạn xây dựng một tâm trạng vững vàng và đối mặt với thách thức một cách sáng suốt. “Càng Bình Tĩnh Càng Hạnh Phúc” không chỉ giúp bạn giải thoát khỏi căng thẳng và lo lắng, mà còn khám phá những khía cạnh mới của sự hài hòa và niềm vui trong cuộc sống. Bằng cách áp dụng những nguyên tắc đơn giản và sâu sắc được trình bày trong sách, bạn sẽ tìm thấy sự bình yên và an lành trong tâm hồn mình, đồng thời trở thành người điềm tĩnh và hạnh phúc. Cuốn sách này không chỉ dành cho những người đang tìm kiếm lời khuyên và hướng dẫn, mà còn dành cho những ai muốn truyền cảm hứng và chia sẻ niềm vui trong cuộc sống. Vãn Tình đã tạo nên một tác phẩm sâu sắc và ý nghĩa, mang đến một cách nhìn mới về bình tĩnh và hạnh phúc, góp phần tạo nên một thế giới tốt đẹp hơn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_ea25c33d7a19b4657650815445289def.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_ea25c33d7a19b4657650815445289def.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14253-cang-binh-tinh-cang-hanh-phuc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14253-cang-binh-tinh-cang-hanh-phuc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

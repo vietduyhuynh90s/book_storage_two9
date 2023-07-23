@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bong-lua-sa-mo-14425.html",
+    "title" : "BÔNG LÚA SA MO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "An Khê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhà văn An Khê tên thật Nguyễn Bính Thinh, sanh ngày 1-9-1923 (giấy tờ ghi 1925) tại Sa-Đéc và mất ngày 9-11-1994 tại Marseille, Pháp, nơi ông sống lưu vong. Thân phụ ông, bác-sĩ Nguyễn Bính với bút hiệu Biến Ngũ Nhy, đã là một trong những nhà văn tiền phong của nền văn học chữ quốc ngữ, tác giả Kim Thời Dị Sử. An Khê từng là sĩ quan quân đội quốc gia Việt Nam thời Bảo Đại, lên đến Thiếu Tá Tiểu đoàn trưởng thì bị thương nặng và giải ngũ. Thời trẻ trước đó, ông đã tham gia phong trào Thanh niên ái quốc đoàn, năm 1941 bị thực dân Pháp bắt giam ở Khám Lớn (Sài- Gòn) rồi bị đày ra Côn-Đảo. Tháng 8 năm 1945, ông được chính phủ Trần Trọng Kim trả tự do đưa về đất liền cùng 122 chiến sĩ quốc gia khác. An-Khê viết kể lại giai đoạn tù đày này trong Từ Khám Lớn... Tới Côn- Đảo, hồi-ký lao-tù của một chiến sĩ cách mạng quốc-gia, xuất bản tại Canada năm 1993. Sự nghiệp văn hóa chính của An-Khê là làm báo và viết tiểu-thuyết. Ông đã viết cho nhiều nhật báo và tạp chí ở miền Nam và làm chủ nhật báo Miền Tây. Ngoài bút hiệu An-Khê, ông còn ký Cửu Lang, Vân Nga, Trương Thanh Vân,...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_f1cd23aae7c0880218ef3fb3ec936a4e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_f1cd23aae7c0880218ef3fb3ec936a4e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Bông Lúa Sa Mo - Tập Một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=2077",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:34:37 Bông Lúa Sa Mo - Tập Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=4611",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:16:51 Bông Lúa Sa Mo - Tập Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=7115",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:58:35 Bông Lúa Sa Mo - Tập Bốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=9405",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:36:45 Bông Lúa Sa Mo - Tập Năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=12645",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:30:45 Bông Lúa Sa Mo - Tập Sáu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=15161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:12:41 Bông Lúa Sa Mo - Tập Bảy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=17783",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:56:23 Bông Lúa Sa Mo - Tập Tám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=20683",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:44:43 Bông Lúa Sa Mo - Tập Mười",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=23621",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:33:41 Bông Lúa Sa Mo - Tập Mười",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=26829",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:27:09 Bông Lúa Sa Mo - Tập Mười Một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=29632",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:13:52 Bông Lúa Sa Mo - Tập Mười Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=32356",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:16 Bông Lúa Sa Mo - Tập Mười Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=35494",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:51:34 Bông Lúa Sa Mo - Tập Mười Bốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=37477",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:24:37 Bông Lúa Sa Mo - Tập Mười Lăm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=40086",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:08:06 Bông Lúa Sa Mo - Tập Mười Sáu - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Bông Lúa Sa Mo - Tập Một",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=2077",
+    "title" : "00:34:37 Bông Lúa Sa Mo - Tập Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=4611",
+    "title" : "01:16:51 Bông Lúa Sa Mo - Tập Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=7115",
+    "title" : "01:58:35 Bông Lúa Sa Mo - Tập Bốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=9405",
+    "title" : "02:36:45 Bông Lúa Sa Mo - Tập Năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=12645",
+    "title" : "03:30:45 Bông Lúa Sa Mo - Tập Sáu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=15161",
+    "title" : "04:12:41 Bông Lúa Sa Mo - Tập Bảy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=17783",
+    "title" : "04:56:23 Bông Lúa Sa Mo - Tập Tám",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=20683",
+    "title" : "05:44:43 Bông Lúa Sa Mo - Tập Mười",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=23621",
+    "title" : "06:33:41 Bông Lúa Sa Mo - Tập Mười",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=26829",
+    "title" : "07:27:09 Bông Lúa Sa Mo - Tập Mười Một",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=29632",
+    "title" : "08:13:52 Bông Lúa Sa Mo - Tập Mười Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=32356",
+    "title" : "08:59:16 Bông Lúa Sa Mo - Tập Mười Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=35494",
+    "title" : "09:51:34 Bông Lúa Sa Mo - Tập Mười Bốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=37477",
+    "title" : "10:24:37 Bông Lúa Sa Mo - Tập Mười Lăm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14425-bong-lua-sa-mo-thuviensach.vn.mp3?t=40086",
+    "title" : "11:08:06 Bông Lúa Sa Mo - Tập Mười Sáu - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

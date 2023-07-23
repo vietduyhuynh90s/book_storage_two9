@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/an-may-xuyen-khong-14194.html",
+    "title" : "ĂN MÀY XUYÊN KHÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mộc Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ăn Mày Xuyên Không là bộ truyện đồng nhân dựa trên tiểu thuyết gốc Chu Nhan của tác giả Thương Nguyệt Gần đây, có một bộ tiểu thuyết ngắn 51 chương nhưng đã làm mưa làm gió trên khắp các diễn đàn văn học mạng lấy tên Chu Nhan. Tính đến nay, mới chỉ sau 3 tháng phát hành, tổng hợp riêng trên ba nền tảng văn học mạng lớn nhất là Điền Văn, Hoa Thịnh, Tàng Thư đã lên đến 850 vạn lượt đọc và dường như vẫn chưa có dấu hiệu dừng lại. Chu Nhan được coi là hiện tượng có một không hai trong giới văn học mạng hiện nay. Bởi vì trong suốt 10 năm qua, đây là bộ tiểu thuyết mạng thứ hai đạt được thành tích bậc này mà bộ trước đó là Đại Pháp Sư với 580 vạn lượt đọc thống kê trên ba nền tảng sau 1 tháng phát hành, 1005 vạn lượt sau 3 tháng cũng đã được xếp vào danh sách 100 tác phẩm văn học kinh điển nhất Hoa Hạ trong hai thập niên đầu thế kỷ 21. Một số người thậm chí còn cho rằng, tương lai của bộ tiểu thuyết 51 chương này có thể được gói vào bốn chữ: tiền đồ vô lượng. Tuy nhiên, rất nhiều nhà phê bình văn học đã chỉ ra thành công của Chu Nhan không hoàn toàn đến từ chính bản thân nội dung truyện mà một trong những nguyên nhân quan trọng góp phần tạo nên tiếng vang cho bộ tiểu thuyết 51 chương này chính là sự góp mặt của Vương Kiệt trong đại dự án phim chuyển thể cùng tên. Vậy Vương Kiệt là ai? Sau khi đọc xong bộ truyện đã hét lên: Cho ta xuyên vào tác giả ta viết còn hay hơn gấp bội! Quả nhiên y xuyên thật!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3a31c77b3dd25dd5e72690d465ffa2b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3a31c77b3dd25dd5e72690d465ffa2b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1,2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=1253",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:53 Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=2500",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:41:40 Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=3787",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:03:07 Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=5075",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:24:35 Chương 6,7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=7484",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:04:44 Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=9159",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:32:39 Chương 9,10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=11045",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:04:05 Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=11737",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:15:37 Chương 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=14224",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:57:04 Chương 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=15984",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:26:24 Chương 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=16890",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:41:30 Chương 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=18245",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:04:05 Chương 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=19365",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:45 Chương 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=20698",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:44:58 Chương 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=22163",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:09:23 Chương 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=24047",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:40:47 Chương 20: Phiên Ngoại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1,2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=1253",
+    "title" : "00:20:53 Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=2500",
+    "title" : "00:41:40 Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=3787",
+    "title" : "01:03:07 Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=5075",
+    "title" : "01:24:35 Chương 6,7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=7484",
+    "title" : "02:04:44 Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=9159",
+    "title" : "02:32:39 Chương 9,10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=11045",
+    "title" : "03:04:05 Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=11737",
+    "title" : "03:15:37 Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=14224",
+    "title" : "03:57:04 Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=15984",
+    "title" : "04:26:24 Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=16890",
+    "title" : "04:41:30 Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=18245",
+    "title" : "05:04:05 Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=19365",
+    "title" : "05:22:45 Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=20698",
+    "title" : "05:44:58 Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=22163",
+    "title" : "06:09:23 Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14194-an-may-xuyen-khong-thuviensach.vn.mp3?t=24047",
+    "title" : "06:40:47 Chương 20: Phiên Ngoại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

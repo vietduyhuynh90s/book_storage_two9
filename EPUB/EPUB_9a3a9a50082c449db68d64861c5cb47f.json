@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lac-duong-ho-bieu-chanh-14456.html",
+    "title" : "LẠC ĐƯỜNG - HỒ BIỂU CHÁNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong lịch sử Văn học cận đại Việt Nam, Hồ Biểu Chánh là một trường hợp lý thú. Ông là một tiểu thuyết gia để lại một khối lượng tác phẩm đồ sộ, có thể nói đứng hàng thứ hai - sau Lê Văn Trương - trong số những cây bút tiểu thuyết sung sức của nước ta ở thế kỷ XX này: 64 cuuốn truyện dài, 12 tập truyện ngắn và truyện kể. Tiểu thuyết của ông ra đời từ những năm 20(1) sớm thoát ly loại hình tiểu thuyết &quot;diễn nghĩa - chương hồi &quot; tiểu thuyết &quot; kỳ tình - võ hiệp &quot; của nhiều cây bút miền Nam lúc ấy, để lập tức định hình như một chủng loại riêng mà ta có thể tạm gọi là tiểu thuyết &quot; đạo lý - xã hội &quot; trên con đường tìm kiếm hối hả và vật lộn để trưởng thành của văn xuôi tự sự hồi này. Nội dung tiểu thuyết này: Chương I. Vợ trách con phiền Chương II. Thí thân liều mạng Chương III. Bị bắt Chương IV. Tòa xử Chương V. Mẹ ghẻ con ghẻ Chương VI. Lưu lạc Chương VII. Gặp người quen Chương VIII. Kẻ bạc - Người hậu Chương IX. Mãn tù Chương X. Gặp vợ con</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_9a3a9a50082c449db68d64861c5cb47f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_9a3a9a50082c449db68d64861c5cb47f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14456-lac-duong-ho-bieu-chanh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lạc Đường (Xb Vĩnh Hội, Sg/1937). Tập Một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14456-lac-duong-ho-bieu-chanh-thuviensach.vn.mp3?t=2942",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:02 Lạc Đường (Xb Vĩnh Hội, Sg/1937). Tập Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14456-lac-duong-ho-bieu-chanh-thuviensach.vn.mp3?t=5952",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:39:12 Lạc Đường (Bản Hiệu Chỉnh) Tập Ba - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14456-lac-duong-ho-bieu-chanh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lạc Đường (Xb Vĩnh Hội, Sg/1937). Tập Một",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14456-lac-duong-ho-bieu-chanh-thuviensach.vn.mp3?t=2942",
+    "title" : "00:49:02 Lạc Đường (Xb Vĩnh Hội, Sg/1937). Tập Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14456-lac-duong-ho-bieu-chanh-thuviensach.vn.mp3?t=5952",
+    "title" : "01:39:12 Lạc Đường (Bản Hiệu Chỉnh) Tập Ba - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

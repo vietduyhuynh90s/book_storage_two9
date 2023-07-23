@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/than-sang-14196.html",
+    "title" : "THẦN SÁNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Otlanc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nếu yêu thích những cuốn tiểu thuyết về ma thuật hay phiêu lưu viễn tưởng như Harry Potter, Chronicles of Narnia hay Eragon, yêu mến cái cách mà những thế giới pháp thuật cuốn người đọc vào muôn vàn màu sắc kì bí thì bạn chắc sẽ thích thú với tác phẩm THẦN SÁNG. Mình xin được thử sức truyền tải toàn bộ nội dung hấp dẫn của tác phẩm này qua phiên bản audio. Hãy cùng chung tay phát triển cộng đồng sách!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_07a7226417a71a9ad6362d13a75f025f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_07a7226417a71a9ad6362d13a75f025f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thần Sáng - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=4065",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:45 Thần Sáng - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=7506",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:05:06 Thần Sáng - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=12191",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:23:11 Thần Sáng - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=17339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:48:59 Thần Sáng - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=20610",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:43:30 Thần Sáng - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=24731",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:52:11 Thần Sáng - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=29322",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:08:42 Thần Sáng - Phần 8 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thần Sáng - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=4065",
+    "title" : "01:07:45 Thần Sáng - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=7506",
+    "title" : "02:05:06 Thần Sáng - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=12191",
+    "title" : "03:23:11 Thần Sáng - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=17339",
+    "title" : "04:48:59 Thần Sáng - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=20610",
+    "title" : "05:43:30 Thần Sáng - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=24731",
+    "title" : "06:52:11 Thần Sáng - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14196-than-sang-thuviensach.vn.mp3?t=29322",
+    "title" : "08:08:42 Thần Sáng - Phần 8 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

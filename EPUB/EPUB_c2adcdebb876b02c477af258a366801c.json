@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/20-nha-van-20-truyen-ngan-14419.html",
+    "title" : "20 NHÀ VĂN - 20 TRUYỆN NGẮN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_c2adcdebb876b02c477af258a366801c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_c2adcdebb876b02c477af258a366801c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Truyện 1: Tình Thơ Dại. Tác Giả: Bình Nguyên Lộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=1769",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:29:29 Truyện 2: Nắng Vàng. Tác Giảả: Cao Hữu Huấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=2941",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:01 Truyện 3: Cái Tát. Tác Giả: Hoàng Anh Tuấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=4474",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:14:34 Truyện 4 & 5: Ngày Thứ Nhất - Bên Rặng Tre Già",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=6719",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:59 Truyện 6: 25 Tháng Chạp. Tác Giả: Lưu Nghi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=9147",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:32:27 Truyện 7: Luân. Tác Giả: Mai Thảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=11470",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:11:10 Truyện 8: Con Muỗi. Tác Giả: Mặc Đỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=13592",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:46:32 Truyện 9: Bướm Lạ. Tác Giả: Nhật Tiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=14997",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:09:57 Truyện 10: Mười Năm Sau. Tác Giả: Nguyễn Văn Xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=16954",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:42:34 Truyện 11: Đường Về Quê. Tác Giả: Sơn Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=18007",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:00:07 Truyện 12: Cỏ Rừng. Tác Giả: Thanh Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=18994",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:16:34 Truyện 13: Tư - Tác Giả: Thanh Tâm Tuyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=20837",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:47:17 Truyện 14: Ba Viên - Tác Giả: Tiêu Kim Thủy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=22452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:14:12 Truyện 15: Mỹ Thơ - Tác Giả: Trang Thế Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=23913",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:38:33 Truyện 16: Nhỡ Tàu - Tác Giả: Tuyết Hương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=25462",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:04:22 Truyện 17: Đôi Cánh Gãy Thiên Thần - Tác Giả: Vĩnh Lộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=27000",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:30:00 Truyện 18: Buổi Trưa Viết Thư - Tác Giả: Võ Phiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=29280",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:08:00 Truyện 19: Vượt Thác- Tác Giả: Vũ Hạnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=30745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:32:25 Truyện 20: Mơ Hương Cảng - Tác Giả: Vũ Khắc Khoan",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Truyện 1: Tình Thơ Dại. Tác Giả: Bình Nguyên Lộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=1769",
+    "title" : "00:29:29 Truyện 2: Nắng Vàng. Tác Giảả: Cao Hữu Huấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=2941",
+    "title" : "00:49:01 Truyện 3: Cái Tát. Tác Giả: Hoàng Anh Tuấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=4474",
+    "title" : "01:14:34 Truyện 4 & 5: Ngày Thứ Nhất - Bên Rặng Tre Già",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=6719",
+    "title" : "01:51:59 Truyện 6: 25 Tháng Chạp. Tác Giả: Lưu Nghi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=9147",
+    "title" : "02:32:27 Truyện 7: Luân. Tác Giả: Mai Thảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=11470",
+    "title" : "03:11:10 Truyện 8: Con Muỗi. Tác Giả: Mặc Đỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=13592",
+    "title" : "03:46:32 Truyện 9: Bướm Lạ. Tác Giả: Nhật Tiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=14997",
+    "title" : "04:09:57 Truyện 10: Mười Năm Sau. Tác Giả: Nguyễn Văn Xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=16954",
+    "title" : "04:42:34 Truyện 11: Đường Về Quê. Tác Giả: Sơn Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=18007",
+    "title" : "05:00:07 Truyện 12: Cỏ Rừng. Tác Giả: Thanh Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=18994",
+    "title" : "05:16:34 Truyện 13: Tư - Tác Giả: Thanh Tâm Tuyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=20837",
+    "title" : "05:47:17 Truyện 14: Ba Viên - Tác Giả: Tiêu Kim Thủy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=22452",
+    "title" : "06:14:12 Truyện 15: Mỹ Thơ - Tác Giả: Trang Thế Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=23913",
+    "title" : "06:38:33 Truyện 16: Nhỡ Tàu - Tác Giả: Tuyết Hương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=25462",
+    "title" : "07:04:22 Truyện 17: Đôi Cánh Gãy Thiên Thần - Tác Giả: Vĩnh Lộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=27000",
+    "title" : "07:30:00 Truyện 18: Buổi Trưa Viết Thư - Tác Giả: Võ Phiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=29280",
+    "title" : "08:08:00 Truyện 19: Vượt Thác- Tác Giả: Vũ Hạnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14419-20-nha-van-20-truyen-ngan-thuviensach.vn.mp3?t=30745",
+    "title" : "08:32:25 Truyện 20: Mơ Hương Cảng - Tác Giả: Vũ Khắc Khoan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
