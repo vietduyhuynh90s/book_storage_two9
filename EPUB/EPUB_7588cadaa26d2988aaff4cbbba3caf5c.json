@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=Zc7228VD1KI",
+    "title" : "[Short] Kiểm soát cảm xúc, gặt hái thành công (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tâm Như Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>                             <p>C&ugrave;ng với sự tiến bộ v&agrave; chuyển biến của văn h&oacute;a v&agrave; quan niệm x&atilde; hội, c&agrave;ng c&oacute; nhiều người cho rằng, trong x&atilde; hội hiện đại, th&agrave;nh c&ocirc;ng của một người đa phần được quyết định bởi năng lực cảm x&uacute;c EQ chứ kh&ocirc;ng chỉ phụ thuộc v&agrave;o chỉ số th&ocirc;ng minh IQ nữa, thậm ch&iacute; chỉ số EQ c&ograve;n quan trọng hơn. Nh&agrave; t&acirc;m l&yacute; học Howard Garne từng n&oacute;i: &ldquo;Một con người, cuối c&ugrave;ng đứng ở vị tr&iacute; n&agrave;o trong x&atilde; hội, tuyệt đại đa số do nh&acirc;n tố tr&iacute; tuệ cảm x&uacute;c quyết định&rdquo;. Qua đ&oacute; c&oacute; thể thấy được tầm quan trọng của tr&iacute; tuệ cảm x&uacute;c của một người. Ch&uacute;ng ta đều muốn th&agrave;nh c&ocirc;ng, ai cũng mong đạt th&agrave;nh tựu rực rỡ trong cuộc sống để hiện thực h&oacute;a gi&aacute; trị nh&acirc;n sinh của m&igrave;nh, vậy th&igrave; ch&uacute;ng ta cần kh&ocirc;ng ngừng r&egrave;n luyện để sở hữu v&agrave; l&agrave;m phong ph&uacute; chỉ số cảm x&uacute;c; nhận thức, ph&acirc;n t&iacute;ch, nắm bắt tốt trạng th&aacute;i cảm x&uacute;c của m&igrave;nh cũng như của người kh&aacute;c; tự do kiểm so&aacute;t bản th&acirc;n khi đối diện với thất t&igrave;nh lục dục trong suốt cuộc đời, từ đ&oacute; n&acirc;ng cao năng lực xử l&yacute; c&aacute;c mối quan hệ giữa người với người, giữa con người với x&atilde; hội; bất kể trong c&ocirc;ng việc hay trong cuộc sống đều c&oacute; thể ung dung tự tại, từng bước đi tới mục ti&ecirc;u th&agrave;nh c&ocirc;ng m&agrave; bản th&acirc;n đ&atilde; đề ra.</p>                         </div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_7588cadaa26d2988aaff4cbbba3caf5c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_7588cadaa26d2988aaff4cbbba3caf5c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_7588cadaa26d2988aaff4cbbba3caf5c_6ad0e53703aa1e7d82db7a964e264753.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_7588cadaa26d2988aaff4cbbba3caf5c_6ad0e53703aa1e7d82db7a964e264753.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
