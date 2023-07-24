@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=LOhci4tasmw",
+    "title" : "Yêu Đi Đừng Sợ - Kim Oanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Oanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>Y&ecirc;u Đi Đừng Sợ<br>Ngọt ng&agrave;o hay đắng ch&aacute;t?&nbsp;Dịu m&aacute;t hay gắt nồng?Bạn bỏ g&igrave; trong t&aacute;ch tr&agrave; t&igrave;nh y&ecirc;u của m&igrave;nh?Bạn biết kh&ocirc;ng:T&aacute;ch tr&agrave; của ai đ&oacute; c&oacute; thể c&oacute; vị ngọt ng&agrave;o thơm nồng của mối t&igrave;nh đầu, của tuổi trẻ đầy bồng bột nhưng cũng đầy đam m&ecirc;.&nbsp;T&aacute;ch tr&agrave; của ai đ&oacute; c&oacute; thể c&oacute; vị đắng ch&aacute;t của ho&agrave;i nghi, tổn thương v&agrave; sợ h&atilde;i.&nbsp;Nhưng &iacute;t nhất họ đều d&aacute;m y&ecirc;u, d&aacute;m cho đi đều can đảm để bước v&agrave;o t&igrave;nh y&ecirc;u, hết m&igrave;nh v&igrave; t&igrave;nh y&ecirc;u v&agrave; dẫu c&oacute; thất bại cũng đừng ngại đứng dậy.<br>Bạn c&oacute; thể sợ h&atilde;i c&aacute;i nắm tay của một ai đ&oacute; bởi sợ rằng người một mai sẽ bu&ocirc;ng tay . Bạn c&oacute; thể tổn thương v&igrave; một lần bu&ocirc;ng bỏ. Bạn cũng c&oacute; thể lu&ocirc;n cho rằng hạnh ph&uacute;c chỉ đến một lần, để vụt mất nghĩa l&agrave; kh&ocirc;ng c&oacute; cơ hội t&igrave;m lại.Bạn c&oacute; thể sợ rất nhiều thứ, ho&agrave;i nghi rất nhiều thứ.&nbsp;Nhưng bạn biết kh&ocirc;ng: bạn c&ograve;n trẻ. V&agrave; nếu bạn kh&ocirc;ng y&ecirc;u, nghĩa l&agrave; bạn đ&aacute;nh mất đi những đặc quyền đi&ecirc;n rồ m&agrave; tuyệt vời nhất của tuổi trẻ&nbsp;Sợ g&igrave; kh&ocirc;ng rung động.&nbsp;Sợ g&igrave; kh&ocirc;ng mở l&ograve;ng m&igrave;nh.Sợ g&igrave; kh&ocirc;ng đ&oacute;n nhận một ai đ&oacute;.<br>C&ocirc; g&aacute;i &agrave;, rồi sẽ đến một ng&agrave;y, bạn sẽ lại được y&ecirc;u, được n&acirc;ng niu v&agrave; mọi vết thương sẽ được chữa l&agrave;nh. C&ocirc; g&aacute;i &agrave;, đừng cố chấp, đừng gạt bỏ mọi cơ hội đến với bạn. Đừng kh&oacute; t&iacute;nh qu&aacute; với ch&iacute;nh bản th&acirc;n v&agrave; tr&aacute;i tim m&igrave;nh. Tr&aacute;i tim n&agrave;o cũng cần y&ecirc;u thương, cần điểm tựa cần mảnh gh&eacute;p ph&ugrave; hợp với ch&iacute;nh m&igrave;nh Một c&ocirc; g&aacute;i th&ocirc;ng minh, l&agrave; một c&ocirc; g&aacute;i biết chọn những hương vị tuyệt nhất cho t&aacute;ch tr&agrave; t&igrave;nh y&ecirc;u của m&igrave;nh. Y&ecirc;u đi đừng sợ! H&atilde;y cứ y&ecirc;u như chưa từng tổn thương đến thế!</div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_6ae3d439d9e7404ffb88fcffaae64381.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_6ae3d439d9e7404ffb88fcffaae64381.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_6ae3d439d9e7404ffb88fcffaae64381_a6fc13f28cbe73b5e319478b829df685.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_6ae3d439d9e7404ffb88fcffaae64381_a6fc13f28cbe73b5e319478b829df685.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
