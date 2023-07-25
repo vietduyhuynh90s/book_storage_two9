@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/se-co-thien-than-thay-anh-yeu-em-minh-hieu-khe_1654.html",
+    "title" : "Sẽ Có Thiên Thần Thay Anh Yêu Em - Minh Hiểu Khê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Hiểu Khê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 40162,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/EPUB/EPUB_3a799b3aa8234574a0ad05370e43ee71.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/IMAGE/IMAGE_3a799b3aa8234574a0ad05370e43ee71.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_151dd0bae39835191d9a8c91c7f96f66_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Chọn Lọc Hay Nhất (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_151dd0bae39835191d9a8c91c7f96f66_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Chọn Lọc Hay Nhất (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_151dd0bae39835191d9a8c91c7f96f66_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Chọn Lọc Hay Nhất (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_0378c74c65e90314ae420b925a2c19ab_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Và Cảm Động Nhất (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_0378c74c65e90314ae420b925a2c19ab_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Và Cảm Động Nhất (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_353bd9a02793393f56eb57aa2a3937c5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Tình Yêu (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_353bd9a02793393f56eb57aa2a3937c5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Tình Yêu (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_4272df2aa6446960222ac454b6d605e3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lãng Mạn Hay Nhất (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_4272df2aa6446960222ac454b6d605e3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Lãng Mạn Hay Nhất (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_151dd0bae39835191d9a8c91c7f96f66_1.mp3",
+    "title" : "Truyện Ngôn Tình Chọn Lọc Hay Nhất (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_151dd0bae39835191d9a8c91c7f96f66_2.mp3",
+    "title" : "Truyện Ngôn Tình Chọn Lọc Hay Nhất (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_151dd0bae39835191d9a8c91c7f96f66_3.mp3",
+    "title" : "Truyện Ngôn Tình Chọn Lọc Hay Nhất (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_0378c74c65e90314ae420b925a2c19ab_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Và Cảm Động Nhất (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_0378c74c65e90314ae420b925a2c19ab_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Và Cảm Động Nhất (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_353bd9a02793393f56eb57aa2a3937c5_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Tình Yêu (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_353bd9a02793393f56eb57aa2a3937c5_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Tình Yêu (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_4272df2aa6446960222ac454b6d605e3_1.mp3",
+    "title" : "Truyện Ngôn Tình Lãng Mạn Hay Nhất (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two9/main/AUDIO/AUDIO_3a799b3aa8234574a0ad05370e43ee71_4272df2aa6446960222ac454b6d605e3_2.mp3",
+    "title" : "Truyện Ngôn Tình Lãng Mạn Hay Nhất (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
