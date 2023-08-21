@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 8539,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/CSTLDDTV/Ch%E1%BB%89%20s%E1%BB%91ng%20th%C3%B4i%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20tuy%E1%BB%87t%20v%E1%BB%9Di%20-%20%20Itsuki%20Hiroyuki%20%28128kbit_AAC%29.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_34378ae6187ce99571114ff1a1f8c224_98792bef5daaeb8687549ef7df010bfa_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8539,
-    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC)",
+    "duration" : 0,
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_34378ae6187ce99571114ff1a1f8c224_98792bef5daaeb8687549ef7df010bfa_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_34378ae6187ce99571114ff1a1f8c224_98792bef5daaeb8687549ef7df010bfa_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC) (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/CSTLDDTV/Ch%E1%BB%89%20s%E1%BB%91ng%20th%C3%B4i%20l%C3%A0%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20tuy%E1%BB%87t%20v%E1%BB%9Di%20-%20%20Itsuki%20Hiroyuki%20%28128kbit_AAC%29.mp3",
-    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_34378ae6187ce99571114ff1a1f8c224_98792bef5daaeb8687549ef7df010bfa_1.mp3",
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_34378ae6187ce99571114ff1a1f8c224_98792bef5daaeb8687549ef7df010bfa_2.mp3",
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_34378ae6187ce99571114ff1a1f8c224_98792bef5daaeb8687549ef7df010bfa_3.mp3",
+    "title" : "Chỉ sống thôi là đã đủ tuyệt vời -  Itsuki Hiroyuki (128kbit AAC) (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
