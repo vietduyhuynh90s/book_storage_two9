@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 16681,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ong-chu-kho-tinh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_5895efe253cd96304268ffe96ce4c32e_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8208,
-    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào",
+    "duration" : 0,
+    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ong-chu-kho-tinh/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_5895efe253cd96304268ffe96ce4c32e_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8473,
-    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại",
+    "duration" : 0,
+    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_f845e63caf00ab7cf0373860832bed6f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_f845e63caf00ab7cf0373860832bed6f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ong-chu-kho-tinh/1.mp3",
-    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_5895efe253cd96304268ffe96ce4c32e_1.mp3",
+    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ong-chu-kho-tinh/2.mp3",
-    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_5895efe253cd96304268ffe96ce4c32e_2.mp3",
+    "title" : "Truyện ngôn tình audio mới hiện đại & lãng mạng ngọt ngào (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_f845e63caf00ab7cf0373860832bed6f_1.mp3",
+    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_ac3ee6f89905d7934cea215ff011d620_f845e63caf00ab7cf0373860832bed6f_2.mp3",
+    "title" : "Ông Chủ Khó Tính [Phần 2 Hết] Truyện ngôn tình ngắn hoàn Nghe Đi Vẫn Thèm Nghe Lại (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-19",
+    "published" : "2023-08-21",
     "duration" : 18210,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,113 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thuat-toan-3/thuat-toan-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_9f156afec57bcafe302bc84209704a6b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5999,
-    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080",
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thuat-toan-3/thuat-toan-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_9f156afec57bcafe302bc84209704a6b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5715,
-    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080",
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thuat-toan-3/thuat-toan-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_9f156afec57bcafe302bc84209704a6b_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6496,
-    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080",
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_04eb6919b770a4e1711aac82318300ed_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_04eb6919b770a4e1711aac82318300ed_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_04eb6919b770a4e1711aac82318300ed_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_8486bb1b371986e43ef24c9ac64dffe3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_8486bb1b371986e43ef24c9ac64dffe3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_8486bb1b371986e43ef24c9ac64dffe3_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080 (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thuat-toan-3/thuat-toan-1.mp3",
-    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_9f156afec57bcafe302bc84209704a6b_1.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thuat-toan-3/thuat-toan-2.mp3",
-    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_9f156afec57bcafe302bc84209704a6b_2.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thuat-toan-3/thuat-toan-3.mp3",
-    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_9f156afec57bcafe302bc84209704a6b_3.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 1 | TRẠM DỪNG 1080 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_04eb6919b770a4e1711aac82318300ed_1.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_04eb6919b770a4e1711aac82318300ed_2.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_04eb6919b770a4e1711aac82318300ed_3.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 2 | TRẠM DỪNG 1080 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_8486bb1b371986e43ef24c9ac64dffe3_1.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_8486bb1b371986e43ef24c9ac64dffe3_2.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_794e7c27f0d45ec0a01f57c2ffb5a514_8486bb1b371986e43ef24c9ac64dffe3_3.mp3",
+    "title" : "THUẬT TOÁN MAY MẮN | JEONG HOI DO | PHẦN 3 | TRẠM DỪNG 1080 (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
