@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 9706,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/luc-van-1/luc-van-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_fa9037e0e01481ffb517c4b6b87d3768_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "luc-van-1",
+    "duration" : 0,
+    "title" : "luc-van-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/luc-van-1/luc-van-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_fa9037e0e01481ffb517c4b6b87d3768_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "luc-van-2",
+    "duration" : 0,
+    "title" : "luc-van-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/luc-van-1/luc-van-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_60face4ea7d723bc9647da669c76d519_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2506,
-    "title" : "luc-van-3",
+    "duration" : 0,
+    "title" : "luc-van-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_60face4ea7d723bc9647da669c76d519_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "luc-van-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_06a5c3fd4f037da2d63f43239a6ae562_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "luc-van-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_06a5c3fd4f037da2d63f43239a6ae562_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "luc-van-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/luc-van-1/luc-van-1.mp3",
-    "title" : "luc-van-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_fa9037e0e01481ffb517c4b6b87d3768_1.mp3",
+    "title" : "luc-van-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/luc-van-1/luc-van-2.mp3",
-    "title" : "luc-van-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_fa9037e0e01481ffb517c4b6b87d3768_2.mp3",
+    "title" : "luc-van-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/luc-van-1/luc-van-3.mp3",
-    "title" : "luc-van-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_60face4ea7d723bc9647da669c76d519_1.mp3",
+    "title" : "luc-van-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_60face4ea7d723bc9647da669c76d519_2.mp3",
+    "title" : "luc-van-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_06a5c3fd4f037da2d63f43239a6ae562_1.mp3",
+    "title" : "luc-van-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_1d0632955001f213b9dbb8e392e5a023_06a5c3fd4f037da2d63f43239a6ae562_2.mp3",
+    "title" : "luc-van-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
