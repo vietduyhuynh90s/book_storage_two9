@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-23",
     "duration" : 9166,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chung-cu-ma/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_32a863b7efaeb3f15fd8306504248064_b4387b6c469618d2ef33125563113e8d.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3311,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chung-cu-ma/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_32a863b7efaeb3f15fd8306504248064_ecde9f14c8739342ea234108dfcf93d2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3110,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chung-cu-ma/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_32a863b7efaeb3f15fd8306504248064_07a5331649220f0b50f82c432bf7806f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2745,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chung-cu-ma/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_32a863b7efaeb3f15fd8306504248064_b4387b6c469618d2ef33125563113e8d.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chung-cu-ma/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_32a863b7efaeb3f15fd8306504248064_ecde9f14c8739342ea234108dfcf93d2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chung-cu-ma/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_32a863b7efaeb3f15fd8306504248064_07a5331649220f0b50f82c432bf7806f.mp3",
     "title" : "3",
     "children" : [ ]
   } ],
