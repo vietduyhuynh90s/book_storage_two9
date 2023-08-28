@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 12663,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_055404f3f18a44749fc349d71fded94f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2856,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_c3711ac4eb9e71350e41c2f301e30e38.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3185,
@@ -52,15 +52,23 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_328e02bfca89927c0e482a2fbd67c1bc_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3934,
-    "title" : "Ch.03 - Jim Rohn",
+    "duration" : 0,
+    "title" : "Ch.03 - Jim Rohn (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_328e02bfca89927c0e482a2fbd67c1bc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ch.03 - Jim Rohn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_eff121eb46a8b779505a8636e5d97522.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2688,
@@ -69,19 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_055404f3f18a44749fc349d71fded94f.mp3",
     "title" : "Ch.01 - Jim Rohn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_c3711ac4eb9e71350e41c2f301e30e38.mp3",
     "title" : "Ch.02- Jim Rohn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/3.mp3",
-    "title" : "Ch.03 - Jim Rohn",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_328e02bfca89927c0e482a2fbd67c1bc_1.mp3",
+    "title" : "Ch.03 - Jim Rohn (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/7-chien-luoc-thinh-vuong-hanh-phuc/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_328e02bfca89927c0e482a2fbd67c1bc_2.mp3",
+    "title" : "Ch.03 - Jim Rohn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_76d80c2394f05a719dcb9171a773747d_eff121eb46a8b779505a8636e5d97522.mp3",
     "title" : "Ch.04 (Hết) - Jim Rohn",
     "children" : [ ]
   } ],

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 36307,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/balematbiecmoihong/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_2ac8175c7e9ce57b8094970712002b02_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8438,
-    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "duration" : 0,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/balematbiecmoihong/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_2ac8175c7e9ce57b8094970712002b02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_80487c35c8503ef4226cdea7870f0644.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7666,
@@ -52,37 +60,65 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/balematbiecmoihong/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_cbf60b9bb7247e0ccec52d85f40224e9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10064,
-    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "duration" : 0,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/balematbiecmoihong/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_cbf60b9bb7247e0ccec52d85f40224e9_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10139,
-    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "duration" : 0,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_5ed24614f4dec24f929cd64659ad14bd_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_5ed24614f4dec24f929cd64659ad14bd_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/balematbiecmoihong/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_2ac8175c7e9ce57b8094970712002b02_1.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_2ac8175c7e9ce57b8094970712002b02_2.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_80487c35c8503ef4226cdea7870f0644.mp3",
     "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/balematbiecmoihong/2.mp3",
-    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_cbf60b9bb7247e0ccec52d85f40224e9_1.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/balematbiecmoihong/3.mp3",
-    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_cbf60b9bb7247e0ccec52d85f40224e9_2.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/balematbiecmoihong/4.mp3",
-    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_5ed24614f4dec24f929cd64659ad14bd_1.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_7c3fd0be5f1b18516de540ccfa426f53_5ed24614f4dec24f929cd64659ad14bd_2.mp3",
+    "title" : "Truyện Dài của Người Thứ 8 | Trò Chuyện Đêm Khuya (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
