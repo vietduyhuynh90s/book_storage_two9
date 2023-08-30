@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
-    "duration" : 10618,
+    "published" : "2023-08-30",
+    "duration" : 22719,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,6 +36,342 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 223,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/02-loi_tac_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1154,
+    "title" : "Lời tựa của tác giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/03-chuong_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 300,
+    "title" : "Chương 1: Bạn vốn không phải là những suy tư, cảm xúc tiêu cực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/04-hien_huu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 75,
+    "title" : "Hiện hữu là gì?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/05-thuong_de.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 218,
+    "title" : "Sao không gọi thẳng đó là thượng đế?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/06-tro_ngai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 480,
+    "title" : "Trở ngại lớn nhất để đi tới giác ngộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/07-giai_thoat_chinh_ban_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 300,
+    "title" : "Giải thoát chính bạn khỏi những suy tưởng miên man (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/08-giai_thoat_chinh_ban%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 420,
+    "title" : "Giải thoát chính bạn khỏi những suy tưởng miên man (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/09-giai_thoat_chinh_ban%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 63,
+    "title" : "Giải thoát chính bạn khỏi những suy tưởng miên man (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/10-giac_ngo_thoat_khoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 600,
+    "title" : "Giác ngộ: thoát khỏi hay vượt lên trên những suy tưởng, cảm xúc miên man",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/11-cam_xuc_phan_ung_cua_co_the_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 210,
+    "title" : "Cảm xúc: Phản ứng của cơ thể với những suy tưởng tiêu cực (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/12-cam_xuc_phan_ung_cua_co_the_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 210,
+    "title" : "Cảm xúc: Phản ứng của cơ thể với những suy tưởng tiêu cực (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/13-cam_xuc_phan_ung_cua_co_the_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 837,
+    "title" : "Cảm xúc: Phản ứng của cơ thể với những suy tưởng tiêu cực (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/14-chu_thich_chuong_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 236,
+    "title" : "Chú thích chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/15-chuong_2-y_thuc_con_duong_thoat_kho-dung_tao_them_kho_dau_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 410,
+    "title" : "Chương 2: Ý thức là con đường thoát khổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/16-chuong_2-y_thuc_con_duong_thoat_kho-dung_tao_them_kho_dau_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 96,
+    "title" : "Đừng tạo thêm khổ đau trong hiện tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/17-giai_toa_noi_dau_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 940,
+    "title" : "Giải tỏa nỗi đau của quá khứ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/18-giai_toa_noi_dau_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 43,
+    "title" : "Giải tỏa nỗi đau của quá khứ (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/19-su_dong_hoa_cua_ban_nga.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 250,
+    "title" : "Sự đồng hóa của bản ngã với khổ đau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/20-nguon_goc_cua_so_hai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 460,
+    "title" : "Nguồn gốc của cảm giác sợ hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/21-no_luc_di_tim_ban_nga.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 261,
+    "title" : "Nỗ lực đi tìm sự nguyên vẹn của bản ngã",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/22-chu_thich_chuong_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 199,
+    "title" : "Chú thích chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/23-chuong_3_hay_kien_tri-dung_di_tim_chinh_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 260,
+    "title" : "Chương 3: Hãy kiên trì chú tâm vào phút giây hiện tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/24-cham_dut_ao_tuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 265,
+    "title" : "Chấm dứt ảo tưởng về thời gian tâm lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/25-ko_gi_hien_huu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 220,
+    "title" : "Không gì có thể hiện hữu bên ngoài phút giây hiện tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/26-chia_khoa_vao_tam_linh_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 222,
+    "title" : "Chìa khóa đi vào chiều sâu tâm linh (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/27-chia_khoa_vao_tam_linh_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 97,
+    "title" : "Chìa khóa đi vào chiều sâu tâm linh (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/28-chia_khoa_vao_tam_linh_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 70,
+    "title" : "Chìa khóa đi vào chiều sâu tâm linh (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/29-tiep_xuc_nang_luc_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 430,
+    "title" : "Tiếp xúc với năng lực của phút giây hiện tại (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/30-tiep_xuc_nang_luc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 156,
+    "title" : "Tiếp xúc với năng lực của phút giây hiện tại (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/31-hay_loai_bo_time_tam_ly_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 250,
+    "title" : "Hãy loại bỏ thời gian tâm lý (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/32-hay_loai_bo_time_tam_ly_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 54,
+    "title" : "Hãy loại bỏ thời gian tâm lý (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/33-su_dien_ro_cua_thoi_gian.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 210,
+    "title" : "Sự điên rồ của thời gian tâm lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/34-tieu_cuc_va_kho_dau_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 175,
+    "title" : "Tiêu cực và khổ đau phát sinh khi không nhận thức được hiện tại (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/35-tieu_cuc_va_kho_dau_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 189,
+    "title" : "Tiêu cực và khổ đau phát sinh khi không nhận thức được hiện tại (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/36-vuot_qua_hoan_canh_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 335,
+    "title" : "Vượt qua hoàn cảnh sống để khám phá đời sống đích thực của bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/37-tat_ca_van_de_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 99,
+    "title" : "Tất cả vấn đề của bạn chỉ là ảo tưởng của trí năng (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/38-tat_ca_van_de_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 158,
+    "title" : "Tất cả vấn đề của bạn chỉ là ảo tưởng của trí năng (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/39-tat_ca_van_de_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 159,
+    "title" : "Tất cả vấn đề của bạn chỉ là ảo tưởng của trí năng (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/40-buoc_nhay_vot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 139,
+    "title" : "Bước nhảy vọt trong tiến trình tỉnh thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/41-niem_vui_tu_tai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 470,
+    "title" : "Niềm vui tự tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/42-chu_thich_chuong_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 158,
+    "title" : "Chú thích chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
     "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/01-chuong_4-chien_luoc_tranh_ne-danh_mat_phut_giay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
@@ -341,6 +677,174 @@
     "alternate" : null
   } ],
   "toc" : [ {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/02-loi_tac_gia.mp3",
+    "title" : "Lời tựa của tác giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/03-chuong_1.mp3",
+    "title" : "Chương 1: Bạn vốn không phải là những suy tư, cảm xúc tiêu cực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/04-hien_huu.mp3",
+    "title" : "Hiện hữu là gì?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/05-thuong_de.mp3",
+    "title" : "Sao không gọi thẳng đó là thượng đế?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/06-tro_ngai.mp3",
+    "title" : "Trở ngại lớn nhất để đi tới giác ngộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/07-giai_thoat_chinh_ban_1.mp3",
+    "title" : "Giải thoát chính bạn khỏi những suy tưởng miên man (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/08-giai_thoat_chinh_ban%202.mp3",
+    "title" : "Giải thoát chính bạn khỏi những suy tưởng miên man (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/09-giai_thoat_chinh_ban%203.mp3",
+    "title" : "Giải thoát chính bạn khỏi những suy tưởng miên man (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/10-giac_ngo_thoat_khoi.mp3",
+    "title" : "Giác ngộ: thoát khỏi hay vượt lên trên những suy tưởng, cảm xúc miên man",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/11-cam_xuc_phan_ung_cua_co_the_1.mp3",
+    "title" : "Cảm xúc: Phản ứng của cơ thể với những suy tưởng tiêu cực (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/12-cam_xuc_phan_ung_cua_co_the_2.mp3",
+    "title" : "Cảm xúc: Phản ứng của cơ thể với những suy tưởng tiêu cực (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/13-cam_xuc_phan_ung_cua_co_the_3.mp3",
+    "title" : "Cảm xúc: Phản ứng của cơ thể với những suy tưởng tiêu cực (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/14-chu_thich_chuong_1.mp3",
+    "title" : "Chú thích chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/15-chuong_2-y_thuc_con_duong_thoat_kho-dung_tao_them_kho_dau_1.mp3",
+    "title" : "Chương 2: Ý thức là con đường thoát khổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/16-chuong_2-y_thuc_con_duong_thoat_kho-dung_tao_them_kho_dau_2.mp3",
+    "title" : "Đừng tạo thêm khổ đau trong hiện tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/17-giai_toa_noi_dau_1.mp3",
+    "title" : "Giải tỏa nỗi đau của quá khứ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/18-giai_toa_noi_dau_2.mp3",
+    "title" : "Giải tỏa nỗi đau của quá khứ (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/19-su_dong_hoa_cua_ban_nga.mp3",
+    "title" : "Sự đồng hóa của bản ngã với khổ đau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/20-nguon_goc_cua_so_hai.mp3",
+    "title" : "Nguồn gốc của cảm giác sợ hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/21-no_luc_di_tim_ban_nga.mp3",
+    "title" : "Nỗ lực đi tìm sự nguyên vẹn của bản ngã",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/22-chu_thich_chuong_2.mp3",
+    "title" : "Chú thích chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/23-chuong_3_hay_kien_tri-dung_di_tim_chinh_minh.mp3",
+    "title" : "Chương 3: Hãy kiên trì chú tâm vào phút giây hiện tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/24-cham_dut_ao_tuong.mp3",
+    "title" : "Chấm dứt ảo tưởng về thời gian tâm lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/25-ko_gi_hien_huu.mp3",
+    "title" : "Không gì có thể hiện hữu bên ngoài phút giây hiện tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/26-chia_khoa_vao_tam_linh_1.mp3",
+    "title" : "Chìa khóa đi vào chiều sâu tâm linh (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/27-chia_khoa_vao_tam_linh_2.mp3",
+    "title" : "Chìa khóa đi vào chiều sâu tâm linh (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/28-chia_khoa_vao_tam_linh_3.mp3",
+    "title" : "Chìa khóa đi vào chiều sâu tâm linh (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/29-tiep_xuc_nang_luc_1.mp3",
+    "title" : "Tiếp xúc với năng lực của phút giây hiện tại (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/30-tiep_xuc_nang_luc_2.mp3",
+    "title" : "Tiếp xúc với năng lực của phút giây hiện tại (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/31-hay_loai_bo_time_tam_ly_1.mp3",
+    "title" : "Hãy loại bỏ thời gian tâm lý (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/32-hay_loai_bo_time_tam_ly_2.mp3",
+    "title" : "Hãy loại bỏ thời gian tâm lý (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/33-su_dien_ro_cua_thoi_gian.mp3",
+    "title" : "Sự điên rồ của thời gian tâm lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/34-tieu_cuc_va_kho_dau_1.mp3",
+    "title" : "Tiêu cực và khổ đau phát sinh khi không nhận thức được hiện tại (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/35-tieu_cuc_va_kho_dau_2.mp3",
+    "title" : "Tiêu cực và khổ đau phát sinh khi không nhận thức được hiện tại (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/36-vuot_qua_hoan_canh_song.mp3",
+    "title" : "Vượt qua hoàn cảnh sống để khám phá đời sống đích thực của bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/37-tat_ca_van_de_1.mp3",
+    "title" : "Tất cả vấn đề của bạn chỉ là ảo tưởng của trí năng (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/38-tat_ca_van_de_2.mp3",
+    "title" : "Tất cả vấn đề của bạn chỉ là ảo tưởng của trí năng (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/39-tat_ca_van_de_3.mp3",
+    "title" : "Tất cả vấn đề của bạn chỉ là ảo tưởng của trí năng (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/40-buoc_nhay_vot.mp3",
+    "title" : "Bước nhảy vọt trong tiến trình tỉnh thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/41-niem_vui_tu_tai.mp3",
+    "title" : "Niềm vui tự tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201305/42-chu_thich_chuong_3.mp3",
+    "title" : "Chú thích chương 3",
+    "children" : [ ]
+  }, {
     "href" : "https://archive.org/download/01Chuong4ChienLuocTranhNeDanhMatPhutGiay/01-chuong_4-chien_luoc_tranh_ne-danh_mat_phut_giay.mp3",
     "title" : "Chương 4: Chiến lược để tránh né phút giây hiện tại của trí năng",
     "children" : [ ]
