@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 2518,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_1292c5559e311eda95617194e4a44ae7_6fd8ceef0c11ccdda174a4da5176573e_1.mp3",
+    "href" : "https://archive.org/download/khuc-re/khuc-re.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khuc-re (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_1292c5559e311eda95617194e4a44ae7_6fd8ceef0c11ccdda174a4da5176573e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khuc-re (2)",
+    "duration" : 2518,
+    "title" : "khuc-re",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_1292c5559e311eda95617194e4a44ae7_6fd8ceef0c11ccdda174a4da5176573e_1.mp3",
-    "title" : "khuc-re (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_1292c5559e311eda95617194e4a44ae7_6fd8ceef0c11ccdda174a4da5176573e_2.mp3",
-    "title" : "khuc-re (2)",
+    "href" : "https://archive.org/download/khuc-re/khuc-re.mp3",
+    "title" : "khuc-re",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

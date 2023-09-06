@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 24990,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,89 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_32c27360f98ad75b4a2483b0e6ac782e_1.mp3",
+    "href" : "https://archive.org/download/vi-nghia-vi-tinh/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "duration" : 7200,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_32c27360f98ad75b4a2483b0e6ac782e_2.mp3",
+    "href" : "https://archive.org/download/vi-nghia-vi-tinh/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "duration" : 7200,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_2a25705c19097135e2c100ca4678ca2f_1.mp3",
+    "href" : "https://archive.org/download/vi-nghia-vi-tinh/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_2a25705c19097135e2c100ca4678ca2f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_6fc0bdd7aaab6cafde79194480e6c531_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_6fc0bdd7aaab6cafde79194480e6c531_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_6fc0bdd7aaab6cafde79194480e6c531_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (3)",
+    "duration" : 10590,
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_32c27360f98ad75b4a2483b0e6ac782e_1.mp3",
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
+    "href" : "https://archive.org/download/vi-nghia-vi-tinh/1.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_32c27360f98ad75b4a2483b0e6ac782e_2.mp3",
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
+    "href" : "https://archive.org/download/vi-nghia-vi-tinh/2.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_2a25705c19097135e2c100ca4678ca2f_1.mp3",
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_2a25705c19097135e2c100ca4678ca2f_2.mp3",
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_6fc0bdd7aaab6cafde79194480e6c531_1.mp3",
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_6fc0bdd7aaab6cafde79194480e6c531_2.mp3",
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_1ab3bdf42aa362b95feebda58f896d4c_6fc0bdd7aaab6cafde79194480e6c531_3.mp3",
-    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa (3)",
+    "href" : "https://archive.org/download/vi-nghia-vi-tinh/3.mp3",
+    "title" : "Truyện dài của Hồ Biểu Chánh | Nghe Truyện Xưa",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
