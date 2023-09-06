@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 5981,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_8cad69f5989a13e5a80e6bd770faf927_f91c3b16e1571b132ec3701ec379a11f_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_lua_do/lua-do.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chẩm Nhược Thư (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_8cad69f5989a13e5a80e6bd770faf927_f91c3b16e1571b132ec3701ec379a11f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chẩm Nhược Thư (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_8cad69f5989a13e5a80e6bd770faf927_f91c3b16e1571b132ec3701ec379a11f_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chẩm Nhược Thư (3)",
+    "duration" : 5981,
+    "title" : "Chẩm Nhược Thư",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_8cad69f5989a13e5a80e6bd770faf927_f91c3b16e1571b132ec3701ec379a11f_1.mp3",
-    "title" : "Chẩm Nhược Thư (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_8cad69f5989a13e5a80e6bd770faf927_f91c3b16e1571b132ec3701ec379a11f_2.mp3",
-    "title" : "Chẩm Nhược Thư (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_8cad69f5989a13e5a80e6bd770faf927_f91c3b16e1571b132ec3701ec379a11f_3.mp3",
-    "title" : "Chẩm Nhược Thư (3)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_lua_do/lua-do.mp3",
+    "title" : "Chẩm Nhược Thư",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

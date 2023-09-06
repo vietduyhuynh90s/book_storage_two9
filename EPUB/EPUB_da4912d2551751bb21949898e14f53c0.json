@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 8100,
+    "published" : "2023-09-06",
+    "duration" : 10000,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,39 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_72de2d8b736728e2f3ec0bdcb063587c_1.mp3",
+    "href" : "https://archive.org/download/xin-loi-em-chi-la_201903/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (1)",
+    "duration" : 3370,
+    "title" : "1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_72de2d8b736728e2f3ec0bdcb063587c_2.mp3",
+    "href" : "https://archive.org/download/xin-loi-em-chi-la_201903/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (2)",
+    "duration" : 2830,
+    "title" : "2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_922418a6eba8515b6da61a604f6299d0_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_922418a6eba8515b6da61a604f6299d0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_400111894e62816e503649bb04a834fa.mp3",
+    "href" : "https://archive.org/download/xin-loi-em-chi-la_201903/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1900,
@@ -77,23 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_72de2d8b736728e2f3ec0bdcb063587c_1.mp3",
-    "title" : "1 (1)",
+    "href" : "https://archive.org/download/xin-loi-em-chi-la_201903/1.mp3",
+    "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_72de2d8b736728e2f3ec0bdcb063587c_2.mp3",
-    "title" : "1 (2)",
+    "href" : "https://archive.org/download/xin-loi-em-chi-la_201903/2.mp3",
+    "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_922418a6eba8515b6da61a604f6299d0_1.mp3",
-    "title" : "2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_922418a6eba8515b6da61a604f6299d0_2.mp3",
-    "title" : "2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_da4912d2551751bb21949898e14f53c0_400111894e62816e503649bb04a834fa.mp3",
+    "href" : "https://archive.org/download/xin-loi-em-chi-la_201903/3.mp3",
     "title" : "3",
     "children" : [ ]
   } ],
